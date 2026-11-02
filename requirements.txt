@@ -1,0 +1,6 @@
+requests>=2.31
+beautifulsoup4>=4.12
+lxml>=5.0
+pillow>=10.0
+rapidfuzz>=3.0
+pyyaml>=6.0

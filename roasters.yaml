@@ -1,0 +1,237 @@
+# Реестр российских specialty-обжарщиков.
+#
+# Чтобы добавить обжарщика, достаточно имени, города и сайта: платформа магазина
+# (Shopify / WooCommerce / InSales / Tilda / Ecwid / любой сайт с sitemap + JSON-LD)
+# определяется автоматически при каждом запуске парсера.
+#
+# Поля:
+#   id          — латиница, уникальный ключ
+#   site        — главная страница магазина
+#   catalog     — (необяз.) страницы каталога кофе, с них начинается обход
+#   platform    — (необяз.) принудительная платформа: shopify|woocommerce|insales|tilda|ecwid|generic
+#   roast       — когда обжаривают (влияет на оценку сроков доставки)
+#   roast_lag   — сколько рабочих дней от заказа до отправки (по умолчанию 1)
+#   delivery    — способы и условия доставки
+#   verified    — false = адрес взят из вторичных источников; парсер проверит его и отметит в отчёте
+#
+# Источники отбора: финалисты премии «Обжарщик года 2026» (Coffee Tea Cacao Expo),
+# подборки T-J, КП, League of Coffee, каталоги specialty.ru / coffeeroasters.ru / coffeechoice.ru.
+
+roasters:
+  # ── Финалисты «Обжарщик года 2026» ──────────────────────────────
+  - id: tasty
+    name: Tasty Coffee
+    city: Пермь
+    site: https://shop.tastycoffee.ru
+    catalog: [https://shop.tastycoffee.ru/coffee]
+    roast: ежедневно
+    delivery: {methods: [СДЭК, Почта России, Boxberry, курьер], free_from: 3000}
+    verified: true
+    award: Финалист «Обжарщик года 2026»
+
+  - id: tab
+    name: TAB
+    city: Ижевск
+    site: https://letstab.ru
+    verified: true
+    award: Финалист «Обжарщик года 2026»
+
+  - id: sok
+    name: СОК — студия обжарки кофе
+    city: Тюмень
+    site: https://sok.coffee
+    verified: true
+    award: Финалист «Обжарщик года 2026»
+
+  - id: triptych
+    name: Триптих
+    city: Тамбов
+    site: https://triptychcoffee.com
+    verified: true
+    award: Финалист «Обжарщик года 2026»
+
+  - id: caffeinelab
+    name: Caffeine Lab
+    city: Москва
+    site: https://caffeinelab.ru
+    roast: каждый будний день
+    verified: true
+    award: Финалист «Обжарщик года 2026»
+
+  - id: hq
+    name: HQ! coffee
+    city: Москва
+    site: https://hq-coffee.com
+    verified: true
+    award: Финалист «Обжарщик года 2026»
+
+  - id: kof
+    name: KOF
+    city: Новосибирск
+    site: https://kof.coffee
+    verified: false
+    award: Финалист «Обжарщик года 2026»
+
+  - id: roastberry
+    name: Roastberry
+    city: Пермь
+    site: https://roastberry.ru
+    verified: false
+    award: Финалист «Обжарщик года 2026»
+
+  - id: silkydrum
+    name: Silky Drum
+    city: Москва
+    site: https://silkydrum.ru
+    verified: true
+    award: Финалист «Обжарщик года 2026»
+
+  - id: submarine
+    name: Submarine
+    city: Москва
+    site: https://submarine.coffee
+    verified: false
+    award: Финалист «Обжарщик года 2026»
+
+  - id: atlas
+    name: Atlas Coffee
+    city: Москва
+    site: https://atlascoffee.ru
+    verified: false
+    award: Лучшая компания в категории произвольного обжара 2026
+
+  # ── Крупные и известные ─────────────────────────────────────────
+  - id: torrefacto
+    name: Torrefacto
+    city: Москва
+    site: https://www.torrefacto.ru
+    catalog: [https://www.torrefacto.ru/catalog/roasted/]
+    verified: true
+
+  - id: rockets
+    name: Rockets Coffee Roasters
+    city: Москва
+    site: https://rockets.coffee
+    verified: true
+
+  - id: camera
+    name: Camera Obscura
+    city: Москва
+    site: https://camcoffee.ru
+    verified: true
+
+  - id: sibaristica
+    name: Sibaristica
+    city: Новосибирск
+    site: https://sibaristica.ru
+    verified: false
+
+  - id: yankeesierra
+    name: Yankee Sierra
+    city: Москва
+    site: https://yankeesierra.ru
+    verified: false
+
+  - id: doubleb
+    name: Double B
+    city: Москва
+    site: https://double-b.ru
+    verified: false
+
+  - id: kanga
+    name: KANGA
+    city: Москва
+    site: https://www.kanga.ru
+    verified: true
+
+  - id: h2o
+    name: H2O
+    city: Новосибирск
+    site: https://h2ocompany.ru
+    verified: true
+
+  - id: fauno
+    name: Fauno Coffee
+    city: Москва
+    site: https://fauno.coffee
+    roast: каждую неделю; заказы до 10:00 по будням — в тот же день
+    roast_lag: 0
+    verified: true
+
+  - id: stereo
+    name: Stereo Coffee
+    city: Москва
+    site: https://stereo.coffee
+    verified: true
+
+  - id: specialtyru
+    name: Specialty.ru (собственная обжарка)
+    city: Санкт-Петербург
+    site: https://specialty.ru
+    catalog: [https://specialty.ru/roasters/specialty_ru/]
+    verified: true
+
+  # ── Санкт-Петербург ─────────────────────────────────────────────
+  - id: bolshe
+    name: Bolshe Coffee Roasters
+    city: Санкт-Петербург
+    site: https://bolshecoffee.ru
+    catalog: [https://bolshecoffee.ru/coffee]
+    verified: true
+
+  - id: zerno
+    name: Zerno Coffee Roasters
+    city: Санкт-Петербург
+    site: https://zerno.spb.ru
+    verified: true
+
+  - id: manufactory
+    name: Мануфактура Кофе
+    city: Санкт-Петербург
+    site: https://manufactorycoffee.ru
+    verified: true
+
+  - id: neva
+    name: Neva Coffee Roasters
+    city: Санкт-Петербург
+    site: https://nevacoffee.ru
+    verified: false
+
+  # ── Регионы ─────────────────────────────────────────────────────
+  - id: bittersweet
+    name: Bittersweet
+    city: Екатеринбург
+    site: https://bittersweet.coffee
+    verified: true
+
+  - id: kofeop
+    name: Kofeop Roastery
+    city: Челябинск
+    site: https://kofeop.ru
+    catalog: [https://kofeop.ru/catalog/osnovnoy-kofe/]
+    verified: true
+
+  - id: notik
+    name: Нотик Кофе
+    city: Москва
+    site: https://notikcoffee.ru
+    catalog: [https://notikcoffee.ru/catalog/specialty_kofe/]
+    verified: true
+
+  - id: solo
+    name: Solo Coffee
+    city: Москва
+    site: https://solocoffee.ru
+    verified: true
+
+  - id: madheads
+    name: Mad Heads
+    city: Москва
+    site: https://madheadscoffee.com
+    verified: false
+
+  - id: sova
+    name: Кофе Сова
+    city: Москва
+    site: https://kofesova.ru
+    verified: false

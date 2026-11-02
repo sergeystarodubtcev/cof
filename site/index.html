@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Зерно — сравнение specialty-кофе</title>
+<meta name="description" content="Один и тот же лот у разных российских обжарщиков: цены за 100 г, обработка, дескрипторы, сроки доставки.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cellipse cx='16' cy='16' rx='10' ry='14' fill='%236b3a1f' transform='rotate(30 16 16)'/%3E%3Cpath d='M10 6c6 6 6 14 12 20' stroke='%23f3e6d6' stroke-width='2' fill='none' transform='rotate(30 16 16)'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Inter:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+<header class="top">
+  <a class="logo" href="#/"><span class="bean"></span>Зерно<small>сравнение specialty</small></a>
+  <div class="searchbox">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></svg>
+    <input id="q" type="search" placeholder="Иргачеффе, гейша, анаэробная, Rockets, клубника…" autocomplete="off">
+    <div id="suggest" class="suggest" hidden></div>
+  </div>
+  <nav class="nav">
+    <a href="#/" data-nav="catalog">Каталог</a>
+    <a href="#/new" data-nav="new">Новинки <b id="newCount"></b></a>
+    <a href="#/roasters" data-nav="roasters">Обжарщики</a>
+    <a href="#/compare" data-nav="compare">Сравнение <b id="cmpCount"></b></a>
+  </nav>
+  <label class="city" title="Город доставки — для оценки сроков">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 22s7-6.2 7-12a7 7 0 1 0-14 0c0 5.8 7 12 7 12z"/><circle cx="12" cy="10" r="2.5"/></svg>
+    <select id="city"></select>
+  </label>
+  <button id="theme" class="icon-btn" aria-label="Сменить тему"><svg viewBox="0 0 24 24"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg></button>
+</header>
+<main id="app"><div class="loading">Загружаю каталог…</div></main>
+<footer class="foot">
+  <span id="meta"></span>
+  <span>Данные собираются автоматически с сайтов обжарщиков. Цены и наличие уточняйте при заказе.</span>
+</footer>
+<div id="toast" class="toast" hidden></div>
+<script src="app.js"></script>
+</body>
+</html>
