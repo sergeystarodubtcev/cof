@@ -162,6 +162,7 @@ table.offers{width:100%;border-collapse:separate;border-spacing:0;background:var
 .dlv{white-space:nowrap}
 .dot{display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:6px;background:var(--ok)}
 .dot.no{background:var(--muted)}
+.dot.unk{background:var(--warn)}
 .section{margin:36px 0 16px;display:flex;align-items:baseline;gap:12px}
 .section h2{font-size:24px}
 .section span{color:var(--ink2)}
@@ -210,7 +211,12 @@ table.cmp{border-collapse:collapse;min-width:100%}
   .btn.mfilters{display:inline-flex}
   .price b{font-size:19px}.price{flex-wrap:wrap;gap:2px 6px}
   .lot-head{grid-template-columns:1fr}
+  table.offers,.offers tbody{display:block;width:100%}
   .offers thead{display:none}
+  .offers .dlv{white-space:normal}
+  .offers td{min-width:0;overflow-wrap:anywhere}
+  .best{flex-direction:column;align-items:flex-start}.best .btn{margin-left:0}
+  .specs{grid-template-columns:repeat(2,minmax(0,1fr))}
   .offers tr{display:grid;grid-template-columns:1fr auto;gap:4px 12px;padding:12px;border-bottom:1px solid var(--line)}
   .offers td{border:0;padding:0}
   .offers td.c-r{grid-column:1/-1}

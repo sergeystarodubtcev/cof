@@ -96,9 +96,14 @@ def fetch_image(product: dict) -> None:
 def to_product(roaster: dict, raw: dict) -> dict | None:
     if not raw.get("url") or not raw.get("name"):
         return None
-    if not is_coffee(raw["name"], raw.get("description", ""), raw.get("category", "")):
+    if not is_coffee(raw["name"], raw.get("description", ""), raw.get("category", ""), raw["url"]):
         return None
-    variants = [v for v in raw.get("variants", []) if v.get("price")]
+    variants, seen_v = [], set()
+    for v in raw.get("variants", []):
+        key = (v.get("weight_g"), v.get("price"))
+        if v.get("price") and key not in seen_v:
+            seen_v.add(key)
+            variants.append(v)
     if not variants:
         return None
     per100 = [v["price"] / v["weight_g"] * 100 for v in variants if v.get("weight_g")]
@@ -118,6 +123,7 @@ def to_product(roaster: dict, raw: dict) -> dict | None:
         "variants": [{"w": v.get("weight_g"), "p": v["price"], "a": v.get("available", True)} for v in variants][:8],
         "weights": weights,
         "available": bool(raw.get("available", True)) and any(v.get("available", True) for v in variants),
+        "specs": {k: v for k, v in (raw.get("specs") or {}).items()},
     }
     return enrich(p)
 
@@ -135,6 +141,8 @@ def merge_history(products: list[dict], previous: dict | None, ts: datetime) -> 
         p["price_history"] = hist
     # товары, которых больше нет на сайте: показываем «нет в наличии», потом удаляем
     for old in prev.values():
+        if not is_coffee(old["name"], "", "", old["url"]):
+            continue  # фильтр стал строже — старые не-кофейные записи выбрасываем
         last = datetime.fromisoformat(old["last_seen"])
         if ts - last < timedelta(days=KEEP_GONE_DAYS):
             old["available"] = False
@@ -153,12 +161,19 @@ def build(roasters: list[dict], statuses: dict[str, dict]) -> dict:
         if not raw_path.exists():
             continue
         raw = json.loads(raw_path.read_text())
-        seen = set()
+        seen, mine = set(), []
         for item in raw["items"]:
             p = to_product(r, item)
             if p and p["id"] not in seen:
                 seen.add(p["id"])
-                products.append(p)
+                mine.append(p)
+        # Если сайт отдаёт «нет в наличии» почти на всё (наличие зависит от города/сессии),
+        # такому флагу верить нельзя: показываем «наличие уточняйте».
+        if len(mine) >= 20 and sum(not p["available"] for p in mine) / len(mine) > 0.85:
+            for p in mine:
+                p["available"] = None
+            r["_stock_unknown"] = True
+        products.extend(mine)
         statuses.setdefault(r["id"], raw.get("status", {}))
     print(f"Кофейных товаров: {len(products)}; скачиваю картинки…", flush=True)
     IMG.mkdir(parents=True, exist_ok=True)
@@ -183,15 +198,19 @@ def build(roasters: list[dict], statuses: dict[str, dict]) -> dict:
             "id": r["id"], "name": r["name"], "city": r["city"], "site": r["site"],
             "roast": r.get("roast"), "roast_lag": r.get("roast_lag", 1), "delivery": r.get("delivery") or {},
             "award": r.get("award"), "platform": st.get("platform"), "ok": st.get("ok", False),
-            "stale": st.get("stale", False), "checked_at": st.get("at"),
+            "stale": st.get("stale", False), "checked_at": st.get("at"), "stock_unknown": r.get("_stock_unknown", False),
             "count": sum(1 for p in products if p["roaster"] == r["id"] and not p.get("gone")),
         })
     catalog = {
         "meta": {"generated": ts.isoformat(), "first_run": first_run, "products": len(products),
                  "lots_multi": sum(1 for v in lots.values() if len({next(p['roaster'] for p in products if p['id'] == i) for i in v}) > 1)},
         "roasters": roaster_out,
-        "products": sorted(products, key=lambda p: (not p["available"], p["roaster"], p["name"])),
+        "products": sorted(products, key=lambda p: (p["available"] is False, p["roaster"], p["name"])),
     }
+    used = {p["image"].split("/")[-1] for p in products if p.get("image")}
+    for f in IMG.glob("*.webp"):  # картинки снятых/отсеянных товаров больше не нужны
+        if f.name not in used:
+            f.unlink()
     CATALOG.parent.mkdir(parents=True, exist_ok=True)
     CATALOG.write_text(json.dumps(catalog, ensure_ascii=False, separators=(",", ":")))
     write_report(catalog)

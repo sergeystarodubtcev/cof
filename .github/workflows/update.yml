@@ -1,8 +1,11 @@
 name: Обновление каталога
 on:
   schedule:
-    - cron: "17 */6 * * *"   # каждые 6 часов
+    - cron: "17 */6 * * *"   # каждые 6 часов: парсинг + публикация
   workflow_dispatch: {}
+  push:                       # изменения кода/сайта в main — сразу публикуем, без парсинга
+    branches: [main]
+    paths: ["site/**", "scraper/**", "roasters.yaml", ".github/workflows/update.yml"]
 permissions:
   contents: write
   pages: write
@@ -10,28 +13,35 @@ permissions:
 concurrency: {group: catalog, cancel-in-progress: false}
 jobs:
   scrape:
+    if: github.event_name != 'push'
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    timeout-minutes: 120
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: {python-version: "3.12", cache: pip}
       - run: pip install -r requirements.txt
-      - run: python -m pytest -q tests || python tests/test_pipeline.py
+      - run: python tests/test_pipeline.py
       - name: Парсинг сайтов обжарщиков
-        run: python -m scraper.run
+        run: python -m scraper.run 2>&1 | tee data/scrape.log
       - name: Сохранить данные в репозиторий
+        if: always()
         run: |
           git config user.name "catalog-bot"
           git config user.email "catalog-bot@users.noreply.github.com"
           git add data site/data site/img
-          git diff --cached --quiet || git commit -m "Каталог: $(date -u +%F\ %H:%M) UTC"
-          git push
-      - uses: actions/upload-pages-artifact@v3
-        with: {path: site}
+          git diff --cached --quiet && exit 0
+          git commit -m "Каталог: $(date -u +%F\ %H:%M) UTC"
+          git pull --rebase -X theirs && git push
   deploy:
     needs: scrape
+    if: always() && (needs.scrape.result == 'success' || needs.scrape.result == 'skipped')
     runs-on: ubuntu-latest
-    environment: {name: github-pages}
+    environment: {name: github-pages, url: "${{ steps.d.outputs.page_url }}"}
     steps:
-      - uses: actions/deploy-pages@v4
+      - uses: actions/checkout@v4
+        with: {ref: main}
+      - uses: actions/upload-pages-artifact@v3
+        with: {path: site}
+      - id: d
+        uses: actions/deploy-pages@v4

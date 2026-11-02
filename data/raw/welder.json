@@ -1,0 +1,3698 @@
+{
+ "status": {
+  "id": "welder",
+  "platform": "bitrix+generic",
+  "items": 138,
+  "seconds": 392.5,
+  "ok": true,
+  "error": null,
+  "at": "2026-11-02T21:53:28+00:00"
+ },
+ "items": [
+  {
+   "url": "https://theweldercatherine.ru/catalog/dorogoy_kofe/boliviya_alasitas_geysha_1/",
+   "name": "Боливия Аласитас гейша",
+   "description": "Боливия Аласитас гейша",
+   "image": "https://theweldercatherine.ru/upload/iblock/cdc/i97yyod7bwj3jg8834e0v3yslq9j0cmu/Boliviya-Alasitas-gei_sha_korobka-_2_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Дорогой кофе / Дорогой кофе",
+   "specs": {
+    "Разновидность": "гейша",
+    "Регион": "Каранави",
+    "Сбор урожая": "Сентябрь 2025",
+    "Способ обработки": "натуральный",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Agricafe",
+    "Обжарка": "фильтр"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 90,
+     "price": 2425.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dorogoy_kofe/assorti_tsyganskaya_svadba_ekvador_1/",
+   "name": "Ассорти «Цыганская свадьба» Эквадор",
+   "description": "Ассорти «Цыганская свадьба» Эквадор",
+   "image": "https://theweldercatherine.ru/upload/iblock/24b/jgj06uvwrt9hni5hy2ryqgtntvxx3i1t/Assorti_TSyganskaya_svadba_Ekvador-_2_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Дорогой кофе / Дорогой кофе",
+   "specs": {
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Finca Soledad",
+    "Обжарка": "фильтр"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 90,
+     "price": 3145.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_espresso/efiopiya_gigesa/",
+   "name": "Эфиопия Гигеса",
+   "description": "Кофе Эфиопия Гигеса",
+   "image": "https://theweldercatherine.ru/upload/iblock/7ab/il5ubwogvprs8lu6v4zkvjjf0cv9w9fg/250g-_1_-_-2026_10_30T121030.336.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для эспрессо / Для эспрессо",
+   "specs": {
+    "Разновидность": "Местные разновидности типики",
+    "Регион": "Гуджи",
+    "Сбор урожая": "Январь 2025",
+    "Способ обработки": "натуральный",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Станция Урага Раро",
+    "Обжарка": "эспрессо"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1124.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 3371.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_espresso/braziliya_yaguara_piberri/",
+   "name": "Бразилия Ягуара Пиберри",
+   "description": "Кофе Бразилия Ягуара Пиберри",
+   "image": "https://theweldercatherine.ru/upload/iblock/3b4/i0t20tz8lssxdy3zjz280yne0y4bxxxr/250g-_1_-_-2026_10_30T130358.804.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для эспрессо / Для эспрессо",
+   "specs": {
+    "Разновидность": "жёлтый, красный катуаи",
+    "Регион": "Минас Жерайс",
+    "Сбор урожая": "Август 2025",
+    "Способ обработки": "натуральный",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Ягуара",
+    "Обжарка": "эспрессо"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1238.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 3715.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_espresso/keniya_rungeto_s/",
+   "name": "Кения Рунгето С",
+   "description": "Кофе Кения Рунгето С",
+   "image": "https://theweldercatherine.ru/upload/iblock/34e/qqp0bgrq976qh7nbo35w57kfjz8ly0sq/250g-_1_-_-2026_10_30T124059.293.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для эспрессо / Для эспрессо",
+   "specs": {
+    "Разновидность": "Руиру-11, SL-28, Батиан",
+    "Регион": "Ньери",
+    "Сбор урожая": "Январь 2026",
+    "Способ обработки": "мытый",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Кооператив Рунгето",
+    "Обжарка": "эспрессо"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1194.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 3583.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_filtra/kolumbiya_rafael_ayya_3/",
+   "name": "Колумбия Рафаэль Айя",
+   "description": "Кофе Колумбия Рафаэль Айя",
+   "image": "https://theweldercatherine.ru/upload/iblock/903/qelv68orl0vvvu5hl6lnnt92ndb6rnux/250g-_1_-_39_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для фильтра / Для фильтра",
+   "specs": {
+    "Разновидность": "катурра",
+    "Регион": "Уила, Ла Флорида",
+    "Сбор урожая": "Март 2025",
+    "Способ обработки": "натуральный",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Ла Виргиния",
+    "Обжарка": "фильтр, эспрессо"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1725.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 5174.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1725.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 5174.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_filtra/efiopiya_lalisa2/",
+   "name": "Эфиопия Лалиса",
+   "description": "Кофе Эфиопия Лалиса",
+   "image": "https://theweldercatherine.ru/upload/iblock/7f4/uknlz0p9p4hck9ym3eg0burn6hbrok9q/Efiopiya-Lalisa-sayt-250g-_1_-_2_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для фильтра / Для фильтра",
+   "specs": {
+    "Разновидность": "местные разновидности типики",
+    "Регион": "Иргачифф",
+    "Сбор урожая": "Январь 2025",
+    "Способ обработки": "мытый",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "\"Lalesa\"",
+    "Обжарка": "фильтр, эспрессо"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1238.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 3715.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1238.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 3715.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_espresso/svezhiy_yagodnyy/",
+   "name": "Свежий Ягодный",
+   "description": "Кофе Свежий Ягодный",
+   "image": "https://theweldercatherine.ru/upload/iblock/f79/12lw2m75qaa876elnfle3f50m8u0p0tq/250g-_1_-_-2026_10_30T120738.952.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для эспрессо / Для эспрессо",
+   "specs": {
+    "Способ обработки": "натуральный",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Обжарка": "эспрессо"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1150.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 3450.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_espresso/sladkiy_yagodnyy/",
+   "name": "Сладкий Ягодный",
+   "description": "Кофе Сладкий Ягодный",
+   "image": "https://theweldercatherine.ru/upload/iblock/a8d/8xvaq28i40sto8h9syrpjeyochxcr12r/250g-_1_-_-2026_10_30T121210.856.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для эспрессо / Для эспрессо",
+   "specs": {
+    "Способ обработки": "натуральный",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Обжарка": "эспрессо"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1168.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 3503.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_espresso/sochnyy_fruktovyy/",
+   "name": "Сочный Фруктовый",
+   "description": "Кофе Сочный Фруктовый",
+   "image": "https://theweldercatherine.ru/upload/iblock/525/4bo3kk634irze7mf3iik6v1axhlvsuh3/250g-_1_-_-2026_10_30T125956.678.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для эспрессо / Для эспрессо",
+   "specs": {
+    "Способ обработки": "натуральный, анаэробный",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Обжарка": "эспрессо"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1238.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 3715.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_espresso/sladkaya_sladost/",
+   "name": "Сладкая Сладость",
+   "description": "Кофе Сладкая Сладость",
+   "image": "https://theweldercatherine.ru/upload/iblock/d49/nn0fnbjj6gcw1w2z1gmmu9om0m7vc9d3/250g-_1_-_-2026_10_30T120505.595.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для эспрессо / Для эспрессо",
+   "specs": {
+    "Разновидность": "желтый катуаи",
+    "Регион": "Маркала, Ла Пас + Минас Жирас",
+    "Сбор урожая": "2025",
+    "Способ обработки": "натуральный, анаэробный",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Обжарка": "эспрессо"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1185.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 3554.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_espresso/braziliya_rodomuno/",
+   "name": "Бразилия Родомуньо",
+   "description": "Кофе Бразилия Родомуньо",
+   "image": "https://theweldercatherine.ru/upload/iblock/fb2/twdsyhy5f9v4jn6royv9wp034ncut8in/250g-_1_-_-2026_10_30T121351.145.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для эспрессо / Для эспрессо",
+   "specs": {
+    "Разновидность": "желтый катуаи",
+    "Регион": "Минас Жерайс",
+    "Сбор урожая": "Сентябрь 2025",
+    "Способ обработки": "натуральный, анаэробный",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Фазенда Родомуньо",
+    "Обжарка": "эспрессо"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1172.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 3517.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_espresso/peru_san_khose_de_lordes/",
+   "name": "Перу Сан Хосе де Лордес",
+   "description": "Кофе Перу Сан Хосе де Лордес",
+   "image": "https://theweldercatherine.ru/upload/iblock/dbf/25tsfk5qce3rau9ylw1sxd4v0xqn7dni/250g-_1_-_-2026_10_30T124423.129.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для эспрессо / Для эспрессо",
+   "specs": {
+    "Разновидность": "катурра",
+    "Регион": "Кахамарка",
+    "Сбор урожая": "Август 2025",
+    "Способ обработки": "мытый",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Кооператив ферм в Сан Хосе де Лордес",
+    "Обжарка": "эспрессо"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1238.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 3639.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_filtra/kolumbiya_reynbou_dekaf/",
+   "name": "Колумбия Рэйнбоу декаф",
+   "description": "Кофе Колумбия Рэйнбоу декаф",
+   "image": "https://theweldercatherine.ru/upload/iblock/ec6/i68vn19hl4hf78r6mvvzw40ktiivyup2/250g-_1_-_23_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для фильтра / Для фильтра",
+   "specs": {
+    "Разновидность": "катурра",
+    "Регион": "Уила",
+    "Сбор урожая": "Март 2025",
+    "Способ обработки": "мытый",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Обжарка": "фильтр, эспрессо"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1371.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4112.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1371.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4112.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_filtra/ruanda_kabue_/",
+   "name": "Руанда Кабуе",
+   "description": "Кофе Руанда Кабуе",
+   "image": "https://theweldercatherine.ru/upload/iblock/105/ysg1fu3adxom7t7mjtyys9gzlge5qfcs/250g-_1_-_29_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для фильтра / Для фильтра",
+   "specs": {
+    "Разновидность": "Красный бурбон",
+    "Регион": "Уйе",
+    "Сбор урожая": "Апрель 2025",
+    "Способ обработки": "мытый",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Кооператив Кабуе",
+    "Обжарка": "фильтр, эспрессо"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1194.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 3583.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1194.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 3583.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_espresso/ruanda_gishavu/",
+   "name": "Руанда Гишаву",
+   "description": "Кофе Руанда Гишаву",
+   "image": "https://theweldercatherine.ru/upload/iblock/2c1/ya2q4v2xfmgeugf0swe1mkzx0p6t7bc8/250g-_1_-_28_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для эспрессо / Для эспрессо",
+   "specs": {
+    "Разновидность": "Красный бурбон",
+    "Регион": "Уйе",
+    "Сбор урожая": "Апрель 2025",
+    "Способ обработки": "мытый",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Станция обработки Гишаву",
+    "Обжарка": "эспрессо"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1142.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 3427.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_filtra/peru_valle_sagrado_iz_bochki/",
+   "name": "Перу Valle Sagrado из бочки",
+   "description": "Кофе Перу Valle Sagrado из бочки",
+   "image": "https://theweldercatherine.ru/upload/iblock/4e3/sk76tcbj3dpnlttc9extgxjern5aoyhv/250g-_1_-_45_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для фильтра / Для фильтра",
+   "specs": {
+    "Разновидность": "бурбон, типика, катурра",
+    "Регион": "Долина Конвенций",
+    "Сбор урожая": "Декабрь 2025",
+    "Способ обработки": "мытый",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Обжарка": "фильтр, эспрессо"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1424.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1424.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4271.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_filtra/ruanda_susa/",
+   "name": "Руанда Суса",
+   "description": "Кофе Руанда Суса",
+   "image": "https://theweldercatherine.ru/upload/iblock/464/el1895ivha1h3ub9npyhnlxxjhqbop0g/250g-_1_-_48_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для фильтра / Для фильтра",
+   "specs": {
+    "Разновидность": "красный бурбон",
+    "Регион": "Ньямашеке",
+    "Сбор урожая": "Апрель 2025",
+    "Способ обработки": "мытый, анаэробный",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Станция Сьято",
+    "Обжарка": "фильтр, эспрессо"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1437.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4311.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1437.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4311.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_filtra/kolumbiya_martines_rozovyy_burbon/",
+   "name": "Колумбия Мартинес розовый бурбон",
+   "description": "Кофе Колумбия Мартинес розовый бурбон",
+   "image": "https://theweldercatherine.ru/upload/iblock/112/m5m2yhzpfngu0h52nbz7s3ajjckt0qfj/250g-_1_-_4_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для фильтра / Для фильтра",
+   "specs": {
+    "Разновидность": "розовый бурбон",
+    "Регион": "Уила",
+    "Сбор урожая": "Март 2025",
+    "Способ обработки": "мытый, анаэробный",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Ла Виргинья",
+    "Обжарка": "фильтр, эспрессо"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1459.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4377.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1459.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4377.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_espresso/braziliya_yaguara_/",
+   "name": "Бразилия Ягуара",
+   "description": "Кофе Бразилия Ягуара",
+   "image": "https://theweldercatherine.ru/upload/iblock/111/djiqhfbykiyfwiz53la9rviu7aget0hu/250g-_1_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для эспрессо / Для эспрессо",
+   "specs": {
+    "Разновидность": "бурбон",
+    "Регион": "Суль Де Минас",
+    "Сбор урожая": "Август 2025",
+    "Способ обработки": "натуральный",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Ягуара",
+    "Обжарка": "эспрессо"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1238.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 3715.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_espresso/boliviya_don_karlos_1/",
+   "name": "Боливия Дон Карлос",
+   "description": "Кофе Боливия Дон Карлос",
+   "image": "https://theweldercatherine.ru/upload/iblock/632/1ppx7ubrk0tufn4rbjcqojfsi6qwz9qq/250g-_1_-_-2026_10_30T140517.547.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для эспрессо / Для эспрессо",
+   "specs": {
+    "Разновидность": "катурра",
+    "Регион": "Каранави",
+    "Сбор урожая": "Сентябрь 2025",
+    "Способ обработки": "хани",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Обжарка": "эспрессо"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1371.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4112.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_espresso/boliviya_guterres/",
+   "name": "Боливия Гутьеррес",
+   "description": "Кофе Боливия Гутьеррес",
+   "image": "https://theweldercatherine.ru/upload/iblock/613/yncsivnip42zoq95jlxokf1sy0rucmzw/250g-_1_-_-2026_10_30T132146.178.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для эспрессо / Для эспрессо",
+   "specs": {
+    "Разновидность": "катуаи",
+    "Регион": "Каранави",
+    "Сбор урожая": "Сентябрь 2026",
+    "Способ обработки": "мытый",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Обжарка": "эспрессо"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1300.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 3901.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_filtra/efiopiya_reku_1/",
+   "name": "Эфиопия Реку",
+   "description": "Кофе Эфиопия Реку",
+   "image": "https://theweldercatherine.ru/upload/iblock/b6c/cwfiwwg6eyg1zu0jby7igczolh4chdre/250g-_1_-_81_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для фильтра / Для фильтра",
+   "specs": {
+    "Разновидность": "местные разновидности бурбона",
+    "Регион": "Иргачифф",
+    "Сбор урожая": "Январь 2026",
+    "Способ обработки": "мытый",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Реку",
+    "Обжарка": "фильтр, эспрессо"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1349.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4046.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1349.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4046.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_espresso/svezhaya_svezhest/",
+   "name": "Свежая Свежесть",
+   "description": "Кофе Свежая Свежесть",
+   "image": "https://theweldercatherine.ru/upload/iblock/40f/qx6u34d4wdzj4ixv042vzrfajqm9f8pi/250g-_1_-_-2026_10_30T121535.274.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для эспрессо / Для эспрессо",
+   "specs": {
+    "Разновидность": "катурра",
+    "Способ обработки": "мытый",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Обжарка": "эспрессо"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1185.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 3556.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_filtra/kolumbiya_martines_katurra/",
+   "name": "Колумбия Мартинес катурра",
+   "description": "Кофе Колумбия Мартинес катурра",
+   "image": "https://theweldercatherine.ru/upload/iblock/4a0/mebdmgr5523rjofk8mb4qhlucaqixt6m/250g-_1_-_90_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для фильтра / Для фильтра",
+   "specs": {
+    "Разновидность": "катурра",
+    "Регион": "Уила",
+    "Сбор урожая": "Март 2026",
+    "Способ обработки": "натуральный, анаэробный",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Ла Виргинья",
+    "Обжарка": "фильтр, эспрессо"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1393.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4179.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1393.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4179.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_filtra/keniya_olbanata/",
+   "name": "Кения Олбаната",
+   "description": "Кофе Кения Олбаната",
+   "image": "https://theweldercatherine.ru/upload/iblock/899/if2no3iuugvj3cw9vunjuxbvklpnezr4/250g-_1_-_92_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для фильтра / Для фильтра",
+   "specs": {
+    "Разновидность": "Руиру-11, SL-28, Батиан",
+    "Регион": "Кириньяга",
+    "Сбор урожая": "Январь 2026",
+    "Способ обработки": "натуральный",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Олбаната",
+    "Обжарка": "фильтр, эспрессо"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1194.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 3583.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1194.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 3583.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_espresso/peru_las_mieles/",
+   "name": "Перу Лас Миелес",
+   "description": "Перу Лас Миелес",
+   "image": "https://theweldercatherine.ru/upload/iblock/f23/c814tx09hh4alvifj1kaa18fe6iwvsjf/250g-_1_-_99_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для эспрессо / Для эспрессо",
+   "specs": {
+    "Разновидность": "бурбон",
+    "Регион": "Хаэн, Сан Игнасио",
+    "Сбор урожая": "Август 2025",
+    "Способ обработки": "мытый",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Оценщик",
+    "Обжарка": "эспрессо"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1216.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 3649.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/pod_molochko_1/efiopiya_pod_molochko/",
+   "name": "Эфиопия под молочко",
+   "description": "Кофе Эфиопия под молочко",
+   "image": "https://theweldercatherine.ru/upload/iblock/d84/250g_white_efiopiya2.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Под молочко / Под молочко",
+   "specs": {
+    "Разновидность": "Местные разновидности типики",
+    "Регион": "Гуджи",
+    "Сбор урожая": "Январь 2025",
+    "Способ обработки": "натуральный",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Обжарка": "под молочко"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1124.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 3371.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/pod_molochko_1/braziliya_yaguara_piberri_pod_molochko/",
+   "name": "Бразилия Ягуара Пиберри под молочко",
+   "description": "Кофе Бразилия Ягуара Пиберри под молочко",
+   "image": "https://theweldercatherine.ru/upload/iblock/2c8/n315gulahf4ge7b207a6qbpd1712zlg1/Braziliya_YAguara_Piberri_pod_molochko_250g_1_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Под молочко / Под молочко",
+   "specs": {
+    "Разновидность": "жёлтый, красный катуаи",
+    "Регион": "Минас Жерайс",
+    "Сбор урожая": "Август 2025",
+    "Способ обработки": "натуральный",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Ягуара",
+    "Обжарка": "под молочко"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 1000,
+     "price": 3715.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1238.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/pod_molochko_1/ruanda_pod_molochko_2/",
+   "name": "Руанда под молочко",
+   "description": "Кофе Руанда под молочко",
+   "image": "https://theweldercatherine.ru/upload/iblock/69c/nzhshg0zjfqdlupb7tzfvdazfsu46etj/250g-_1_-_32_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Под молочко / Под молочко",
+   "specs": {
+    "Разновидность": "бурбон",
+    "Регион": "Окрестности столицы Кигали",
+    "Сбор урожая": "Ноябрь 2025",
+    "Способ обработки": "мытый",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Станция обработки Убумве",
+    "Обжарка": "под молочко"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 1000,
+     "price": 3517.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1172.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/pod_molochko_1/keniya_pod_molochko/",
+   "name": "Кения под молочко",
+   "description": "Кофе Кения под молочко",
+   "image": "https://theweldercatherine.ru/upload/iblock/b55/vtulug82lx4ujvmifmsz2m3soaidrpha/250g-_1_-_51_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Под молочко / Под молочко",
+   "specs": {
+    "Разновидность": "Sl-28, SL-34, Руиру 11, Батиан",
+    "Регион": "Ньери",
+    "Сбор урожая": "Январь 2026",
+    "Способ обработки": "мытый",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Обжарка": "под молочко"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1194.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 3583.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/pod_molochko_1/peru_pod_molochko/",
+   "name": "Перу под молочко",
+   "description": "Кофе Перу под молочко",
+   "image": "https://theweldercatherine.ru/upload/iblock/ba5/ku0sni68djwloq2dm28ghk9v8ak2lyq4/250g_white.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Под молочко / Под молочко",
+   "specs": {
+    "Разновидность": "Бурбон, Типика, Катимор",
+    "Регион": "Долина Конвенций",
+    "Сбор урожая": "Апрель 2025",
+    "Способ обработки": "мытый",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Оценщик",
+    "Обжарка": "под молочко"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 1000,
+     "price": 3583.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1194.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/pod_molochko_1/gonduras_pod_molochko_1/",
+   "name": "Гондурас под молочко",
+   "description": "Кофе Гондурас под молочко",
+   "image": "https://theweldercatherine.ru/upload/iblock/3fc/6tvscvhi1mbeswfyqa8vq2f968iuetf3/250g-_1_-_-2026_10_06T115612.939.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Под молочко / Под молочко",
+   "specs": {
+    "Разновидность": "катуаи",
+    "Регион": "Маркала, Ла Пас",
+    "Сбор урожая": "Март 2026",
+    "Способ обработки": "натуральный, анаэробный",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Станция обработки Ксинакла",
+    "Обжарка": "под молочко"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 1000,
+     "price": 4046.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1349.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_filtra/kosta_rika_kennet_madrigal/",
+   "name": "Коста-Рика Кеннет Мадригаль",
+   "description": "Кофе Коста-Рика Кеннет Мадригаль",
+   "image": "https://theweldercatherine.ru/upload/iblock/655/z42or9gbw046r929yocl4b3zz8v33jmb/250g-_1_-_77_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для фильтра / Для фильтра",
+   "specs": {
+    "Разновидность": "катуаи",
+    "Регион": "Тарразу",
+    "Сбор урожая": "Март 2026",
+    "Способ обработки": "Натуральный, 8 дней анаэробной ферментации",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Ферма “La Familia”",
+    "Обжарка": "фильтр"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1546.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4637.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_filtra/gonduras_ksinakla/",
+   "name": "Гондурас Ксинакла",
+   "description": "Кофе Гондурас Ксинакла",
+   "image": "https://theweldercatherine.ru/upload/iblock/f15/ht46iu7bu3vini4levfu0vlo1u046tlp/250g-_1_-_94_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для фильтра / Для фильтра",
+   "specs": {
+    "Разновидность": "катуаи",
+    "Регион": "Маркала, Ла Пас",
+    "Сбор урожая": "Март 2026",
+    "Способ обработки": "мытый",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Станция обработки Ксинакла",
+    "Обжарка": "фильтр"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1451.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4354.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_filtra/gonduras_tanairi/",
+   "name": "Гондурас Танаири",
+   "description": "Кофе Гондурас Танаири",
+   "image": "https://theweldercatherine.ru/upload/iblock/dae/f7fhhc1whk3cnu2jaji6hoaq2khsqg4l/250g-_1_-_93_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для фильтра / Для фильтра",
+   "specs": {
+    "Разновидность": "катуаи",
+    "Регион": "Маркала, Ла Пас",
+    "Сбор урожая": "Март 2026",
+    "Способ обработки": "мытый",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Обжарка": "фильтр"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1286.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 3858.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_filtra/gonduras_moyzes/",
+   "name": "Гондурас Мойзес",
+   "description": "Кофе Гондурас Мойзес",
+   "image": "https://theweldercatherine.ru/upload/iblock/8de/llk4jaab089906j2hjim20t06647a35w/250g-_1_-_95_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для фильтра / Для фильтра",
+   "specs": {
+    "Разновидность": "катуаи",
+    "Регион": "Маркала, Ла Пас",
+    "Сбор урожая": "Март 2026",
+    "Способ обработки": "натуральный, анаэробный",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Станция Обработки Ксинкала",
+    "Обжарка": "фильтр"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1349.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4046.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_filtra/kosta_rika_uilyam_mora_2/",
+   "name": "Коста-Рика Уильям Мора",
+   "description": "Кофе Коста-Рика Уильям Мора",
+   "image": "https://theweldercatherine.ru/upload/iblock/80f/163u44802cycupemcf7r676d57ml3k7s/250g-_1_-_76_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для фильтра / Для фильтра",
+   "specs": {
+    "Разновидность": "катурра",
+    "Регион": "Лос Сантос, Паритийя",
+    "Сбор урожая": "Март 2026",
+    "Способ обработки": "натуральный, анаэробный",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Обжарка": "фильтр"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1546.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4637.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_filtra/indoneziya_khani_rizopus_1/",
+   "name": "Индонезия Хани Ризопус",
+   "description": "Кофе Индонезия Хани Ризопус",
+   "image": "https://theweldercatherine.ru/upload/iblock/9a7/36dyplgqrxkazwl4qd52fpd5xgaiczo8/250g-_1_-_62_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для фильтра / Для фильтра",
+   "specs": {
+    "Разновидность": "Сигарар Утанг, Атенг Супер",
+    "Регион": "Сунда",
+    "Сбор урожая": "Август 2025",
+    "Способ обработки": "хани",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Frinsa Estate",
+    "Обжарка": "фильтр"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1481.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4443.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_filtra/boliviya_samaypata/",
+   "name": "Боливия Самайпата",
+   "description": "Кофе Боливия Самайпата",
+   "image": "https://theweldercatherine.ru/upload/iblock/697/foyc4prpbuc0nbqx9iyfmuqk8kywlz4t/250g-_1_-_-2026_10_16T150734.768.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для фильтра / Для фильтра",
+   "specs": {
+    "Разновидность": "катурра",
+    "Регион": "Санта-Крус",
+    "Сбор урожая": "Сентябрь 2025",
+    "Способ обработки": "натуральный",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Флорипондио",
+    "Обжарка": "фильтр"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1371.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4112.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_filtra/kosta_rika_san_khuanilo_milenio/",
+   "name": "Коста-Рика Сан Хуанильо Миленио",
+   "description": "Кофе Коста-Рика Сан Хуанильо Миленио",
+   "image": "https://theweldercatherine.ru/upload/iblock/4cd/12wyskvrxfwhh8mox8mai7x9lofud5w9/250g-_1_-_56_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для фильтра / Для фильтра",
+   "specs": {
+    "Разновидность": "H-10",
+    "Регион": "Вест Вэлли",
+    "Сбор урожая": "Февраль 2025",
+    "Способ обработки": "натуральный",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Обжарка": "фильтр"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1459.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4377.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_filtra/keniya_kabare_karani_av/",
+   "name": "Кения Кабаре Карани АВ",
+   "description": "Кофе Кения Кабаре Карани АВ",
+   "image": "https://theweldercatherine.ru/upload/iblock/58c/axnuflhsl033u1kh67sb81dl68c4seeu/250g-_1_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для фильтра / Для фильтра",
+   "specs": {
+    "Разновидность": "Sl-28, 34, Руиру 11, Батиан",
+    "Регион": "Кириньяга",
+    "Сбор урожая": "Январь 2025",
+    "Способ обработки": "мытый",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Кооператив Кабаре",
+    "Обжарка": "фильтр"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1327.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 3980.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_filtra/kolumbiya_kompanya_libertad_f6/",
+   "name": "Колумбия Компанья Либертад Ф6",
+   "description": "Кофе Колумбия Компанья Либертад Ф6",
+   "image": "https://theweldercatherine.ru/upload/iblock/ac7/5nxjvzmbognbckkv2z56sfnsyqruunas/250g-_1_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для фильтра / Для фильтра",
+   "specs": {
+    "Разновидность": "Ф6",
+    "Регион": "Уила , Тимана",
+    "Сбор урожая": "Март 2025",
+    "Способ обработки": "мытый, анаэробный",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Компанья Либертад",
+    "Обжарка": "фильтр"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1610.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4829.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_filtra/kolumbiya_dzheferson_kastano/",
+   "name": "Колумбия Джеферсон Кастаньо",
+   "description": "Кофе Колумбия Джеферсон Кастаньо",
+   "image": "https://theweldercatherine.ru/upload/iblock/079/1owlcbuhfozfigr0i9290kunx7k288ty/Kolumbiya-Dzheferson-Kastano-250.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для фильтра / Для фильтра",
+   "specs": {
+    "Разновидность": "розовый бурбон",
+    "Регион": "Уила, Сан-Адольфо",
+    "Сбор урожая": "Октябрь 2025",
+    "Способ обработки": "мытый",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Ла Гранада",
+    "Обжарка": "фильтр"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1654.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4962.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_filtra/boliviya_los_rodriges_batian/",
+   "name": "Боливия Лос Родригес батиан",
+   "description": "Кофе Боливия Лос Родригес батиан",
+   "image": "https://theweldercatherine.ru/upload/iblock/cfe/6b74761m5961z7ruahcjk530fcs7smlh/250g-_1_-_66_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для фильтра / Для фильтра",
+   "specs": {
+    "Разновидность": "батиан",
+    "Регион": "Каранави",
+    "Сбор урожая": "Сентябрь 2025",
+    "Способ обработки": "натуральный",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Обжарка": "фильтр"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 2143.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_filtra/boliviya_samaypata_sl_28/",
+   "name": "Боливия Самайпата SL-28",
+   "description": "Кофе Боливия Самайпата SL-28",
+   "image": "https://theweldercatherine.ru/upload/iblock/eea/azapxw6142ggr48fetpxf6e8jhokj07r/250g-_1_-_65_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для фильтра / Для фильтра",
+   "specs": {
+    "Разновидность": "Sl-28",
+    "Регион": "Каранави",
+    "Сбор урожая": "Сентябрь 2025",
+    "Способ обработки": "натуральный",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Обжарка": "фильтр"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 2629.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_filtra/boliviya_samaypata_pakamara/",
+   "name": "Боливия Самайпата пакамара",
+   "description": "Кофе Боливия Самайпата пакамара",
+   "image": "https://theweldercatherine.ru/upload/iblock/13a/fkwm0pp2rpj7flq7a7e5xubvuxbpkhkw/250g-_1_-_67_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для фильтра / Для фильтра",
+   "specs": {
+    "Разновидность": "пакамара",
+    "Регион": "Каранави",
+    "Сбор урожая": "Сентябрь 2025",
+    "Способ обработки": "натуральный",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Обжарка": "фильтр"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 2143.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_filtra/ruanda_kizibere_khill/",
+   "name": "Руанда Кизибере Хилл",
+   "description": "Кофе Руанда Кизибере Хилл",
+   "image": "https://theweldercatherine.ru/upload/iblock/22e/n2bcd2dcjudx1rogk2y3w49wokzc0tif/250g-_1_-_2_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для фильтра / Для фильтра",
+   "specs": {
+    "Разновидность": "красный бурбон",
+    "Регион": "Гизанга",
+    "Сбор урожая": "Март 2025",
+    "Способ обработки": "натуральный, анаэробный",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Станция обработки Гизанга",
+    "Обжарка": "фильтр"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1460.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4379.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_filtra/ruanda_sovu/",
+   "name": "Руанда Сову",
+   "description": "Кофе Руанда Сову",
+   "image": "https://theweldercatherine.ru/upload/iblock/7a4/ewvj4llcjdw07670r0vti05h07z235d1/250g-_1_-_1_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для фильтра / Для фильтра",
+   "specs": {
+    "Разновидность": "красный бурбон",
+    "Регион": "Уйе",
+    "Сбор урожая": "Март 2025",
+    "Способ обработки": "мытый",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Станция обработки Сову",
+    "Обжарка": "фильтр"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1172.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 3517.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_filtra/kolumbiya_vecinos_leonel_guterres/",
+   "name": "Колумбия Vecinos: Леонель Гутьеррес",
+   "description": "Кофе Колумбия Vecinos: Леонель Гутьеррес",
+   "image": "https://theweldercatherine.ru/upload/iblock/c42/cg8s1mk6yl5i3n4enwg0je2ts9sp7zl2/250g-_1_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для фильтра / Для фильтра",
+   "specs": {
+    "Разновидность": "катурра",
+    "Регион": "Уила",
+    "Сбор урожая": "Октябрь 2025",
+    "Способ обработки": "анаэробный",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Lote Leonel",
+    "Обжарка": "фильтр"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1547.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4642.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_filtra/kosta_rika_esteban_zamora/",
+   "name": "Коста-Рика Эстебан Замора",
+   "description": "Кофе Коста-Рика Эстебан Замора",
+   "image": "https://theweldercatherine.ru/upload/iblock/c02/1a76prm6k3whmyixi2tf0mtn0aydnzce/250g-_1_-_71_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для фильтра / Для фильтра",
+   "specs": {
+    "Разновидность": "катуаи",
+    "Регион": "Лос Сантос, Паритийя",
+    "Сбор урожая": "Март 2026",
+    "Способ обработки": "инфьюз, анаэробный",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Обжарка": "фильтр, эспрессо"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1640.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1640.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4921.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_filtra/keniya_barichu_gotomboya_aa/",
+   "name": "Кения Баричу Готомбоя АА",
+   "description": "Кофе Кения Баричу Готомбоя АА",
+   "image": "https://theweldercatherine.ru/upload/iblock/085/8s5mpvksp2aen95hd1hvxotx2n31wux0/250g-_1_-_75_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для фильтра / Для фильтра",
+   "specs": {
+    "Разновидность": "Руиру-11, SL-28, Батиан",
+    "Регион": "Кириньяга",
+    "Сбор урожая": "Январь 2026",
+    "Способ обработки": "мытый",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Обжарка": "фильтр"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1395.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4185.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_filtra/tanzaniya_lungva_aa/",
+   "name": "Танзания Лунгва АА",
+   "description": "Кофе Танзания Лунгва АА",
+   "image": "https://theweldercatherine.ru/upload/iblock/5c7/xmcladj71r9quiyr8wdfu5rol4yd7y2j/250g-_1_-_83_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для фильтра / Для фильтра",
+   "specs": {
+    "Разновидность": "бурбон",
+    "Регион": "Сонгве",
+    "Сбор урожая": "Декабрь 2025",
+    "Способ обработки": "мытый",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Кооператив Лунгва",
+    "Обжарка": "фильтр"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1310.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 3929.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_filtra/kolumbiya_la_violeta_f6/",
+   "name": "Колумбия Ла Виолета Ф6",
+   "description": "Кофе Колумбия Ла Виолета Ф6",
+   "image": "https://theweldercatherine.ru/upload/iblock/f9a/l7cd064b8us93fuwci92xupv51bg8iuy/250g-_1_-_86_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для фильтра / Для фильтра",
+   "specs": {
+    "Разновидность": "Ф6",
+    "Регион": "Уила , Тимана",
+    "Сбор урожая": "Октябрь 2025",
+    "Способ обработки": "натуральный, анаэробный",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Ла Виолета",
+    "Обжарка": "фильтр"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1755.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 5266.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_filtra/efiopiya_tatatu_120_chasov/",
+   "name": "Эфиопия Татату 120 часов",
+   "description": "Кофе Эфиопия Татату 120 часов",
+   "image": "https://theweldercatherine.ru/upload/iblock/d96/91rto7y1cv0hru8i70zm9d84aysy2syi/250g-_1_-_85_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для фильтра / Для фильтра",
+   "specs": {
+    "Разновидность": "местные разновидности бурбона",
+    "Регион": "Иргачифф",
+    "Сбор урожая": "Январь 2026",
+    "Способ обработки": "натуральный, анаэробный",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "станция обработки Татату",
+    "Обжарка": "фильтр"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1782.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 5346.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_filtra/efiopiya_uraga/",
+   "name": "Эфиопия Урага",
+   "description": "Кофе Эфиопия Урага",
+   "image": "https://theweldercatherine.ru/upload/iblock/cbc/id8wjxnln4fcf5efxta3nejeh7ef4st3/250g-_1_-_-2026_10_25T162237.098.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для фильтра / Для фильтра",
+   "specs": {
+    "Разновидность": "Местные разновидности типики",
+    "Регион": "Гуджи",
+    "Сбор урожая": "Январь 2026",
+    "Способ обработки": "натуральный",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Станция обработки Урага Раро",
+    "Обжарка": "фильтр"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1393.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4179.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_filtra/keniya_kabare_pb/",
+   "name": "Кения Кабаре ПБ",
+   "description": "Кофе Кения Кабаре ПБ",
+   "image": "https://theweldercatherine.ru/upload/iblock/1ef/wgdcmvxnvpq2lw573m4gfnr9osjfj08p/250g-_1_-_-2026_10_09T123923.871.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для фильтра / Для фильтра",
+   "specs": {
+    "Разновидность": "Руиру-11, SL-28, Батиан",
+    "Регион": "Кириньяга",
+    "Сбор урожая": "Январь 2025",
+    "Способ обработки": "мытый",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Кооператив Кабаре",
+    "Обжарка": "фильтр"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1283.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 3848.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_filtra/boliviya_floripondio_pakamara/",
+   "name": "Боливия Флорипондио пакамара",
+   "description": "Кофе Боливия Флорипондио пакамара",
+   "image": "https://theweldercatherine.ru/upload/iblock/ad2/2td3k5zh89761xd2iea2hr2kgobw86uv/250g-_1_-_-2026_10_16T154617.820.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для фильтра / Для фильтра",
+   "specs": {
+    "Разновидность": "пакамара",
+    "Регион": "Каранави",
+    "Сбор урожая": "Сентябрь 2025",
+    "Способ обработки": "натуральный",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Agricafe",
+    "Обжарка": "фильтр"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 2143.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 6429.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_filtra/boliviya_los_rodriges_burbon/",
+   "name": "Боливия Лос Родригес бурбон",
+   "description": "Кофе Боливия Лос Родригес бурбон",
+   "image": "https://theweldercatherine.ru/upload/iblock/8ba/eh92pim9qqes41kw5hi7jerpxqdh4ara/250g-_1_-_-2026_10_16T153449.429.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для фильтра / Для фильтра",
+   "specs": {
+    "Разновидность": "бурбон",
+    "Регион": "Каранави",
+    "Сбор урожая": "Сентябрь 2025",
+    "Способ обработки": "мытый",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Agricafe",
+    "Обжарка": "фильтр"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1481.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4443.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_filtra/boliviya_valiki_yava/",
+   "name": "Боливия Валики ява",
+   "description": "Кофе Боливия Валики ява",
+   "image": "https://theweldercatherine.ru/upload/iblock/9e7/zx37pz8t296sc2rnbo3ciz6f04q1z9tp/250g-_1_-_-2026_10_16T150157.417.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для фильтра / Для фильтра",
+   "specs": {
+    "Разновидность": "ява",
+    "Регион": "Каранави",
+    "Сбор урожая": "Сентябрь 2025",
+    "Способ обработки": "анаэробный",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Agricafe",
+    "Обжарка": "фильтр"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1790.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 5370.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_efiopiya_vorka/",
+   "name": "Галараствор Эфиопия Ворка",
+   "description": "Кофе растворимый порошкообразный \"Галараствор Эфиопия Ворка\", 5x3,2 г",
+   "image": "https://theweldercatherine.ru/upload/iblock/904/blac8qv5eiei0p4h4l8t0w4k2jxq71ll/Mokap-korobka-gala11.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Галараствор / Галараствор",
+   "specs": {
+    "Разновидность": "местные разновидности типики",
+    "Регион": "Иргачифф",
+    "Сбор урожая": "Январь 2025",
+    "Способ обработки": "мытый"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 685.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_kosta_rika_don_eli/",
+   "name": "Галараствор Коста-Рика Дон Эли",
+   "description": "Кофе растворимый порошкообразный \"Галараствор Коста-Рика Дон Эли\", 5x3,2 г",
+   "image": "https://theweldercatherine.ru/upload/iblock/25e/ulzkise2vjtwh8or70fkiqq3s1sb0g1c/Kosta_Rika-Don-Eli-gala.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Галараствор / Галараствор",
+   "specs": {
+    "Разновидность": "желтый катуаи",
+    "Регион": "Ла Бандера Де Дота, Терразу",
+    "Сбор урожая": "Март 2025",
+    "Способ обработки": "натуральный, анаэробный"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 774.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_kolumbiya_kompanya_libertad_akhi/",
+   "name": "Галараствор Колумбия Компанья Либертад Ахи",
+   "description": "Кофе растворимый порошкообразный \"Галараствор Колумбия Компанья Либертад Ахи\", 5x3,2 г",
+   "image": "https://theweldercatherine.ru/upload/iblock/075/v8yc62110srflmhy9kb7q40urrpl3kxh/Mokap-korobka-gala1-_-kopiya-_10_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Галараствор / Галараствор",
+   "specs": {
+    "Разновидность": "бурбон ахи",
+    "Регион": "Уила , Тимана",
+    "Сбор урожая": "Октябрь 2025",
+    "Способ обработки": "мытый, анаэробный"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 855.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_kosta_rika_kennet_madrigal/",
+   "name": "Галараствор Коста-Рика Кеннет Мадригаль",
+   "description": "Галараствор Коста-Рика Кеннет Мадригаль",
+   "image": "https://theweldercatherine.ru/upload/iblock/97f/90frm6kywcf5rq6k53i9h44qsgrrwv04/Kosta_Rika-Kennet-Madrigal.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Галараствор / Галараствор",
+   "specs": {
+    "Разновидность": "катуаи",
+    "Регион": "Тарразу",
+    "Сбор урожая": "Февраль 2024",
+    "Способ обработки": "натуральный, анаэробный"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 704.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_kolumbiya_el_chispa/",
+   "name": "Галараствор Колумбия Эль Чиспа",
+   "description": "Кофе растворимый порошкообразный \"Галараствор Колумбия Эль Чиспа\", 16 гр",
+   "image": "https://theweldercatherine.ru/upload/iblock/1b0/hk9xtrkuts12uw7dn3c8gbspdu13fo1n/Galarastvor-Kolumbiya-El-CHispa.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Галараствор / Галараствор",
+   "specs": {
+    "Разновидность": "кастильо, катурра, колумбия",
+    "Регион": "Уила , Тимана",
+    "Сбор урожая": "Март 2025",
+    "Способ обработки": "мытый"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 576.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_kosta_rika_ermano_robles_1/",
+   "name": "Галараствор Коста-Рика Эрмано Роблес",
+   "description": "Кофе растворимый порошкообразный \"Галараствор Коста-Рика Эрмано Роблес\", 16 гр",
+   "image": "https://theweldercatherine.ru/upload/iblock/1e7/fc6ruj32t0h7vgzbrv10pqnwqsmr39my/Mokap-Ermano-Robles-sayt.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Галараствор / Галараствор",
+   "specs": {
+    "Разновидность": "катурра, катуаи",
+    "Регион": "Тарразу, Сан Маркос",
+    "Сбор урожая": "Март 2025",
+    "Способ обработки": "натуральный, анаэробный"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 800.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_ruanda_gasharu/",
+   "name": "Галараствор Руанда Гашару",
+   "description": "Кофе растворимый порошкообразный \"Руанда Гашару\", 16 г",
+   "image": "https://theweldercatherine.ru/upload/iblock/704/ecmbcj3zpu33ueklrpbd7hzci1h0yx96/Ruanda.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Галараствор / Галараствор",
+   "specs": {
+    "Разновидность": "красный бурбон",
+    "Регион": "Ньямашеке",
+    "Сбор урожая": "Август 2024",
+    "Способ обработки": "мытый"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 690.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_peru_faykal/",
+   "name": "Галараствор Перу Файкал",
+   "description": "Кофе растворимый порошкообразный \"Перу Файкал\", 16 г",
+   "image": "https://theweldercatherine.ru/upload/iblock/244/4xijxuyi2cj44mypvonnfnl91l018fm1/_-_A_-_1.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Галараствор / Галараствор",
+   "specs": {
+    "Разновидность": "катуаи",
+    "Регион": "Кахамарка",
+    "Сбор урожая": "Ноябрь 2024",
+    "Способ обработки": "натуральный"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 630.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_kosta_rika_san_khuanilo/",
+   "name": "Галараствор Коста-Рика Сан Хуанильо",
+   "description": "Кофе растворимый порошкообразный \"Коста-Рика Сан Хуанильо\", 16 г",
+   "image": "https://theweldercatherine.ru/upload/iblock/1cd/3bsmb00ycgu5t7yj2nut9wecw0xvwigi/KHuanilo.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Галараствор / Галараствор",
+   "specs": {
+    "Разновидность": "Н10",
+    "Регион": "Вест Вэлли",
+    "Сбор урожая": "Март 2024",
+    "Способ обработки": "натуральный"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 835.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_burundi_bubanza/",
+   "name": "Галараствор Бурунди Бубанза",
+   "description": "Кофе растворимый порошкообразный \"Галараствор Бурунди Бубанза\", 5x3,2 г",
+   "image": "https://theweldercatherine.ru/upload/iblock/ec9/rp245k3pz7hnxeaauumkubn2txo2fjc0/Mokap-korobka-gala1-_-kopiya-_8_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Галараствор / Галараствор",
+   "specs": {
+    "Разновидность": "красный бурбон",
+    "Регион": "Рифтовая долина",
+    "Сбор урожая": "Июнь 2024",
+    "Способ обработки": "мытый"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 690.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_braziliya_otavio/",
+   "name": "Галараствор Бразилия Отавио",
+   "description": "Кофе растворимый порошкообразный \"Галараствор Бразилия Отавио\", 5x3,2 г",
+   "image": "https://theweldercatherine.ru/upload/iblock/e89/p1w288hjvhlerpkuj5f4sfit7d0p2e8y/Otavuio.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Галараствор / Галараствор",
+   "specs": {
+    "Разновидность": "желтый катуаи",
+    "Регион": "Минас Жерайс",
+    "Сбор урожая": "Сентябрь 2024",
+    "Способ обработки": "натуральный"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 680.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_keniya_rungeto_karimikuy_pb/",
+   "name": "Галараствор Кения Рунгето Каримикуй ПБ",
+   "description": "Кофе растворимый порошкообразный \" Галараствор Кения Рунгето Каримикуй ПБ\", 16 г",
+   "image": "https://theweldercatherine.ru/upload/iblock/6f5/crokbgjxid5felg5t637p2rsqca1ry0c/kenia.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Галараствор / Галараствор",
+   "specs": {
+    "Разновидность": "Sl-28, SL-34, Руиру 11, Батиан",
+    "Регион": "Кириньяга",
+    "Сбор урожая": "Декабрь 2024",
+    "Способ обработки": "мытый"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 629.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_keniya_tiririka_ndundu_av/",
+   "name": "Галараствор Кения Тиририка Ндунду АВ",
+   "description": "Галараствор Кения Тиририка Ндунду АВ",
+   "image": "https://theweldercatherine.ru/upload/iblock/9ac/gqki162oe2epr9bm8wh2ir341eqckmb4/kenia_tiritika_mp.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Галараствор / Галараствор",
+   "specs": {
+    "Разновидность": "Sl-28, 34, Руиру 11, Батиан",
+    "Регион": "Киамбу",
+    "Сбор урожая": "Январь 2025",
+    "Способ обработки": "мытый"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 705.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_efiopiya_bombe/",
+   "name": "Галараствор Эфиопия Бомбе",
+   "description": "Кофе растворимый порошкообразный \"Галараствор Эфиопия Бомбе\", 5x3,2 г",
+   "image": "https://theweldercatherine.ru/upload/iblock/2a5/ck17rzsqg5jyo15ltsmgtikuo6pxc0qn/efiopia.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Галараствор / Галараствор",
+   "specs": {
+    "Разновидность": "местные разновидности типики",
+    "Регион": "Гуджи",
+    "Сбор урожая": "Январь 2024",
+    "Способ обработки": "натуральный"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 711.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_kosta_rika_bambu/",
+   "name": "Галараствор Коста-Рика Бамбу",
+   "description": "Кофе растворимый порошкообразный \"Галараствор Коста-Рика Бамбу\", 5x3,2 г",
+   "image": "https://theweldercatherine.ru/upload/iblock/7ea/od417dncmk1f6w591oiqvsba9cmwv94b/kosta_rika_atAF-_P.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Галараствор / Галараствор",
+   "specs": {
+    "Разновидность": "катуаи",
+    "Регион": "Брунка, Чиррипо",
+    "Сбор урожая": "Февраль 2025",
+    "Способ обработки": "натуральный"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 800.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_braziliya_sabina/",
+   "name": "Галараствор Бразилия Сабина",
+   "description": "Кофе растворимый порошкообразный \"Галараствор Бразилия Сабина\", 5x3,2 г",
+   "image": "https://theweldercatherine.ru/upload/iblock/f35/rvy4z8jq6eoxadvwfd0vracfza5kjj5w/brazilia_sabina-_2_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Галараствор / Галараствор",
+   "specs": {
+    "Разновидность": "бурбон",
+    "Регион": "Минас Жерайс",
+    "Сбор урожая": "Сентябрь 2025",
+    "Способ обработки": "натуральный"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 680.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_kosta_rika_bambu_khani_iz_bochki/",
+   "name": "Галараствор Коста-Рика Бамбу Хани из бочки",
+   "description": "Кофе растворимый порошкообразный \"Галараствор Коста-Рика Бамбу Хани из бочки\", 16 гр",
+   "image": "https://theweldercatherine.ru/upload/iblock/ef1/yotqt2t0gkno21njuiqgn0l99tstqfr1/box-_5_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Галараствор / Галараствор",
+   "specs": {
+    "Разновидность": "катуаи",
+    "Регион": "Брунка, Чиррипо",
+    "Сбор урожая": "Февраль 2025",
+    "Способ обработки": "хани"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 850.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_peru_valle_sagrado/",
+   "name": "Галараствор Перу Valle Sagrado",
+   "description": "Кофе растворимый порошкообразный \"Перу Valle Sagrado\", 16 г",
+   "image": "https://theweldercatherine.ru/upload/iblock/e92/pxhckpitpvsn4fts9dyucvb9wd2pu1wq/1-_12_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Галараствор / Галараствор",
+   "specs": {
+    "Разновидность": "Бурбон, Типика, Катимор",
+    "Регион": "Долина Конвенций",
+    "Сбор урожая": "Апрель 2025",
+    "Способ обработки": "мытый"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 675.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_indoneziya_mandekhaling/",
+   "name": "Галараствор Индонезия Мандехалинг",
+   "description": "Кофе растворимый порошкообразный \"Галараствор  Индонезия Мандехалинг\", 5x3,2 г",
+   "image": "https://theweldercatherine.ru/upload/iblock/2fc/z32re42ng6wylm4qm2eazfnxrouuzrd4/Mokap-korobka-gala1-_-kopiya.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Галараствор / Галараствор",
+   "specs": {
+    "Разновидность": "атенг супер, сигарар утанг",
+    "Регион": "Сунда",
+    "Сбор урожая": "Октябрь 2024",
+    "Способ обработки": "Вет халл"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 705.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/galarastvor/assorti_galarastvora_afrika_30_sht/",
+   "name": "Ассорти галараствора \"Африка\", 30 шт",
+   "description": "Ассорти галараствора \"Африка\", 30 шт",
+   "image": "https://theweldercatherine.ru/upload/iblock/40c/m3ydztu4i8cbx1rjv3yovl9m7p8x8424/galarastvor_maks_2-_3_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Галараствор / Галараствор",
+   "specs": {},
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 3660.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/galarastvor/assorti_galarastvora_latinskaya_amerika_30_sht/",
+   "name": "Ассорти галараствора \"Латинская Америка\", 30 шт",
+   "description": "Ассорти галараствора \"Латинская Америка\", 30 шт",
+   "image": "https://theweldercatherine.ru/upload/iblock/3c5/hdrvb78hr38cj66sqf6efxfhim8qwdt8/galarastvor_maks_2-_4_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Галараствор / Галараствор",
+   "specs": {},
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 3685.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_efiopiya_dula_mazoriya/",
+   "name": "Галараствор Эфиопия Дула Мазория",
+   "description": "Кофе растворимый порошкообразный \"Галараствор Эфиопия Дула Мазория\", 5x3,2 г",
+   "image": "https://theweldercatherine.ru/upload/iblock/704/s2josxryvbs8iw1u1d2d6v994wm4bk2h/1-_13_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Галараствор / Галараствор",
+   "specs": {
+    "Разновидность": "местные разновидности типики",
+    "Регион": "Гедеб",
+    "Сбор урожая": "Январь 2025",
+    "Способ обработки": "натуральный"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 750.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_brutalnyy_batch_blend/",
+   "name": "Галараствор Брутальный Батч Бленд",
+   "description": "Галараствор Брутальный Батч Бленд",
+   "image": "https://theweldercatherine.ru/upload/iblock/340/1pe6ewa5d87wnzr4hbr3if8qc9p0auhb/Mokap-korobka-gala1-_-kopiya-_1_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Галараствор / Галараствор",
+   "specs": {
+    "Разновидность": "mix",
+    "Способ обработки": "mix"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 825.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_braziliya_yaguara_pb/",
+   "name": "Галараствор Бразилия Ягуара ПБ",
+   "description": "Кофе растворимый порошкообразный \"Галараствор Бразилия Ягуара ПБ\", 5x3,2 г",
+   "image": "https://theweldercatherine.ru/upload/iblock/af6/n3yabfv1h361bxcplqq1u83oapozgxcb/box-_2_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Галараствор / Галараствор",
+   "specs": {
+    "Разновидность": "жёлтый, красный катуаи",
+    "Регион": "Минас Жерайс",
+    "Сбор урожая": "Август 2025",
+    "Способ обработки": "натуральный"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 725.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_keniya_baragvi_kianyaga_aa/",
+   "name": "Галараствор Кения Барагви Кианьяга АА",
+   "description": "Кофе растворимый порошкообразный \"Галараствор Кения Барагви Кианьяга АА\", 5x3,2 г",
+   "image": "https://theweldercatherine.ru/upload/iblock/c88/06jskixmfz7zv88kr0kzo53lqkzhdp9u/Mokap-korobka-gala1-_-kopiya-_2_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Галараствор / Галараствор",
+   "specs": {
+    "Разновидность": "Sl-28, SL-34, Руиру 11, Батиан",
+    "Регион": "Ньери",
+    "Сбор урожая": "Январь 2025",
+    "Способ обработки": "мытый"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 760.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_braziliya_flavio_reys/",
+   "name": "Галараствор Бразилия Флавио Рейс",
+   "description": "Кофе растворимый порошкообразный \"Галараствор Бразилия Флавио Рейс\", 5x3,2 г",
+   "image": "https://theweldercatherine.ru/upload/iblock/780/es4ipjx1wdqpq25530zautua70l81rt2/Mokap-korobka-gala1-_-kopiya-_3_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Галараствор / Галараствор",
+   "specs": {
+    "Разновидность": "катуаи",
+    "Регион": "Минас Жерайс",
+    "Сбор урожая": "Сентябрь 2025",
+    "Способ обработки": "натуральный, анаэробный"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 760.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_keniya_kabare_karani_pb/",
+   "name": "Галараствор Кения Кабаре Карани ПБ",
+   "description": "Кофе растворимый порошкообразный \" Галараствор Кения Кабаре Карани ПБ\", 5x3,2 г",
+   "image": "https://theweldercatherine.ru/upload/iblock/6e8/c51g7nx6551ay1866bgy10t160m4rhyg/Mokap-korobka-gala1-_-kopiya-_7_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Галараствор / Галараствор",
+   "specs": {
+    "Разновидность": "Sl-28, SL-34, Руиру 11, Батиан",
+    "Регион": "Кириньяга",
+    "Сбор урожая": "Январь 2025",
+    "Способ обработки": "мытый"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 760.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_kolumbiya_el_chispa_iz_bochki/",
+   "name": "Галараствор Колумбия Эль Чиспа из бочки",
+   "description": "Кофе растворимый порошкообразный \"Галараствор Колумбия Эль Чиспа из бочки\", 16 гр",
+   "image": "https://theweldercatherine.ru/upload/iblock/06b/uyk0ujvpaosq30p167x00gy6hcvcuefy/Mokap-korobka-gala1-_-kopiya-_5_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Галараствор / Галараствор",
+   "specs": {
+    "Разновидность": "кастильо, катурра, колумбия",
+    "Регион": "Уила , Тимана",
+    "Сбор урожая": "Март 2025",
+    "Способ обработки": "мытый"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 770.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_peru_chirinos/",
+   "name": "Галараствор Перу Чиринос",
+   "description": "Кофе растворимый порошкообразный \"Перу Чиринос\", 16 г",
+   "image": "https://theweldercatherine.ru/upload/iblock/266/e642cb3xsjva2916aqnywks72m7lbuhn/Mokap-korobka-gala1-_-kopiya-_6_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Галараствор / Галараствор",
+   "specs": {
+    "Разновидность": "катурра",
+    "Регион": "Кахамарка",
+    "Сбор урожая": "Август 2025",
+    "Способ обработки": "натуральный"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 760.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_kolumbiya_kompanya_libertad_f6/",
+   "name": "Галараствор Колумбия Компанья Либертад Ф6",
+   "description": "Кофе растворимый порошкообразный \"Галараствор Колумбия Компанья Либертад Ф6\", 16 гр",
+   "image": "https://theweldercatherine.ru/upload/iblock/47d/h5tpdti9o6zzx49oi6c0akmvt2iafl12/Mokap-korobka-gala1-_-kopiya.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Галараствор / Галараствор",
+   "specs": {
+    "Разновидность": "Ф6",
+    "Регион": "Уила , Тимана",
+    "Сбор урожая": "Март 2025",
+    "Способ обработки": "мытый, анаэробный"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 840.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_kolumbiya_kompanya_libertad_rozovyy_burbon/",
+   "name": "Галараствор Колумбия Компанья Либертад розовый бурбон",
+   "description": "Кофе растворимый порошкообразный \"Галараствор Колумбия Компанья Либертад розовый бурбон\", 16 гр",
+   "image": "https://theweldercatherine.ru/upload/iblock/668/oixo5dmuf16ppmahejgok1zlv4vizc9a/Screenshot-2026_08_11-at-12.05.27-AM.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Галараствор / Галараствор",
+   "specs": {
+    "Разновидность": "розовый бурбон",
+    "Регион": "Уила",
+    "Сбор урожая": "Октябрь 2025",
+    "Способ обработки": "натуральный, анаэробный"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 860.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_kolumbiya_vecinos_freddi_romero/",
+   "name": "Галараствор Колумбия Vecinos: Фредди Ромеро",
+   "description": "Кофе растворимый порошкообразный \"Колумбия Vecinos: Фредди Ромеро\", 16 г",
+   "image": "https://theweldercatherine.ru/upload/iblock/4bc/uwilq29sbdnzqfcu77exmlm73ae4nwyr/Mokap-korobka-gala1-_-kopiya-_9_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Галараствор / Галараствор",
+   "specs": {
+    "Разновидность": "катурра",
+    "Регион": "Уила, Ла Флорида",
+    "Сбор урожая": "Октябрь 2025",
+    "Способ обработки": "натуральный, анаэробный"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 905.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_peru_las_mieles/",
+   "name": "Галараствор Перу Лас Миелес",
+   "description": "Кофе растворимый порошкообразный \"Перу Лас Миелес\", 5x3,2 г",
+   "image": "https://theweldercatherine.ru/upload/iblock/d75/889e7xpba0l1whgluyb9hcm47r7chlq6/Mokap-korobka-gala1-_-kopiya-_11_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Галараствор / Галараствор",
+   "specs": {
+    "Разновидность": "бурбон",
+    "Регион": "Чиринос",
+    "Сбор урожая": "Август 2025",
+    "Способ обработки": "мытый"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 725.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_boliviya_arkhangel/",
+   "name": "Галараствор Боливия Архангел",
+   "description": "Кофе растворимый порошкообразный \"Галараствор Боливия Архангел\", 5x3,2 г",
+   "image": "https://theweldercatherine.ru/upload/iblock/08d/eilow3f4kjdvh1p0si8fks432q31bz19/Mokap-korobka-gala1-_-kopiya-_1_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Галараствор / Галараствор",
+   "specs": {
+    "Разновидность": "катурра",
+    "Регион": "Каранави",
+    "Сбор урожая": "Сентябрь 2025",
+    "Способ обработки": "мытый"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 790.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_boliviya_don_karlos/",
+   "name": "Галараствор Боливия Дон Карлос",
+   "description": "Кофе растворимый порошкообразный \"Галараствор Боливия Дон Карлос\", 5x3,2 г",
+   "image": "https://theweldercatherine.ru/upload/iblock/08b/meh8vuuyhu4o232grfdknl6vhsfsrelq/Mokap-korobka-gala1-_-kopiya-_14_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Галараствор / Галараствор",
+   "specs": {
+    "Разновидность": "катурра",
+    "Регион": "Каранави",
+    "Сбор урожая": "Сентябрь 2025",
+    "Способ обработки": "хани"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 810.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_boliviya_samaypata/",
+   "name": "Галараствор Боливия Самайпата",
+   "description": "Кофе растворимый порошкообразный \"Галараствор Боливия Самайпата\", 5x3,2 г",
+   "image": "https://theweldercatherine.ru/upload/iblock/882/7yddkgeiesxuhz4e9r0nj3gtxjwi3ekh/Mokap-korobka-gala1-_-kopiya-_13_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Галараствор / Галараствор",
+   "specs": {
+    "Разновидность": "бурбон",
+    "Регион": "Каранави",
+    "Сбор урожая": "Сентябрь 2025",
+    "Способ обработки": "мытый"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 875.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_boliviya_sol_de_manyana_natural/",
+   "name": "Галараствор Боливия Соль Де Маньяна натурал",
+   "description": "Кофе растворимый порошкообразный \"Галараствор Боливия Соль Де Маньяна натурал\", 5x3,2 г",
+   "image": "https://theweldercatherine.ru/upload/iblock/6b2/mdocbqngii6cydo0mzu4k0e9lzpfvf2p/Mokap-korobka-gala1-_-kopiya-_16_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Галараствор / Галараствор",
+   "specs": {
+    "Разновидность": "катурра",
+    "Регион": "Каранави",
+    "Сбор урожая": "Сентябрь 2025",
+    "Способ обработки": "натуральный"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 875.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_tanzaniya_tvalima_av/",
+   "name": "Галараствор Танзания Твалима АВ",
+   "description": "Кофе растворимый порошкообразный \"Танзания Твалима АВ\", 16 г",
+   "image": "https://theweldercatherine.ru/upload/iblock/90c/ubu6m1e568wz0i0h98gepr0qp92ogefz/Mokap-korobka-gala1-_-kopiya-_15_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Галараствор / Галараствор",
+   "specs": {
+    "Разновидность": "бурбон",
+    "Регион": "Сонгве",
+    "Сбор урожая": "Декабрь 2025",
+    "Способ обработки": "мытый"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 740.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_kosta_rika_esteban_zamora/",
+   "name": "Галараствор Коста-Рика Эстебан Замора",
+   "description": "Кофе растворимый порошкообразный \"Галараствор Коста-Рика Эстебан Замора\", 5x3,2 г",
+   "image": "https://theweldercatherine.ru/upload/iblock/098/o11edt1pyojlp2pn9m0vlbflcgdy79ea/Mokap-korobka-gala1-_-kopiya-_17_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Галараствор / Галараствор",
+   "specs": {
+    "Разновидность": "катуаи",
+    "Регион": "Лос Сантос, Паритийя",
+    "Сбор урожая": "Март 2026",
+    "Способ обработки": "инфьюз, анаэробный"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 900.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_boliviya_alasitas/",
+   "name": "Галараствор Боливия Аласитас",
+   "description": "Кофе растворимый порошкообразный \"Галараствор Боливия Аласитас\", 5x3,2 г",
+   "image": "https://theweldercatherine.ru/upload/iblock/65f/x033zp33eg5av5lv7j3s17bu6c3mzwkg/Mokap-korobka-gala1-.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Галараствор / Галараствор",
+   "specs": {
+    "Разновидность": "катурра",
+    "Регион": "Санта-Крус",
+    "Сбор урожая": "Сентябрь 2025",
+    "Способ обработки": "мытый"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 790.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/rastitelnoe_moloko_oatgoat/kokosovoe_moloko_oatgoat_12_sht/",
+   "name": "Кокосовое \"молоко\" OatGoat (12 шт)",
+   "description": "Продукт на растительном сырье. Напиток сосonut - кокосовое. Для детского питания с 3-х лет. (12 шт)",
+   "image": "https://theweldercatherine.ru/upload/iblock/c55/17tespnkv0vdg3x0v1nqiiv45763serh/koks.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Растительное “молоко” OatGoat / Растительное “молоко” OatGoat",
+   "specs": {},
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2100.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/rastitelnoe_moloko_oatgoat/mindalnoe_moloko_oatgoat_12_sht/",
+   "name": "Миндальное \"молоко\" OatGoat (12 шт)",
+   "description": "Продукт на растительном сырье. Напиток almond - миндальное. Для детского питания с 3-х лет (12 шт)",
+   "image": "https://theweldercatherine.ru/upload/iblock/a6f/fl7oexjfx7flvyuu1mgfci9nwk1fks4h/mind.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Растительное “молоко” OatGoat / Растительное “молоко” OatGoat",
+   "specs": {},
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2100.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/rastitelnoe_moloko_oatgoat/bananovoe_moloko_oatgoat_12_sht/",
+   "name": "Банановое \"молоко\" OatGoat (12 шт)",
+   "description": "Продукт на растительном сырье. Напиток banana - банан. Для детского питания с 3-х лет. (12 шт)",
+   "image": "https://theweldercatherine.ru/upload/iblock/4e5/quq7ogsvystqdhdt2g2xrbgldgyzx7ez/banan.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Растительное “молоко” OatGoat / Растительное “молоко” OatGoat",
+   "specs": {},
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2100.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/rastitelnoe_moloko_oatgoat/ovsyanoe_moloko_oatgoat_12_sht/",
+   "name": "Овсяное \"молоко\" OatGoat (12 шт)",
+   "description": "Продукт на растительном сырье. Напиток оat-овсяное. Для детского питания с 3-х лет. (12 шт)",
+   "image": "https://theweldercatherine.ru/upload/iblock/0c4/ycypgo7c85it6o1iut2fb9ik89zi5379/ovsya.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Растительное “молоко” OatGoat / Растительное “молоко” OatGoat",
+   "specs": {},
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1500.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_filtra/kosta_rika_rafael_prado/",
+   "name": "Коста-Рика Рафаэль Прадо",
+   "description": "Коста-Рика Рафаэль Прадо",
+   "image": "https://theweldercatherine.ru/upload/iblock/7ca/kzyzisy0y18uzqtlhcz79qx7e8u8cb2k/Kosta_Rika-Rafael-Prado-250.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Архив кофе / Архив кофе",
+   "specs": {
+    "Разновидность": "катуаи",
+    "Регион": "Сан Исидро, Лос Сантос",
+    "Сбор урожая": "Февраль 2024",
+    "Способ обработки": "натуральный, анаэробный",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Санта Роса",
+    "Обжарка": "фильтр"
+   },
+   "available": false,
+   "variants": [
+    {
+     "weight_g": 1000,
+     "price": 3783.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_filtra/braziliya_andre_luis/",
+   "name": "Бразилия Андре Луис",
+   "description": "Кофе Бразилия Андре Луис",
+   "image": "https://theweldercatherine.ru/upload/iblock/4f8/31kjhwurrabicdj4bxluj1an29gt04fo/250g-_1_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Архив кофе / Архив кофе",
+   "specs": {
+    "Разновидность": "желтый бурбон",
+    "Регион": "Суль Де Минас",
+    "Сбор урожая": "Август 2025",
+    "Способ обработки": "натуральный, анаэробный",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Санта Люсия",
+    "Обжарка": "фильтр"
+   },
+   "available": false,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1287.0,
+     "available": false
+    },
+    {
+     "weight_g": 1000,
+     "price": 3861.0,
+     "available": false
+    },
+    {
+     "weight_g": 1000,
+     "price": 3143.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_filtra/peru_demian_espinoza/",
+   "name": "Перу Демиан Эспиноза",
+   "description": "Кофе Перу Демиан Эспиноза",
+   "image": "https://theweldercatherine.ru/upload/iblock/675/2fuz9q3bk9xiwkq811fcp2m8d7fo2h3d/250g-_1_-_43_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Архив кофе / Архив кофе",
+   "specs": {
+    "Разновидность": "бурбон, катурра, мундо нову",
+    "Регион": "Чиринос",
+    "Сбор урожая": "Август 2025",
+    "Способ обработки": "мытый",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Ла Пальма",
+    "Обжарка": "фильтр"
+   },
+   "available": false,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1363.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_filtra/kolumbiya_la_virginya/",
+   "name": "Колумбия Ла Виргинья",
+   "description": "Колумбия Ла Виргинья",
+   "image": "https://theweldercatherine.ru/upload/iblock/d73/8s4junt786rgpflwdxcy19q5yrh6jg5n/250_-_1_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Архив кофе / Архив кофе",
+   "specs": {
+    "Разновидность": "Ф6",
+    "Регион": "Уила, Ла Флорида",
+    "Сбор урожая": "Октябрь 2024",
+    "Способ обработки": "мытый",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Ла Виргинья",
+    "Обжарка": "фильтр"
+   },
+   "available": false,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1442.0,
+     "available": false
+    },
+    {
+     "weight_g": 1000,
+     "price": 4325.0,
+     "available": false
+    },
+    {
+     "weight_g": 250,
+     "price": 1300.0,
+     "available": false
+    },
+    {
+     "weight_g": 1000,
+     "price": 3899.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_filtra/kolumbiya_rafael_ayya_dekaf/",
+   "name": "Колумбия Рафаэль Айя Декаф",
+   "description": "Колумбия Рафаэль Айя Декаф",
+   "image": "https://theweldercatherine.ru/upload/iblock/4bc/6dyyb0p1c97ljhq6fi0ktty5yvrimwnu/Kolumbiya-Rafael-Ai_ya-Dekaf-250-gr.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Архив кофе / Архив кофе",
+   "specs": {
+    "Разновидность": "катурра",
+    "Регион": "Уила , Тимана",
+    "Сбор урожая": "Март 2024",
+    "Способ обработки": "мытый, полумытый, натуральный",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "La Virginia",
+    "Обжарка": "фильтр"
+   },
+   "available": false,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1209.0,
+     "available": false
+    },
+    {
+     "weight_g": 1000,
+     "price": 3628.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_filtra/kolumbiya_rafael_ayya_anaerob/",
+   "name": "Колумбия Рафаэль Айя анаэроб",
+   "description": "Колумбия Рафаэль Айя анаэроб",
+   "image": "https://theweldercatherine.ru/upload/iblock/0f9/9dgj3zfs8j20xdvmkkmd6p1gdz3p3ekm/250_-_1_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Архив кофе / Архив кофе",
+   "specs": {
+    "Разновидность": "катурра",
+    "Регион": "Уила, Ла Флорида",
+    "Сбор урожая": "Октябрь 2024",
+    "Способ обработки": "натуральный, анаэробный",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Обжарка": "фильтр"
+   },
+   "available": false,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1576.0,
+     "available": false
+    },
+    {
+     "weight_g": 1000,
+     "price": 4728.0,
+     "available": false
+    },
+    {
+     "weight_g": 250,
+     "price": 1576.0,
+     "available": false
+    },
+    {
+     "weight_g": 1000,
+     "price": 4727.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_filtra/boliviya_sol_de_manyana/",
+   "name": "Боливия Соль Де Маньяна",
+   "description": "Кофе Боливия Соль Де Маньяна",
+   "image": "https://theweldercatherine.ru/upload/iblock/7bc/wq9wr351s50452t5zv9mt54rlp0s4f2r/250_-_1_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Архив кофе / Архив кофе",
+   "specs": {
+    "Разновидность": "катурра",
+    "Регион": "Каранави",
+    "Сбор урожая": "Сентябрь 2024",
+    "Способ обработки": "мытый",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Обжарка": "фильтр"
+   },
+   "available": false,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1233.0,
+     "available": false
+    },
+    {
+     "weight_g": 1000,
+     "price": 3700.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/pod_molochko_1/burundi_pod_molochko_1/",
+   "name": "Бурунди под молочко",
+   "description": "Бурунди под молочко",
+   "image": "https://theweldercatherine.ru/upload/iblock/f84/2b71i312ymvskdnkw3oyeixwyxzdcb68/250g-_1_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Архив кофе / Архив кофе",
+   "specs": {
+    "Разновидность": "бурбон",
+    "Регион": "Нгози",
+    "Сбор урожая": "Март - Июль",
+    "Способ обработки": "натуральный",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Обжарка": "молочко"
+   },
+   "available": false,
+   "variants": [
+    {
+     "weight_g": 1000,
+     "price": 2614.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_indoneziya_uildan_mustofa/",
+   "name": "Галараствор Индонезия Уилдан Мустофа",
+   "description": "Кофе растворимый порошкообразный \"Галараствор Индонезия Уилдан Мустофа\", 5x3,2 г",
+   "image": "https://theweldercatherine.ru/upload/iblock/4b2/nlm2oidq0jr5fyqvb30cg6g9v026j3as/Indoneziya-Ioldan-Mustofa.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Архив кофе / Архив кофе",
+   "specs": {
+    "Разновидность": "атенг супер, сигарар утанг",
+    "Регион": "Сунда",
+    "Сбор урожая": "Август",
+    "Способ обработки": "Натуральный, лакто ферментация"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 775.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_kolumbiya_rafael_ayya_rozovyy_burbon/",
+   "name": "Галараствор Колумбия Рафаэль Айя розовый бурбон",
+   "description": "Заказывайте Галараствор Колумбия Рафаэль Айя розовый бурбон с удобной доставкой. Свежая обжарка, подробное описание вкусового профиля, характеристики и отзывы на сайте The Welder Catherine.",
+   "image": "https://theweldercatherine.ru/upload/iblock/aca/khictklo6hww7l8ig38n0mi8h03kscu2/Kolumbiya-Rafael-Ayya-rozovyy-burbon-gala-_1_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Архив кофе / Архив кофе",
+   "specs": {
+    "Разновидность": "розовый бурбон",
+    "Регион": "Уила , Тимана",
+    "Сбор урожая": "Июнь 2023",
+    "Способ обработки": "мытый, анаэробный"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 635.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_kolumbiya_rafael_ayya_anaerob/",
+   "name": "Галараствор Колумбия Рафаэль Айя анаэроб",
+   "description": "Заказывайте Галараствор Колумбия Рафаэль Айя анаэроб с удобной доставкой. Свежая обжарка, подробное описание вкусового профиля, характеристики и отзывы на сайте The Welder Catherine.",
+   "image": "https://theweldercatherine.ru/upload/iblock/c53/4l85pm1wtimu5i00o7j9f8gvmp1vhyxt/Kolumbiya-Rafael-ayya-anaerob.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Архив кофе / Архив кофе",
+   "specs": {
+    "Разновидность": "катурра",
+    "Регион": "Уила, Ла Флорида",
+    "Сбор урожая": "Октябрь 2023",
+    "Способ обработки": "натуральный, анаэробный"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 695.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_kosta_rika_rafael_prado/",
+   "name": "Галараствор Коста-Рика Рафаэль Прадо",
+   "description": "Кофе растворимый порошкообразный \"Коста-Рика Рафаэль Прадо\", 5x3,2 г",
+   "image": "https://theweldercatherine.ru/upload/iblock/522/bfcfoe0yij06o9be1pxhbkp7thaolgej/Kosta_Rika-Rafael-Prado-gala.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Архив кофе / Архив кофе",
+   "specs": {
+    "Разновидность": "катуаи",
+    "Регион": "Сан Исидро, Лос Сантос",
+    "Сбор урожая": "Февраль 2023",
+    "Способ обработки": "натуральный, анаэробный"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 755.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/pod_molochko_1/braziliya_anaerobnaya_pod_molochko/",
+   "name": "Бразилия Анаэробная под молочко",
+   "description": "Бразилия Анаэробная под молочко",
+   "image": "https://theweldercatherine.ru/upload/iblock/8af/8vl6m1ah1sbzdsya8q0l5y533n37dzky/Braziliya-Anaerobnaya-pod-molochko-250g-_3_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Архив кофе / Архив кофе",
+   "specs": {
+    "Разновидность": "желтый катуаи",
+    "Регион": "Минас Жерайс",
+    "Сбор урожая": "Август 2024",
+    "Способ обработки": "натуральный, анаэробный",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Обжарка": "молочко"
+   },
+   "available": false,
+   "variants": [
+    {
+     "weight_g": 1000,
+     "price": 2924.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_filtra/indoneziya_sakaro_1/",
+   "name": "Индонезия Сакаро",
+   "description": "Индонезия Сакаро",
+   "image": "https://theweldercatherine.ru/upload/iblock/1b7/skxwu1r034oywiz9o61g2kj1n45na1ww/Indoneziya-Sakaro-250.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Архив кофе / Архив кофе",
+   "specs": {
+    "Разновидность": "атенг супер, сигарар утанг",
+    "Регион": "Сунда",
+    "Сбор урожая": "Сентябрь 2024",
+    "Способ обработки": "Мытый, лактоанаэробный",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Frinsa Estate – Семейная кофейная ферма в Индонезии",
+    "Обжарка": "фильтр"
+   },
+   "available": false,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1265.0,
+     "available": false
+    },
+    {
+     "weight_g": 1000,
+     "price": 3796.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_kosta_rika_kennet_madrigal_khani/",
+   "name": "Галараствор Коста-Рика Кеннет Мадригаль Хани",
+   "description": "Кофе растворимый порошкообразный \"Галараствор Коста-Рика Кеннет Мадригаль Хани\", 5x3,2 г",
+   "image": "https://theweldercatherine.ru/upload/iblock/fb3/2m04rt9e201x0zm53hk67vnv8ui6jvxz/kosta_rika-khani-gala.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Архив кофе / Архив кофе",
+   "specs": {
+    "Разновидность": "катуаи",
+    "Регион": "Лос Сантос, Сан Лоренцо",
+    "Сбор урожая": "Март 2023",
+    "Способ обработки": "Хани, анаэробный"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 770.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_filtra/kolumbiya_la_virginya_anaerob/",
+   "name": "Колумбия Ла Виргинья анаэроб",
+   "description": "Колумбия Ла Виргинья анаэроб",
+   "image": "https://theweldercatherine.ru/upload/iblock/126/12v892t6mojmuqays9dgf2w02248b9xm/Kolumbiya-La-Virginya-anaerob-250g-_1_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Архив кофе / Архив кофе",
+   "specs": {
+    "Разновидность": "катурра, розовый бурбон",
+    "Регион": "Уила , Тимана",
+    "Сбор урожая": "Июнь 2024",
+    "Способ обработки": "натуральный, анаэробный",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "La Virginia",
+    "Обжарка": "эспрессо"
+   },
+   "available": false,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1329.0,
+     "available": false
+    },
+    {
+     "weight_g": 1000,
+     "price": 3986.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/pod_molochko_1/indoneziya_reissue_pod_molochko/",
+   "name": "Индонезия reissue под молочко",
+   "description": "Индонезия reissue под молочко",
+   "image": "https://theweldercatherine.ru/upload/iblock/4c5/gg1si8dz8m2773ehbx50g5l9vpre05ur/Indoneziya-reissue-pod-molochko-250g-_1_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Архив кофе / Архив кофе",
+   "specs": {
+    "Разновидность": "Сигарар Утанг, Атенг Супер",
+    "Регион": "Сунда",
+    "Сбор урожая": "Август 2023",
+    "Способ обработки": "мытый",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Обжарка": "молочко"
+   },
+   "available": false,
+   "variants": [
+    {
+     "weight_g": 1000,
+     "price": 3645.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_filtra/efiopiya_boku_saisa/",
+   "name": "Эфиопия Боку Саиса",
+   "description": "Эфиопия Боку Саиса",
+   "image": "https://theweldercatherine.ru/upload/iblock/eaf/r0j5alj3qvd7v0mdn83uir7fni0srcgt/Efiopiya-Boku-Saisa-250g-_1_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Архив кофе / Архив кофе",
+   "specs": {
+    "Разновидность": "Местные разновидности типики",
+    "Регион": "Гуджи",
+    "Сбор урожая": "Январь 2025",
+    "Способ обработки": "анаэробный",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Обжарка": "фильтр"
+   },
+   "available": false,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1564.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_filtra/kolumbiya_la_virginya_sidra_2/",
+   "name": "Колумбия Ла Виргинья Сидра",
+   "description": "Кофе Колумбия Ла Виргинья Сидра",
+   "image": "https://theweldercatherine.ru/upload/iblock/ba6/n1ps7l08w5nv3h63wk504gl7s06h33bb/250g-_1_-_4_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Архив кофе / Архив кофе",
+   "specs": {
+    "Разновидность": "сидра",
+    "Регион": "Уила, Ла Флорида",
+    "Сбор урожая": "Март 2025",
+    "Способ обработки": "мытый, анаэробный",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Ла Виргинья",
+    "Обжарка": "фильтр"
+   },
+   "available": false,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1803.0,
+     "available": false
+    },
+    {
+     "weight_g": 1000,
+     "price": 5408.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_filtra/kolumbiya_kompanya_libertad_akhi/",
+   "name": "Колумбия Компанья Либертад",
+   "description": "Колумбия Компанья Либертад",
+   "image": "https://theweldercatherine.ru/upload/iblock/723/1lzkfukrpc5mxldmigqltzj3knet492i/250_-_1_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Архив кофе / Архив кофе",
+   "specs": {
+    "Разновидность": "Ф6",
+    "Регион": "Уила , Тимана",
+    "Сбор урожая": "Март 2025",
+    "Способ обработки": "натуральный, экспериментальный",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Компанья Либертад",
+    "Обжарка": "фильтр"
+   },
+   "available": false,
+   "variants": [
+    {
+     "weight_g": 1000,
+     "price": 4784.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_filtra/kolumbiya_la_virginya_pakamara/",
+   "name": "Колумбия Ла Виргинья Пакамара",
+   "description": "Кофе Колумбия Ла Виргинья Пакамара",
+   "image": "https://theweldercatherine.ru/upload/iblock/a03/kwzf4x5ezfxrez842srz48meylavfs0z/250g-_1_-_2_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Архив кофе / Архив кофе",
+   "specs": {
+    "Разновидность": "пакамара",
+    "Регион": "Уила , Тимана",
+    "Сбор урожая": "Март 2025",
+    "Способ обработки": "натуральный, экспериментальный",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Ла Виргинья",
+    "Обжарка": "фильтр"
+   },
+   "available": false,
+   "variants": [
+    {
+     "weight_g": 1000,
+     "price": 4592.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_espresso/keniya_starlayt_c/",
+   "name": "Кения Старлайт C",
+   "description": "Заказывайте Кения Старлайт C с удобной доставкой. Свежая обжарка, подробное описание вкусового профиля, характеристики и отзывы на сайте The Welder Catherine.",
+   "image": "https://theweldercatherine.ru/upload/iblock/d24/fawxf8ctgoc3m3w09nw7uhy9h15v5kpz/250g-_1_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Архив кофе / Архив кофе",
+   "specs": {
+    "Разновидность": "Sl-28, SL-34, Руиру 11, Батиан",
+    "Регион": "Ньери",
+    "Сбор урожая": "Январь 2024",
+    "Способ обработки": "мытый",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Оценщик",
+    "Обжарка": "эспрессо"
+   },
+   "available": false,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 942.0,
+     "available": false
+    },
+    {
+     "weight_g": 1000,
+     "price": 2826.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_filtra/braziliya_elinir_2/",
+   "name": "Бразилия Элинир",
+   "description": "Бразилия Элинир",
+   "image": "https://theweldercatherine.ru/upload/iblock/1b8/mq6qq7by6browfqyk1jmkz12rvyjn3o1/Braziliya-Elinir-250.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Архив кофе / Архив кофе",
+   "specs": {
+    "Разновидность": "Арара",
+    "Регион": "Минас Жерайс",
+    "Сбор урожая": "Сентябрь 2024",
+    "Способ обработки": "натуральный, анаэробный",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Jaguara",
+    "Обжарка": "фильтр"
+   },
+   "available": false,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1083.0,
+     "available": false
+    },
+    {
+     "weight_g": 1000,
+     "price": 3248.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_espresso/keniya_olbanata/",
+   "name": "Кения Олбаната",
+   "description": "Кофе Кения Олбаната",
+   "image": "https://theweldercatherine.ru/upload/iblock/899/if2no3iuugvj3cw9vunjuxbvklpnezr4/250g-_1_-_92_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для эспрессо / Для эспрессо",
+   "specs": {
+    "Разновидность": "Руиру-11, SL-28, Батиан",
+    "Регион": "Кириньяга",
+    "Сбор урожая": "Январь 2026",
+    "Способ обработки": "натуральный",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Олбаната",
+    "Обжарка": "фильтр, эспрессо"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1194.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 3583.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1194.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 3583.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_espresso/ruanda_kabue_/",
+   "name": "Руанда Кабуе",
+   "description": "Кофе Руанда Кабуе",
+   "image": "https://theweldercatherine.ru/upload/iblock/105/ysg1fu3adxom7t7mjtyys9gzlge5qfcs/250g-_1_-_29_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для эспрессо / Для эспрессо",
+   "specs": {
+    "Разновидность": "Красный бурбон",
+    "Регион": "Уйе",
+    "Сбор урожая": "Апрель 2025",
+    "Способ обработки": "мытый",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Кооператив Кабуе",
+    "Обжарка": "фильтр, эспрессо"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1194.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 3583.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1194.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 3583.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_espresso/efiopiya_lalisa2/",
+   "name": "Эфиопия Лалиса",
+   "description": "Кофе Эфиопия Лалиса",
+   "image": "https://theweldercatherine.ru/upload/iblock/7f4/uknlz0p9p4hck9ym3eg0burn6hbrok9q/Efiopiya-Lalisa-sayt-250g-_1_-_2_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для эспрессо / Для эспрессо",
+   "specs": {
+    "Разновидность": "местные разновидности типики",
+    "Регион": "Иргачифф",
+    "Сбор урожая": "Январь 2025",
+    "Способ обработки": "мытый",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "\"Lalesa\"",
+    "Обжарка": "фильтр, эспрессо"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1238.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 3715.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1238.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 3715.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_espresso/efiopiya_reku_1/",
+   "name": "Эфиопия Реку",
+   "description": "Кофе Эфиопия Реку",
+   "image": "https://theweldercatherine.ru/upload/iblock/b6c/cwfiwwg6eyg1zu0jby7igczolh4chdre/250g-_1_-_81_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для эспрессо / Для эспрессо",
+   "specs": {
+    "Разновидность": "местные разновидности бурбона",
+    "Регион": "Иргачифф",
+    "Сбор урожая": "Январь 2026",
+    "Способ обработки": "мытый",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Реку",
+    "Обжарка": "фильтр, эспрессо"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1349.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4046.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1349.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4046.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_espresso/kolumbiya_reynbou_dekaf/",
+   "name": "Колумбия Рэйнбоу декаф",
+   "description": "Кофе Колумбия Рэйнбоу декаф",
+   "image": "https://theweldercatherine.ru/upload/iblock/ec6/i68vn19hl4hf78r6mvvzw40ktiivyup2/250g-_1_-_23_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для эспрессо / Для эспрессо",
+   "specs": {
+    "Разновидность": "катурра",
+    "Регион": "Уила",
+    "Сбор урожая": "Март 2025",
+    "Способ обработки": "мытый",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Обжарка": "фильтр, эспрессо"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1371.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4112.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1371.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4112.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_espresso/kolumbiya_martines_katurra/",
+   "name": "Колумбия Мартинес катурра",
+   "description": "Кофе Колумбия Мартинес катурра",
+   "image": "https://theweldercatherine.ru/upload/iblock/4a0/mebdmgr5523rjofk8mb4qhlucaqixt6m/250g-_1_-_90_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для эспрессо / Для эспрессо",
+   "specs": {
+    "Разновидность": "катурра",
+    "Регион": "Уила",
+    "Сбор урожая": "Март 2026",
+    "Способ обработки": "натуральный, анаэробный",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Ла Виргинья",
+    "Обжарка": "фильтр, эспрессо"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1393.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4179.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1393.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4179.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_espresso/peru_valle_sagrado_iz_bochki/",
+   "name": "Перу Valle Sagrado из бочки",
+   "description": "Кофе Перу Valle Sagrado из бочки",
+   "image": "https://theweldercatherine.ru/upload/iblock/4e3/sk76tcbj3dpnlttc9extgxjern5aoyhv/250g-_1_-_45_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для эспрессо / Для эспрессо",
+   "specs": {
+    "Разновидность": "бурбон, типика, катурра",
+    "Регион": "Долина Конвенций",
+    "Сбор урожая": "Декабрь 2025",
+    "Способ обработки": "мытый",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Обжарка": "фильтр, эспрессо"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1424.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1424.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4271.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_espresso/ruanda_susa/",
+   "name": "Руанда Суса",
+   "description": "Кофе Руанда Суса",
+   "image": "https://theweldercatherine.ru/upload/iblock/464/el1895ivha1h3ub9npyhnlxxjhqbop0g/250g-_1_-_48_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для эспрессо / Для эспрессо",
+   "specs": {
+    "Разновидность": "красный бурбон",
+    "Регион": "Ньямашеке",
+    "Сбор урожая": "Апрель 2025",
+    "Способ обработки": "мытый, анаэробный",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Станция Сьято",
+    "Обжарка": "фильтр, эспрессо"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1437.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4311.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1437.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4311.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_espresso/kolumbiya_martines_rozovyy_burbon/",
+   "name": "Колумбия Мартинес розовый бурбон",
+   "description": "Кофе Колумбия Мартинес розовый бурбон",
+   "image": "https://theweldercatherine.ru/upload/iblock/112/m5m2yhzpfngu0h52nbz7s3ajjckt0qfj/250g-_1_-_4_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для эспрессо / Для эспрессо",
+   "specs": {
+    "Разновидность": "розовый бурбон",
+    "Регион": "Уила",
+    "Сбор урожая": "Март 2025",
+    "Способ обработки": "мытый, анаэробный",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Ла Виргинья",
+    "Обжарка": "фильтр, эспрессо"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1459.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4377.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1459.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4377.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_espresso/kolumbiya_rafael_ayya_3/",
+   "name": "Колумбия Рафаэль Айя",
+   "description": "Кофе Колумбия Рафаэль Айя",
+   "image": "https://theweldercatherine.ru/upload/iblock/903/qelv68orl0vvvu5hl6lnnt92ndb6rnux/250g-_1_-_39_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для эспрессо / Для эспрессо",
+   "specs": {
+    "Разновидность": "катурра",
+    "Регион": "Уила, Ла Флорида",
+    "Сбор урожая": "Март 2025",
+    "Способ обработки": "натуральный",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Ла Виргиния",
+    "Обжарка": "фильтр, эспрессо"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1725.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 5174.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1725.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 5174.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/avtomat/futbolka_medooza_kofein_i_benzin_caffeine_gasoline_chyernyy_/",
+   "name": "Футболка MEDOOZA \"Кофеин и бензин / Caffeine & Gasoline\" (чёрный)",
+   "description": "Футболка MEDOOZA \"Кофеин и бензин / Caffeine & Gasoline\" (чёрный)",
+   "image": "https://theweldercatherine.ru/upload/iblock/b3e/kiklsjyb112xx6hdfm6mxesauico34qo/Caffeine_Gasoline_back.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог",
+   "specs": {
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто"
+   },
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 3595.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3595.0,
+     "available": true
+    }
+   ]
+  }
+ ]
+}

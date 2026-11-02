@@ -26,6 +26,8 @@ const SYN = {
   filter: "filter", фильтр: "filter", эспрессо: "espresso", espresso: "espresso", омни: "omni", ягоды: "ягоды", berry: "ягоды",
   кения: "кения", kenya: "кения", ethiopia: "эфиопия", colombia: "колумбия", brazil: "бразилия", guatemala: "гватемала",
 };
+const av = p => p.available === false ? 0 : p.available == null ? 1 : 2;
+const stock = p => p.gone ? `<span class="dot no"></span>снят с продажи` : p.available === false ? `<span class="dot no"></span>нет` : p.available == null ? `<span class="dot unk"></span>уточняйте` : `<span class="dot"></span>есть`;
 const ROAST = { filter: "Фильтр", espresso: "Эспрессо", omni: "Омни" };
 const PALETTE = ["#b4532a", "#7a3b1a", "#3f7d4e", "#2f6f8f", "#8a4f9e", "#b07d1a", "#a33b4a", "#4f6b2a", "#5c4b8a", "#1f7a74"];
 const colorOf = s => { let h = 0; for (const c of String(s)) h = (h * 31 + c.charCodeAt(0)) >>> 0; return PALETTE[h % PALETTE.length]; };
@@ -84,7 +86,7 @@ function prepare(cat) {
     (LOTS[p.lot] ||= []).push(p);
   }
   for (const [id, ps] of Object.entries(LOTS)) {
-    ps.sort((a, b) => (b.available - a.available) || ((a.price_100g ?? 1e9) - (b.price_100g ?? 1e9)));
+    ps.sort((a, b) => (av(b) - av(a)) || ((a.price_100g ?? 1e9) - (b.price_100g ?? 1e9)));
     const roasters = new Set(ps.map(p => p.roaster));
     for (const p of ps) p._multi = roasters.size;
   }
@@ -119,7 +121,7 @@ const FACETS = [
   { k: "city", t: "Город обжарщика", get: p => p._r.city, top: 8 },
 ];
 const TOGGLES = [
-  { k: "instock", t: "Только в наличии", test: p => p.available },
+  { k: "instock", t: "Только в наличии", test: p => p.available !== false },
   { k: "multi", t: "Есть у нескольких обжарщиков", test: p => p._multi > 1 },
   { k: "new", t: "Новинки (14 дней)", test: p => p.is_new },
   { k: "noblend", t: "Без смесей", test: p => !p.is_blend },
@@ -153,7 +155,7 @@ function results() {
 
 function sortList(list) {
   const by = {
-    rel: (a, b) => (b._s || 0) - (a._s || 0) || (b.available - a.available) || (b._multi - a._multi) || (b.is_new - a.is_new),
+    rel: (a, b) => (b._s || 0) - (a._s || 0) || (av(b) - av(a)) || (b._multi - a._multi) || (b.is_new - a.is_new),
     price: (a, b) => (a.price_100g ?? 1e9) - (b.price_100g ?? 1e9),
     pricedesc: (a, b) => (b.price_100g ?? -1) - (a.price_100g ?? -1),
     new: (a, b) => b.first_seen.localeCompare(a.first_seen),
@@ -183,7 +185,7 @@ const cmpIcon = id => `<button class="cmp-btn ${state.cmp.has(id) ? "on" : ""}" 
 
 function lotCard(ps) {
   const head = ps.find(p => p.image) || ps[0];
-  const av = ps.filter(p => p.available);
+  const av = ps.filter(p => p.available !== false);
   const pr = (av.length ? av : ps).map(p => p.price_100g).filter(x => x != null);
   const rs = [...new Map(ps.map(p => [p.roaster, p._r])).values()];
   const names = ps.map(p => p.name).sort((a, b) => a.length - b.length);
@@ -205,7 +207,7 @@ function itemCard(p) {
   const d = deliveryEst(p._r, state.city);
   return `<article class="card">
     <a class="cover" href="#/lot/${p.lot}/${p.id}">${cover(p)}
-      <div class="badges">${p._multi > 1 ? `<span class="badge multi">ещё у ${p._multi - 1}</span>` : ""}${p.is_new ? `<span class="badge new">Новинка</span>` : ""}${!p.available ? `<span class="badge out">Нет в наличии</span>` : ""}</div></a>
+      <div class="badges">${p._multi > 1 ? `<span class="badge multi">ещё у ${p._multi - 1}</span>` : ""}${p.is_new ? `<span class="badge new">Новинка</span>` : ""}${p.available === false ? `<span class="badge out">Нет в наличии</span>` : ""}</div></a>
     ${cmpIcon(p.id)}
     <div class="body">
       <div class="origin">${esc(origin(p))}</div>
@@ -253,7 +255,7 @@ function renderCatalog(mode) {
   ${mode !== "new" && !state.q ? `<section class="hero"><div>
       <h1>Один и тот же кофе.<br><i>Все обжарщики</i> рядом.</h1>
       <p>Ищите лот по стране, ферме или вкусу и сравнивайте цену за 100 г, обработку и сроки доставки в выбранный город у российских specialty-обжарщиков.</p></div>
-      <div class="stats"><div class="stat"><b>${DB.products.filter(p => p.available).length}</b><span>кофе в наличии</span></div>
+      <div class="stats"><div class="stat"><b>${DB.products.filter(p => p.available !== false).length}</b><span>кофе в продаже</span></div>
       <div class="stat"><b>${live.length}</b><span>обжарщиков</span></div>
       <div class="stat"><b>${multi}</b><span>лотов у 2+ обжарщиков</span></div></div></section>`
     : `<section class="section"><h2>${mode === "new" ? "Новинки за 14 дней" : `Поиск: «${esc(state.q)}»`}</h2></section>`}
@@ -292,11 +294,11 @@ function renderLot(lotId, focusId) {
   if (!ps) return renderNotFound();
   const focus = ps.find(p => p.id === focusId) || ps.find(p => p.image) || ps[0];
   const imgs = ps.filter(p => p.image);
-  const avail = ps.filter(p => p.available && p.price_100g != null);
-  const best = avail[0];
+  const avail = ps.filter(p => p.available !== false && p.price_100g != null);
+  const best = [...avail].sort((a, b) => a.price_100g - b.price_100g)[0];
   const sortKey = store.get("lotSort", "price");
   const rows = [...ps].sort({
-    price: (a, b) => (b.available - a.available) || (a.price_100g ?? 1e9) - (b.price_100g ?? 1e9),
+    price: (a, b) => (av(b) - av(a)) || (a.price_100g ?? 1e9) - (b.price_100g ?? 1e9),
     dlv: (a, b) => (deliveryEst(a._r, state.city)?.lo ?? 99) - (deliveryEst(b._r, state.city)?.lo ?? 99),
     name: (a, b) => a._r.name.localeCompare(b._r.name),
   }[sortKey]);
@@ -334,11 +336,11 @@ function renderLot(lotId, focusId) {
       const d = deliveryEst(p._r, state.city);
       return `<tr class="${p === best ? "top1" : ""}">
       <td class="c-r"><div class="rname">${p.image ? `<img src="${esc(p.image)}" alt="">` : avatar(p._r)}<div><b>${esc(p._r.name)}</b><br><small>${esc(p._r.city)} · ${esc(p.name)}</small></div></div></td>
-      <td>${(p.variants || []).map(v => `<span class="w ${v.a ? "" : "na"}">${v.w ? (v.w >= 1000 ? v.w / 1000 + " кг" : v.w + " г") : "—"} · ${rub(v.p)}</span>`).join(" ")}</td>
+      <td>${(p.variants || []).map(v => `<span class="w ${v.a === false && p.available !== null ? "na" : ""}">${v.w ? (v.w >= 1000 ? v.w / 1000 + " кг" : v.w + " г") : "—"} · ${rub(v.p)}</span>`).join(" ")}</td>
       <td><b>${rub(p.price_100g)}</b>${spark(p.price_history)}</td>
       <td class="dlv">${fmtDlv(d)}<br><small>${esc((p._r.delivery?.methods || []).join(", ") || "СДЭК / Почта")}${p._r.delivery?.free_from ? ` · бесплатно от ${rub(p._r.delivery.free_from)}` : ""}</small></td>
-      <td><span class="dot ${p.available ? "" : "no"}"></span>${p.gone ? "снят с продажи" : p.available ? "есть" : "нет"}</td>
-      <td><a class="btn ${p.available ? "" : "ghost"}" href="${esc(p.url)}" target="_blank" rel="noopener">${p.available ? "Заказать" : "На сайт"} →</a> ${cmpIcon(p.id).replace("cmp-btn", "cmp-btn inline").replace('position:absolute', '')}</td></tr>`;
+      <td>${stock(p)}</td>
+      <td><a class="btn ${p.available === false ? "ghost" : ""}" href="${esc(p.url)}" target="_blank" rel="noopener">${p.available === false ? "На сайт" : "Заказать"} →</a> ${cmpIcon(p.id).replace("cmp-btn", "cmp-btn inline").replace('position:absolute', '')}</td></tr>`;
     }).join("")}
   </tbody></table>
   ${focus.description ? `<div class="section"><h2>Описание от обжарщика</h2><span>${esc(focus._r.name)}</span></div><div class="desc">${esc(focus.description)}</div>` : ""}
@@ -369,7 +371,7 @@ function renderCompare() {
     ${row("Обжарка", p => esc(ROAST[p.roast] || "—"))}
     ${row("Дескрипторы", p => esc(p.notes || (p.flavors || []).join(", ") || "—"))}
     ${row("SCA", p => p.score ? `<span class="${p.score === maxS ? "win" : ""}">${p.score}</span>` : "—")}
-    ${row("Наличие", p => `<span class="dot ${p.available ? "" : "no"}"></span>${p.available ? "есть" : "нет"}`)}
+    ${row("Наличие", stock)}
     ${row("", p => `<a class="btn" href="${esc(p.url)}" target="_blank" rel="noopener">Заказать →</a>`)}
   </table></div>`;
 }
@@ -388,7 +390,7 @@ function renderRoasters() {
       ${r.roast ? `<div class="row">Обжарка<b>${esc(r.roast)}</b></div>` : ""}
       ${r.delivery?.methods ? `<div class="row">Способы<b>${esc(r.delivery.methods.join(", "))}</b></div>` : ""}
       ${r.delivery?.free_from ? `<div class="row">Бесплатно от<b>${rub(r.delivery.free_from)}</b></div>` : ""}
-      ${st}
+      ${st}${r.stock_unknown ? `<span class="status st">● сайт не отдаёт наличие без выбора города — уточняйте при заказе</span>` : ""}
       <div class="actions">${r.count ? `<a class="btn" href="#/?roaster=${encodeURIComponent(r.name)}">Каталог</a>` : ""}<a class="btn ghost" href="${esc(r.site)}" target="_blank" rel="noopener">Сайт →</a></div></article>`;
   }).join("")}</div>`;
 }

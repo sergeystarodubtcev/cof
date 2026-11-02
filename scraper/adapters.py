@@ -18,7 +18,7 @@ from bs4 import BeautifulSoup
 from . import http
 from .normalize import parse_weight_g
 
-MAX_PAGES = 400  # потолок страниц товаров на одного обжарщика для generic
+MAX_PAGES = 600  # потолок загружаемых страниц на одного обжарщика для generic
 
 
 def _clean(s) -> str:
@@ -201,10 +201,19 @@ def tilda(site: str, pages: list[str]) -> list[dict] | None:
     return out or None
 
 
-# ══════════════════ Generic: sitemap + JSON-LD / OG ═════════════════
+# ══════════════════ Generic: sitemap + обход разделов + разметка ═════════════════
 PRODUCT_URL = re.compile(
     r"/(product|products|tproduct|catalog|shop|kofe|coffee|item|goods|tovar|p)/|/kofe-|/coffee-|-kofe|_kofe", re.I)
-SKIP_URL = re.compile(r"\.(jpg|jpeg|png|webp|gif|pdf|svg)$|/(blog|news|stat|article|tag|cart|basket|account|login|search)", re.I)
+SKIP_URL = re.compile(r"\.(jpg|jpeg|png|webp|gif|pdf|svg|xml)$|/(blog|news|stat|article|tag|cart|basket|account|login|search|personal|auth|compare|favorite)", re.I)
+# разделы, где точно не зёрна: не тратим на них бюджет обхода
+NON_COFFEE_URL = re.compile(
+    r"merch|aksessuar|accessor|arkhiv|archive|filtr[-_]?paket|drip|dripp|kapsul|capsul|ekstrakt|extract|napitk|v[-_]bankakh|"
+    r"shokolad|chocolate|sertifikat|certificate|gift|podpisk|subscri|dlya[-_]yur|yur[-_]lits|opt/|wholesale|posuda|chay|/tea|oborudovan|"
+    r"equipment|syrop|siroup|-old$|-old/", re.I)
+LABELS = ["Страна", "Регион", "Провинция", "Ферма", "Производитель", "Фермер", "Станция", "Кооператив", "Разновидность", "Сорт",
+          "Сорта", "Способ обработки", "Обработка", "Высота произрастания", "Высота", "Степень обжарки", "Обжарка", "Сбор урожая",
+          "Урожай", "Дескрипторы", "Вкусовой профиль", "Вкус", "Профиль", "Оценка", "Оценка SCA", "Q-grade"]
+_LABEL_RE = re.compile(r"(?<![\w-])(" + "|".join(sorted(map(re.escape, LABELS), key=len, reverse=True)) + r")\s*[:—–-]?\s+", re.I)
 
 
 def _sitemap_urls(site: str) -> list[str]:
@@ -219,25 +228,29 @@ def _sitemap_urls(site: str) -> list[str]:
             continue
         seen.add(sm)
         xml = http.get_text(sm) or ""
-        locs = re.findall(r"<loc>\s*([^<\s]+)\s*</loc>", xml)
-        for loc in locs:
+        for loc in re.findall(r"<loc>\s*([^<\s]+)\s*</loc>", xml):
             loc = htmllib.unescape(loc)
-            if loc.endswith(".xml") or "sitemap" in loc.lower() and loc.endswith((".xml", ".xml.gz")):
-                # приоритет картам товаров
-                (queue.insert(0, loc) if re.search(r"product|tovar|goods|shop", loc, re.I) else queue.append(loc))
+            if loc.endswith((".xml", ".xml.gz")):
+                (queue.insert(0, loc) if re.search(r"product|tovar|goods|shop|catalog", loc, re.I) else queue.append(loc))
             else:
                 urls.append(loc)
     return urls
 
 
-def _links_from(url: str, host: str) -> list[str]:
-    html = http.get_text(url) or ""
-    soup = BeautifulSoup(html, "lxml")
+def _internal_links(url: str, soup: BeautifulSoup, host: str) -> list[str]:
     out = []
     for a in soup.select("a[href]"):
-        u = urljoin(url, a["href"].split("#")[0])
-        if urlparse(u).netloc.replace("www.", "") == host and PRODUCT_URL.search(urlparse(u).path) and not SKIP_URL.search(u):
-            out.append(u)
+        href = a["href"].strip()
+        if href.startswith(("javascript:", "mailto:", "tel:")):
+            continue
+        u = urljoin(url, href.split("#")[0])
+        pu = urlparse(u)
+        if pu.netloc.replace("www.", "") != host or SKIP_URL.search(pu.path):
+            continue
+        # пагинация каталога — оставляем query, прочее отбрасываем
+        if pu.query and not re.search(r"(PAGEN_\d+|page)=\d+", pu.query, re.I):
+            u = u.split("?")[0]
+        out.append(u)
     return out
 
 
@@ -264,10 +277,71 @@ def _jsonld_products(soup: BeautifulSoup) -> list[dict]:
     return found
 
 
+def _offer_weight(o: dict) -> int | None:
+    label = f"{o.get('name', '')} {o.get('sku', '')} {o.get('url', '')}"
+    props = o.get("additionalProperty") or []
+    for pr in props if isinstance(props, list) else [props]:
+        if isinstance(pr, dict):
+            label += f" {pr.get('value', '')}"
+    m = re.search(r"/(\d{2,4})g/?$", str(o.get("url", "")))  # …/1000g
+    return parse_weight_g(label) or (int(m.group(1)) if m else None)
+
+
+def _microdata_offers(soup: BeautifulSoup) -> list[dict]:
+    """Битрикс и др.: несколько Offer подряд в одном itemprop=offers — новый оффер начинается с sku/name."""
+    out = []
+    for box in soup.select('[itemprop="offers"]'):
+        cur: dict = {}
+        for el in box.find_all(attrs={"itemprop": True}):
+            k = el["itemprop"]
+            v = el.get("content") or el.get("href") or el.get_text(" ", strip=True)
+            if k in ("sku", "name") and cur.get("price") is not None:
+                out.append(cur)
+                cur = {}
+            cur[k if k != "name" else "sku"] = cur.get(k, "") + " " + v if k in ("sku", "name") else v
+        if cur:
+            out.append(cur)
+    return [{"weight_g": parse_weight_g(o.get("sku", "")), "price": _price(o.get("price")),
+             "available": "OutOfStock" not in str(o.get("availability", "")) and "PreOrder" not in str(o.get("availability", ""))}
+            for o in out if _price(o.get("price"))]
+
+
+def _page_weights(soup: BeautifulSoup) -> list[int]:
+    sel = ("option, .tc-weight, [data-onevalue], [data-treevalue], .sku-props li, .variant, .js-product-edition-option, "
+           "[class*=weight], [class*=fasov], [class*=pack] li, .product-variants label")
+    ws = {parse_weight_g(e.get("title") or e.get_text(" ")) for e in soup.select(sel)}
+    return sorted(w for w in ws if w and 50 <= w <= 3000)
+
+
+def extract_specs(text: str) -> dict:
+    """Характеристики из табличной вёрстки: строка-метка и значение следом
+    («Регион» ⏎ «Каранави») или «Метка: значение» в одной строке. Прозу не трогаем."""
+    labels = {l.lower(): l for l in LABELS}
+    lines = [l.strip(" \t:") for l in text.split("\n")]
+    lines = [l for l in lines if l]
+    specs = {}
+    for i, line in enumerate(lines):
+        low = line.lower()
+        key = val = None
+        if low in labels and i + 1 < len(lines):
+            key, val = labels[low], lines[i + 1]
+        else:
+            m = re.match(r"(" + "|".join(sorted(map(re.escape, LABELS), key=len, reverse=True)) + r")\s*:\s*(.+)$", line, re.I)
+            if m:
+                key, val = labels.get(m.group(1).lower(), m.group(1)), m.group(2)
+        prose = key in ("Вкус", "Вкусовой профиль", "Профиль", "Оценка", "Оценка sca") and not re.search(r"[,\d]", val)
+        if key and val and not prose and val.lower() not in labels and 1 < len(val) <= 80 and key not in specs:
+            specs[key] = val.strip(" .;")
+    return specs
+
+
 def parse_product_page(url: str, html: str) -> dict | None:
     soup = BeautifulSoup(html, "lxml")
     meta = lambda *names: next((m.get("content") for n in names for m in soup.select(f'meta[property="{n}"], meta[name="{n}"]') if m.get("content")), None)  # noqa: E731
     prods = _jsonld_products(soup)
+    agg = None
+    variants: list[dict] = []
+    name = desc = img = None
     if prods:
         p = prods[0]
         offers = p.get("offers") or {}
@@ -275,65 +349,107 @@ def parse_product_page(url: str, html: str) -> dict | None:
         flat = []
         for o in offers:
             if o.get("@type") == "AggregateOffer":
-                flat += o.get("offers") or [{"price": o.get("lowPrice"), "availability": o.get("availability")}]
+                agg = o
+                flat += o.get("offers") or []
             else:
                 flat.append(o)
-        variants = [{
-            "weight_g": parse_weight_g(f"{o.get('name', '')} {o.get('sku', '')}"),
-            "price": _price(o.get("price") or (o.get("priceSpecification") or {}).get("price")),
-            "available": "OutOfStock" not in str(o.get("availability", "")),
-        } for o in flat if o]
+        variants = [{"weight_g": _offer_weight(o), "price": _price(o.get("price") or (o.get("priceSpecification") or {}).get("price")),
+                     "available": "OutOfStock" not in str(o.get("availability", ""))} for o in flat if o]
         img = p.get("image")
         if isinstance(img, list):
             img = img[0] if img else None
         if isinstance(img, dict):
             img = img.get("url") or img.get("contentUrl")
-        name = _clean(p.get("name"))
-        desc = _clean(p.get("description"))
-    else:
-        if (meta("og:type") or "").lower() not in ("product", "og:product", "product.item") and not meta("product:price:amount"):
-            # нет признаков товара — пробуем microdata
-            if not soup.select_one('[itemtype*="schema.org/Product"]'):
-                return None
-        name = _clean(meta("og:title") or (soup.title.string if soup.title else ""))
-        desc = _clean(meta("og:description", "description"))
-        img = meta("og:image")
+        name, desc = _clean(p.get("name")), _clean(p.get("description"))
+    micro = _microdata_offers(soup)
+    # микроразметка побеждает, если в ней есть фасовки, а в JSON-LD нет
+    if micro and (not any(v["price"] for v in variants)
+                  or (any(v["weight_g"] for v in micro) and not any(v["weight_g"] for v in variants))):
+        variants = micro
+    if not name:
+        md = soup.select_one('[itemtype*="schema.org/Product"] [itemprop="name"]')
+        h1 = soup.select_one("h1")
+        name = _clean((md and (md.get("content") or md.get_text())) or meta("og:title") or (h1 and h1.get_text()) or "")
+    if not img:
+        mi = soup.select_one('[itemtype*="schema.org/Product"] [itemprop="image"]')
+        img = meta("og:image") or (mi and (mi.get("content") or mi.get("href") or mi.get("src")))
+        if img and urlparse(urljoin(url, img)).path in ("", "/"):
+            img = None
+    if not variants:
+        if not (prods or micro or meta("product:price:amount") or soup.select_one('[itemtype*="schema.org/Product"]')
+                or (meta("og:type") or "").lower() in ("product", "og:product", "product.item")):
+            return None
         price = meta("product:price:amount") or (soup.select_one('[itemprop="price"]') or {}).get("content")
-        variants = [{"weight_g": None, "price": _price(price), "available": "out" not in (meta("product:availability") or "").lower()}]
-    # Полное описание со страницы — там обычно регион, ферма, высота, дескрипторы
-    body = soup.select_one('[itemprop="description"], .product-description, .product__description, .t-store__prod-popup__text, .woocommerce-product-details__short-description, .product-info, .detail-text, .catalog-element-description')
+        lo = agg and agg.get("lowPrice")
+        variants = [{"weight_g": None, "price": _price(price or lo), "available": "out" not in (meta("product:availability") or "").lower()}]
+    desc = desc or _clean(meta("og:description", "description"))
+
+    # Описание и характеристики со страницы
+    body = soup.select_one('[itemprop="description"], .product-description, .product__description, .t-store__prod-popup__text, '
+                           '.woocommerce-product-details__short-description, .detail-text, .catalog-element-description, '
+                           '.detail_text, .product-detail-text, [class*=description]')
     if body:
         full = _clean(str(body))
-        if len(full) > len(desc):
+        if len(full) > len(desc or ""):
             desc = full
-    # Веса из селекторов вариантов на странице
-    weights = sorted({w for w in (parse_weight_g(o.get_text()) for o in soup.select("option, label, .variant, .js-product-edition-option")) if w})
+    page_text = re.sub(r"[ \t]+", " ", soup.get_text("\n"))
+    specs = extract_specs(page_text)
+
+    # Фасовки
+    weights = _page_weights(soup)
     for v in variants:
-        v["weight_g"] = v["weight_g"] or parse_weight_g(name)
-    if len(variants) == 1 and not variants[0]["weight_g"] and len(weights) == 1:
-        variants[0]["weight_g"] = weights[0]
+        v["weight_g"] = v["weight_g"] or (parse_weight_g(name) if len(variants) == 1 else None)
+    if len(variants) == 1 and not variants[0]["weight_g"]:
+        if agg and len(weights) >= 2 and _price(agg.get("lowPrice")) and _price(agg.get("highPrice")):
+            # AggregateOffer без офферов (Битрикс/Aspro): мин. цена ↔ мин. фасовка, макс. ↔ макс.
+            a = variants[0]["available"]
+            variants = [{"weight_g": weights[0], "price": _price(agg["lowPrice"]), "available": a},
+                        {"weight_g": weights[-1], "price": _price(agg["highPrice"]), "available": a}]
+        elif len(weights) == 1:
+            variants[0]["weight_g"] = weights[0]
+    elif len(variants) > 1 and not any(v["weight_g"] for v in variants) and len(weights) == len(variants):
+        # офферы без подписи веса, но фасовок на странице столько же: дешевле — меньше
+        for v, w in zip(sorted(variants, key=lambda v: v["price"] or 0), weights):
+            v["weight_g"] = w
+    # Битрикс: флаг CAN_BUY у торговых предложений надёжнее, чем текст «Нет в наличии»
+    can = re.findall(r'"CAN_BUY"\s*:\s*"?(\w+)', html)
+    if can:
+        buy = any(c in ("1", "true", "Y") for c in can)
+        for v in variants:
+            v["available"] = buy
     if not name or not any(v["price"] for v in variants):
         return None
-    return {"url": url, "name": name, "description": desc, "image": urljoin(url, img) if img else None,
-            "available": any(v["available"] for v in variants), "variants": variants}
+    crumbs = " / ".join(e.get_text(" ", strip=True) for e in soup.select('[itemtype*="BreadcrumbList"] [itemprop="name"], .breadcrumbs a, .breadcrumb a'))
+    return {"url": url, "name": name, "description": desc or "", "image": urljoin(url, img) if img else None,
+            "category": crumbs, "specs": specs, "available": any(v["available"] for v in variants), "variants": variants}
 
 
-def generic(site: str, start_pages: list[str]) -> list[dict]:
+def generic(site: str, start_pages: list[str], budget: int = MAX_PAGES) -> list[dict]:
+    """Обход: карта сайта + разделы каталога (BFS). Страница с разметкой товара — товар, иначе — источник ссылок."""
     host = urlparse(site).netloc.replace("www.", "")
-    candidates = [u for u in _sitemap_urls(site) if PRODUCT_URL.search(urlparse(u).path) and not SKIP_URL.search(u)]
-    for p in start_pages:
-        candidates += _links_from(p, host)
-    # кофе — вперёд
-    candidates = list(dict.fromkeys(candidates))
-    candidates.sort(key=lambda u: 0 if re.search(r"kofe|coffee|zern|кофе", u, re.I) else 1)
-    out = []
-    for u in candidates[:MAX_PAGES]:
+    looks = lambda u: bool(PRODUCT_URL.search(urlparse(u).path)) and not NON_COFFEE_URL.search(u)  # noqa: E731
+    coffee_first = lambda u: (0 if re.search(r"kofe|coffee|zern|кофе", u, re.I) else 1, u.count("/"))  # noqa: E731
+    sm = [u for u in _sitemap_urls(site) if urlparse(u).netloc.replace("www.", "") == host and looks(u) and not SKIP_URL.search(u)]
+    queue = list(dict.fromkeys([*start_pages, urljoin(site, "/catalog/"), *sorted(sm, key=coffee_first)]))
+    seen, out, fetched = set(), [], 0
+    while queue and fetched < budget:
+        u = queue.pop(0)
+        if u in seen:
+            continue
+        seen.add(u)
         html = http.get_text(u)
+        fetched += 1
         if not html:
             continue
         item = parse_product_page(u, html)
         if item:
             out.append(item)
+            continue
+        # страница-раздел: добавляем ссылки на товары и подразделы, кофейные — в начало очереди
+        links = [l for l in _internal_links(u, BeautifulSoup(html, "lxml"), host) if l not in seen and looks(l)]
+        links = sorted(dict.fromkeys(links), key=coffee_first)
+        front = [l for l in links if coffee_first(l)[0] == 0]
+        queue = front + [q for q in queue if q not in front] + [l for l in links if l not in front]
     return out
 
 
