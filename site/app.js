@@ -295,7 +295,7 @@ function renderLot(lotId, focusId) {
   const focus = ps.find(p => p.id === focusId) || ps.find(p => p.image) || ps[0];
   const imgs = ps.filter(p => p.image);
   const avail = ps.filter(p => p.available !== false && p.price_100g != null);
-  const best = avail[0];
+  const best = [...avail].sort((a, b) => a.price_100g - b.price_100g)[0];
   const sortKey = store.get("lotSort", "price");
   const rows = [...ps].sort({
     price: (a, b) => (av(b) - av(a)) || (a.price_100g ?? 1e9) - (b.price_100g ?? 1e9),
@@ -336,7 +336,7 @@ function renderLot(lotId, focusId) {
       const d = deliveryEst(p._r, state.city);
       return `<tr class="${p === best ? "top1" : ""}">
       <td class="c-r"><div class="rname">${p.image ? `<img src="${esc(p.image)}" alt="">` : avatar(p._r)}<div><b>${esc(p._r.name)}</b><br><small>${esc(p._r.city)} · ${esc(p.name)}</small></div></div></td>
-      <td>${(p.variants || []).map(v => `<span class="w ${v.a ? "" : "na"}">${v.w ? (v.w >= 1000 ? v.w / 1000 + " кг" : v.w + " г") : "—"} · ${rub(v.p)}</span>`).join(" ")}</td>
+      <td>${(p.variants || []).map(v => `<span class="w ${v.a === false && p.available !== null ? "na" : ""}">${v.w ? (v.w >= 1000 ? v.w / 1000 + " кг" : v.w + " г") : "—"} · ${rub(v.p)}</span>`).join(" ")}</td>
       <td><b>${rub(p.price_100g)}</b>${spark(p.price_history)}</td>
       <td class="dlv">${fmtDlv(d)}<br><small>${esc((p._r.delivery?.methods || []).join(", ") || "СДЭК / Почта")}${p._r.delivery?.free_from ? ` · бесплатно от ${rub(p._r.delivery.free_from)}` : ""}</small></td>
       <td>${stock(p)}</td>
