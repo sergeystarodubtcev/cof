@@ -11,7 +11,7 @@ permissions:
 concurrency: {group: probe, cancel-in-progress: true}
 env:
   ONLY: welder,sok,tasty   # пусто = все обжарщики
-  SCRAPE: "0"              # 0 = только диагностика и образцы страниц
+  SCRAPE: "1"              # 0 = только диагностика и образцы страниц
 jobs:
   probe:
     runs-on: ubuntu-latest

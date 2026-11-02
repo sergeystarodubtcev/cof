@@ -178,7 +178,9 @@ ROAST_HINTS = [
 NOT_COFFEE = re.compile(
     r"(кружк|чашк|воронк(?!а для)|фильтры для|весы|кофемолк|чайник|сироп|гейзер|термос|футболк|сертификат|подарочн(?:ая|ый) карт|"
     r"\bчай\b|\bчая\b|матча|какао-напит|шоколадн(?:ая|ый) плитк|капсул|дрип|drip|tea\b|mug|grinder|kettle|merch|gift card|"
-    r"декантер|аэропресс|aeropress|v60|кемекс|chemex|холдер|питчер|темпер|бумаг|подписк)",
+    r"декантер|аэропресс|aeropress|v60|кемекс|chemex|холдер|питчер|темпер|бумаг|подписк|фильтр-пакет|фильтр пакет|экстракт|"
+    r"в банках|банка |ассорти|худи|half-zip|свитшот|дождевик|шоппер|шапк|носки|значок|стикер|открытк|зонт|бутылк|стакан|"
+    r"набор для|комплект|концентрат|cold brew|колд брю)",
     re.I,
 )
 BLEND_RE = re.compile(r"(смесь|бленд|blend|эспрессо-смесь|купаж)", re.I)
@@ -281,8 +283,14 @@ def extract_notes(description: str) -> str | None:
     return m.group(1).strip(" ;,") if m else None
 
 
-def is_coffee(name: str, description: str = "", category: str = "") -> bool:
-    if NOT_COFFEE.search(name or ""):
+NON_COFFEE_URL = re.compile(
+    r"merch|aksessuar|accessor|arkhiv|archive|filtr[-_]?paket|drip|kapsul|capsul|ekstrakt|extract|napitk|v[-_]bankakh|"
+    r"shokolad|chocolate|sertifikat|certificate|gift|podpisk|subscri|dlya[-_]yur|yur[-_]lits|wholesale|posuda|chay|/tea|"
+    r"oborudovan|equipment|syrop|-old$|-old/", re.I)
+
+
+def is_coffee(name: str, description: str = "", category: str = "", url: str = "") -> bool:
+    if NOT_COFFEE.search(name or "") or NON_COFFEE_URL.search(url or ""):
         return False
     blob = fold(f"{name} {category} {description[:600]}")
     if detect_country(blob) or BLEND_RE.search(blob):
@@ -290,27 +298,54 @@ def is_coffee(name: str, description: str = "", category: str = "") -> bool:
     return bool(re.search(r"кофе|coffee|зерн|арабик|arabica", blob))
 
 
+def _spec(specs: dict, *keys: str) -> str:
+    return fold(" ".join(str(specs[k]) for k in keys if specs.get(k)))
+
+
+def _process_unique(text: str) -> str | None:
+    """По прозе определяем обработку, только если упомянута ровно одна — иначе это рассказ о процессах вообще."""
+    found = {name for name, syns in PROCESSES if _find(text, syns)}
+    return found.pop() if len(found) == 1 else None
+
+
+ROAST_LEVEL = [("filter", ["светл", "фильтр", "filter", "light"]), ("espresso", ["темн", "эспрессо", "espresso", "dark"]),
+               ("omni", ["омни", "omni", "универс"])]
+
+
 def enrich(item: dict) -> dict:
-    """Дополняет сырой товар нормализованными атрибутами."""
+    """Дополняет сырой товар нормализованными атрибутами.
+    Приоритет: таблица характеристик со страницы → название → описание."""
     name = item.get("name", "")
     desc = item.get("description", "")
+    specs = item.get("specs") or {}
     title = fold(name)
     blob = fold(f"{name}\n{desc}")
-    country = detect_country(title) or detect_country(blob)
-    region = detect_region(title, country) or detect_region(blob, country)
+    s_country, s_region = _spec(specs, "Страна"), _spec(specs, "Регион", "Провинция")
+    s_proc = _spec(specs, "Способ обработки", "Обработка")
+    s_var = _spec(specs, "Разновидность", "Сорт", "Сорта")
+    country = detect_country(title) or detect_country(s_country) or detect_country(s_region) or detect_country(blob)
+    region = detect_region(title, country) or detect_region(s_region, country) or detect_region(blob, country)
+    if not region and specs.get("Регион") and "," not in specs["Регион"] and "/" not in specs["Регион"] and not detect_country(s_region):
+        region = specs["Регион"].strip().capitalize()  # регион не из словаря — берём как есть
+    roast = None
+    for r, syns in ROAST_LEVEL:
+        if _find(_spec(specs, "Обжарка", "Степень обжарки"), syns):
+            roast = r
+            break
+    blend_spec = bool(re.search(r"смесь|бленд|blend", s_proc + " " + s_var))
+    notes = item.get("notes") or next((specs[k] for k in ("Дескрипторы", "Вкус", "Вкусовой профиль") if specs.get(k)), None)
     attrs = {
         "country": country,
         "region": region,
-        "process": detect_process(title) or detect_process(blob),
-        "varieties": detect_varieties(blob),
-        "flavors": detect_flavors(fold(item.get("notes") or "") or blob),
-        "roast": detect_roast(title) or detect_roast(blob),
-        "altitude": detect_altitude(desc),
-        "score": detect_score(blob),
-        "is_blend": bool(BLEND_RE.search(title)) and not (country and not re.search(r"смесь|blend|бленд", title)),
+        "process": detect_process(s_proc) or detect_process(title) or _process_unique(blob),
+        "varieties": [v for v in detect_varieties(s_var or blob) if not (blend_spec and v == "Бленд")],
+        "flavors": detect_flavors(fold(notes or "") or blob),
+        "roast": detect_roast(title) or roast or detect_roast(blob),
+        "altitude": detect_altitude(specs.get("Высота", "") or specs.get("Высота произрастания", "")) or detect_altitude(desc),
+        "score": detect_score(_spec(specs, "Оценка", "Оценка sca", "Q-grade") + " " + blob),
+        "is_blend": blend_spec or (bool(BLEND_RE.search(title)) and not (country and not re.search(r"смесь|blend|бленд", title))),
         "is_decaf": bool(DECAF_RE.search(blob)),
+        "notes": notes or extract_notes(desc),
     }
-    if not item.get("notes"):
-        attrs["notes"] = extract_notes(desc)
     item.update({k: v for k, v in attrs.items() if v not in (None, [], "") or k in ("is_blend", "is_decaf")})
     return item
