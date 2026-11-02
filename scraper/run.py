@@ -207,6 +207,10 @@ def build(roasters: list[dict], statuses: dict[str, dict]) -> dict:
         "roasters": roaster_out,
         "products": sorted(products, key=lambda p: (p["available"] is False, p["roaster"], p["name"])),
     }
+    used = {p["image"].split("/")[-1] for p in products if p.get("image")}
+    for f in IMG.glob("*.webp"):  # картинки снятых/отсеянных товаров больше не нужны
+        if f.name not in used:
+            f.unlink()
     CATALOG.parent.mkdir(parents=True, exist_ok=True)
     CATALOG.write_text(json.dumps(catalog, ensure_ascii=False, separators=(",", ":")))
     write_report(catalog)
