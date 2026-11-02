@@ -8,6 +8,9 @@ on:
   workflow_dispatch: {}
 permissions:
   contents: write
+concurrency: {group: probe, cancel-in-progress: true}
+env:
+  ONLY: welder,sok,tasty   # пусто = все обжарщики
 jobs:
   probe:
     runs-on: ubuntu-latest
@@ -18,9 +21,9 @@ jobs:
         with: {python-version: "3.12", cache: pip}
       - run: pip install -r requirements.txt
       - name: Доступность сайтов
-        run: python -m scraper.probe
+        run: python -m scraper.probe ${ONLY:+--only $ONLY}
       - name: Парсер
-        run: python -m scraper.run 2>&1 | tee data/scrape.log || true
+        run: python -m scraper.run ${ONLY:+--only $ONLY} 2>&1 | tee data/scrape.log || true
       - name: Сохранить результаты в ветку
         if: always()
         run: |
@@ -28,4 +31,5 @@ jobs:
           git config user.email "catalog-bot@users.noreply.github.com"
           git add -f data site/data site/img || true
           git commit -m "Диагностика: результаты $(date -u +%F\ %H:%M) UTC" || exit 0
+          git pull --rebase -X theirs || true
           git push

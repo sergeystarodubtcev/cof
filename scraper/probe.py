@@ -30,7 +30,13 @@ def probe(r: dict) -> dict:
 
 
 def main() -> None:
+    import argparse
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--only", help="id обжарщиков через запятую")
+    a = ap.parse_args()
     roasters = yaml.safe_load((ROOT / "roasters.yaml").read_text())["roasters"]
+    if a.only:
+        roasters = [r for r in roasters if r["id"] in a.only.split(",")]
     with ThreadPoolExecutor(12) as ex:
         res = list(ex.map(probe, roasters))
     ok = [x for x in res if isinstance(x["code"], int) and x["code"] < 400]

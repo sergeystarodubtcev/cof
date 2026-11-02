@@ -191,6 +191,12 @@ roasters:
     site: https://manufactorycoffee.ru
     verified: true
 
+  - id: welder
+    name: The Welder Catherine
+    city: Санкт-Петербург
+    site: https://theweldercatherine.ru
+    verified: true
+
   - id: neva
     name: Neva Coffee Roasters
     city: Санкт-Петербург
