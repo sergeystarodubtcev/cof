@@ -98,7 +98,12 @@ def to_product(roaster: dict, raw: dict) -> dict | None:
         return None
     if not is_coffee(raw["name"], raw.get("description", ""), raw.get("category", ""), raw["url"]):
         return None
-    variants = [v for v in raw.get("variants", []) if v.get("price")]
+    variants, seen_v = [], set()
+    for v in raw.get("variants", []):
+        key = (v.get("weight_g"), v.get("price"))
+        if v.get("price") and key not in seen_v:
+            seen_v.add(key)
+            variants.append(v)
     if not variants:
         return None
     per100 = [v["price"] / v["weight_g"] * 100 for v in variants if v.get("weight_g")]
@@ -136,6 +141,8 @@ def merge_history(products: list[dict], previous: dict | None, ts: datetime) -> 
         p["price_history"] = hist
     # товары, которых больше нет на сайте: показываем «нет в наличии», потом удаляем
     for old in prev.values():
+        if not is_coffee(old["name"], "", "", old["url"]):
+            continue  # фильтр стал строже — старые не-кофейные записи выбрасываем
         last = datetime.fromisoformat(old["last_seen"])
         if ts - last < timedelta(days=KEEP_GONE_DAYS):
             old["available"] = False

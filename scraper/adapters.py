@@ -407,6 +407,10 @@ def parse_product_page(url: str, html: str) -> dict | None:
                         {"weight_g": weights[-1], "price": _price(agg["highPrice"]), "available": a}]
         elif len(weights) == 1:
             variants[0]["weight_g"] = weights[0]
+    elif len(variants) > 1 and not any(v["weight_g"] for v in variants) and len(weights) == len(variants):
+        # офферы без подписи веса, но фасовок на странице столько же: дешевле — меньше
+        for v, w in zip(sorted(variants, key=lambda v: v["price"] or 0), weights):
+            v["weight_g"] = w
     # Битрикс: флаг CAN_BUY у торговых предложений надёжнее, чем текст «Нет в наличии»
     can = re.findall(r'"CAN_BUY"\s*:\s*"?(\w+)', html)
     if can:

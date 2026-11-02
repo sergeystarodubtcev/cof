@@ -333,7 +333,9 @@ def enrich(item: dict) -> dict:
             roast = r
             break
     blend_spec = bool(re.search(r"смесь|бленд|blend", s_proc + " " + s_var))
-    notes = item.get("notes") or next((specs[k] for k in ("Дескрипторы", "Вкус", "Вкусовой профиль") if specs.get(k)), None)
+    def _listy(v):  # дескрипторы — это список коротких слов, а не фраза
+        return v and all(len(x.split()) <= 4 for x in re.split(r"[,;/]", v)) and not re.match(r"[а-яё]+ [а-яё]+ [а-яё]+ [а-яё]+ [а-яё]+", v)
+    notes = item.get("notes") or next((specs[k] for k in ("Дескрипторы", "Вкус", "Вкусовой профиль") if _listy(specs.get(k))), None)
     attrs = {
         "country": country,
         "region": region,

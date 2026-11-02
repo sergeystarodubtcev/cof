@@ -26,7 +26,7 @@ STOP = set("""
 для под фильтр filter эспрессо espresso омни omni обжарка обжарки roast light medium dark светлая средняя
 темная lot лот микролот microlot г гр кг g kg шт new новинка новый limited лимитированный the de la el del
 и and с with of выпуск сезон season урожай crop grade gr1 gr2 g1 g2 g3 aa ab pb plus top ааа ааа
-процесс process обработка обработки сорт сорта variety varietal регион region ферма farm finca fazenda
+декаф decaf галараствор нат nat анаэроб anaerob бочки бочка barrel процесс process обработка обработки сорт сорта variety varietal регион region ферма farm finca fazenda
 станция washing station мойки cooperative кооператив производитель producer
 """.split())
 
@@ -63,6 +63,11 @@ def identity_tokens(name: str, country: str | None = None, region: str | None = 
     _VOCAB = _VOCAB or _all_vocab()
     vocab = _VOCAB + [latin(w) for w in REGIONS.get(country or "", {}).get(region or "", [])]
     s = re.sub(r"\d+\s*(г|гр|кг|g|kg)\b", " ", fold(name))
+    # многословные/дефисные названия страны и региона вычитаем целиком («Коста-Рика», «Сул-де-Минас»)
+    phrases = [fold(x) for c in COUNTRIES.values() for x in c] + [fold(x) for x in REGIONS.get(country or "", {}).get(region or "", [])]
+    for ph in sorted(phrases, key=len, reverse=True):
+        if len(ph) > 3:
+            s = s.replace(ph, " ")
     s = re.sub(r"[«»\"'()\[\],.:;/|+–—-]", " ", s)
     toks = []
     for t in s.split():
