@@ -3,12 +3,114 @@
   "id": "bittersweet",
   "platform": "tilda",
   "items": 16,
-  "seconds": 21.1,
+  "seconds": 12.4,
   "ok": true,
   "error": null,
-  "at": "2026-11-03T06:52:08+00:00"
+  "at": "2026-11-03T07:02:02+00:00"
  },
  "items": [
+  {
+   "url": "https://bittersweet.coffee/kofe/tproduct/449557274-329134143942-indoneziya-kerinchi",
+   "name": "ИНДОНЕЗИЯ КЕРИНЧИ",
+   "description": "Вкус: сухофрукты, зелёное \nяблоко, красные ягоды",
+   "image": "https://static.tildacdn.com/stor3938-6564-4063-b734-313661376263/39ea426647f1557740eac3aa1506b7da.png",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 1000,
+     "price": 150.0,
+     "available": true
+    },
+    {
+     "weight_g": 2000,
+     "price": 150.0,
+     "available": true
+    },
+    {
+     "weight_g": 3000,
+     "price": 150.0,
+     "available": true
+    },
+    {
+     "weight_g": 4000,
+     "price": 150.0,
+     "available": true
+    },
+    {
+     "weight_g": 5000,
+     "price": 150.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://bittersweet.coffee/kofe/tproduct/449557274-322744619132-efiopiya-adado",
+   "name": "ЭФИОПИЯ АДАДО",
+   "description": "Вкус: черный чай, чернослив,\nкакао, специи",
+   "image": "https://static.tildacdn.com/stor3435-6137-4133-b332-666238326564/f7220416756e04fae5bd3b5b6a52ae96.png",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 2000,
+     "price": 150.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 150.0,
+     "available": true
+    },
+    {
+     "weight_g": 3000,
+     "price": 150.0,
+     "available": true
+    },
+    {
+     "weight_g": 4000,
+     "price": 150.0,
+     "available": true
+    },
+    {
+     "weight_g": 5000,
+     "price": 150.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://bittersweet.coffee/kofe/tproduct/449557274-104650947952-braziliya-santos",
+   "name": "БРАЗИЛИЯ САНТОС",
+   "description": "Вкус: шоколад,\nорехи, карамель",
+   "image": "https://static.tildacdn.com/stor3238-3431-4635-a232-306261633630/0cbd2f34e236a3afdbdd82fd789dde7e.png",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 5000,
+     "price": 150.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 150.0,
+     "available": true
+    },
+    {
+     "weight_g": 2000,
+     "price": 150.0,
+     "available": true
+    },
+    {
+     "weight_g": 3000,
+     "price": 150.0,
+     "available": true
+    },
+    {
+     "weight_g": 4000,
+     "price": 150.0,
+     "available": true
+    }
+   ]
+  },
   {
    "url": "https://bittersweet.coffee/kofe/tproduct/1732061791-714494027712-efiopiya-iergachiff",
    "name": "ЭФИОПИЯ ИЕРГАЧИФФ",
@@ -103,108 +205,6 @@
     {
      "weight_g": null,
      "price": 1.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://bittersweet.coffee/kofe/tproduct/449557274-329134143942-indoneziya-kerinchi",
-   "name": "ИНДОНЕЗИЯ КЕРИНЧИ",
-   "description": "Вкус: сухофрукты, зелёное \nяблоко, красные ягоды",
-   "image": "https://static.tildacdn.com/stor3938-6564-4063-b734-313661376263/39ea426647f1557740eac3aa1506b7da.png",
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 150.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 150.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 150.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 150.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 150.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://bittersweet.coffee/kofe/tproduct/449557274-322744619132-efiopiya-adado",
-   "name": "ЭФИОПИЯ АДАДО",
-   "description": "Вкус: черный чай, чернослив,\nкакао, специи",
-   "image": "https://static.tildacdn.com/stor3435-6137-4133-b332-666238326564/f7220416756e04fae5bd3b5b6a52ae96.png",
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 150.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 150.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 150.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 150.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 150.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://bittersweet.coffee/kofe/tproduct/449557274-104650947952-braziliya-santos",
-   "name": "БРАЗИЛИЯ САНТОС",
-   "description": "Вкус: шоколад,\nорехи, карамель",
-   "image": "https://static.tildacdn.com/stor3238-3431-4635-a232-306261633630/0cbd2f34e236a3afdbdd82fd789dde7e.png",
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 150.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 150.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 150.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 150.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 150.0,
      "available": true
     }
    ]

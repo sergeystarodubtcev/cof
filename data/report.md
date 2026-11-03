@@ -1,6 +1,6 @@
-# Обновление каталога 2026-11-03T06:58:47+00:00
+# Обновление каталога 2026-11-03T07:09:19+00:00
 
-Товаров: 2138, лотов у ≥2 обжарщиков: 179
+Товаров: 2137, лотов у ≥2 обжарщиков: 179
 
 ## Обжарщики
 
@@ -11,9 +11,9 @@
 | СОК — студия обжарки кофе | bitrix+generic | 44 | ok |
 | Триптих | tilda | 8 | ok |
 | Caffeine Lab | tilda+generic | 32 | ok |
-| HQ! coffee | — | 0 | нет данных |
+| HQ! coffee | woocommerce+generic | 0 | нет данных |
 | KOF | — | 0 | нет данных |
-| Roastberry | — | 0 | нет данных |
+| Roastberry | generic | 0 | нет данных |
 | Silky Drum | tilda | 49 | ok |
 | Submarine | — | 0 | нет данных |
 | Atlas Coffee | — | 0 | нет данных |
@@ -22,7 +22,7 @@
 | Camera Obscura | tilda | 13 | ok |
 | Sibaristica | — | 0 | нет данных |
 | Yankee Sierra | tilda | 6 | ok |
-| Double B | — | 0 | нет данных |
+| Double B | tilda+generic | 0 | нет данных |
 | KANGA | generic | 32 | ok |
 | H2O | — | 0 | нет данных |
 | Fauno Coffee | tilda | 11 | ok |
@@ -37,12 +37,12 @@
 | West 4 Coffee | — | 0 | нет данных |
 | Lebo | tilda+generic | 36 | ok |
 | QQ Coffee | generic | 18 | ok |
-| Botanica Coffee | tilda | 23 | ok |
-| Знак Кофе | — | 0 | нет данных |
-| Bernin | — | 0 | нет данных |
+| Botanica Coffee | tilda | 22 | ok |
+| Знак Кофе | generic | 0 | нет данных |
+| Bernin | generic | 0 | нет данных |
 | Bittersweet | tilda | 4 | ok |
 | Kofeop Roastery | bitrix+generic | 69 | ok |
-| Нотик Кофе | — | 0 | нет данных |
+| Нотик Кофе | bitrix+generic | 0 | нет данных |
 | Solo Coffee | woocommerce | 31 | ok |
 | Mad Heads | generic | 1 | ok |
 | Кофе Сова | — | 0 | нет данных |
@@ -50,5 +50,6 @@
 ## Новые лоты (0)
 
 
-## Изменения этой проверки: +0 / −0
+## Изменения этой проверки: +0 / −1
 
+- ➖ **Botanica Coffee** — Кения Маакиоу (пропал с сайта)

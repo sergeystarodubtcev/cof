@@ -2,13 +2,125 @@
  "status": {
   "id": "botanica",
   "platform": "tilda",
-  "items": 31,
-  "seconds": 9.8,
+  "items": 30,
+  "seconds": 11.4,
   "ok": true,
   "error": null,
-  "at": "2026-11-03T06:51:56+00:00"
+  "at": "2026-11-03T07:01:54+00:00"
  },
  "items": [
+  {
+   "url": "https://botanicacoffee.ru/instantuganda",
+   "name": "Растворимый кофе Уганда Мвези",
+   "description": "6 пакетиков с натуральным кофе внутри, который можно заварить за 10 секунд",
+   "image": "https://static.tildacdn.com/stor6465-3762-4837-b530-356432323638/323672474cb94e29273974826b1882f0.png",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 730.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://botanicacoffee.ru/tproduct/4283152801-651433003663-drip-efiopiya-sidamo-1-sht",
+   "name": "Дрип Эфиопия Сидамо — 1 шт",
+   "description": "Спокойный кофе с нотами чёрного чая, цветов и лайма. Один дрип-пакет — удобно добавить к заказу и заварить прямо в чашке.",
+   "image": "https://static.tildacdn.com/stor6165-3662-4462-b832-303865333337/0b31b3d18efdcaa6f293691480b62f44.jpg",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 85.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://botanicacoffee.ru/tproduct/3111555201-921997570983-brelok-dlya-zazhigalki",
+   "name": "Брелок для зажигалки",
+   "description": "Зажигалка всегда под рукой. Брелок-цветок вручную сшит из кофейных упаковок Botanica и крепится к сумке или брюкам.\nИстория\nБрелок вручную сшит из использованных кофейных упаковок Botanica и превращает их в функциональный аксессуар. Благодаря повторному использованию материала каждый экземпляр получает свой рисунок, а ремешок позволяет закрепить зажигалку на сумке или одежде.",
+   "image": "https://static.tildacdn.com/stor3932-3835-4563-b939-303361653539/12759611.png",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 350.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://botanicacoffee.ru/tproduct/4283152801-716464180353-drip-ruanda-muteteli-1-sht",
+   "name": "Дрип Руанда Мутетели — 1 шт",
+   "description": "Чайный ягодный лот с нотами чёрного чая, цитрусов, смородины и карамели. Один дрип-пакет — удобно добавить к заказу и заварить прямо в чашке.",
+   "image": "https://static.tildacdn.com/stor6165-3662-4462-b832-303865333337/0b31b3d18efdcaa6f293691480b62f44.jpg",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 87.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://botanicacoffee.ru/tproduct/3111555201-826420116922-futbolka-esli-bi-ne-eta-kozochka",
+   "name": "Футболка \"Если бы не эта козочка...\"",
+   "description": "Та самая козочка, с которой началась история кофе. Яркая зелёная футболка для тех, кто любит кофе не только в чашке.\nСостав — 100% хлопок, размер один — оверсайз L.\nМодель представлена в изумрудно-зелёном цвете.",
+   "image": "https://static.tildacdn.com/stor6465-3933-4639-b335-613365323636/d37789b69faa753852f6fdd8bd202f98.jpg",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 3000.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://botanicacoffee.ru/tproduct/3111555201-779162489383-sumka-dlya-termokruzhki",
+   "name": "Сумка для термокружки",
+   "description": "Освобождает руки и держит термокружку рядом — в дороге, на прогулке или по пути за кофе. Яркий и удобный аксессуар на каждый день.\nИстория\nСумка создана для удобной переноски термокружки в дороге, на прогулке или по пути на работу. Она освобождает руки и помогает держать любимый напиток рядом, дополняя повседневный образ фирменным аксессуаром Botanica.",
+   "image": "https://static.tildacdn.com/stor6462-6662-4231-b462-646632353661/37105178.png",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1900.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://botanicacoffee.ru/tproduct/3111555301-213061486162-bananovii-chai",
+   "name": "Банановый чай",
+   "description": "Яркий фруктовый напиток, созданный на основе чёрного индийского чая, высокая сладость, фруктовый аромат, кусочки натуральных фруктов, 100 грамм",
+   "image": "https://static.tildacdn.com/stor3363-3562-4230-a362-613938383139/76033707.webp",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 310.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://botanicacoffee.ru/tproduct/3111555301-547526547032-klubnichnii-ulun",
+   "name": "Клубничный улун",
+   "description": "Аромат свежей зелени и спелой клубники, травянистые ноты\nс клубничными оттенками. В составе: светлый улун с кусочками клубники и натуральные аромамасла, 150 грамм",
+   "image": "https://static.tildacdn.com/stor3663-6265-4533-a630-666138613261/25215862.webp",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 320.0,
+     "available": true
+    }
+   ]
+  },
   {
    "url": "https://botanicacoffee.ru/ladywhite",
    "name": "Колумбия Уайт Спайс",
@@ -323,25 +435,6 @@
    ]
   },
   {
-   "url": "https://botanicacoffee.ru/keniamaakioy",
-   "name": "Кения Маакиоу",
-   "description": "Cочная чашка мытой обработки с нотами чёрных ягод, карамели,\nкрасного вина, цветочного мёда, смородинового листа",
-   "image": "https://static.tildacdn.com/stor3339-6433-4361-b131-656530333761/7e1254014b2523f5d85d527bb5525e8d.png",
-   "available": true,
-   "variants": [
-    {
-     "weight_g": 200,
-     "price": 1090.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4440.0,
-     "available": true
-    }
-   ]
-  },
-  {
    "url": "https://botanicacoffee.ru/sumatrakerinchi",
    "name": "Индонезия Суматра Керинчи",
    "description": "Сладкий, десердный лот с нотами сочной сливы и фруктового мармелада, ягодное послевкусие",
@@ -432,118 +525,6 @@
     {
      "weight_g": 1000,
      "price": 3840.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://botanicacoffee.ru/instantuganda",
-   "name": "Растворимый кофе Уганда Мвези",
-   "description": "6 пакетиков с натуральным кофе внутри, который можно заварить за 10 секунд",
-   "image": "https://static.tildacdn.com/stor6465-3762-4837-b530-356432323638/323672474cb94e29273974826b1882f0.png",
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 730.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://botanicacoffee.ru/tproduct/4283152801-651433003663-drip-efiopiya-sidamo-1-sht",
-   "name": "Дрип Эфиопия Сидамо — 1 шт",
-   "description": "Спокойный кофе с нотами чёрного чая, цветов и лайма. Один дрип-пакет — удобно добавить к заказу и заварить прямо в чашке.",
-   "image": "https://static.tildacdn.com/stor6165-3662-4462-b832-303865333337/0b31b3d18efdcaa6f293691480b62f44.jpg",
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 85.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://botanicacoffee.ru/tproduct/3111555201-921997570983-brelok-dlya-zazhigalki",
-   "name": "Брелок для зажигалки",
-   "description": "Зажигалка всегда под рукой. Брелок-цветок вручную сшит из кофейных упаковок Botanica и крепится к сумке или брюкам.\nИстория\nБрелок вручную сшит из использованных кофейных упаковок Botanica и превращает их в функциональный аксессуар. Благодаря повторному использованию материала каждый экземпляр получает свой рисунок, а ремешок позволяет закрепить зажигалку на сумке или одежде.",
-   "image": "https://static.tildacdn.com/stor3932-3835-4563-b939-303361653539/12759611.png",
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 350.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://botanicacoffee.ru/tproduct/4283152801-716464180353-drip-ruanda-muteteli-1-sht",
-   "name": "Дрип Руанда Мутетели — 1 шт",
-   "description": "Чайный ягодный лот с нотами чёрного чая, цитрусов, смородины и карамели. Один дрип-пакет — удобно добавить к заказу и заварить прямо в чашке.",
-   "image": "https://static.tildacdn.com/stor6165-3662-4462-b832-303865333337/0b31b3d18efdcaa6f293691480b62f44.jpg",
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 87.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://botanicacoffee.ru/tproduct/3111555201-826420116922-futbolka-esli-bi-ne-eta-kozochka",
-   "name": "Футболка \"Если бы не эта козочка...\"",
-   "description": "Та самая козочка, с которой началась история кофе. Яркая зелёная футболка для тех, кто любит кофе не только в чашке.\nСостав — 100% хлопок, размер один — оверсайз L.\nМодель представлена в изумрудно-зелёном цвете.",
-   "image": "https://static.tildacdn.com/stor6465-3933-4639-b335-613365323636/d37789b69faa753852f6fdd8bd202f98.jpg",
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 3000.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://botanicacoffee.ru/tproduct/3111555201-779162489383-sumka-dlya-termokruzhki",
-   "name": "Сумка для термокружки",
-   "description": "Освобождает руки и держит термокружку рядом — в дороге, на прогулке или по пути за кофе. Яркий и удобный аксессуар на каждый день.\nИстория\nСумка создана для удобной переноски термокружки в дороге, на прогулке или по пути на работу. Она освобождает руки и помогает держать любимый напиток рядом, дополняя повседневный образ фирменным аксессуаром Botanica.",
-   "image": "https://static.tildacdn.com/stor6462-6662-4231-b462-646632353661/37105178.png",
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 1900.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://botanicacoffee.ru/tproduct/3111555301-213061486162-bananovii-chai",
-   "name": "Банановый чай",
-   "description": "Яркий фруктовый напиток, созданный на основе чёрного индийского чая, высокая сладость, фруктовый аромат, кусочки натуральных фруктов, 100 грамм",
-   "image": "https://static.tildacdn.com/stor3363-3562-4230-a362-613938383139/76033707.webp",
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 310.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://botanicacoffee.ru/tproduct/3111555301-547526547032-klubnichnii-ulun",
-   "name": "Клубничный улун",
-   "description": "Аромат свежей зелени и спелой клубники, травянистые ноты\nс клубничными оттенками. В составе: светлый улун с кусочками клубники и натуральные аромамасла, 150 грамм",
-   "image": "https://static.tildacdn.com/stor3663-6265-4533-a630-666138613261/25215862.webp",
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 320.0,
      "available": true
     }
    ]

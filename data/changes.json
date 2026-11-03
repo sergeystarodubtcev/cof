@@ -3946,5 +3946,18 @@
     "reason": "нет в наличии"
    }
   ]
+ },
+ {
+  "at": "2026-11-03T07:09:19+00:00",
+  "added": [],
+  "removed": [
+   {
+    "id": "1c6ad2e66439",
+    "roaster": "botanica",
+    "name": "Кения Маакиоу",
+    "url": "https://botanicacoffee.ru/keniamaakioy",
+    "reason": "пропал с сайта"
+   }
+  ]
  }
 ]

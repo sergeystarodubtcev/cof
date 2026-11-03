@@ -3,10 +3,10 @@
   "id": "camera",
   "platform": "tilda",
   "items": 15,
-  "seconds": 21.9,
+  "seconds": 21.6,
   "ok": true,
   "error": null,
-  "at": "2026-11-03T06:52:08+00:00"
+  "at": "2026-11-03T07:02:01+00:00"
  },
  "items": [
   {
@@ -17,102 +17,102 @@
    "available": true,
    "variants": [
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 924.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 924.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 924.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 924.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 924.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 924.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 924.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 924.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 924.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 924.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3444.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3444.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3444.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3444.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3444.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3444.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3444.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3444.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3444.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3444.0,
      "available": true
     }
@@ -126,102 +126,102 @@
    "available": true,
    "variants": [
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 944.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 944.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 944.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 944.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 944.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 944.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 944.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 944.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 944.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 944.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3524.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3524.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3524.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3524.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3524.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3524.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3524.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3524.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3524.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3524.0,
      "available": true
     }
@@ -235,102 +235,102 @@
    "available": true,
    "variants": [
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 942.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 942.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 942.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 942.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 942.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 942.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 942.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 942.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 942.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 942.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3471.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3471.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3471.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3471.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3471.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3471.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3471.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3471.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3471.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3471.0,
      "available": true
     }
@@ -344,102 +344,102 @@
    "available": true,
    "variants": [
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1018.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1018.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1018.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1018.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1018.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1018.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1018.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1018.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1018.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1018.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3775.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3775.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3775.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3775.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3775.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3775.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3775.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3775.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3775.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3775.0,
      "available": true
     }
@@ -453,102 +453,102 @@
    "available": true,
    "variants": [
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1064.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1064.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1064.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1064.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1064.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1064.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1064.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1064.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1064.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1064.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3960.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3960.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3960.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3960.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3960.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3960.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3960.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3960.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3960.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3960.0,
      "available": true
     }
@@ -562,102 +562,102 @@
    "available": true,
    "variants": [
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1094.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1094.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1094.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1094.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1094.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1094.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1094.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1094.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1094.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1094.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 4079.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 4079.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 4079.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 4079.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 4079.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 4079.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 4079.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 4079.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 4079.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 4079.0,
      "available": true
     }
@@ -671,212 +671,103 @@
    "available": true,
    "variants": [
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1071.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1071.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1071.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1071.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1071.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1071.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1071.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1071.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1071.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1071.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3989.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3989.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3989.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3989.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3989.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3989.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3989.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3989.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3989.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3989.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://camcoffee.ru/espresso/decaf_colombia",
-   "name": "Кофе без кофеина Sleepover",
-   "description": "Декаф Колумбия Кальдас\nВо вкусе: жёлтое яблоко, сливочная ириска, миндаль",
-   "image": "https://static.tildacdn.com/stor3730-3236-4462-b438-623333303336/93575dcd9ff080ce656afc0ed5bc11c1.jpg",
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 1129.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1129.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1129.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1129.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1129.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1129.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1129.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1129.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1129.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1129.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 4220.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 4220.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 4220.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 4220.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 4220.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 4220.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 4220.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 4220.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 4220.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 4220.0,
      "available": true
     }
    ]
@@ -889,102 +780,102 @@
    "available": true,
    "variants": [
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1138.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1138.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1138.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1138.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1138.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1138.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1138.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1138.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1138.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1138.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 4255.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 4255.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 4255.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 4255.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 4255.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 4255.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 4255.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 4255.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 4255.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 4255.0,
      "available": true
     }
@@ -998,102 +889,102 @@
    "available": true,
    "variants": [
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1154.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1154.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1154.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1154.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1154.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1154.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1154.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1154.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1154.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1154.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 4321.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 4321.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 4321.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 4321.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 4321.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 4321.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 4321.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 4321.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 4321.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 4321.0,
      "available": true
     }
@@ -1107,102 +998,102 @@
    "available": true,
    "variants": [
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1092.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1092.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1092.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1092.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1092.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1092.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1092.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1092.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1092.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1092.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 4072.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 4072.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 4072.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 4072.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 4072.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 4072.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 4072.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 4072.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 4072.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 4072.0,
      "available": true
     }
@@ -1216,102 +1107,102 @@
    "available": true,
    "variants": [
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1143.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1143.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1143.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1143.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1143.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1143.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1143.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1143.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1143.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1143.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 4276.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 4276.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 4276.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 4276.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 4276.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 4276.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 4276.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 4276.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 4276.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 4276.0,
      "available": true
     }
@@ -1325,103 +1216,212 @@
    "available": true,
    "variants": [
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1055.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1055.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1055.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1055.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1055.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1055.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1055.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1055.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1055.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1055.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3923.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3923.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3923.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3923.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3923.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3923.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3923.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3923.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3923.0,
      "available": true
     },
     {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3923.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://camcoffee.ru/espresso/decaf_colombia",
+   "name": "Кофе без кофеина Sleepover",
+   "description": "Декаф Колумбия Кальдас\nВо вкусе: жёлтое яблоко, сливочная ириска, миндаль",
+   "image": "https://static.tildacdn.com/stor3730-3236-4462-b438-623333303336/93575dcd9ff080ce656afc0ed5bc11c1.jpg",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1129.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1129.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1129.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1129.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1129.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1129.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1129.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1129.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1129.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1129.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4220.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4220.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4220.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4220.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4220.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4220.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4220.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4220.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4220.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4220.0,
      "available": true
     }
    ]

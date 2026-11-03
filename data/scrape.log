@@ -1,22 +1,27 @@
-Обхожу 18 обжарщиков…
-  kof            unreachable             0 товаров  6.9s 
-  roastberry     generic                 0 товаров  7.5s 
-  triptych       tilda                  12 товаров  9.1s 
-  botanica       tilda                  31 товаров  9.8s 
-  doubleb        tilda+generic           0 товаров  10.0s 
-  yankeesierra   tilda                   9 товаров  12.8s 
-  fauno          tilda                  17 товаров  13.3s 
-  znak           generic                 0 товаров  14.2s 
-  bernin         generic                 0 товаров  18.4s 
-  zerno          tilda                  36 товаров  20.8s 
-  bittersweet    tilda                  16 товаров  21.1s 
-  camera         tilda                  15 товаров  21.9s 
-  silkydrum      tilda                  92 товаров  29.8s 
-  bolshe         tilda                  77 товаров  34.1s 
-  hq             woocommerce+generic     0 товаров  44.4s 
-  madheads       generic                 2 товаров  38.0s 
-  notik          bitrix+generic          0 товаров  67.8s 
-  west4          unreachable             0 товаров  107.7s 
-Кофейных товаров в продаже: 2213 (нет в наличии, скрыто: 338); скачиваю картинки…
-Изменения: +228 добавлено, −335 удалено
-Готово: 2213 товаров, 183 лотов есть у нескольких обжарщиков → /home/runner/work/cof/cof/site/data/catalog.json
+Обхожу 23 обжарщиков…
+  roastberry     generic                 0 товаров  3.6s 
+  yankeesierra   tilda                   9 товаров  6.9s 
+  triptych       tilda                  12 товаров  7.6s 
+  doubleb        tilda+generic           0 товаров  10.4s 
+  fauno          tilda                  17 товаров  14.5s 
+  botanica       tilda                  30 товаров  11.4s 
+  zerno          tilda                  36 товаров  21.2s 
+  camera         tilda                  15 товаров  21.6s 
+  bittersweet    tilda                  16 товаров  12.4s 
+  bernin         generic                 0 товаров  20.0s 
+  bolshe         tilda                  77 товаров  30.8s 
+  silkydrum      tilda                  92 товаров  31.1s 
+  choose         tilda+generic          31 товаров  32.6s 
+  madheads       generic                 2 товаров  14.9s 
+  stereo         tilda+generic          53 товаров  38.1s 
+  znak           generic                 0 товаров  31.8s 
+  qq             generic                26 товаров  45.6s 
+  hq             woocommerce+generic     0 товаров  59.0s 
+  caffeinelab    tilda+generic         123 товаров  110.7s 
+  lebo           tilda+generic          90 товаров  134.3s 
+  notik          bitrix+generic          0 товаров  121.7s 
+  kofeop         bitrix+generic         69 товаров  147.5s 
+  tab            bitrix+generic         51 товаров  460.4s 
+Кофейных товаров в продаже: 2137 (нет в наличии, скрыто: 337); скачиваю картинки…
+Изменения: +0 добавлено, −1 удалено
+Готово: 2137 товаров, 179 лотов есть у нескольких обжарщиков → /home/runner/work/cof/cof/site/data/catalog.json
