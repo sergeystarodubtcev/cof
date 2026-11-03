@@ -335,6 +335,31 @@ def extract_specs(text: str) -> dict:
     return specs
 
 
+def _gallery(url: str, html: str) -> list[str]:
+    """Актуальная галерея товара из данных страницы (SPA часто кладут её в JSON состояния, а не в разметку).
+    Берём картинки, в имени файла которых есть слаг товара; свежие (с меткой времени) и ~768–1024px — первыми."""
+    slug = urlparse(url).path.rstrip("/").split("/")[-1].lower()
+    if len(slug) < 4:
+        return []
+    h = html.replace("\\u002F", "/").replace("\\/", "/")
+    cands = dict.fromkeys(re.findall(r"https?://[^\"'\s<>()]+?\.(?:webp|jpe?g|png)", h, re.I))
+    hits = [c for c in cands if slug in c.lower().rsplit("/", 1)[-1]]
+
+    def score(c):
+        name = c.rsplit("/", 1)[-1]
+        return (bool(re.match(r"\d{9,}", name)), bool(re.search(r"-(?:7\d\d|8\d\d|10\d\d)\.", name)), name.endswith(".webp"))
+    hits.sort(key=score, reverse=True)
+    if hits and score(hits[0])[0]:
+        hits = [c for c in hits if score(c)[0]]  # есть свежие — устаревшие файлы отбрасываем
+    out, bases = [], set()
+    for c in hits:
+        base = re.sub(r"-(?:\d{2,4}|full)\.(webp|jpe?g|png)$", "", c)
+        if base not in bases:
+            bases.add(base)
+            out.append(c)
+    return out[:5] if hits and score(hits[0])[0] else []
+
+
 def parse_product_page(url: str, html: str) -> dict | None:
     soup = BeautifulSoup(html, "lxml")
     meta = lambda *names: next((m.get("content") for n in names for m in soup.select(f'meta[property="{n}"], meta[name="{n}"]') if m.get("content")), None)  # noqa: E731
@@ -419,9 +444,12 @@ def parse_product_page(url: str, html: str) -> dict | None:
             v["available"] = buy
     if not name or not any(v["price"] for v in variants):
         return None
+    gallery = _gallery(url, html)
+    if gallery:
+        img = gallery[0]
     crumbs = " / ".join(e.get_text(" ", strip=True) for e in soup.select('[itemtype*="BreadcrumbList"] [itemprop="name"], .breadcrumbs a, .breadcrumb a'))
     return {"url": url, "name": name, "description": desc or "", "image": urljoin(url, img) if img else None,
-            "category": crumbs, "specs": specs, "available": any(v["available"] for v in variants), "variants": variants}
+            "category": crumbs, "specs": specs, "gallery": gallery[1:4], "available": any(v["available"] for v in variants), "variants": variants}
 
 
 def generic(site: str, start_pages: list[str], budget: int = MAX_PAGES) -> list[dict]:
