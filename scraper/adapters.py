@@ -587,6 +587,10 @@ def scrape_site(roaster: dict) -> tuple[str, list[dict]]:
         items = insales(site)
     elif platform == "tilda":
         items = tilda(site, list(dict.fromkeys([site, *start])))
+        # у Tilda-магазина бывает несколько витрин; API находит не все — добираем обходом карточек
+        extra = generic(site, start, budget=250)
+        have = {i["url"].split("?")[0].rstrip("/") for i in items or []}
+        items = (items or []) + [i for i in extra if i["url"].split("?")[0].rstrip("/") not in have]
     if not items:  # универсальный путь — работает и как подстраховка
         items = generic(site, start)
         platform = f"{platform}+generic" if platform not in ("generic", "unknown") else "generic"
