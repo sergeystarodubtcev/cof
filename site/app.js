@@ -263,8 +263,9 @@ function lotCard(ps, simScore) {
   const head = ps.find(p => p.image && avail(p)) || ps.find(p => p.image) || ps[0];
   const live = ps.filter(avail);
   const rs = [...new Map(ps.map(p => [p.roaster, p._r])).values()];
-  const names = ps.map(p => p.name).sort((a, b) => a.length - b.length);
-  const name = nice(names.find(n => /[а-я]/i.test(n)) || names[0]);
+  // название: где есть страна/регион, по-русски, покороче; безликое «Кофе в зернах» — в последнюю очередь
+  const rank = n => { const f = fold(n); return (head.country && f.includes(fold(head.country).slice(0, 5)) ? 0 : 2) + (head.region && f.includes(fold(head.region).slice(0, 4)) ? -1 : 0) + (/[а-я]/i.test(n) ? 0 : 1) + (/^кофе в зерн/i.test(n) ? 5 : 0); };
+  const name = nice(ps.map(p => p.name).sort((a, b) => rank(a) - rank(b) || a.length - b.length)[0]);
   let price;
   if (rs.length > 1) {
     // у нескольких обжарщиков: самая дешёвая пачка каждого

@@ -185,7 +185,7 @@ def build(roasters: list[dict], statuses: dict[str, dict], log_changes: bool = T
         statuses.setdefault(r["id"], raw.get("status", {}))
     seen = json.loads(SEEN.read_text()) if SEEN.exists() else {}
     if not seen and previous:  # первый запуск с памятью: переносим даты появления из текущего каталога
-        seen = {p["id"]: {"first_seen": p["first_seen"], "price_history": p.get("price_history", [])} for p in previous["products"]}
+        seen = {p["id"]: {"first_seen": p["first_seen"], "price_history": p.get("price_history", []), "roaster": p["roaster"]} for p in previous["products"]}
     # нет в наличии → позиция уходит из каталога (в памяти seen остаётся)
     out_of_stock = [p for p in products if p["available"] is False]
     for p in out_of_stock:
@@ -218,8 +218,16 @@ def build(roasters: list[dict], statuses: dict[str, dict], log_changes: bool = T
         CHANGES.write_text(json.dumps(log, ensure_ascii=False, indent=1))
     SEEN.write_text(json.dumps(seen, ensure_ascii=False, separators=(",", ":")))
     print(f"Изменения: +{len(change['added'])} добавлено, −{len(change['removed'])} удалено", flush=True)
+    # «Новинка» — только то, что появилось у обжарщика, которого мы уже отслеживали:
+    # весь каталог только что подключённого обжарщика новинкой не считается
+    roaster_start = {}
+    for v in seen.values():
+        if v.get("roaster") and v.get("first_seen"):
+            roaster_start[v["roaster"]] = min(roaster_start.get(v["roaster"], v["first_seen"]), v["first_seen"])
     for p in products:
-        p["is_new"] = p["first_seen"] > first_run and ts - datetime.fromisoformat(p["first_seen"]) < timedelta(days=NEW_DAYS)
+        start = datetime.fromisoformat(roaster_start.get(p["roaster"], p["first_seen"]))
+        fs = datetime.fromisoformat(p["first_seen"])
+        p["is_new"] = fs - start > timedelta(hours=20) and ts - fs < timedelta(days=NEW_DAYS)
 
     lots = {}
     for p in products:
