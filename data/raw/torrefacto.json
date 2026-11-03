@@ -3,10 +3,10 @@
   "id": "torrefacto",
   "platform": "bitrix+generic",
   "items": 560,
-  "seconds": 1467.7,
+  "seconds": 1800.3,
   "ok": true,
   "error": null,
-  "at": "2026-11-03T06:30:14+00:00"
+  "at": "2026-11-03T07:43:56+00:00"
  },
  "items": [
   {
@@ -20,12 +20,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": null,
-     "price": 1264.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
+     "weight_g": 350,
      "price": 1264.0,
      "available": false
     }
@@ -42,12 +37,12 @@
    "available": true,
    "variants": [
     {
-     "weight_g": 200,
+     "weight_g": null,
      "price": 1036.0,
      "available": true
     },
     {
-     "weight_g": 1000,
+     "weight_g": null,
      "price": 1036.0,
      "available": true
     }
@@ -295,12 +290,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": null,
-     "price": 2340.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 2340.0,
      "available": false
     }
@@ -376,12 +366,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": null,
-     "price": 2550.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 2550.0,
      "available": false
     }
@@ -449,12 +434,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": null,
-     "price": 2070.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 2070.0,
      "available": false
     }
@@ -540,12 +520,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": null,
-     "price": 2350.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 2350.0,
      "available": false
     }
@@ -976,12 +951,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": null,
-     "price": 3950.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3950.0,
      "available": false
     }
@@ -3200,12 +3170,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": null,
-     "price": 1970.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 1970.0,
      "available": false
     }
@@ -4536,12 +4501,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": null,
-     "price": 2600.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 2600.0,
      "available": false
     }
@@ -5038,12 +4998,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": null,
-     "price": 3160.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3160.0,
      "available": false
     }
@@ -5538,12 +5493,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": null,
-     "price": 3300.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3300.0,
      "available": false
     }
@@ -6273,12 +6223,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": null,
-     "price": 960.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 960.0,
      "available": false
     }
@@ -6509,12 +6454,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": null,
-     "price": 2700.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 2700.0,
      "available": false
     }
@@ -7701,12 +7641,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": null,
-     "price": 2340.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 2340.0,
      "available": false
     }
@@ -9379,12 +9314,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": null,
-     "price": 3960.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3960.0,
      "available": false
     }
@@ -9757,12 +9687,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": null,
-     "price": 1970.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 1970.0,
      "available": false
     }
@@ -9873,12 +9798,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": null,
-     "price": 2620.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 2620.0,
      "available": false
     }
@@ -10312,12 +10232,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": null,
-     "price": 2760.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 2760.0,
      "available": false
     }
@@ -10388,12 +10303,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": null,
-     "price": 3110.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3110.0,
      "available": false
     }
@@ -10579,12 +10489,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": null,
-     "price": 3260.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3260.0,
      "available": false
     }
@@ -10610,12 +10515,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": null,
-     "price": 3340.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3340.0,
      "available": false
     }
@@ -10875,12 +10775,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": null,
-     "price": 2880.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 2880.0,
      "available": false
     }
@@ -10905,12 +10800,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": null,
-     "price": 3340.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3340.0,
      "available": false
     }
@@ -11584,12 +11474,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": null,
-     "price": 5200.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 5200.0,
      "available": false
     }
@@ -11614,12 +11499,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": null,
-     "price": 3150.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3150.0,
      "available": false
     }
@@ -11644,12 +11524,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": null,
-     "price": 2740.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 2740.0,
      "available": false
     }
@@ -11723,12 +11598,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": null,
-     "price": 3300.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3300.0,
      "available": false
     }
@@ -11855,12 +11725,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": null,
-     "price": 2920.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 2920.0,
      "available": false
     }
@@ -11884,12 +11749,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": null,
-     "price": 3600.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3600.0,
      "available": false
     }
@@ -12006,12 +11866,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": null,
-     "price": 2850.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 2850.0,
      "available": false
     }
@@ -12037,12 +11892,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": null,
-     "price": 3490.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3490.0,
      "available": false
     }
@@ -12119,12 +11969,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": null,
-     "price": 3320.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3320.0,
      "available": false
     }
@@ -12147,12 +11992,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": null,
-     "price": 7511.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 7511.0,
      "available": false
     }
@@ -12176,12 +12016,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": null,
-     "price": 2460.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 2460.0,
      "available": false
     }
@@ -12204,12 +12039,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": null,
-     "price": 6550.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 6550.0,
      "available": false
     }
@@ -12289,12 +12119,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": null,
-     "price": 4370.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 4370.0,
      "available": false
     }
@@ -12319,12 +12144,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": null,
-     "price": 3200.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3200.0,
      "available": false
     }
@@ -12349,12 +12169,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": null,
-     "price": 3200.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3200.0,
      "available": false
     }
@@ -12377,12 +12192,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": null,
-     "price": 2790.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 2790.0,
      "available": false
     }
@@ -12499,12 +12309,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": null,
-     "price": 2590.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 2590.0,
      "available": false
     }
@@ -12527,12 +12332,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": null,
-     "price": 2620.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 2620.0,
      "available": false
     }
@@ -12549,12 +12349,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": null,
-     "price": 690.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
+     "weight_g": 450,
      "price": 690.0,
      "available": false
     }
@@ -12571,12 +12366,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": null,
-     "price": 720.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
+     "weight_g": 450,
      "price": 720.0,
      "available": false
     }
@@ -12593,12 +12383,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": null,
-     "price": 870.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
+     "weight_g": 450,
      "price": 870.0,
      "available": false
     }
@@ -12852,12 +12637,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": null,
-     "price": 520.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
+     "weight_g": 450,
      "price": 520.0,
      "available": false
     }
@@ -12922,12 +12702,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": null,
-     "price": 3880.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3880.0,
      "available": false
     }
@@ -13001,12 +12776,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": null,
-     "price": 3220.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3220.0,
      "available": false
     }
@@ -13122,12 +12892,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": null,
-     "price": 3390.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3390.0,
      "available": false
     }
@@ -13153,12 +12918,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": null,
-     "price": 2460.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 2460.0,
      "available": false
     }
@@ -13183,12 +12943,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": null,
-     "price": 3270.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3270.0,
      "available": false
     }
@@ -13214,12 +12969,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": null,
-     "price": 2450.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 2450.0,
      "available": false
     }
@@ -13497,12 +13247,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": null,
-     "price": 2690.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 2690.0,
      "available": false
     }
@@ -14309,32 +14054,17 @@
    "available": false,
    "variants": [
     {
-     "weight_g": null,
+     "weight_g": 250,
      "price": 1010.0,
      "available": false
     },
     {
-     "weight_g": null,
+     "weight_g": 500,
      "price": 1820.0,
      "available": false
     },
     {
-     "weight_g": null,
-     "price": 3090.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
-     "price": 1010.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
-     "price": 1820.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3090.0,
      "available": false
     }
@@ -15796,12 +15526,12 @@
    "available": false,
    "variants": [
     {
-     "weight_g": 200,
+     "weight_g": null,
      "price": 419.0,
      "available": false
     },
     {
-     "weight_g": 1000,
+     "weight_g": null,
      "price": 419.0,
      "available": false
     }
@@ -15818,12 +15548,12 @@
    "available": true,
    "variants": [
     {
-     "weight_g": 150,
+     "weight_g": null,
      "price": 502.0,
      "available": true
     },
     {
-     "weight_g": 1000,
+     "weight_g": null,
      "price": 502.0,
      "available": true
     }
@@ -15936,12 +15666,12 @@
    "available": false,
    "variants": [
     {
-     "weight_g": 200,
+     "weight_g": null,
      "price": 584.0,
      "available": false
     },
     {
-     "weight_g": 1000,
+     "weight_g": null,
      "price": 584.0,
      "available": false
     }
@@ -15958,12 +15688,12 @@
    "available": false,
    "variants": [
     {
-     "weight_g": 200,
+     "weight_g": null,
      "price": 599.0,
      "available": false
     },
     {
-     "weight_g": 1000,
+     "weight_g": null,
      "price": 599.0,
      "available": false
     }
@@ -15980,12 +15710,12 @@
    "available": true,
    "variants": [
     {
-     "weight_g": 150,
+     "weight_g": null,
      "price": 505.0,
      "available": true
     },
     {
-     "weight_g": 1000,
+     "weight_g": null,
      "price": 505.0,
      "available": true
     }
@@ -16568,12 +16298,7 @@
    "available": true,
    "variants": [
     {
-     "weight_g": null,
-     "price": 1264.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
+     "weight_g": 350,
      "price": 1264.0,
      "available": true
     }
@@ -16590,12 +16315,7 @@
    "available": true,
    "variants": [
     {
-     "weight_g": null,
-     "price": 1264.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
+     "weight_g": 350,
      "price": 1264.0,
      "available": true
     }
@@ -16761,12 +16481,12 @@
    "available": true,
    "variants": [
     {
-     "weight_g": 175,
+     "weight_g": null,
      "price": 836.0,
      "available": true
     },
     {
-     "weight_g": 1000,
+     "weight_g": null,
      "price": 836.0,
      "available": true
     }
@@ -17786,12 +17506,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": null,
-     "price": 3020.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
+     "weight_g": 2000,
      "price": 3020.0,
      "available": false
     }
@@ -17857,12 +17572,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": null,
-     "price": 3290.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
+     "weight_g": 2000,
      "price": 3290.0,
      "available": false
     }
@@ -17930,12 +17640,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": null,
-     "price": 2480.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
+     "weight_g": 2000,
      "price": 2480.0,
      "available": false
     }
@@ -18021,12 +17726,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": null,
-     "price": 3050.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
+     "weight_g": 2000,
      "price": 3050.0,
      "available": false
     }
@@ -18447,12 +18147,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": null,
-     "price": 5140.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
+     "weight_g": 2000,
      "price": 5140.0,
      "available": false
     }
@@ -20641,12 +20336,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": null,
-     "price": 2380.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
+     "weight_g": 2000,
      "price": 2380.0,
      "available": false
     }
@@ -20710,12 +20400,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": null,
-     "price": 2960.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
+     "weight_g": 2000,
      "price": 2960.0,
      "available": false
     }
@@ -21947,12 +21632,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": null,
-     "price": 3350.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
+     "weight_g": 2000,
      "price": 3350.0,
      "available": false
     }
@@ -22449,12 +22129,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": null,
-     "price": 4110.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
+     "weight_g": 2000,
      "price": 4110.0,
      "available": false
     }

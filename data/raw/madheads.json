@@ -2,1203 +2,1230 @@
  "status": {
   "id": "madheads",
   "platform": "generic",
-  "items": 2,
-  "seconds": 14.9,
+  "items": 238,
+  "seconds": 217.1,
   "ok": true,
   "error": null,
-  "at": "2026-11-03T07:02:15+00:00"
+  "at": "2026-11-03T07:19:26+00:00"
  },
  "items": [
   {
-   "url": "https://madheadscoffee.com",
-   "name": "Turaco",
-   "description": "Stay Mad Respect Quality",
-   "image": "https://madheads/img/facebook-preview-madheads.jpg",
-   "category": "",
+   "url": "https://madheadscoffee.com/p/jAHvBO0M6h6-5edae4b4",
+   "name": "Guji Hambella Gr.2",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/408114/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Guji Hambella Gr.2 / Guji Hambella Gr.2",
    "specs": {},
    "gallery": [],
    "available": true,
    "variants": [
     {
      "weight_g": null,
-     "price": 394.0,
+     "price": 436.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/AfRDCqlFCxy-f15016c9",
+   "name": "Guji Shakiso",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/408113/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Guji Shakiso / Guji Shakiso",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 561.0,
      "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 436.0,
-     "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/GUOQE2rZ3EE-b8444522",
+   "name": "Shantawane",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/408112/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Shantawane / Shantawane",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 471.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/fVCPzPJwNqw-6545ed97",
+   "name": "Gesha Gelan Abaya",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/406269/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Gesha Gelan Abaya / Gesha Gelan Abaya",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 516.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/iagS7cI93Je-627f7854",
+   "name": "Gesha Guji Shakiso *GUR COLLAB",
+   "description": "*GUR COLLAB - «Спецпідрозділ Тимура» ГУР МО України - це універсальний оперативно-бойовий підрозділ спеціального призначення, відомий завдяки своїм операціям по звільненню острова Зміїний, поверненню під контроль України «вишок Бойка», деокупації Вовчанського агрегатного заводу, рейдам в Крим та Енергодар, боям за Бахмут, Авдіївку, Купʼянськ, Покровськ та ін.\nКупуючи цю каву ви робите прямий внесок в\nпідтримку «Спецпідрозділу Тимура» ГУР МО України.",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/406268/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Gesha Guji Shakiso *GUR COLLAB / Gesha Guji Shakiso *GUR COLLAB",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 621.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/oEDcefr7Tyg-fafa0bbb",
+   "name": "Gicumbi",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/386066/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Gicumbi / Gicumbi",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 424.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/SZ3IGoP0boU-13115c57",
+   "name": "Santa Barbara",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/386065/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Santa Barbara / Santa Barbara",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 404.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/wW6JuN863cM-bedcfbae",
+   "name": "Banko Chelchele",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/350192/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Banko Chelchele / Banko Chelchele",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
-     "price": 446.0,
+     "price": 556.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/NXuyLIQ6GQY-1051b722",
+   "name": "Gesha Karmachi",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/350191/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Gesha Karmachi / Gesha Karmachi",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
-     "price": 484.0,
+     "price": 604.0,
      "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 534.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 734.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 831.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 836.0,
-     "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/IOXp5kwDwty-ded6fbea",
+   "name": "Bonito Sidra *GUR COLLAB",
+   "description": "*GUR COLLAB - «Спецпідрозділ Тимура» ГУР МО України - це універсальний оперативно-бойовий підрозділ спеціального призначення, відомий завдяки своїм операціям по звільненню острова Зміїний, поверненню під контроль України «вишок Бойка», деокупації Вовчанського агрегатного заводу, рейдам в Крим та Енергодар, боям за Бахмут, Авдіївку, Купʼянськ, Покровськ та ін.\nКупуючи цю каву ви робите прямий внесок в\nпідтримку «Спецпідрозділу Тимура» ГУР МО України.",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/338618/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Bonito Sidra *GUR COLLAB / Bonito Sidra *GUR COLLAB",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 959.0,
      "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 604.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 556.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 421.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 386.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 429.0,
-     "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/TUceUm2alKw-d65d996e",
+   "name": "La Montana",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/338617/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / La Montana / La Montana",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 484.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/XZnVbXFg97S-929461dd",
+   "name": "Suke Werekata",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/337734/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Suke Werekata / Suke Werekata",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
-     "price": 554.0,
+     "price": 534.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/Nd1NKt62Ma0-a8aab1fb",
+   "name": "Kochere Gr2",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/337733/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Kochere Gr2 / Kochere Gr2",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
-     "price": 504.0,
+     "price": 446.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/uuUz3LMDKmc-2ca31651",
+   "name": "Santa Monica + Rose Tea *GUR COLLAB",
+   "description": "*GUR COLLAB - «Спецпідрозділ Тимура» ГУР МО України - це універсальний оперативно-бойовий підрозділ спеціального призначення, відомий завдяки своїм операціям по звільненню острова Зміїний, поверненню під контроль України «вишок Бойка», деокупації Вовчанського агрегатного заводу, рейдам в Крим та Енергодар, боям за Бахмут, Авдіївку, Купʼянськ, Покровськ та ін.\nКупуючи цю каву ви робите прямий внесок в\nпідтримку «Спецпідрозділу Тимура» ГУР МО України.",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/337731/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Santa Monica + Rose Tea *GUR COLLAB / Santa Monica + Rose Tea *GUR COLLAB",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
-     "price": 574.0,
+     "price": 836.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/QqtdgChsrvC-c5d4fdef",
+   "name": "Santa Monica + Lychee *GUR COLLAB",
+   "description": "*GUR COLLAB - «Спецпідрозділ Тимура» ГУР МО України - це універсальний оперативно-бойовий підрозділ спеціального призначення, відомий завдяки своїм операціям по звільненню острова Зміїний, поверненню під контроль України «вишок Бойка», деокупації Вовчанського агрегатного заводу, рейдам в Крим та Енергодар, боям за Бахмут, Авдіївку, Купʼянськ, Покровськ та ін.\nКупуючи цю каву ви робите прямий внесок в\nпідтримку «Спецпідрозділу Тимура» ГУР МО України.",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/337730/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Santa Monica + Lychee *GUR COLLAB / Santa Monica + Lychee *GUR COLLAB",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
-     "price": 519.0,
+     "price": 831.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/r73RdlRg0hC-9dfde0b7",
+   "name": "Santa Monica + Strawberry *GUR COLLAB",
+   "description": "*GUR COLLAB - «Спецпідрозділ Тимура» ГУР МО України - це універсальний оперативно-бойовий підрозділ спеціального призначення, відомий завдяки своїм операціям по звільненню острова Зміїний, поверненню під контроль України «вишок Бойка», деокупації Вовчанського агрегатного заводу, рейдам в Крим та Енергодар, боям за Бахмут, Авдіївку, Купʼянськ, Покровськ та ін.\nКупуючи цю каву ви робите прямий внесок в\nпідтримку «Спецпідрозділу Тимура» ГУР МО України.",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/337729/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Santa Monica + Strawberry *GUR COLLAB / Santa Monica + Strawberry *GUR COLLAB",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
-     "price": 519.0,
+     "price": 734.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/rp654CKjHEk-19c3cba3",
+   "name": "Nuevo Oriente",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/287470/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Nuevo Oriente / Nuevo Oriente",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
-     "price": 556.0,
+     "price": 429.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/d7MBqv8QaRa-decb9081",
+   "name": "Ndogo Kirinyaga",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/287469/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Ndogo Kirinyaga / Ndogo Kirinyaga",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
-     "price": 504.0,
+     "price": 386.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/FyEgIywLMis-93c8a3c8",
+   "name": "Banko Chelchele Easy Drip",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/395240/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Easydrip / Easydrip / Banko Chelchele Easy Drip / Banko Chelchele Easy Drip",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
-     "price": 496.0,
+     "price": 450.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/O1rei0MTkZ6-4595d661",
+   "name": "Suke Werekata Easy Drip",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/390650/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Easydrip / Easydrip / Suke Werekata Easy Drip / Suke Werekata Easy Drip",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
-     "price": 809.0,
+     "price": 450.0,
      "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 604.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 626.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 394.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 539.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 426.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 439.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 766.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 404.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 414.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 719.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 719.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 464.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 531.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 456.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 424.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 200.0,
-     "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/reae6gKedWI-10cf1473",
+   "name": "Quebraditas Sidra Bourbon TS *GUR COLLAB Easy Drip",
+   "description": "*GUR COLLAB - «Спецпідрозділ Тимура» ГУР МО України - це універсальний оперативно-бойовий підрозділ спеціального призначення, відомий завдяки своїм операціям по звільненню острова Зміїний, поверненню під контроль України «вишок Бойка», деокупації Вовчанського агрегатного заводу, рейдам в Крим та Енергодар, боям за Бахмут, Авдіївку, Купʼянськ, Покровськ та ін.\nКупуючи цю каву ви робите прямий внесок в\nпідтримку «Спецпідрозділу Тимура» ГУР МО України.",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/378752/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Easydrip / Easydrip / Quebraditas Sidra Bourbon TS *GUR COLLAB Easy Drip / Quebraditas Sidra Bourbon TS *GUR COLLAB Easy Drip",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 620.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/n60C0huGnHi-418eaa07",
+   "name": "Wanrich AA Easy Drip",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/367295/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Easydrip / Easydrip / Wanrich AA Easy Drip / Wanrich AA Easy Drip",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 450.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/sB3ZFcFPZWw-72218b55",
+   "name": "La Montana Easy Drip",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/349298/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Easydrip / Easydrip / La Montana Easy Drip / La Montana Easy Drip",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 450.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/rEiroI3OYlq-90f37498",
+   "name": "Samwa Easy Drip",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/315924/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Easydrip / Easydrip / Samwa Easy Drip / Samwa Easy Drip",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 450.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/NTKTxyguHgU-c8df9466",
+   "name": "Gaitania Easy Drip",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/300384/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Easydrip / Easydrip / Gaitania Easy Drip / Gaitania Easy Drip",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 450.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/HyCfzMV9ems-6e444560",
+   "name": "La Joya Easy Drip",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/260842/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Easydrip / Easydrip / La Joya Easy Drip / La Joya Easy Drip",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 450.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/uQBtE1t6bsM-06b1a451",
+   "name": "Kaffa Bono Gr.2 Easy Drip",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/250654/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Easydrip / Easydrip / Kaffa Bono Gr.2 Easy Drip / Kaffa Bono Gr.2 Easy Drip",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 450.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/xyboi1zmrGA-c96a36aa",
+   "name": "Leste Easy Drip",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/219483/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Easydrip / Easydrip / Leste Easy Drip / Leste Easy Drip",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 450.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/jqRZ9FNdZrq-a98c7a28",
+   "name": "El Rosal Easy Drip",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/210255/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Easydrip / Easydrip / El Rosal Easy Drip / El Rosal Easy Drip",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 450.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/68C6QOm2GS",
+   "name": "Wilton Benitez Red Bourbon DECAF Easy Drip",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/455/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Easydrip / Easydrip / Wilton Benitez Red Bourbon DECAF Easy Drip / Wilton Benitez Red Bourbon DECAF Easy Drip",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 450.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/EwiQo0Gksck",
+   "name": "DONATE Easy Drip",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/174/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Easydrip / Easydrip / DONATE Easy Drip / DONATE Easy Drip",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 200.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/Ae8oEACSG6",
+   "name": "MIX",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/7/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Easydrip / Easydrip / MIX / MIX",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 450.0,
      "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 450.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 450.0,
-     "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/fK4Y3Uxsxuo-67a4bf1a",
+   "name": "Nuevo Oriente Capsules",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/349300/0/large.jpeg",
+   "category": "Головна / Головна / Категорії / Категорії / Капсули / Капсули / Nuevo Oriente Capsules / Nuevo Oriente Capsules",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 300.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/Hi5EB0AOkEo-816ae4c8",
+   "name": "La Montana Capsules",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/349299/0/large.jpeg",
+   "category": "Головна / Головна / Категорії / Категорії / Капсули / Капсули / La Montana Capsules / La Montana Capsules",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 300.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/aJ3PXA7nNpm-59e33f06",
+   "name": "Kochere Gr2 Capsules",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/349297/0/large.jpeg",
+   "category": "Головна / Головна / Категорії / Категорії / Капсули / Капсули / Kochere Gr2 Capsules / Kochere Gr2 Capsules",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 300.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/9FuANgcTXVm-2ccd2298",
+   "name": "Лонгслів жіночий сірий з ефектом виварювання «Who Satan vol.3»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/362750/0/large.3» 2",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Лонгслів жіночий сірий з ефектом виварювання «Who Satan vol.3» / Лонгслів жіночий сірий з ефектом виварювання «Who Satan vol.3»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 2850.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/bGaxTeeQIxi-5017d89f",
+   "name": "Лонгслів жіночий чорний «Who Satan vol.3»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/362749/0/large.3» 6",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Лонгслів жіночий чорний «Who Satan vol.3» / Лонгслів жіночий чорний «Who Satan vol.3»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 2350.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/4LwTgQmaivG-1b201266",
+   "name": "Лонгслів жіночий білий «Who Satan vol.3»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/362748/0/large.3» 3",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Лонгслів жіночий білий «Who Satan vol.3» / Лонгслів жіночий білий «Who Satan vol.3»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 2350.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/Kqw6dXfnqRi-9eac9de2",
+   "name": "Лонгслів жіночий сірий з ефектом виварювання «Eagle»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/362747/0/large.лонгслів жіночий сірий з ефектом виварювання «eagle» 2",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Лонгслів жіночий сірий з ефектом виварювання «Eagle» / Лонгслів жіночий сірий з ефектом виварювання «Eagle»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 2850.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/xWMBezM7SE4-566e3c21",
+   "name": "Лонгслів жіночий чорний «Eagle»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/362746/0/large.лонгслів жіночий чорний «eagle» 3",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Лонгслів жіночий чорний «Eagle» / Лонгслів жіночий чорний «Eagle»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 2350.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/vo0EfhCu4kY-d2dc89c0",
+   "name": "Лонгслів жіночий білий «Eagle»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/362745/0/large.лонгслів жіночий білий «eagle» 2",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Лонгслів жіночий білий «Eagle» / Лонгслів жіночий білий «Eagle»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 2350.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/ldpbeXVCWBK-3eb99e7c",
+   "name": "Лонгслів жіночий сірий з ефектом виварювання «Cupid»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/362744/0/large.лонгслів жіночий сірий з ефектом виварювання «cupid» 2",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Лонгслів жіночий сірий з ефектом виварювання «Cupid» / Лонгслів жіночий сірий з ефектом виварювання «Cupid»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 2850.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/Nt3j6YeL7Sw-341f918b",
+   "name": "Лонгслів жіночий рожевий з ефектом виварювання «Cupid»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/362743/0/large.лонгслів жіночий рожевий з ефектом виварювання «cupid» 2",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Лонгслів жіночий рожевий з ефектом виварювання «Cupid» / Лонгслів жіночий рожевий з ефектом виварювання «Cupid»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 2850.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/cY9mT0skt7i-05c73b51",
+   "name": "Лонгслів жіночий білий «Cupid»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/362742/0/large.лонгслів жіночий білий «cupid» 3",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Лонгслів жіночий білий «Cupid» / Лонгслів жіночий білий «Cupid»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 2350.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/AMnIA0gYD2g-08f4a92b",
+   "name": "Лонгслів жіночий рожевий з ефектом виварювання «Two Rules»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/362741/0/large.лонгслів жіночий рожевий з ефектом виварювання «two rules» 3",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Лонгслів жіночий рожевий з ефектом виварювання «Two Rules» / Лонгслів жіночий рожевий з ефектом виварювання «Two Rules»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 2850.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/OGjxjW0mUt6-5f7ed456",
+   "name": "Лонгслів жіночий сірий з ефектом виварювання «Two Rules»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/362740/0/large.лонгслів жіночий сірий з ефектом виварювання «two rules» 5",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Лонгслів жіночий сірий з ефектом виварювання «Two Rules» / Лонгслів жіночий сірий з ефектом виварювання «Two Rules»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 2850.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/89eEQkmPHaw-2e41b744",
+   "name": "Лонгслів жіночий білий «Two Rules»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/362739/0/large.лонгслів жіночий білий «two rules» 3",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Лонгслів жіночий білий «Two Rules» / Лонгслів жіночий білий «Two Rules»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 2350.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/0QaKlENjXAs-42157946",
+   "name": "Лонгслів жіночий сірий з ефектом виварювання «Worldwide»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/362738/0/large.лонгслів жіночий сірий з ефектом виварювання «worldwide» 1",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Лонгслів жіночий сірий з ефектом виварювання «Worldwide» / Лонгслів жіночий сірий з ефектом виварювання «Worldwide»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 2850.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/bBgBcw4JLIs-5f4cc675",
+   "name": "Лонгслів жіночий рожевий з ефектом виварювання «Worldwide»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/362737/0/large.лонгслів жіночий рожевий з ефектом виварювання «worldwide» 1",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Лонгслів жіночий рожевий з ефектом виварювання «Worldwide» / Лонгслів жіночий рожевий з ефектом виварювання «Worldwide»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 2850.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/1WARs5uAAXu-5eaa1687",
+   "name": "Лонгслів жіночий білий «Worldwide»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/362735/0/large.лонгслів жіночий білий «worldwide» 1",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Лонгслів жіночий білий «Worldwide» / Лонгслів жіночий білий «Worldwide»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 2350.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/2PzqH5V5AcQ-bd51256d",
+   "name": "Футболка жіноча сіра з ефектом виварювання «Who Satan vol.3»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/328052/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка жіноча сіра з ефектом виварювання «Who Satan vol.3» / Футболка жіноча сіра з ефектом виварювання «Who Satan vol.3»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 2150.0,
      "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2150.0,
-     "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/8jfVwkJG1Pq-8b696498",
+   "name": "Футболка жіноча чорна «Who Satan vol.3»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/328051/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка жіноча чорна «Who Satan vol.3» / Футболка жіноча чорна «Who Satan vol.3»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 1750.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/BRuMt3ACBCw-517ecbd5",
+   "name": "Футболка жіноча біла «Who Satan vol.3»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/328050/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка жіноча біла «Who Satan vol.3» / Футболка жіноча біла «Who Satan vol.3»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 1750.0,
      "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2150.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1750.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1750.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2150.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2150.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1750.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2150.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2150.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1750.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2150.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2150.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1750.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 4500.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 4500.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2950.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2450.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2450.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2550.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2450.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2950.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2950.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2950.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1650.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1650.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2150.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2150.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2150.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2150.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2150.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1650.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1650.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1650.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1650.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2350.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2350.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2350.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2350.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2100.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2700.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2700.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 220.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 4050.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 4050.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 4050.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2600.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 4000.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 660.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3700.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3700.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3700.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2450.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2450.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2550.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3700.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3700.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 4050.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2450.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 700.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 660.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3950.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3950.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3950.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2200.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2200.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2200.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2950.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2950.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2950.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2450.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2450.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2950.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1650.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1650.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1650.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1650.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1650.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1650.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 220.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 220.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1350.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1650.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2950.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2150.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1650.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2950.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 230.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 220.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 660.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 660.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 660.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1650.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1650.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1650.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1650.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2450.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3700.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 650.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2950.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3700.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 650.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 650.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 650.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 220.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 400.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1270.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 304.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1547.0,
-     "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/OcPgO7xyKNS-fcd8b419",
+   "name": "Дрипер для пуроверу HARIO V60 Dripper NEO",
+   "description": "Дрипер для пуроверу HARIO V60 Dripper NEO|Dripper for pourover HARIO V60 Dripper NEO",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/385150/0/large.дрипер для пуроверу hario v60 dripper neo 1",
+   "category": "Головна / Головна / Категорії / Категорії / Аксесуари / Аксесуари / Дрипер для пуроверу HARIO V60 Dripper NEO / Дрипер для пуроверу HARIO V60 Dripper NEO",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 1209.0,
      "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 449.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2395.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1328.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 293.0,
-     "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/Km8xsMT8wMI-1ba41bc7",
+   "name": "Кавомолка ручна Comandante C40 Nitro Blade",
+   "description": "Кавомолка ручна Comandante C40 Nitro Blade|Comandante C40 Nitro Blade",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/324574/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Аксесуари / Аксесуари / Кавомолка ручна Comandante C40 Nitro Blade / Кавомолка ручна Comandante C40 Nitro Blade",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 14106.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/Q0NV4r37Y5a-68019bc1",
+   "name": "Пуровер з харчового пластику Hario V60-02",
+   "description": "Пуровер з харчового пластику Hario V60-02|Hario V60-02 plastic pourover",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/171938/0/large.webp",
+   "category": "Головна / Головна / Категорії / Категорії / Аксесуари / Аксесуари / Пуровер з харчового пластику Hario V60-02 / Пуровер з харчового пластику Hario V60-02",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
-     "price": 339.0,
+     "price": 449.0,
      "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2789.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 950.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 5120.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 421.0,
-     "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/7lWBMES4jEc-4482a26f",
+   "name": "Чайник Fellow Stagg EKG PRO",
+   "description": "Чайник з підтримкою температури Fellow Stagg EKG",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/126584/0/large.webp",
+   "category": "Головна / Головна / Категорії / Категорії / Аксесуари / Аксесуари / Чайник Fellow Stagg EKG PRO / Чайник Fellow Stagg EKG PRO",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 9070.0,
      "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 179.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 447.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1053.0,
-     "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/h2I6lQGJj2I-7c2b9c3e",
+   "name": "Пуровер Clever Dripper + фільтри 100шт",
+   "description": "Пуровер Clever Dripper + фільтри 100шт|Clever Dripper pourover + 100 filters",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/30344/0/large.jpeg",
+   "category": "Головна / Головна / Категорії / Категорії / Аксесуари / Аксесуари / Пуровер Clever Dripper + фільтри 100шт / Пуровер Clever Dripper + фільтри 100шт",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 1598.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/jl51Z9OchFm-df2f9554",
+   "name": "Набір Bialetti × The North Face Moka Express Expedition Set",
+   "description": "Набір Bialetti × The North Face Moka Express Expedition Set|Bialetti x The North Face Moka Express Expedition Set",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/21112/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Аксесуари / Аксесуари / Набір Bialetti × The North Face Moka Express Expedition Set / Набір Bialetti × The North Face Moka Express Expedition Set",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 8475.0,
      "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 368.0,
-     "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/5oFO04f139W-a28cc7a7",
+   "name": "Паперові фільтри HARIO V60 Drip Coffee Filters 01",
+   "description": "Паперові фільтри HARIO V60 Drip Coffee Filters 01|Paper filters HARIO V60 Drip Coffee Filters 01",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/744/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Аксесуари / Аксесуари / Паперові фільтри HARIO V60 Drip Coffee Filters 01 / Паперові фільтри HARIO V60 Drip Coffee Filters 01",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 277.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/W0isC8Siku6",
+   "name": "Паперові фільтри Hario для пуровера 02",
+   "description": "Паперові фільтри Hario для пуровера 02|Hario paper filters for pourover 02",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/671/0/large.webp",
+   "category": "Головна / Головна / Категорії / Категорії / Аксесуари / Аксесуари / Паперові фільтри Hario для пуровера 02 / Паперові фільтри Hario для пуровера 02",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
-     "price": 349.0,
+     "price": 304.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/uMwGcMMq6o",
+   "name": "Ручна кавомолка Hario Mini Black PRO",
+   "description": "Ручна кавомолка Hario Mini Black PRO|Hario Mini Black PRO manual coffee grinder",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/651/0/large.jpeg",
+   "category": "Головна / Головна / Категорії / Категорії / Аксесуари / Аксесуари / Ручна кавомолка Hario Mini Black PRO / Ручна кавомолка Hario Mini Black PRO",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
-     "price": 1216.0,
+     "price": 2789.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/S66AGaCWMq4",
+   "name": "Фільтри паперові Bravilor Bonamat",
+   "description": "Фільтри паперові Bravilor Bonamat|Paper filters Bravilor Bonamat",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/563/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Аксесуари / Аксесуари / Фільтри паперові Bravilor Bonamat / Фільтри паперові Bravilor Bonamat",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1547.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/sqYksEK0og2",
+   "name": "Пуровер з харчового пластику Hario V60-01",
+   "description": "Пуровер з харчового пластику Hario V60-01|Hario V60-01 plastic pourover",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/549/0/large.webp",
+   "category": "Головна / Головна / Категорії / Категорії / Аксесуари / Аксесуари / Пуровер з харчового пластику Hario V60-01 / Пуровер з харчового пластику Hario V60-01",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 368.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/E8oMQKCeE8g",
+   "name": "Скляний сервірувальний чайник Hario BARISTA V60, Об'єм - 600 мл",
+   "description": "Скляний сервірувальний чайник Hario BARISTA V60, Об'єм - 600 мл|Glass serving kettle Hario BARISTA V60, Volume - 600 ml",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/545/0/large.webp",
+   "category": "Головна / Головна / Категорії / Категорії / Аксесуари / Аксесуари / Скляний сервірувальний чайник Hario BARISTA V60, Об'єм - 600 мл / Скляний сервірувальний чайник Hario BARISTA V60, Об'єм - 600 мл",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1053.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/O068koi28S4",
+   "name": "Скляний сервірувальний чайник Hario BARISTA V60, Об'єм - 360 мл",
+   "description": "Скляний сервірувальний чайник Hario BARISTA V60, Об'єм - 360 мл|Glass serving kettle Hario BARISTA V60, Volume - 360 ml",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/544/0/large.webp",
+   "category": "Головна / Головна / Категорії / Категорії / Аксесуари / Аксесуари / Скляний сервірувальний чайник Hario BARISTA V60, Об'єм - 360 мл / Скляний сервірувальний чайник Hario BARISTA V60, Об'єм - 360 мл",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 950.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/eecUYUsYy6",
+   "name": "Паперові фільтри Hario для пуровера PEGASUS 02",
+   "description": "Паперові фільтри Hario для пуровера PEGASUS 02|Hario paper filters for PEGASUS 02 pourover",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/537/0/large.webp",
+   "category": "Головна / Головна / Категорії / Категорії / Аксесуари / Аксесуари / Паперові фільтри Hario для пуровера PEGASUS 02 / Паперові фільтри Hario для пуровера PEGASUS 02",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 219.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/Wy8CsgsGog4",
+   "name": "Паперові фільтри Hario для пуровера PEGASUS 01",
+   "description": "Паперові фільтри Hario для пуровера PEGASUS 01|Hario paper filters for PEGASUS 01 pourover",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/536/0/large.webp",
+   "category": "Головна / Головна / Категорії / Категорії / Аксесуари / Аксесуари / Паперові фільтри Hario для пуровера PEGASUS 01 / Паперові фільтри Hario для пуровера PEGASUS 01",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
-     "price": 439.0,
+     "price": 179.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/8iuKgMguUuq",
+   "name": "Пуровер з харчового пластику Hario PEGASUS 02",
+   "description": "Пуровер з харчового пластику Hario PEGASUS 02|Hario PEGASUS 02 plastic pourover",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/535/0/large.webp",
+   "category": "Головна / Головна / Категорії / Категорії / Аксесуари / Аксесуари / Пуровер з харчового пластику Hario PEGASUS 02 / Пуровер з харчового пластику Hario PEGASUS 02",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
-     "price": 539.0,
+     "price": 447.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/QWQKuKMOIe",
+   "name": "Пуровер з харчового пластику Hario PEGASUS 01",
+   "description": "Пуровер з харчового пластику Hario PEGASUS 01|Hario PEGASUS 01 plastic pourover",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/534/0/large.webp",
+   "category": "Головна / Головна / Категорії / Категорії / Аксесуари / Аксесуари / Пуровер з харчового пластику Hario PEGASUS 01 / Пуровер з харчового пластику Hario PEGASUS 01",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
-     "price": 2163.0,
+     "price": 349.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/mY2c2ikweGs",
+   "name": "Електронні ваги Hario Polaris",
+   "description": "Електронні ваги Hario Polaris|Hario Polaris electronic scales",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/525/0/large.webp",
+   "category": "Головна / Головна / Категорії / Категорії / Аксесуари / Аксесуари / Електронні ваги Hario Polaris / Електронні ваги Hario Polaris",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
-     "price": 1920.0,
+     "price": 5120.0,
      "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3000.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1000.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2000.0,
-     "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/Qa68c00kgW",
+   "name": "Gift Card 5",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/198/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Gift cards / Gift cards / Gift Card 5 / Gift Card 5",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 5000.0,
@@ -1207,103 +1234,2823 @@
    ]
   },
   {
-   "url": "https://madheadscoffee.com/catalog/",
-   "name": "Guji Hambella Gr.2",
-   "description": "Stay Mad Respect Quality",
-   "image": "https://madheads/img/facebook-preview-madheads.jpg",
-   "category": "Головна / Головна / Категорії / Категорії",
+   "url": "https://madheadscoffee.com/p/6m8CQEw4OGu",
+   "name": "Gift Card 3",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/197/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Gift cards / Gift cards / Gift Card 3 / Gift Card 3",
    "specs": {},
    "gallery": [],
    "available": true,
    "variants": [
     {
      "weight_g": null,
-     "price": 436.0,
+     "price": 3000.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/I6CUOaMO2",
+   "name": "Gift Card 2",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/196/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Gift cards / Gift cards / Gift Card 2 / Gift Card 2",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
-     "price": 561.0,
+     "price": 2000.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/GcgySwS68Aa",
+   "name": "Gift Card 1",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/192/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Gift cards / Gift cards / Gift Card 1 / Gift Card 1",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
-     "price": 471.0,
+     "price": 1000.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/iS2gh4Vej08-c637685b",
+   "name": "Turaco",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/205236/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Turaco / Turaco",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
-     "price": 516.0,
+     "price": 394.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/EPmq5gj1ySU-5971e1bc",
+   "name": "Kaffa Bono Gr.2",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/199468/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Kaffa Bono Gr.2 / Kaffa Bono Gr.2",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
-     "price": 621.0,
+     "price": 421.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/KkiuxjdqAr2-e846255a",
+   "name": "Lalisaa Gr.1",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/205238/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Lalisaa Gr.1 / Lalisaa Gr.1",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
-     "price": 450.0,
+     "price": 484.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/YFmsJBPeEYA-7fafa0f0",
+   "name": "Samwa",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/199469/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Samwa / Samwa",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
-     "price": 450.0,
+     "price": 554.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/WrRmau4Sqfm-20326ed9",
+   "name": "La Joya",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/227044/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / La Joya / La Joya",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
-     "price": 424.0,
+     "price": 504.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/6LZB8GJ50ju-cce689b2",
+   "name": "Ngoma",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/205243/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Ngoma / Ngoma",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 574.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/v9K8JyNdMtC-15a507df",
+   "name": "Ngororero",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/205241/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Ngororero / Ngororero",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 519.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/jj7ORbJV8Vy-4db191da",
+   "name": "Gahahe",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/205240/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Gahahe / Gahahe",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 519.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/ttbgKXaYyf2-21ac3657",
+   "name": "Humure",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/205242/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Humure / Humure",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 556.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/NZAFiCQWxZe-c1db996d",
+   "name": "Nemba",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/205237/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Nemba / Nemba",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 504.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/gzEuBhI1wJa-e5299cfa",
+   "name": "Wanrich AA",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/261699/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Wanrich AA / Wanrich AA",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 496.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/mW3Q9QDD8oI-59e7f103",
+   "name": "El Diviso *GUR COLLAB",
+   "description": "*GUR COLLAB - «Спецпідрозділ Тимура» ГУР МО України - це універсальний оперативно-бойовий підрозділ спеціального призначення, відомий завдяки своїм операціям по звільненню острова Зміїний, поверненню під контроль України «вишок Бойка», деокупації Вовчанського агрегатного заводу, рейдам в Крим та Енергодар, боям за Бахмут, Авдіївку, Купʼянськ, Покровськ та ін.\nКупуючи цю каву ви робите прямий внесок в\nпідтримку «Спецпідрозділу Тимура» ГУР МО України.",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/176023/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / El Diviso *GUR COLLAB / El Diviso *GUR COLLAB",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 809.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/sBDEAKFIE6U-af1dd250",
+   "name": "Kibingo *GUR COLLAB",
+   "description": "*GUR COLLAB - «Спецпідрозділ Тимура» ГУР МО України - це універсальний оперативно-бойовий підрозділ спеціального призначення, відомий завдяки своїм операціям по звільненню острова Зміїний, поверненню під контроль України «вишок Бойка», деокупації Вовчанського агрегатного заводу, рейдам в Крим та Енергодар, боям за Бахмут, Авдіївку, Купʼянськ, Покровськ та ін.\nКупуючи цю каву ви робите прямий внесок в\nпідтримку «Спецпідрозділу Тимура» ГУР МО України.",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/205235/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Kibingo *GUR COLLAB / Kibingo *GUR COLLAB",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 604.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/pP0nX8oofCI-9bf671ec",
+   "name": "El Rosal *GUR COLLAB",
+   "description": "*GUR COLLAB - «Спецпідрозділ Тимура» ГУР МО України - це універсальний оперативно-бойовий підрозділ спеціального призначення, відомий завдяки своїм операціям по звільненню острова Зміїний, поверненню під контроль України «вишок Бойка», деокупації Вовчанського агрегатного заводу, рейдам в Крим та Енергодар, боям за Бахмут, Авдіївку, Купʼянськ, Покровськ та ін.\nКупуючи цю каву ви робите прямий внесок в\nпідтримку «Спецпідрозділу Тимура» ГУР МО України.",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/205234/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / El Rosal *GUR COLLAB / El Rosal *GUR COLLAB",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 626.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/scAYWIdhUek-6d18286f",
+   "name": "Eje Cafetero",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/205239/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Eje Cafetero / Eje Cafetero",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 394.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/AZOBTUBucVa-efa51de8",
+   "name": "Santa Monica Decaf *GUR COLLAB",
+   "description": "*GUR COLLAB - «Спецпідрозділ Тимура» ГУР МО України - це універсальний оперативно-бойовий підрозділ спеціального призначення, відомий завдяки своїм операціям по звільненню острова Зміїний, поверненню під контроль України «вишок Бойка», деокупації Вовчанського агрегатного заводу, рейдам в Крим та Енергодар, боям за Бахмут, Авдіївку, Купʼянськ, Покровськ та ін.\nКупуючи цю каву ви робите прямий внесок в\nпідтримку «Спецпідрозділу Тимура» ГУР МО України.",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/142470/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Santa Monica Decaf *GUR COLLAB / Santa Monica Decaf *GUR COLLAB",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 539.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/iNezqzAaOYo-7af2a671",
+   "name": "Kiambu AB *GUR COLLAB",
+   "description": "*GUR COLLAB - «Спецпідрозділ Тимура» ГУР МО України - це універсальний оперативно-бойовий підрозділ спеціального призначення, відомий завдяки своїм операціям по звільненню острова Зміїний, поверненню під контроль України «вишок Бойка», деокупації Вовчанського агрегатного заводу, рейдам в Крим та Енергодар, боям за Бахмут, Авдіївку, Купʼянськ, Покровськ та ін.\nКупуючи цю каву ви робите прямий внесок в\nпідтримку «Спецпідрозділу Тимура» ГУР МО України.",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/115510/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Kiambu AB *GUR COLLAB / Kiambu AB *GUR COLLAB",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 426.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/WhuPA8790WU-b1271139",
+   "name": "La Cedrela",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/115511/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / La Cedrela / La Cedrela",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 439.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/hMKBbYkHNzq-a5e769bf",
+   "name": "Quebraditas Sidra Bourbon TS *GUR COLLAB",
+   "description": "*GUR COLLAB - «Спецпідрозділ Тимура» ГУР МО України - це універсальний оперативно-бойовий підрозділ спеціального призначення, відомий завдяки своїм операціям по звільненню острова Зміїний, поверненню під контроль України «вишок Бойка», деокупації Вовчанського агрегатного заводу, рейдам в Крим та Енергодар, боям за Бахмут, Авдіївку, Купʼянськ, Покровськ та ін.\nКупуючи цю каву ви робите прямий внесок в\nпідтримку «Спецпідрозділу Тимура» ГУР МО України.",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/110003/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Quebraditas Sidra Bourbon TS *GUR COLLAB / Quebraditas Sidra Bourbon TS *GUR COLLAB",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 766.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/FSSwZVjt58s",
+   "name": "Las Botijas",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/699/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Las Botijas / Las Botijas",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 404.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/2eNrpfDQt80-a332c7f8",
+   "name": "Utengule",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/28027/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Utengule / Utengule",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
-     "price": 1209.0,
+     "price": 414.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/Qn1Zn5arpYk-59918faf",
+   "name": "El Mirador Catiope Cold Fermented *GUR COLLAB",
+   "description": "*GUR COLLAB - «Спецпідрозділ Тимура» ГУР МО України - це універсальний оперативно-бойовий підрозділ спеціального призначення, відомий завдяки своїм операціям по звільненню острова Зміїний, поверненню під контроль України «вишок Бойка», деокупації Вовчанського агрегатного заводу, рейдам в Крим та Енергодар, боям за Бахмут, Авдіївку, Купʼянськ, Покровськ та ін.\nКупуючи цю каву ви робите прямий внесок в\nпідтримку «Спецпідрозділу Тимура» ГУР МО України.",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/18835/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / El Mirador Catiope Cold Fermented *GUR COLLAB / El Mirador Catiope Cold Fermented *GUR COLLAB",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
-     "price": 620.0,
+     "price": 719.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/8kg9FtSCfaI-78a4dd9f",
+   "name": "El Mirador Dark Fermentation *GUR COLLAB",
+   "description": "*GUR COLLAB - «Спецпідрозділ Тимура» ГУР МО України - це універсальний оперативно-бойовий підрозділ спеціального призначення, відомий завдяки своїм операціям по звільненню острова Зміїний, поверненню під контроль України «вишок Бойка», деокупації Вовчанського агрегатного заводу, рейдам в Крим та Енергодар, боям за Бахмут, Авдіївку, Купʼянськ, Покровськ та ін.\nКупуючи цю каву ви робите прямий внесок в\nпідтримку «Спецпідрозділу Тимура» ГУР МО України.",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/18833/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / El Mirador Dark Fermentation *GUR COLLAB / El Mirador Dark Fermentation *GUR COLLAB",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
-     "price": 450.0,
+     "price": 719.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/H1CKenoxuPO-cadda201",
+   "name": "Leste *GUR COLLAB",
+   "description": "*GUR COLLAB - «Спецпідрозділ Тимура» ГУР МО України - це універсальний оперативно-бойовий підрозділ спеціального призначення, відомий завдяки своїм операціям по звільненню острова Зміїний, поверненню під контроль України «вишок Бойка», деокупації Вовчанського агрегатного заводу, рейдам в Крим та Енергодар, боям за Бахмут, Авдіївку, Купʼянськ, Покровськ та ін.\nКупуючи цю каву ви робите прямий внесок в\nпідтримку «Спецпідрозділу Тимура» ГУР МО України.",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/18841/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Leste *GUR COLLAB / Leste *GUR COLLAB",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
-     "price": 2850.0,
+     "price": 464.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/LqRuXa9197a-1dad9b1f",
+   "name": "Nyamyumba *GUR COLLAB",
+   "description": "*GUR COLLAB - «Спецпідрозділ Тимура» ГУР МО України - це універсальний оперативно-бойовий підрозділ спеціального призначення, відомий завдяки своїм операціям по звільненню острова Зміїний, поверненню під контроль України «вишок Бойка», деокупації Вовчанського агрегатного заводу, рейдам в Крим та Енергодар, боям за Бахмут, Авдіївку, Купʼянськ, Покровськ та ін.\nКупуючи цю каву ви робите прямий внесок в\nпідтримку «Спецпідрозділу Тимура» ГУР МО України.",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/18838/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Nyamyumba *GUR COLLAB / Nyamyumba *GUR COLLAB",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 531.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/YO4cisIUQEO",
+   "name": "Wilton Benitez Red Bourbon DECAF",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/439/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Wilton Benitez Red Bourbon DECAF / Wilton Benitez Red Bourbon DECAF",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 456.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/MAWMm0imES8",
+   "name": "Butegana Cima Yeast WASHED",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/580/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Butegana Cima Yeast WASHED / Butegana Cima Yeast WASHED",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 424.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/8a2eKuUmG68",
+   "name": "DONATE",
+   "description": "Все просто, ви донатите - ми передаємо каву нашим героям і їм стає трохи легше боронити нашу Україну і нас з вами. Цом",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/5/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / DONATE / DONATE",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 200.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/Wc0YMaSkkIK",
+   "name": "Футболка сіра виварена «Cupid»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/488/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка сіра виварена «Cupid» / Футболка сіра виварена «Cupid»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2150.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/mMwF0WdCW6c-00d412e4",
+   "name": "Футболка жіноча сіра з ефектом виварювання «Eagle»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/328049/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка жіноча сіра з ефектом виварювання «Eagle» / Футболка жіноча сіра з ефектом виварювання «Eagle»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2150.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/4D009iTFjvK-fd3b1d62",
+   "name": "Футболка жіноча чорна «Eagle»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/328048/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка жіноча чорна «Eagle» / Футболка жіноча чорна «Eagle»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1750.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/tflL5uZM0hC-05f594f3",
+   "name": "Футболка жіноча біла «Eagle»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/328047/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка жіноча біла «Eagle» / Футболка жіноча біла «Eagle»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1750.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/h2YTDCic75G-a9bccb10",
+   "name": "Футболка жіноча сіра з ефектом виварювання «Cupid»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/328046/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка жіноча сіра з ефектом виварювання «Cupid» / Футболка жіноча сіра з ефектом виварювання «Cupid»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2150.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/sTj0KY5aYzG-b49a7d71",
+   "name": "Футболка жіноча рожева з ефектом виварювання «Cupid»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/328045/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка жіноча рожева з ефектом виварювання «Cupid» / Футболка жіноча рожева з ефектом виварювання «Cupid»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2150.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/kXdKzN4nLKA-dc02dba2",
+   "name": "Футболка жіноча біла «Cupid»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/328044/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка жіноча біла «Cupid» / Футболка жіноча біла «Cupid»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1750.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/Sfp2pYsf7Qs-d3cfba6b",
+   "name": "Футболка жіноча сіра з ефектом виварювання «Two Rules»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/328043/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка жіноча сіра з ефектом виварювання «Two Rules» / Футболка жіноча сіра з ефектом виварювання «Two Rules»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2150.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/NpxoeFvxiuM-c3ed9395",
+   "name": "Футболка жіноча рожева з ефектом виварювання «Two Rules»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/328042/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка жіноча рожева з ефектом виварювання «Two Rules» / Футболка жіноча рожева з ефектом виварювання «Two Rules»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2150.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/46iLuyPetzy-4a6be589",
+   "name": "Футболка жіноча біла «Two Rules»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/328041/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка жіноча біла «Two Rules» / Футболка жіноча біла «Two Rules»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1750.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/V4aGjCTQ5xO-1b04f56f",
+   "name": "Футболка жіноча сіра з ефектом виварювання «Worldwide»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/328040/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка жіноча сіра з ефектом виварювання «Worldwide» / Футболка жіноча сіра з ефектом виварювання «Worldwide»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2150.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/caoC41Q3kDO-d358b594",
+   "name": "Футболка жіноча рожева з ефектом виварювання «Worldwide»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/328039/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка жіноча рожева з ефектом виварювання «Worldwide» / Футболка жіноча рожева з ефектом виварювання «Worldwide»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2150.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/uHGU32qOWze-0f94217c",
+   "name": "Футболка жіноча біла «Worldwide»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/328038/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка жіноча біла «Worldwide» / Футболка жіноча біла «Worldwide»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1750.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/lIZbJfRvwDO-56aee8f8",
+   "name": "Худі чорний «Спецпідрозділ Тимура» ГУР МОУ Х MH *GUR COLLAB",
+   "description": "*GUR COLLAB - «Спецпідрозділ Тимура» ГУР МО України - це універсальний оперативно-бойовий підрозділ спеціального призначення, відомий завдяки своїм операціям по звільненню острова Зміїний, поверненню під контроль України «вишок Бойка», деокупації Вовчанського агрегатного заводу, рейдам в Крим та Енергодар, боям за Бахмут, Авдіївку, Купʼянськ, Покровськ та ін.\nКупуючи цей мерч ви робите прямий внесок в\nпідтримку «Спецпідрозділу Тимура» ГУР МО України.",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/305557/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Худі чорний «Спецпідрозділ Тимура» ГУР МОУ Х MH *GUR COLLAB / Худі чорний «Спецпідрозділ Тимура» ГУР МОУ Х MH *GUR COLLAB",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 4500.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/hRN0eAXkqjO-4074f99a",
+   "name": "Худі сірий «Спецпідрозділ Тимура» ГУР МОУ Х MH *GUR COLLAB",
+   "description": "*GUR COLLAB - «Спецпідрозділ Тимура» ГУР МО України - це універсальний оперативно-бойовий підрозділ спеціального призначення, відомий завдяки своїм операціям по звільненню острова Зміїний, поверненню під контроль України «вишок Бойка», деокупації Вовчанського агрегатного заводу, рейдам в Крим та Енергодар, боям за Бахмут, Авдіївку, Купʼянськ, Покровськ та ін.\nКупуючи цей мерч ви робите прямий внесок в\nпідтримку «Спецпідрозділу Тимура» ГУР МО України.",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/305556/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Худі сірий «Спецпідрозділ Тимура» ГУР МОУ Х MH *GUR COLLAB / Худі сірий «Спецпідрозділ Тимура» ГУР МОУ Х MH *GUR COLLAB",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 4500.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/Yrfzlfv7lGA-3eb6e392",
+   "name": "Лонгслів сірий з ефектом виварювання «Take it easy»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/257428/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Лонгслів сірий з ефектом виварювання «Take it easy» / Лонгслів сірий з ефектом виварювання «Take it easy»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2950.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/G4SfevrhuCE-4e210312",
+   "name": "Лонгслів чорний «Worldwide»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/258282/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Лонгслів чорний «Worldwide» / Лонгслів чорний «Worldwide»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2450.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/uQmRPZETCdq-e80225bc",
+   "name": "Лонгслів чорний «Who Satan vol.3»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/258281/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Лонгслів чорний «Who Satan vol.3» / Лонгслів чорний «Who Satan vol.3»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2450.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/ayHf9Enw7cc-649a9e17",
+   "name": "Лонгслів капучіно «Mad cats vol.3»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/258280/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Лонгслів капучіно «Mad cats vol.3» / Лонгслів капучіно «Mad cats vol.3»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2550.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/Vp6COTWdhDq-a6ab21a6",
+   "name": "Лонгслів чорний «Take it easy»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/258279/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Лонгслів чорний «Take it easy» / Лонгслів чорний «Take it easy»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2450.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/lDQ7lyWcDMM-664a3cc7",
+   "name": "Лонгслів сірий з ефектом виварювання «Worldwide»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/258278/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Лонгслів сірий з ефектом виварювання «Worldwide» / Лонгслів сірий з ефектом виварювання «Worldwide»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2950.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/loLbVfXigJS-a863fa97",
+   "name": "Лонгслів сірий з ефектом виварювання «Who Satan vol.3»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/258277/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Лонгслів сірий з ефектом виварювання «Who Satan vol.3» / Лонгслів сірий з ефектом виварювання «Who Satan vol.3»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2950.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/eFImCo0T9Hy-e57a9a00",
+   "name": "Лонгслів сірий з ефектом виварювання «Mad cats vol.3»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/257429/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Лонгслів сірий з ефектом виварювання «Mad cats vol.3» / Лонгслів сірий з ефектом виварювання «Mad cats vol.3»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2950.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/gmMIOs8UUKc",
+   "name": "Футболка чорна «Eagle»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/584/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка чорна «Eagle» / Футболка чорна «Eagle»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1650.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/SuAqGMKskS",
+   "name": "Футболка темний шоколад «Eagle»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/585/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка темний шоколад «Eagle» / Футболка темний шоколад «Eagle»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1650.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/o8CcwA8Sc86",
+   "name": "Футболка сіра з ефектом виварювання «Who Satan vol.2»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/599/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка сіра з ефектом виварювання «Who Satan vol.2» / Футболка сіра з ефектом виварювання «Who Satan vol.2»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2150.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/EeOKEagsaGE",
+   "name": "Футболка сіра з ефектом виварювання «Mad cat vol.2»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/594/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка сіра з ефектом виварювання «Mad cat vol.2» / Футболка сіра з ефектом виварювання «Mad cat vol.2»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2150.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/8MUuy6KWSga",
+   "name": "Футболка сіра з ефектом виварювання «Eagle»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/588/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка сіра з ефектом виварювання «Eagle» / Футболка сіра з ефектом виварювання «Eagle»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2150.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/YKcKgEgQIU",
+   "name": "Футболка сіра з ефектом виварювання «2 rules»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/487/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка сіра з ефектом виварювання «2 rules» / Футболка сіра з ефектом виварювання «2 rules»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2150.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/wM26Ai4s4QG",
+   "name": "Футболка рожева виварена «Cupid»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/490/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка рожева виварена «Cupid» / Футболка рожева виварена «Cupid»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2150.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/YMm0oicSo",
+   "name": "Футболка капучино «Who Satan vol.2»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/598/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка капучино «Who Satan vol.2» / Футболка капучино «Who Satan vol.2»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1850.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/AoiEOcoiAaU",
+   "name": "Футболка капучино «Eagle»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/587/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка капучино «Eagle» / Футболка капучино «Eagle»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1850.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/iaK8Ueaa446",
+   "name": "Футболка біла з червоним принтом «Who Satan vol.2»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/595/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка біла з червоним принтом «Who Satan vol.2» / Футболка біла з червоним принтом «Who Satan vol.2»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1650.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/qqMKUCYUKkG",
+   "name": "Футболка біла «Mad heads on tour»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/590/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка біла «Mad heads on tour» / Футболка біла «Mad heads on tour»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1650.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/E4g4Ius4SyO",
+   "name": "Футболка біла «Mad cat vol.2»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/592/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка біла «Mad cat vol.2» / Футболка біла «Mad cat vol.2»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1650.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/y4meEuguUc4",
+   "name": "Футболка біла «Cupid»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/458/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка біла «Cupid» / Футболка біла «Cupid»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1650.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/A3ifFExw5mY-f9627030",
+   "name": "Футболка сіра з ефектом виварювання «Mad cats vol.3»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/163790/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка сіра з ефектом виварювання «Mad cats vol.3» / Футболка сіра з ефектом виварювання «Mad cats vol.3»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 2350.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/1EaKkLhxGXu-b49107a4",
+   "name": "Футболка сіра «Who Satan vol.3»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/163784/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка сіра «Who Satan vol.3» / Футболка сіра «Who Satan vol.3»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1850.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/RfkezcFy2RK-3d91970e",
+   "name": "Футболка чорна «Who Satan vol.3»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/163785/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка чорна «Who Satan vol.3» / Футболка чорна «Who Satan vol.3»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1850.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/ZNLVNuzVPVm-da437aad",
+   "name": "Футболка сіра «Worldwide»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/163788/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка сіра «Worldwide» / Футболка сіра «Worldwide»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1850.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/uk9xnCE04a0-119506b0",
+   "name": "Футболка чорна «Worldwide»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/163789/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка чорна «Worldwide» / Футболка чорна «Worldwide»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1850.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/AiIbkCaMs9K-a85bc094",
+   "name": "Футболка сіра «Mad cats vol.3»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/163792/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка сіра «Mad cats vol.3» / Футболка сіра «Mad cats vol.3»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1850.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/VvS9fg4c9hu-6bfc244b",
+   "name": "Футболка сіра з ефектом виварювання «Take it easy»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/163778/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка сіра з ефектом виварювання «Take it easy» / Футболка сіра з ефектом виварювання «Take it easy»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 2350.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/mBBe97camKs-4a1dfa3c",
+   "name": "Футболка сіра «Take it easy»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/163780/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка сіра «Take it easy» / Футболка сіра «Take it easy»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
-     "price": 2850.0,
+     "price": 1850.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/I2WDWDE1u6E-7d6ca571",
+   "name": "Футболка біла «Take it easy»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/163779/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка біла «Take it easy» / Футболка біла «Take it easy»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1850.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/OTyKAL9MDo0-26536d2d",
+   "name": "Футболка чорна «Take it easy»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/163781/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка чорна «Take it easy» / Футболка чорна «Take it easy»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1850.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/1fGSEMlrWl6-33c5113d",
+   "name": "Футболка сіра з ефектом виварювання «Who Satan vol.3»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/163782/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка сіра з ефектом виварювання «Who Satan vol.3» / Футболка сіра з ефектом виварювання «Who Satan vol.3»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 2350.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/6uybCte5vPq-33be38a5",
+   "name": "Футболка біла «Who Satan vol.3»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/163783/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка біла «Who Satan vol.3» / Футболка біла «Who Satan vol.3»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1850.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/gljAcEkqiMg-5f16b366",
+   "name": "Футболка сіра з ефектом виварювання «Worldwide»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/163786/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка сіра з ефектом виварювання «Worldwide» / Футболка сіра з ефектом виварювання «Worldwide»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 2350.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/hVncbwESihK-3cf5fcb1",
+   "name": "Футболка біла «Worldwide»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/163787/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка біла «Worldwide» / Футболка біла «Worldwide»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1850.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/EXIU19N9vby-6d03d58a",
+   "name": "Футболка біла «Mad cats vol.3»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/163791/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка біла «Mad cats vol.3» / Футболка біла «Mad cats vol.3»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1850.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/OQUG4ncaHHi-4718f60d",
+   "name": "Футболка чорна «Спецпідрозділ Тимура» ГУР МОУ Х MH *GUR COLLAB",
+   "description": "*GUR COLLAB - «Спецпідрозділ Тимура» ГУР МО України - це універсальний оперативно-бойовий підрозділ спеціального призначення, відомий завдяки своїм операціям по звільненню острова Зміїний, поверненню під контроль України «вишок Бойка», деокупації Вовчанського агрегатного заводу, рейдам в Крим та Енергодар, боям за Бахмут, Авдіївку, Купʼянськ, Покровськ та ін.\nКупуючи цей мерч ви робите прямий внесок в\nпідтримку «Спецпідрозділу Тимура» ГУР МО України.",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/44291/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка чорна «Спецпідрозділ Тимура» ГУР МОУ Х MH *GUR COLLAB / Футболка чорна «Спецпідрозділ Тимура» ГУР МОУ Х MH *GUR COLLAB",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2100.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/1g6nylkm9ry-500d834a",
+   "name": "Лонгслів чорний «Спецпідрозділ Тимура» ГУР МОУ Х MH *GUR COLLAB",
+   "description": "*GUR COLLAB - «Спецпідрозділ Тимура» ГУР МО України - це універсальний оперативно-бойовий підрозділ спеціального призначення, відомий завдяки своїм операціям по звільненню острова Зміїний, поверненню під контроль України «вишок Бойка», деокупації Вовчанського агрегатного заводу, рейдам в Крим та Енергодар, боям за Бахмут, Авдіївку, Купʼянськ, Покровськ та ін.\nКупуючи цей мерч ви робите прямий внесок в\nпідтримку «Спецпідрозділу Тимура» ГУР МО України.",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/44292/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Лонгслів чорний «Спецпідрозділ Тимура» ГУР МОУ Х MH *GUR COLLAB / Лонгслів чорний «Спецпідрозділ Тимура» ГУР МОУ Х MH *GUR COLLAB",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2700.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/sn2PSpkFz2o-9e6389ca",
+   "name": "Лонгслів сірий «Спецпідрозділ Тимура» ГУР МОУ Х MH *GUR COLLAB",
+   "description": "*GUR COLLAB - «Спецпідрозділ Тимура» ГУР МО України - це універсальний оперативно-бойовий підрозділ спеціального призначення, відомий завдяки своїм операціям по звільненню острова Зміїний, поверненню під контроль України «вишок Бойка», деокупації Вовчанського агрегатного заводу, рейдам в Крим та Енергодар, боям за Бахмут, Авдіївку, Купʼянськ, Покровськ та ін.\nКупуючи цей мерч ви робите прямий внесок в\nпідтримку «Спецпідрозділу Тимура» ГУР МО України.",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/44293/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Лонгслів сірий «Спецпідрозділ Тимура» ГУР МОУ Х MH  *GUR COLLAB / Лонгслів сірий «Спецпідрозділ Тимура» ГУР МОУ Х MH  *GUR COLLAB",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2700.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/oyUaAY8kke",
+   "name": "Склянка з білим принтом «Who Satan»",
+   "description": "Склянка з білим принтом «Who Satan»|Glass with white print \"Who Satan\"",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/630/0/large.jpeg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Склянка з білим принтом «Who Satan» / Склянка з білим принтом «Who Satan»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 220.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/kr9lHAnEz4U-feab5919",
+   "name": "Худі сірий з ефектом виварювання «Eagle»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/13624/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Худі сірий з ефектом виварювання «Eagle» / Худі сірий з ефектом виварювання «Eagle»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 4050.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/BZJGEFNibi4-fb0cfcbb",
+   "name": "Худі сірий з ефектом виварювання «Who Satan vol.2»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/13623/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Худі сірий з ефектом виварювання «Who Satan vol.2» / Худі сірий з ефектом виварювання «Who Satan vol.2»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 4050.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/Os4S0kq4a2",
+   "name": "Худі сірий з ефектом виварювання «Who Satan»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/520/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Худі сірий з ефектом виварювання «Who Satan» / Худі сірий з ефектом виварювання «Who Satan»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 4050.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/4nSAdSs07xW-00cca426",
+   "name": "Термос Kinto \"Two rules\"",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/21111/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Термос Kinto \"Two rules\" / Термос Kinto \"Two rules\"",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2800.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/Lat3yBDJvGI-ce7b7912",
+   "name": "Термос Kinto \"Eagle\"",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/21110/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Термос Kinto \"Eagle\" / Термос Kinto \"Eagle\"",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2800.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/KrHBymjnSOc-f008249c",
+   "name": "Термос Kinto \"Eagle\"",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/21109/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Термос Kinto \"Eagle\" / Термос Kinto \"Eagle\"",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2800.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/tVAEBcaWBFW-f9014e28",
+   "name": "Термос Kinto \"Two rules\"",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/21108/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Термос Kinto \"Two rules\" / Термос Kinto \"Two rules\"",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2600.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/4HWcNTUmLo0-b85ab10a",
+   "name": "Колекційна дошка «Спецпідрозділ Тимура» ГУР МОУ Х MH *GUR COLLAB",
+   "description": "*При покупці ви отримаєте тільки колекційну дошку. Стікери для заповнення ви знайдете в дріпах з цієї колаби, а титановий коін отримають перші 5 власників заповненої дошки. Успіхів і терпіння😘",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/44289/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Колекційна дошка «Спецпідрозділ Тимура» ГУР МОУ Х MH *GUR COLLAB / Колекційна дошка «Спецпідрозділ Тимура» ГУР МОУ Х MH *GUR COLLAB",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 4000.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/EWK2mQyOqMm",
+   "name": "Чашка металева чорна \"MH\"",
+   "description": "Чашка металева чорна \"MH\"|Metal mug \"MH\"",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/12/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Чашка металева чорна \"MH\" / Чашка металева чорна \"MH\"",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 660.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/AbsMZeTSCkg-00157a2f",
+   "name": "Худі чорний «Who Satan vol.2»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/21113/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Худі чорний «Who Satan vol.2» / Худі чорний «Who Satan vol.2»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 3700.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/sgWfgUxnRYU-834ded98",
+   "name": "Худі чорний «Eagle»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/21114/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Худі чорний «Eagle» / Худі чорний «Eagle»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 3700.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/f8kwg7ziK2E-4b21d16f",
+   "name": "Худі чорний «Mad cat»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/21115/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Худі чорний «Mad cat» / Худі чорний «Mad cat»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 3700.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/d448eOoJo7e",
+   "name": "Лонгслів чорний «Eagle»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/689/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Лонгслів чорний «Eagle» / Лонгслів чорний «Eagle»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2450.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/MAEW4qMM4WU",
+   "name": "Лонгслів чорний «Who Satan»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/495/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Лонгслів чорний «Who Satan» / Лонгслів чорний «Who Satan»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2450.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/G57KIUbyrC4",
+   "name": "Лонгслів капучино «Mad heads on tour»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/693/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Лонгслів капучино «Mad heads on tour» / Лонгслів капучино «Mad heads on tour»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2550.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/iSE2QAqq46",
+   "name": "Худі чорний «Who Satan»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/522/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Худі чорний «Who Satan» / Худі чорний «Who Satan»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 3700.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/oSEWWE4m2g",
+   "name": "Худі чорний «Two Rules»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/521/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Худі чорний «Two Rules» / Худі чорний «Two Rules»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 3700.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/eEqGuGOUcuQ",
+   "name": "Худі сірий з ефектом виварювання «Two Rules»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/519/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Худі сірий з ефектом виварювання «Two Rules» / Худі сірий з ефектом виварювання «Two Rules»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 4050.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/99h40ydKrU8",
+   "name": "Лонгслів чорний «Mad cat vol.2»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/691/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Лонгслів чорний «Mad cat vol.2» / Лонгслів чорний «Mad cat vol.2»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2450.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/4mQGUOG4UO2",
+   "name": "Футболка капучино «Mad heads on tour»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/589/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка капучино «Mad heads on tour» / Футболка капучино «Mad heads on tour»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1850.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/GdGD3oxP0Ba-6b2911f2",
+   "name": "Чашка керамічна глянцева “Орден Гюнтера”",
+   "description": "Чашка керамічна глянцева “Орден Гюнтера”|Ceramic glossy cup “Gunther's Order”",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/730/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Чашка керамічна глянцева “Орден Гюнтера” / Чашка керамічна глянцева “Орден Гюнтера”",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 700.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/qsgmcMmIym",
+   "name": "Чашка металева сіра «Cupid»",
+   "description": "Чашка металева сіра «Cupid»|Grey metal cup \"Cupid\"",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/604/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Чашка металева сіра «Cupid» / Чашка металева сіра «Cupid»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 660.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/GwaOMs0Yca",
+   "name": "Сумка Аракава міні / Mad Heads x keep®",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/657/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Сумка Аракава міні / Mad Heads x keep® / Сумка Аракава міні / Mad Heads x keep®",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 3950.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/a4OCqK06E6C",
+   "name": "Сумка Аракава міні / Mad Heads x keep®",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/656/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Сумка Аракава міні / Mad Heads x keep® / Сумка Аракава міні / Mad Heads x keep®",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 3950.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/oSaqkmOyiwy",
+   "name": "Cумка Аракава міні / Mad Heads x keep®",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/655/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Cумка Аракава міні / Mad Heads x keep® / Cумка Аракава міні / Mad Heads x keep®",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 3950.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/4oGUYqEIS8I",
+   "name": "Сумка Фіорд Х / Mad Heads x keep®",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/654/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Сумка Фіорд Х / Mad Heads x keep® / Сумка Фіорд Х / Mad Heads x keep®",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2200.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/IKSuCWg0AuS",
+   "name": "Сумка Фіорд Х / Mad Heads x keep®",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/653/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Сумка Фіорд Х / Mad Heads x keep® / Сумка Фіорд Х / Mad Heads x keep®",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2200.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/eqwWYkaYOeA",
+   "name": "Сумка Фіорд Х / Mad Heads x keep®",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/652/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Сумка Фіорд Х / Mad Heads x keep® / Сумка Фіорд Х / Mad Heads x keep®",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2200.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/UewUk8cA2kU",
+   "name": "Лонгслів сірий виварений «Cupid»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/701/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Лонгслів сірий виварений «Cupid» / Лонгслів сірий виварений «Cupid»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2950.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/alAh6JcTSj2",
+   "name": "Лонгслів сірий з ефектом виварювання «Who Satan vol.2»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/695/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Лонгслів сірий з ефектом виварювання «Who Satan vol.2» / Лонгслів сірий з ефектом виварювання «Who Satan vol.2»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2950.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/2ZdfY9PGlws",
+   "name": "Лонгслів сірий з ефектом виварювання «Mad Cat vol.2»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/694/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Лонгслів сірий з ефектом виварювання «Mad Cat vol.2» / Лонгслів сірий з ефектом виварювання «Mad Cat vol.2»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2950.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/F03wpYHkb1u",
+   "name": "Лонгслів чорний «Mad heads on tour»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/690/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Лонгслів чорний «Mad heads on tour» / Лонгслів чорний «Mad heads on tour»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2450.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/U3k2youaetS",
+   "name": "Лонгслів чорний «Who Satan vol.2»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/688/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Лонгслів чорний «Who Satan vol.2» / Лонгслів чорний «Who Satan vol.2»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2450.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/5GIHj4zqiu0",
+   "name": "Лонгслів сірий з ефектом виварювання «Eagle»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/687/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Лонгслів сірий з ефектом виварювання «Eagle» / Лонгслів сірий з ефектом виварювання «Eagle»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2950.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/OMiuyCcKOQk",
+   "name": "Ключниця / Mad Heads x keep®",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/659/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Ключниця / Mad Heads x keep® / Ключниця / Mad Heads x keep®",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 850.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/GYOWgm08aaC",
+   "name": "Ключниця / Mad Heads x keep®",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/658/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Ключниця / Mad Heads x keep® / Ключниця / Mad Heads x keep®",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 850.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/Eaq8uC0K0Us",
+   "name": "Футболка чорна з жовтим принтом «Who Satan»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/419/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка чорна з жовтим принтом «Who Satan» / Футболка чорна з жовтим принтом «Who Satan»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1650.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/M4I6UgAOUC",
+   "name": "Футболка чорна з білим принтом «2 rules»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/415/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка чорна з білим принтом «2 rules» / Футболка чорна з білим принтом «2 rules»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1650.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/y88OSuwEOiM",
+   "name": "Футболка біла «2 rules»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/417/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка біла «2 rules» / Футболка біла «2 rules»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1650.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/mqeYw020U0o",
+   "name": "Футболка біла «Who Satan»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/420/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка біла «Who Satan» / Футболка біла «Who Satan»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1650.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/0EykIoaEe0E",
+   "name": "Футболка чорна з жовтим принтом «2 rules»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/416/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка чорна з жовтим принтом «2 rules» / Футболка чорна з жовтим принтом «2 rules»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1650.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/ycYo4SIiKS",
+   "name": "Футболка чорна «Cupid»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/459/0/large.jpeg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка чорна «Cupid» / Футболка чорна «Cupid»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1650.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/qSYyQoyAiUg",
+   "name": "Склянка з рожевим принтом «Cupid»",
+   "description": "Склянка з рожевим принтом «Cupid»|Glass with pink print \"Cupid\"",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/629/0/large.jpeg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Склянка з рожевим принтом «Cupid» / Склянка з рожевим принтом «Cupid»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 220.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/SoeSyy48uI",
+   "name": "Склянка з чорним принтом «Two rules»",
+   "description": "Склянка з чорним принтом «Two rules»|Glass with black print \"Two rules\"",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/615/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Склянка з чорним принтом «Two rules» / Склянка з чорним принтом «Two rules»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 220.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/OGOsUmEg2y",
+   "name": "Термокружка чорна “Mad Heads coffee roasters”",
+   "description": "Термокружка чорна “Mad Heads coffee roasters”|Black thermal mug \"Mad Heads coffee roasters\"",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/391/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Термокружка чорна “Mad Heads coffee roasters” / Термокружка чорна “Mad Heads coffee roasters”",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1350.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/ayaswWgksQS",
+   "name": "Футболка біла з чорним принтом «Who Satan vol.2»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/596/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка біла з чорним принтом «Who Satan vol.2» / Футболка біла з чорним принтом «Who Satan vol.2»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1650.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/csEwqyssQsu",
+   "name": "Лонгслів сірий з ефектом виварювання «2 rules»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/493/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Лонгслів сірий з ефектом виварювання «2 rules» / Лонгслів сірий з ефектом виварювання «2 rules»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2950.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/AGuKokaWmi",
+   "name": "Футболка сіра з ефектом виварювання «Who Satan»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/489/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка сіра з ефектом виварювання «Who Satan» / Футболка сіра з ефектом виварювання «Who Satan»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2150.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/cEmiYqyK44g",
+   "name": "Футболка чорна «Who Satan vol.2»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/597/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка чорна «Who Satan vol.2» / Футболка чорна «Who Satan vol.2»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1650.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/UOmAaqSaM4a",
+   "name": "Лонгслів рожевий виварений «Cupid»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/491/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Лонгслів рожевий виварений «Cupid» / Лонгслів рожевий виварений «Cupid»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2950.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/26YEQS8QgI",
+   "name": "Стікер пак \"MH\"",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/177/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Стікер пак \"MH\" / Стікер пак \"MH\"",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 230.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/yYawWuwwMa",
+   "name": "Склянка з білим принтом «Two rules»",
+   "description": "Склянка з білим принтом «Two rules»|Glass with white print \"Two rules\"",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/614/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Склянка з білим принтом «Two rules» / Склянка з білим принтом «Two rules»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 220.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/sGk8wcsEKsi",
+   "name": "Чашка металева сіра «Two rules»",
+   "description": "Чашка металева сіра «Two rules»|Grey metal cup \"Two rules\"",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/603/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Чашка металева сіра «Two rules» / Чашка металева сіра «Two rules»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 660.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/yU08C8w0C8g",
+   "name": "Чашка металева чорна «Two rules»",
+   "description": "Чашка металева чорна «Two rules»|Black metal cup \"Two rules\"",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/602/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Чашка металева чорна «Two rules» / Чашка металева чорна «Two rules»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 660.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/M2Si4Gkgg4o",
+   "name": "Чашка металева чорна «Stay Mad»",
+   "description": "Чашка металева чорна «Stay Mad»|Black metal cup \"Stay Mad\"",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/601/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Чашка металева чорна «Stay Mad» / Чашка металева чорна «Stay Mad»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 660.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/QUeUs2WGu4",
+   "name": "Футболка темний шоколад «Mad heads on tour»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/600/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка темний шоколад «Mad heads on tour» / Футболка темний шоколад «Mad heads on tour»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1650.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/sSYAo6ESCeG",
+   "name": "Футболка чорна «Mad cat vol.2»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/593/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка чорна «Mad cat vol.2» / Футболка чорна «Mad cat vol.2»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1650.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/ygCU4KYCIwG",
+   "name": "Футболка чорна «Mad heads on tour»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/591/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка чорна «Mad heads on tour» / Футболка чорна «Mad heads on tour»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1650.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/wMEkoC8as",
+   "name": "Футболка біла «Eagle»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/586/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка біла «Eagle» / Футболка біла «Eagle»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1650.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/GoCqqWKQG",
+   "name": "Лонгслів чорний «2 rules»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/494/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Лонгслів чорний «2 rules» / Лонгслів чорний «2 rules»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2450.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/agu4OQW6YmK",
+   "name": "Худі сірий «Who Satan»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/524/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Худі сірий «Who Satan» / Худі сірий «Who Satan»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 3700.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/yeMCeWI6oOm",
+   "name": "Чашка керамічна матова “Stay Mad & Respect Quality”",
+   "description": "Чашка керамічна матова “Stay Mad & Respect Quality”|Matte ceramic cup \"Stay Mad & Respect Quality\"",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/406/0/large.jpeg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Чашка керамічна матова “Stay Mad & Respect Quality” / Чашка керамічна матова “Stay Mad & Respect Quality”",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 650.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/GMIWUwaWqAG",
+   "name": "Лонгслів сірий з ефектом виварювання «Who Satan»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/492/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Лонгслів сірий з ефектом виварювання «Who Satan» / Лонгслів сірий з ефектом виварювання «Who Satan»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2950.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/w8i08288mk",
+   "name": "Худі сірий «Two Rules»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/523/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Худі сірий «Two Rules» / Худі сірий «Two Rules»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 3700.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/yiWKykwQ0gk",
+   "name": "Чашка керамічна матова “Mad Heads”",
+   "description": "Чашка керамічна матова “Mad Heads”|Matte ceramic cup \"Mad Heads\"",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/405/0/large.jpeg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Чашка керамічна матова “Mad Heads” / Чашка керамічна матова “Mad Heads”",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 650.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/MYosKG8askw",
+   "name": "Чашка керамічна глянцева “Stay Mad & Respect Quality”",
+   "description": "Чашка керамічна глянцева “Stay Mad & Respect Quality”|Glossy ceramic cup \"Stay Mad & Respect Quality\"",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/403/0/large.jpeg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Чашка керамічна глянцева “Stay Mad & Respect Quality” / Чашка керамічна глянцева “Stay Mad & Respect Quality”",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 650.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/2eQee4yykK",
+   "name": "Чашка керамічна глянцева “Mad Heads”",
+   "description": "Чашка керамічна глянцева “Mad Heads”|Glossy ceramic cup \"Mad Heads\"",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/404/0/large.jpeg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Чашка керамічна глянцева “Mad Heads” / Чашка керамічна глянцева “Mad Heads”",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 650.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/I4qMqqYIQUM",
+   "name": "Значок \"Dog\"",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/176/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Значок \"Dog\" / Значок \"Dog\"",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 220.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/u4AygMoQQ4I",
+   "name": "Patch \"Mad Heads coffee roasters\"",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/252/0/large.jpeg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Patch \"Mad Heads coffee roasters\" / Patch \"Mad Heads coffee roasters\"",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 400.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/YaaeyWsCCSw",
+   "name": "Керамічний пуровер Hario V60-02",
+   "description": "Керамічний пуровер Hario V60-02|Ceramic purover Hario V60-02",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/131/0/large.webp",
+   "category": "Головна / Головна / Категорії / Категорії / Аксесуари / Аксесуари / Керамічний пуровер Hario V60-02 / Керамічний пуровер Hario V60-02",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1270.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/gWywou4Saak",
+   "name": "AeroPress Clear",
+   "description": "Ручна кавоварка для швидкого приготування кави.",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/456/0/large.webp",
+   "category": "Головна / Головна / Категорії / Категорії / Аксесуари / Аксесуари / AeroPress Clear / AeroPress Clear",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2395.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/UEgQ2EgU2eM",
+   "name": "Пуровер Clever Dripper",
+   "description": "Пуровер Clever Dripper|Purover Clever Dripper",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/225/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Аксесуари / Аксесуари / Пуровер Clever Dripper / Пуровер Clever Dripper",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1328.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/ogEIwKWg4Gu",
+   "name": "Паперові фільтри Hario для пуровера 01, 100 шт",
+   "description": "Паперові фільтри Hario для пуровера 01, 100 шт|Hario paper filters for pourover 01, 100 pcs",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/486/0/large.webp",
+   "category": "Головна / Головна / Категорії / Категорії / Аксесуари / Аксесуари / Паперові фільтри Hario для пуровера 01, 100 шт / Паперові фільтри Hario для пуровера 01, 100 шт",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 293.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/CyU8wKuqSG6",
+   "name": "Фільтри Moccamaster №4",
+   "description": "Фільтри Moccamaster №4|Filters Moccamaster №4",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/345/0/large.jpeg",
+   "category": "Головна / Головна / Категорії / Категорії / Аксесуари / Аксесуари / Фільтри Moccamaster №4 / Фільтри Moccamaster №4",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 339.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/y26I6jzitxu-8d63ac0e",
+   "name": "Пуровер з харчового пластику Hario V60-02",
+   "description": "Пуровер з харчового пластику Hario V60-02|Hario V60-02 plastic pourover",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/115/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Аксесуари / Аксесуари / Пуровер з харчового пластику Hario V60-02 / Пуровер з харчового пластику Hario V60-02",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 421.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/Oy2Kg0soaQ",
+   "name": "Декантер Hario V60",
+   "description": "Скляний декантер з воронкою для приготування кави Hario V60",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/117/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Аксесуари / Аксесуари / Декантер Hario V60 / Декантер Hario V60",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1216.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/euuWA4sQs4o",
+   "name": "Фільтри AeroPress",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/113/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Аксесуари / Аксесуари / Фільтри AeroPress / Фільтри AeroPress",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 439.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/c0mWwM0oQ",
+   "name": "Пластиковий пуровер Hario V60-02 MUGEN",
+   "description": "Пластиковий пуровер Hario V60-02 MUGEN|Hario V60-02 MUGEN",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/116/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Аксесуари / Аксесуари / Пластиковий пуровер Hario V60-02 MUGEN / Пластиковий пуровер Hario V60-02 MUGEN",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 539.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/OsW6gWqqCum",
+   "name": "AeroPress GO",
+   "description": "Ручна кавоварка для швидкого приготування кави.",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/112/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Аксесуари / Аксесуари / AeroPress GO / AeroPress GO",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2163.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/SugOyCiaSWg",
+   "name": "AeroPress",
+   "description": "Ручна кавоварка для швидкого приготування кави.",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/308/0/large.webp",
+   "category": "Головна / Головна / Категорії / Категорії / Аксесуари / Аксесуари / AeroPress / AeroPress",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1920.0,
      "available": true
     }
    ]

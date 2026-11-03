@@ -3959,5 +3959,6109 @@
     "reason": "пропал с сайта"
    }
   ]
+ },
+ {
+  "at": "2026-11-03T07:45:54+00:00",
+  "added": [
+   {
+    "id": "477adb82dd63",
+    "roaster": "tasty",
+    "name": "Гватемала Атитлан",
+    "url": "https://shop.tastycoffee.ru/coffee/guatemala-santiago",
+    "back": false
+   },
+   {
+    "id": "f4b9e2e1b2c1",
+    "roaster": "tasty",
+    "name": "Руанда Шийира",
+    "url": "https://shop.tastycoffee.ru/coffee/rwanda-shiiira-2026",
+    "back": false
+   },
+   {
+    "id": "9498746ed8e6",
+    "roaster": "tasty",
+    "name": "Руанда Чеша",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-rwanda-chesha-2026",
+    "back": false
+   },
+   {
+    "id": "04b1ff97e951",
+    "roaster": "tasty",
+    "name": "Руанда Гишеке",
+    "url": "https://shop.tastycoffee.ru/coffee/rwanda-gisheke-2026",
+    "back": false
+   },
+   {
+    "id": "09cc2e53958a",
+    "roaster": "tasty",
+    "name": "Руанда Ругали Ролекс",
+    "url": "https://shop.tastycoffee.ru/coffee/rwanda-rugali-rolex-2026",
+    "back": false
+   },
+   {
+    "id": "46bdb8ad5512",
+    "roaster": "tasty",
+    "name": "Руанда Килимби",
+    "url": "https://shop.tastycoffee.ru/coffee/rwanda-kilimbi-2026",
+    "back": false
+   },
+   {
+    "id": "b09dbe6703dd",
+    "roaster": "tasty",
+    "name": "Индонезия Суматра Жасмин Каро",
+    "url": "https://shop.tastycoffee.ru/coffee/indonesia-sumatra-jasmine-caro",
+    "back": false
+   },
+   {
+    "id": "fea4944f6b23",
+    "roaster": "tasty",
+    "name": "Индонезия Суматра Каро Карбоник",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-indonesia-sumatra-caro-carbonic",
+    "back": false
+   },
+   {
+    "id": "f8f3f2ccd8af",
+    "roaster": "tasty",
+    "name": "Руанда Килимби Анаэробный",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-rwanda-kilimbi-anaerobic-2026",
+    "back": false
+   },
+   {
+    "id": "5aea35ea617c",
+    "roaster": "tasty",
+    "name": "Кения Иригуини",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-kenya-iriguini",
+    "back": false
+   },
+   {
+    "id": "86a2f78c21b3",
+    "roaster": "tasty",
+    "name": "Эфиопия Челчеле",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-chelchele-2026",
+    "back": false
+   },
+   {
+    "id": "9b681f562394",
+    "roaster": "tasty",
+    "name": "Эфиопия Гедеб",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-ethiopia-gedeb",
+    "back": false
+   },
+   {
+    "id": "bfbec582b5cd",
+    "roaster": "tasty",
+    "name": "Коста-Рика Сан Хуанильо",
+    "url": "https://shop.tastycoffee.ru/coffee/costa-rica-san-juanillo",
+    "back": false
+   },
+   {
+    "id": "62a8f9756974",
+    "roaster": "tasty",
+    "name": "Индонезия Суматра Каро Фанки",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-indonesia-sumatra-caro-funky",
+    "back": false
+   },
+   {
+    "id": "00519bb4f898",
+    "roaster": "tasty",
+    "name": "Коста-Рика Виста Аль Санто",
+    "url": "https://shop.tastycoffee.ru/coffee/costa-rica-vista-al-santo-2026",
+    "back": false
+   },
+   {
+    "id": "cd1011b78feb",
+    "roaster": "tasty",
+    "name": "Кения Кириаини",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-kenya-kiriaini",
+    "back": false
+   },
+   {
+    "id": "fe72699c0c31",
+    "roaster": "tasty",
+    "name": "Кения Гатомбоя",
+    "url": "https://shop.tastycoffee.ru/coffee/kenya-gatomboya",
+    "back": false
+   },
+   {
+    "id": "ed1db4f9ccfb",
+    "roaster": "tasty",
+    "name": "Батч-Брю Фьюжн",
+    "url": "https://shop.tastycoffee.ru/coffee/batch-brew-fusion",
+    "back": false
+   },
+   {
+    "id": "cb8f291753c1",
+    "roaster": "tasty",
+    "name": "Кения Гачата",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-kenya-gachata-2026",
+    "back": false
+   },
+   {
+    "id": "cdabd788b70c",
+    "roaster": "tasty",
+    "name": "Кения Вахундура",
+    "url": "https://shop.tastycoffee.ru/coffee/kenya-wahundura",
+    "back": false
+   },
+   {
+    "id": "2e0164f4afe7",
+    "roaster": "tasty",
+    "name": "Коста-Рика Рафаэль Прадо",
+    "url": "https://shop.tastycoffee.ru/coffee/costa-rica-rafael-prado-2026",
+    "back": false
+   },
+   {
+    "id": "97684fc19673",
+    "roaster": "tasty",
+    "name": "Эфиопия Мукера Тако",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-mukera-taco-2026",
+    "back": false
+   },
+   {
+    "id": "f56c831184a6",
+    "roaster": "tasty",
+    "name": "Эфиопия Мукера 200 часов",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-mukera-200-hours",
+    "back": false
+   },
+   {
+    "id": "4896ef3e2a80",
+    "roaster": "tasty",
+    "name": "Бурунди Танганьика",
+    "url": "https://shop.tastycoffee.ru/coffee/burundi-tanganyika",
+    "back": false
+   },
+   {
+    "id": "9bb8aae0febb",
+    "roaster": "tasty",
+    "name": "Бурунди Бужумбура",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-burundi-bujumbura",
+    "back": false
+   },
+   {
+    "id": "82fca610cab4",
+    "roaster": "tasty",
+    "name": "Уганда Муки Фанки",
+    "url": "https://shop.tastycoffee.ru/coffee/uganda-muki-funky",
+    "back": false
+   },
+   {
+    "id": "b316db6cf276",
+    "roaster": "tasty",
+    "name": "Коста-Рика Дон Эли",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-costa-rica-don-eli",
+    "back": false
+   },
+   {
+    "id": "f42f9f20fd82",
+    "roaster": "tasty",
+    "name": "Вайни",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-winy",
+    "back": false
+   },
+   {
+    "id": "b089c1021f13",
+    "roaster": "tasty",
+    "name": "Уганда Имбалу",
+    "url": "https://shop.tastycoffee.ru/coffee/uganda-imbalu",
+    "back": false
+   },
+   {
+    "id": "400f930c967a",
+    "roaster": "tasty",
+    "name": "Уганда Сиронко",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-uganda-sironko",
+    "back": false
+   },
+   {
+    "id": "119c7954a873",
+    "roaster": "tasty",
+    "name": "Уганда Букуяба",
+    "url": "https://shop.tastycoffee.ru/coffee/uganda-bukuyaba",
+    "back": false
+   },
+   {
+    "id": "2ace7945e007",
+    "roaster": "tasty",
+    "name": "Эфиопия Татату 72 часа",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-ethiopia-tatatu-72",
+    "back": false
+   },
+   {
+    "id": "bd700bb4799d",
+    "roaster": "tasty",
+    "name": "Эфиопия Реку",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-reku",
+    "back": false
+   },
+   {
+    "id": "3e1d01fea56a",
+    "roaster": "tasty",
+    "name": "Эфиопия Декиту Анаэробный",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-dekitu-anaerobic",
+    "back": false
+   },
+   {
+    "id": "9c3aedaf5fed",
+    "roaster": "tasty",
+    "name": "Эфиопия Идидо",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-ethiopia-idido",
+    "back": false
+   },
+   {
+    "id": "bd2a3570c382",
+    "roaster": "tasty",
+    "name": "Уганда Мукуру Анаэробный",
+    "url": "https://shop.tastycoffee.ru/coffee/uganda-mukuru-anaerobic",
+    "back": false
+   },
+   {
+    "id": "c80a7320c19b",
+    "roaster": "tasty",
+    "name": "Эфиопия Мукера Соакинг",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-mukera-soaking",
+    "back": false
+   },
+   {
+    "id": "d6fb0973be86",
+    "roaster": "tasty",
+    "name": "Эфиопия Гету",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-ethiopia-getu",
+    "back": false
+   },
+   {
+    "id": "f4fb87390770",
+    "roaster": "tasty",
+    "name": "Уганда Руакинги",
+    "url": "https://shop.tastycoffee.ru/coffee/uganda-rwakingi",
+    "back": false
+   },
+   {
+    "id": "2d7a0b5b0831",
+    "roaster": "tasty",
+    "name": "Уганда Каньямпала",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-uganda-kanyampala",
+    "back": false
+   },
+   {
+    "id": "8e247d7f4db8",
+    "roaster": "tasty",
+    "name": "Уганда Гаудам Анбалаган",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-uganda-gaudam-anbalagan",
+    "back": false
+   },
+   {
+    "id": "c91051f5a770",
+    "roaster": "tasty",
+    "name": "Уганда Картик Анбалаган",
+    "url": "https://shop.tastycoffee.ru/coffee/uganda-karthik-anbalagan",
+    "back": false
+   },
+   {
+    "id": "6e7c03918732",
+    "roaster": "tasty",
+    "name": "Эфиопия Ябиту Туме",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-yabitu-tume",
+    "back": false
+   },
+   {
+    "id": "ec7cf367656d",
+    "roaster": "tasty",
+    "name": "Боливия Самайпата",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-bolivia-samaipata",
+    "back": false
+   },
+   {
+    "id": "5aeb90f0c938",
+    "roaster": "tasty",
+    "name": "Бурунди Карамбо",
+    "url": "https://shop.tastycoffee.ru/coffee/burundi-karambo",
+    "back": false
+   },
+   {
+    "id": "5f73d4564f74",
+    "roaster": "tasty",
+    "name": "Бурунди Кайяве",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-burundi-kaiyave",
+    "back": false
+   },
+   {
+    "id": "d1b37febcc69",
+    "roaster": "tasty",
+    "name": "Руанда Кагано",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-rwanda-kagano",
+    "back": false
+   },
+   {
+    "id": "3161b0154886",
+    "roaster": "tasty",
+    "name": "Эфиопия Готити",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-ethiopia-gotiti",
+    "back": false
+   },
+   {
+    "id": "f618845e75af",
+    "roaster": "tasty",
+    "name": "Колумбия Гейша Монтеверде",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-geisha-monteverde-2026",
+    "back": false
+   },
+   {
+    "id": "f96d20763d60",
+    "roaster": "tasty",
+    "name": "Колумбия Гейша Хоан Вергара",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-geisha-joan-vergara",
+    "back": false
+   },
+   {
+    "id": "11e217d8adcf",
+    "roaster": "tasty",
+    "name": "Бэрри",
+    "url": "https://shop.tastycoffee.ru/coffee/coffee-concentrate-berri",
+    "back": false
+   },
+   {
+    "id": "5af648b50f1c",
+    "roaster": "tasty",
+    "name": "Coffee Tonic",
+    "url": "https://shop.tastycoffee.ru/coffee/coffee_tonic",
+    "back": false
+   },
+   {
+    "id": "97c134b2585a",
+    "roaster": "tasty",
+    "name": "Coffee Cola",
+    "url": "https://shop.tastycoffee.ru/coffee/coffee_cola",
+    "back": false
+   },
+   {
+    "id": "ef9057358b7a",
+    "roaster": "triptych",
+    "name": "Йемен Харази",
+    "url": "https://triptychcoffee.com/perfectionism/tproduct/2344148521-177278713492-iemen-harazi",
+    "back": false
+   },
+   {
+    "id": "9a7b3ef9ac48",
+    "roaster": "triptych",
+    "name": "Колумбия Рохас",
+    "url": "https://triptychcoffee.com/perfectionism/tproduct/2344148521-188794481883-kolumbiya-rohas",
+    "back": false
+   },
+   {
+    "id": "23787dd0a8a2",
+    "roaster": "triptych",
+    "name": "Колумбия Эль Вергель папайо",
+    "url": "https://triptychcoffee.com/perfectionism/tproduct/2344148521-787347188962-kolumbiya-el-vergel-papaio",
+    "back": false
+   },
+   {
+    "id": "bb4b55150ce6",
+    "roaster": "triptych",
+    "name": "Бразилия госто",
+    "url": "https://triptychcoffee.com/espresso/tproduct/382997736-562732539441-braziliya-gosto",
+    "back": false
+   },
+   {
+    "id": "942fce9c52de",
+    "roaster": "triptych",
+    "name": "Колумбия Эксельсо",
+    "url": "https://triptychcoffee.com/espresso/tproduct/382997736-172120000523-kolumbiya-ekselso",
+    "back": false
+   },
+   {
+    "id": "a90f619238bf",
+    "roaster": "triptych",
+    "name": "Эфиопия Гуджи",
+    "url": "https://triptychcoffee.com/espresso/tproduct/382997736-563340790871-efiopiya-gudzhi",
+    "back": false
+   },
+   {
+    "id": "57887d5221ad",
+    "roaster": "triptych",
+    "name": "Эфиопия Дара",
+    "url": "https://triptychcoffee.com/espresso/tproduct/382997736-752587902211-efiopiya-dara",
+    "back": false
+   },
+   {
+    "id": "75d91b15bdb6",
+    "roaster": "triptych",
+    "name": "Руанда Гашару",
+    "url": "https://triptychcoffee.com/filtr/tproduct/382868022-766568567833-ruanda-gasharu",
+    "back": false
+   },
+   {
+    "id": "dfffa726c991",
+    "roaster": "triptych",
+    "name": "Руанда Нова",
+    "url": "https://triptychcoffee.com/filtr/tproduct/382868022-552976121443-ruanda-nova",
+    "back": false
+   },
+   {
+    "id": "5250ded899ce",
+    "roaster": "triptych",
+    "name": "Уганда Кигези",
+    "url": "https://triptychcoffee.com/filtr/tproduct/382868022-640826380403-uganda-kigezi",
+    "back": false
+   },
+   {
+    "id": "101a44233d4a",
+    "roaster": "triptych",
+    "name": "Колумбия Де Ла Тьеррита",
+    "url": "https://triptychcoffee.com/filtr/tproduct/382868022-528605467573-kolumbiya-de-la-territa",
+    "back": false
+   },
+   {
+    "id": "9bd89444ba21",
+    "roaster": "triptych",
+    "name": "Колумбия Ла Парада",
+    "url": "https://triptychcoffee.com/filtr/tproduct/382868022-390697323383-kolumbiya-la-parada",
+    "back": false
+   },
+   {
+    "id": "11bc74d633d5",
+    "roaster": "triptych",
+    "name": "Колумбия Перископ Лот 1",
+    "url": "https://triptychcoffee.com/filtr/tproduct/382868022-907818851502-kolumbiya-periskop-lot-1",
+    "back": false
+   },
+   {
+    "id": "f011f3272525",
+    "roaster": "triptych",
+    "name": "Колумбия Перископ Лот 2",
+    "url": "https://triptychcoffee.com/filtr/tproduct/382868022-733509160702-kolumbiya-periskop-lot-2",
+    "back": false
+   },
+   {
+    "id": "06c14ac6ac7a",
+    "roaster": "triptych",
+    "name": "Перу Ленин Флорес",
+    "url": "https://triptychcoffee.com/filtr/tproduct/382868022-218985277043-peru-lenin-flores",
+    "back": false
+   },
+   {
+    "id": "242a54a53c3a",
+    "roaster": "triptych",
+    "name": "Перу Алиндор Мирез",
+    "url": "https://triptychcoffee.com/filtr/tproduct/382868022-978262216643-peru-alindor-mirez",
+    "back": false
+   },
+   {
+    "id": "e5ca6bc2a613",
+    "roaster": "triptych",
+    "name": "Эфиопия Конга",
+    "url": "https://triptychcoffee.com/filtr/tproduct/382868022-882243798482-efiopiya-konga",
+    "back": false
+   },
+   {
+    "id": "33eaf819b753",
+    "roaster": "yankeesierra",
+    "name": "Colombia El Placer Wush Wush",
+    "url": "https://yankeesierra.ru/catalog/filter/colombia-el-placer-wush-wush",
+    "back": false
+   },
+   {
+    "id": "34877928523e",
+    "roaster": "yankeesierra",
+    "name": "Colombia Diofanor Ruiz",
+    "url": "https://yankeesierra.ru/catalog/filter/Colombia-Diofanor-Ruiz",
+    "back": false
+   },
+   {
+    "id": "db56da47ce55",
+    "roaster": "yankeesierra",
+    "name": "Colombia Santa Ana Aji washed anaerobic",
+    "url": "https://yankeesierra.ru/catalog/filter/Colombia-Santa-Ana-Aji-washed-anaerobic",
+    "back": false
+   },
+   {
+    "id": "40ad74e9fd20",
+    "roaster": "yankeesierra",
+    "name": "Colombia Santa Ana Aji washed",
+    "url": "https://yankeesierra.ru/catalog/filter/Colombia-Santa-Ana-Aji-washed",
+    "back": false
+   },
+   {
+    "id": "6bf6a8b106ea",
+    "roaster": "yankeesierra",
+    "name": "Colombia Santa Ana Aji natural anaerobic",
+    "url": "https://yankeesierra.ru/catalog/filter/Colombia-Santa-Ana-Aji-natural-anaerobic",
+    "back": false
+   },
+   {
+    "id": "5119ea07d253",
+    "roaster": "yankeesierra",
+    "name": "Colombia La Union Gesha",
+    "url": "https://yankeesierra.ru/catalog/filter/Colombia-La-Union-Gesha",
+    "back": false
+   },
+   {
+    "id": "f94eab1a4aba",
+    "roaster": "yankeesierra",
+    "name": "Panama Ninety Plus Amaro Tapir Gesha",
+    "url": "https://yankeesierra.ru/catalog/filter/Panama-Ninety-Plus-Amaro-Tapir-Gesha",
+    "back": false
+   },
+   {
+    "id": "4a73b42a247e",
+    "roaster": "yankeesierra",
+    "name": "Costa Rica Cascara Coffea diversa",
+    "url": "https://yankeesierra.ru/catalog/filter/Costa-Rica-Cascara-Coffea-diversa",
+    "back": false
+   },
+   {
+    "id": "4d9344a95d08",
+    "roaster": "yankeesierra",
+    "name": "Ethiopia Adola",
+    "url": "https://yankeesierra.ru/catalog/filter/Ethiopia-Adola",
+    "back": false
+   },
+   {
+    "id": "867d57c091ef",
+    "roaster": "yankeesierra",
+    "name": "Rwanda Jan Bosco Butembo",
+    "url": "https://yankeesierra.ru/catalog/filter/Rwanda-Jan-Bosco-Butembo",
+    "back": false
+   },
+   {
+    "id": "5510a2a55f0d",
+    "roaster": "yankeesierra",
+    "name": "Brazil Danilo Barbosa",
+    "url": "https://yankeesierra.ru/catalog/filter/Brazil-Danilo-Barbosa",
+    "back": false
+   },
+   {
+    "id": "8fc5f788e370",
+    "roaster": "yankeesierra",
+    "name": "Brazil Santuario Sul",
+    "url": "https://yankeesierra.ru/catalog/filter/Brazil-Santuario-Sul",
+    "back": false
+   },
+   {
+    "id": "cb9527777d4a",
+    "roaster": "yankeesierra",
+    "name": "Guatemala decaf",
+    "url": "https://yankeesierra.ru/catalog/filter/Guatemala-decaf",
+    "back": false
+   },
+   {
+    "id": "e5c76dbbf52b",
+    "roaster": "yankeesierra",
+    "name": "Kenya Karinga",
+    "url": "https://yankeesierra.ru/catalog/filter/Kenya-Karinga",
+    "back": false
+   },
+   {
+    "id": "78acf8c093e0",
+    "roaster": "yankeesierra",
+    "name": "Kenya Gichathaini",
+    "url": "https://yankeesierra.ru/catalog/filter/Kenya-Gichathaini",
+    "back": false
+   },
+   {
+    "id": "e8291a00bd50",
+    "roaster": "yankeesierra",
+    "name": "Ethiopia Acacia",
+    "url": "https://yankeesierra.ru/catalog/filter/Ethiopia-Acacia",
+    "back": false
+   },
+   {
+    "id": "156c382b5564",
+    "roaster": "yankeesierra",
+    "name": "China Xingan",
+    "url": "https://yankeesierra.ru/catalog/filter/China-Xingan",
+    "back": false
+   },
+   {
+    "id": "261c171c9439",
+    "roaster": "yankeesierra",
+    "name": "Kenya Ruera",
+    "url": "https://yankeesierra.ru/catalog/filter/Kenya-Ruera",
+    "back": false
+   },
+   {
+    "id": "9e9cf4c07380",
+    "roaster": "yankeesierra",
+    "name": "Kenya Mtaro",
+    "url": "https://yankeesierra.ru/catalog/filter/Kenya-Mtaro",
+    "back": false
+   },
+   {
+    "id": "9e2ad22fb3eb",
+    "roaster": "yankeesierra",
+    "name": "Guatemala Ayarza",
+    "url": "https://yankeesierra.ru/catalog/filter/Guatemala-Ayarza",
+    "back": false
+   },
+   {
+    "id": "464dbd3acd83",
+    "roaster": "yankeesierra",
+    "name": "Brazil Luis Eduardo Viela",
+    "url": "https://yankeesierra.ru/catalog/filter/Brazil-Luis-Eduardo-Viela",
+    "back": false
+   },
+   {
+    "id": "b5ef41b80ce0",
+    "roaster": "yankeesierra",
+    "name": "Malawi Nyasa",
+    "url": "https://yankeesierra.ru/catalog/filter/Malawi-Nyasa",
+    "back": false
+   },
+   {
+    "id": "32c10fcba92d",
+    "roaster": "yankeesierra",
+    "name": "Rwanda Karisimbi",
+    "url": "https://yankeesierra.ru/catalog/filter/tproduct/556705566-667960747562-rwanda-karisimbi",
+    "back": false
+   },
+   {
+    "id": "30bffb95f6ae",
+    "roaster": "yankeesierra",
+    "name": "Brazil Peaberry Moka",
+    "url": "https://yankeesierra.ru/catalog/espresso/brazil-peaberry-moka",
+    "back": false
+   },
+   {
+    "id": "80f6289da3cf",
+    "roaster": "yankeesierra",
+    "name": "Kenya Thiriku",
+    "url": "https://yankeesierra.ru/catalog/espresso/tproduct/556698544-393735115251-kenya-thiriku",
+    "back": false
+   },
+   {
+    "id": "5e3e71d0dc37",
+    "roaster": "yankeesierra",
+    "name": "Ethiopia Aricha",
+    "url": "https://yankeesierra.ru/catalog/espresso/Ethiopia-Aricha",
+    "back": false
+   },
+   {
+    "id": "804348479669",
+    "roaster": "yankeesierra",
+    "name": "Эспрессо-смесь Salida de Bole",
+    "url": "https://yankeesierra.ru/catalog/espresso/salida-de-bole",
+    "back": false
+   },
+   {
+    "id": "36cf235313a0",
+    "roaster": "yankeesierra",
+    "name": "Guatemala decaf",
+    "url": "https://yankeesierra.ru/catalog/espresso/guatemala-decaf",
+    "back": false
+   },
+   {
+    "id": "fe2da4c80624",
+    "roaster": "yankeesierra",
+    "name": "Rwanda Karisimbi",
+    "url": "https://yankeesierra.ru/catalog/espresso/tproduct/556698544-707928408872-rwanda-karisimbi",
+    "back": false
+   },
+   {
+    "id": "b60690292793",
+    "roaster": "yankeesierra",
+    "name": "Colombia Equator",
+    "url": "https://yankeesierra.ru/catalog/espresso/Colombia-Equator",
+    "back": false
+   },
+   {
+    "id": "fbd9b718f723",
+    "roaster": "yankeesierra",
+    "name": "Mexica Ki-Saya",
+    "url": "https://yankeesierra.ru/catalog/espresso/Mexica-Ki-Saya",
+    "back": false
+   },
+   {
+    "id": "c8773d2fc781",
+    "roaster": "yankeesierra",
+    "name": "Guatemala Las Amapolas",
+    "url": "https://yankeesierra.ru/catalog/espresso/Guatemala-Las-Amapolas",
+    "back": false
+   },
+   {
+    "id": "83b86dd7c9c2",
+    "roaster": "yankeesierra",
+    "name": "Guatemala Ayarza",
+    "url": "https://yankeesierra.ru/catalog/espresso/Guatemala-Ayarza",
+    "back": false
+   },
+   {
+    "id": "88a983879a91",
+    "roaster": "fauno",
+    "name": "Verona Espresso Blend",
+    "url": "https://fauno.coffee/catalog/verona-espresso-blend",
+    "back": false
+   },
+   {
+    "id": "4129cf8df0a1",
+    "roaster": "fauno",
+    "name": "Ethiopia Kochere",
+    "url": "https://fauno.coffee/catalog/ethiopia-kochere",
+    "back": false
+   },
+   {
+    "id": "5d5c40724a76",
+    "roaster": "fauno",
+    "name": "Brazil x Ethiopia Blend",
+    "url": "https://fauno.coffee/catalog/brazil-ethiopia-blend",
+    "back": false
+   },
+   {
+    "id": "a0e0ecca208b",
+    "roaster": "fauno",
+    "name": "Brazil Bourbon",
+    "url": "https://fauno.coffee/catalog/brazil-bourbon",
+    "back": false
+   },
+   {
+    "id": "f5510dfc33f5",
+    "roaster": "fauno",
+    "name": "Ecuanya Filtro Blend",
+    "url": "https://fauno.coffee/catalog/ecuanya-filtro-blend",
+    "back": false
+   },
+   {
+    "id": "ffba280f23cc",
+    "roaster": "fauno",
+    "name": "Colombia San Vicente",
+    "url": "https://fauno.coffee/catalog/colombia-san-vicente",
+    "back": false
+   },
+   {
+    "id": "6e6dde9cd7d6",
+    "roaster": "fauno",
+    "name": "Colombia La Leona",
+    "url": "https://fauno.coffee/catalog/colombia-la-leona",
+    "back": false
+   },
+   {
+    "id": "2d13d6a6065d",
+    "roaster": "fauno",
+    "name": "Uganda Ruwenzori",
+    "url": "https://fauno.coffee/catalog/uganda-ruwenzori",
+    "back": false
+   },
+   {
+    "id": "ace368c68b76",
+    "roaster": "fauno",
+    "name": "Colombia Cesar Buesquillo",
+    "url": "https://fauno.coffee/catalog/colombia-cesar-buesqillo",
+    "back": false
+   },
+   {
+    "id": "b595ccb8db3b",
+    "roaster": "fauno",
+    "name": "Colombia Arcila Mango",
+    "url": "https://fauno.coffee/catalog/colombia-arcila-mango",
+    "back": false
+   },
+   {
+    "id": "8e1b38412bc3",
+    "roaster": "fauno",
+    "name": "Colombia Lychee",
+    "url": "https://fauno.coffee/catalog/colombia-lychee",
+    "back": false
+   },
+   {
+    "id": "d253164b4c5c",
+    "roaster": "fauno",
+    "name": "Costa Rica Hacienda Sonora",
+    "url": "https://fauno.coffee/catalog/costa-rica-hacienda-sonora",
+    "back": false
+   },
+   {
+    "id": "dfc530a63a04",
+    "roaster": "fauno",
+    "name": "Ethiopia Adorsi",
+    "url": "https://fauno.coffee/catalog/ethiopia-adorsi",
+    "back": false
+   },
+   {
+    "id": "65ab3b0a58e0",
+    "roaster": "fauno",
+    "name": "Ethiopia Aricha",
+    "url": "https://fauno.coffee/catalog/ethiopia-aricha",
+    "back": false
+   },
+   {
+    "id": "a790bbf77e50",
+    "roaster": "fauno",
+    "name": "Mexico Decaf",
+    "url": "https://fauno.coffee/catalog/mexico-decaf",
+    "back": false
+   },
+   {
+    "id": "01be14063668",
+    "roaster": "fauno",
+    "name": "Ecuador San Augustin",
+    "url": "https://fauno.coffee/catalog/ecuador-san-augustin",
+    "back": false
+   },
+   {
+    "id": "70822f8e3e70",
+    "roaster": "fauno",
+    "name": "Yemen Udaini",
+    "url": "https://fauno.coffee/catalog/yemen-udaini",
+    "back": false
+   },
+   {
+    "id": "656883227838",
+    "roaster": "fauno",
+    "name": "Ethiopia Guji Frehi",
+    "url": "https://fauno.coffee/catalog/ethiopia-guji-frehi",
+    "back": false
+   },
+   {
+    "id": "65da88119d61",
+    "roaster": "fauno",
+    "name": "Indonesia Sumatra Kerinchi",
+    "url": "https://fauno.coffee/catalog/indonesia-sumatra-kerinchi",
+    "back": false
+   },
+   {
+    "id": "0c691bf9cdb1",
+    "roaster": "fauno",
+    "name": "Colombia Huila Reserve",
+    "url": "https://fauno.coffee/catalog/colombia-huila-reserve",
+    "back": false
+   },
+   {
+    "id": "e7e81ae6bfd9",
+    "roaster": "fauno",
+    "name": "Batch Brew Africa",
+    "url": "https://fauno.coffee/catalog/batch-brew-africa",
+    "back": false
+   },
+   {
+    "id": "e9bf9ede82ed",
+    "roaster": "fauno",
+    "name": "Rwanda Bugoii",
+    "url": "https://fauno.coffee/catalog/rwanda-bugoii",
+    "back": false
+   },
+   {
+    "id": "fe8647fc5f78",
+    "roaster": "zerno",
+    "name": "АРАБИКА БЛЕНД",
+    "url": "https://zerno.spb.ru/coffee/997131239943-arabika-blend",
+    "back": false
+   },
+   {
+    "id": "eada72813342",
+    "roaster": "zerno",
+    "name": "КОФЕ С КОРИЦЕЙ",
+    "url": "https://zerno.spb.ru/coffee/525466631863-kofe-s-koritsei",
+    "back": false
+   },
+   {
+    "id": "8f6931321b6c",
+    "roaster": "zerno",
+    "name": "КОФЕ С АПЕЛЬСИНОМ",
+    "url": "https://zerno.spb.ru/coffee/189996934563-kofe-s-apelsinom",
+    "back": false
+   },
+   {
+    "id": "af4486bb2e04",
+    "roaster": "zerno",
+    "name": "КОФЕ С ЧЕРЁМУХОЙ",
+    "url": "https://zerno.spb.ru/coffee/750971071263-kofe-s-cheryomuhoi",
+    "back": false
+   },
+   {
+    "id": "717a269bcb28",
+    "roaster": "botanica",
+    "name": "Кофе 3в1: фисташка-малина",
+    "url": "https://botanicacoffee.ru/3in1raspberry-pistachio",
+    "back": false
+   },
+   {
+    "id": "eba5fab36a90",
+    "roaster": "botanica",
+    "name": "Кофе 3в1: кленовый пекан",
+    "url": "https://botanicacoffee.ru/3in1pecans",
+    "back": false
+   },
+   {
+    "id": "16f0c76ee80f",
+    "roaster": "botanica",
+    "name": "Кофе 3в1: банан - солёная карамель",
+    "url": "https://botanicacoffee.ru/3in1banana-caramel",
+    "back": false
+   },
+   {
+    "id": "14eb21331eb5",
+    "roaster": "botanica",
+    "name": "Блокнот бариста",
+    "url": "https://botanicacoffee.ru/tproduct/3111555201-215351527122-bloknot-barista",
+    "back": false
+   },
+   {
+    "id": "b37c7a0a1ef9",
+    "roaster": "botanica",
+    "name": "Молочный улун",
+    "url": "https://botanicacoffee.ru/tproduct/3111555301-851133616931-molochnii-ulun",
+    "back": false
+   },
+   {
+    "id": "00dc6058ca9d",
+    "roaster": "botanica",
+    "name": "Те Гуань Инь",
+    "url": "https://botanicacoffee.ru/tproduct/3111555301-380343669361-te-guan-in",
+    "back": false
+   },
+   {
+    "id": "f576dba3d02e",
+    "roaster": "botanica",
+    "name": "Сенча",
+    "url": "https://botanicacoffee.ru/tproduct/3111555301-965628693541-sencha",
+    "back": false
+   },
+   {
+    "id": "3242d8070408",
+    "roaster": "botanica",
+    "name": "Чёрный с чабрецом",
+    "url": "https://botanicacoffee.ru/tproduct/3111555301-872986038321-chyornii-s-chabretsom",
+    "back": false
+   },
+   {
+    "id": "aa8ba27bf18a",
+    "roaster": "botanica",
+    "name": "Бразилия Сан-Пауло",
+    "url": "https://botanicacoffee.ru/saopaulo",
+    "back": false
+   },
+   {
+    "id": "9e840e4a81e4",
+    "roaster": "botanica",
+    "name": "Уганда Вамала",
+    "url": "https://botanicacoffee.ru/ugandavamala",
+    "back": false
+   },
+   {
+    "id": "f172fd47e020",
+    "roaster": "botanica",
+    "name": "Эфиопия Оромия",
+    "url": "https://botanicacoffee.ru/345600",
+    "back": false
+   },
+   {
+    "id": "957779404b78",
+    "roaster": "botanica",
+    "name": "Бленд Милк",
+    "url": "https://botanicacoffee.ru/56",
+    "back": false
+   },
+   {
+    "id": "363a5b77822f",
+    "roaster": "botanica",
+    "name": "Гватемала Декаф",
+    "url": "https://botanicacoffee.ru/decafespresso",
+    "back": false
+   },
+   {
+    "id": "abf64053948f",
+    "roaster": "botanica",
+    "name": "Бразилия Суль-Де-Минас",
+    "url": "https://botanicacoffee.ru/page46684515.html",
+    "back": false
+   },
+   {
+    "id": "9bc8160afaed",
+    "roaster": "botanica",
+    "name": "Колумбия Эль Осо",
+    "url": "https://botanicacoffee.ru/el_osoespresso",
+    "back": false
+   },
+   {
+    "id": "a8071e59f20e",
+    "roaster": "botanica",
+    "name": "Бленд Бальзамик",
+    "url": "https://botanicacoffee.ru/balsamica",
+    "back": false
+   },
+   {
+    "id": "c7129cf43473",
+    "roaster": "botanica",
+    "name": "Уганда Ибанда",
+    "url": "https://botanicacoffee.ru/ugandaibanda",
+    "back": false
+   },
+   {
+    "id": "9aaba69b7024",
+    "roaster": "botanica",
+    "name": "Эфиопия Килленсо",
+    "url": "https://botanicacoffee.ru/",
+    "back": false
+   },
+   {
+    "id": "b1c7c56e2722",
+    "roaster": "botanica",
+    "name": "Кения Кабингара",
+    "url": "https://botanicacoffee.ru/kabingaraespresso",
+    "back": false
+   },
+   {
+    "id": "4925c61c82cf",
+    "roaster": "botanica",
+    "name": "Гондурас Тукан Верде",
+    "url": "https://botanicacoffee.ru/017593",
+    "back": false
+   },
+   {
+    "id": "c94a28d0e463",
+    "roaster": "botanica",
+    "name": "Эфиопия Иргачифф",
+    "url": "https://botanicacoffee.ru/ yirgacheffe",
+    "back": false
+   },
+   {
+    "id": "7b116e5bcc86",
+    "roaster": "botanica",
+    "name": "Бленд Боди Шейп",
+    "url": "https://botanicacoffee.ru/0989",
+    "back": false
+   },
+   {
+    "id": "46214b8f5648",
+    "roaster": "botanica",
+    "name": "Бленд Вендинг",
+    "url": "https://botanicacoffee.ru/66",
+    "back": false
+   },
+   {
+    "id": "8384d1de75e8",
+    "roaster": "botanica",
+    "name": "Колумбия Супремо",
+    "url": "https://botanicacoffee.ru/supremonew",
+    "back": false
+   },
+   {
+    "id": "e0352c583b51",
+    "roaster": "botanica",
+    "name": "Колумбия Супремо",
+    "url": "https://botanicacoffee.ru/supremofilter",
+    "back": false
+   },
+   {
+    "id": "09f08ae65c56",
+    "roaster": "botanica",
+    "name": "Эфиопия Сидамо",
+    "url": "https://botanicacoffee.ru/9",
+    "back": false
+   },
+   {
+    "id": "3bfb255a86a9",
+    "roaster": "botanica",
+    "name": "Бленд Амазонс",
+    "url": "https://botanicacoffee.ru/07658",
+    "back": false
+   },
+   {
+    "id": "85b884eaa8f0",
+    "roaster": "botanica",
+    "name": "Бленд Вери Вери Свит",
+    "url": "https://botanicacoffee.ru/55",
+    "back": false
+   },
+   {
+    "id": "512e94b8c28c",
+    "roaster": "botanica",
+    "name": "Руанда Мутетели",
+    "url": "https://botanicacoffee.ru/mutetelirwanda",
+    "back": false
+   },
+   {
+    "id": "b139d77d629d",
+    "roaster": "bittersweet",
+    "name": "КОЛУМБИЯ АНТИОКЬЯ",
+    "url": "https://bittersweet.coffee/kofe/tproduct/1732061791-593782369942-kolumbiya-antiokya",
+    "back": false
+   },
+   {
+    "id": "4c1fdf169e68",
+    "roaster": "kofeop",
+    "name": "Мейкерс Бленд",
+    "url": "https://kofeop.ru/catalog/coffee/meykers-blend/",
+    "back": false
+   },
+   {
+    "id": "6e7863e43ae7",
+    "roaster": "kofeop",
+    "name": "Никарагуа",
+    "url": "https://kofeop.ru/catalog/coffee/nikaragua/",
+    "back": false
+   },
+   {
+    "id": "064a958abc6a",
+    "roaster": "kofeop",
+    "name": "Мейкерс Бленд",
+    "url": "https://89.104.74.22/catalog/coffee/meykers-blend/",
+    "back": false
+   },
+   {
+    "id": "7e45558a94fd",
+    "roaster": "kofeop",
+    "name": "Никарагуа",
+    "url": "https://89.104.74.22/catalog/coffee/nikaragua/",
+    "back": false
+   },
+   {
+    "id": "8631481d8e62",
+    "roaster": "madheads",
+    "name": "Guji Hambella Gr.2",
+    "url": "https://madheadscoffee.com/p/jAHvBO0M6h6-5edae4b4",
+    "back": false
+   },
+   {
+    "id": "936fd104a39a",
+    "roaster": "madheads",
+    "name": "Guji Shakiso",
+    "url": "https://madheadscoffee.com/p/AfRDCqlFCxy-f15016c9",
+    "back": false
+   },
+   {
+    "id": "40feaa11f2a4",
+    "roaster": "madheads",
+    "name": "Gesha Guji Shakiso *GUR COLLAB",
+    "url": "https://madheadscoffee.com/p/iagS7cI93Je-627f7854",
+    "back": false
+   },
+   {
+    "id": "2a183926f852",
+    "roaster": "madheads",
+    "name": "Santa Barbara",
+    "url": "https://madheadscoffee.com/p/SZ3IGoP0boU-13115c57",
+    "back": false
+   },
+   {
+    "id": "035718557bd4",
+    "roaster": "madheads",
+    "name": "Kochere Gr2",
+    "url": "https://madheadscoffee.com/p/Nd1NKt62Ma0-a8aab1fb",
+    "back": false
+   },
+   {
+    "id": "d3c75be9a839",
+    "roaster": "madheads",
+    "name": "Ndogo Kirinyaga",
+    "url": "https://madheadscoffee.com/p/d7MBqv8QaRa-decb9081",
+    "back": false
+   },
+   {
+    "id": "6be991d26ebb",
+    "roaster": "madheads",
+    "name": "Kochere Gr2 Capsules",
+    "url": "https://madheadscoffee.com/p/aJ3PXA7nNpm-59e33f06",
+    "back": false
+   },
+   {
+    "id": "ef41ba77134f",
+    "roaster": "madheads",
+    "name": "Ручна кавомолка Hario Mini Black PRO",
+    "url": "https://madheadscoffee.com/p/uMwGcMMq6o",
+    "back": false
+   },
+   {
+    "id": "b120537c57be",
+    "roaster": "madheads",
+    "name": "Kiambu AB *GUR COLLAB",
+    "url": "https://madheadscoffee.com/p/iNezqzAaOYo-7af2a671",
+    "back": false
+   },
+   {
+    "id": "277e578375b5",
+    "roaster": "madheads",
+    "name": "Patch \"Mad Heads coffee roasters\"",
+    "url": "https://madheadscoffee.com/p/u4AygMoQQ4I",
+    "back": false
+   }
+  ],
+  "removed": [
+   {
+    "id": "a091ff82e2e9",
+    "roaster": "bittersweet",
+    "name": "БРАЗИЛИЯ САНТОС",
+    "url": "https://bittersweet.coffee/kofe/tproduct/449557274-104650947952-braziliya-santos",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "be260166cf47",
+    "roaster": "bittersweet",
+    "name": "ИНДОНЕЗИЯ КЕРИНЧИ",
+    "url": "https://bittersweet.coffee/kofe/tproduct/449557274-329134143942-indoneziya-kerinchi",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "4126d7fcff6e",
+    "roaster": "bittersweet",
+    "name": "ЭФИОПИЯ АДАДО",
+    "url": "https://bittersweet.coffee/kofe/tproduct/449557274-322744619132-efiopiya-adado",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "ebe5b8c57a72",
+    "roaster": "bolshe",
+    "name": "Азия Микс",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512429115-373557395262-aziya-miks",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "0c9acc15127a",
+    "roaster": "bolshe",
+    "name": "Америка Микс",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512429115-440270454312-amerika-miks",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "0f4d4e323df4",
+    "roaster": "bolshe",
+    "name": "Бразилия Коликоли",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512384010-185577874171-braziliya-kolikoli",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "5b611090e44c",
+    "roaster": "bolshe",
+    "name": "Гватемала L&B декаф",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512384010-191094989232-gvatemala-lampb-dekaf",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "bc1d47551010",
+    "roaster": "bolshe",
+    "name": "Декаф",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512429115-750635329783-dekaf",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "df3219251b97",
+    "roaster": "bolshe",
+    "name": "Кения Кабингара",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512384010-818618395073-keniya-kabingara",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "7a9a5ccbe209",
+    "roaster": "bolshe",
+    "name": "Купи Слона",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512384010-144936497873-kupi-slona",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "84ba6929868d",
+    "roaster": "bolshe",
+    "name": "Особый лот Колумбия Сидра",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512384010-142012696872-osobii-lot-kolumbiya-sidra",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "a6648b560ef0",
+    "roaster": "bolshe",
+    "name": "Особый лот Колумбия Сидра",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512384010-726905513472-osobii-lot-kolumbiya-sidra",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "f00d819a2156",
+    "roaster": "bolshe",
+    "name": "Особый лот Перу гейша",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512384010-218659849252-osobii-lot-peru-geisha",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "7b8a8d8b5f6a",
+    "roaster": "bolshe",
+    "name": "Особый лот Эфиопия Демби",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512384010-560875416893-osobii-lot-efiopiya-dembi",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "992d81e9188c",
+    "roaster": "bolshe",
+    "name": "Особый лот Эфиопия Демби",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512384010-386826541173-osobii-lot-efiopiya-dembi",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "e09d2af30bb9",
+    "roaster": "bolshe",
+    "name": "Черный плащ",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512429115-870236268243-chernii-plasch",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "5a316333a238",
+    "roaster": "bolshe",
+    "name": "Эфиопия Дара",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512384010-711203908961-efiopiya-dara",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "500b0c029f37",
+    "roaster": "caffeinelab",
+    "name": "Бразилия Суль-ди-Минас",
+    "url": "https://caffeinelab.ru/order-opt-online/tproduct/346641889-195164818401-braziliya-sul-di-minas",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "210c3cf2f8b4",
+    "roaster": "caffeinelab",
+    "name": "Бразилия Суль-ди-Минас для эспрессо",
+    "url": "https://caffeinelab.ru/coffee/espresso/tproduct/834531917-226683665781-braziliya-sul-di-minas-dlya-espresso",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "fffd4c3d80d1",
+    "roaster": "caffeinelab",
+    "name": "Гватемала Л2 Пампохила для фильтра",
+    "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-634568981873-gvatemala-l2-pampohila-dlya-filtra",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "68219d1242c3",
+    "roaster": "caffeinelab",
+    "name": "Гватемала Эль Сокорро для фильтра",
+    "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-677435383003-gvatemala-el-sokorro-dlya-filtra",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "feab816280df",
+    "roaster": "caffeinelab",
+    "name": "Гватемала Эль Сокорро под эспрессо",
+    "url": "https://caffeinelab.ru/coffee/espresso/tproduct/834531917-592231843913-gvatemala-el-sokorro-pod-espresso",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "7749bb110b31",
+    "roaster": "caffeinelab",
+    "name": "Гондурас SHG для эспрессо",
+    "url": "https://caffeinelab.ru/coffee/espresso/tproduct/834531917-154533572981-gonduras-shg-dlya-espresso",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "29db2671cb51",
+    "roaster": "caffeinelab",
+    "name": "Гондурас SHG для эспрессо",
+    "url": "https://caffeinelab.ru/order-opt-online/tproduct/346641889-873903533601-gonduras-shg-dlya-espresso",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "e8e19137e311",
+    "roaster": "caffeinelab",
+    "name": "Индонезия Керинчи для фильтра",
+    "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-853528956503-indoneziya-kerinchi-dlya-filtra",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "262d76e612b6",
+    "roaster": "caffeinelab",
+    "name": "Индонезия Керинчи для эспрессо",
+    "url": "https://caffeinelab.ru/coffee/espresso/tproduct/834531917-168722562243-indoneziya-kerinchi-dlya-espresso",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "bac6778a5cda",
+    "roaster": "caffeinelab",
+    "name": "Индонезия Керинчи для эспрессо",
+    "url": "https://caffeinelab.ru/order-opt-online/tproduct/346641889-149295230073-indoneziya-kerinchi-dlya-espresso",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "dd6a0101a482",
+    "roaster": "caffeinelab",
+    "name": "Йемен Удаини Химми",
+    "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-879324349813-iemen-udaini-himmi",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "2fcbb30fa313",
+    "roaster": "caffeinelab",
+    "name": "Кения АА Гитура под фильтр",
+    "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-153034318892-keniya-aa-gitura-pod-filtr",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "7a01b3da1fa0",
+    "roaster": "caffeinelab",
+    "name": "Кения АА Нат. под фильтр",
+    "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-664578347343-keniya-aa-nat-pod-filtr",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "21aa0501f650",
+    "roaster": "caffeinelab",
+    "name": "Кения АА Нат. под эспрессо",
+    "url": "https://caffeinelab.ru/coffee/espresso/tproduct/834531917-347692089183-keniya-aa-nat-pod-espresso",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "3374767584ac",
+    "roaster": "caffeinelab",
+    "name": "Кения АА под фильтр",
+    "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-838372907062-keniya-aa-pod-filtr",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "fd3cab82e673",
+    "roaster": "caffeinelab",
+    "name": "Кения АА под эспрессо",
+    "url": "https://caffeinelab.ru/coffee/espresso/tproduct/834531917-448947635282-keniya-aa-pod-espresso",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "91cfb2d931b4",
+    "roaster": "caffeinelab",
+    "name": "Кения АБ Каримикуи под фильтр",
+    "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-332729255863-keniya-ab-karimikui-pod-filtr",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "a22c04601a73",
+    "roaster": "caffeinelab",
+    "name": "Колумбия Беллависта для фильтра",
+    "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-499251872573-kolumbiya-bellavista-dlya-filtra",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "356618fec3e1",
+    "roaster": "caffeinelab",
+    "name": "Колумбия Л7 Эль Вергель для фильтра",
+    "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-969754254203-kolumbiya-l7-el-vergel-dlya-filtra",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "67a90cc405e0",
+    "roaster": "caffeinelab",
+    "name": "Колумбия Росадо для фильтра",
+    "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-462248467883-kolumbiya-rosado-dlya-filtra",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "67a122dc4d54",
+    "roaster": "caffeinelab",
+    "name": "Кофе Гватемала Декаф для эспрессо",
+    "url": "https://caffeinelab.ru/coffee/espresso/tproduct/834531917-594571871032-kofe-gvatemala-dekaf-dlya-espresso",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "faf98a6dc8b0",
+    "roaster": "caffeinelab",
+    "name": "Мексика Ки-Соя Декаф для фильтра",
+    "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-269681479273-meksika-ki-soya-dekaf-dlya-filtra",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "02a08bb4233c",
+    "roaster": "caffeinelab",
+    "name": "Мексика Ки-Соя Декаф для эспрессо",
+    "url": "https://caffeinelab.ru/coffee/espresso/tproduct/834531917-824247650983-meksika-ki-soya-dekaf-dlya-espresso",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "51d892a015af",
+    "roaster": "caffeinelab",
+    "name": "Танзания ПБ Мбилиндино для фильтра",
+    "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-943358230082-tanzaniya-pb-mbilindino-dlya-filtra",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "5ac230223de4",
+    "roaster": "caffeinelab",
+    "name": "Уганда Мвези",
+    "url": "https://caffeinelab.ru/order-opt-online/tproduct/346641889-671604103772-uganda-mvezi",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "b9a880b2d67a",
+    "roaster": "caffeinelab",
+    "name": "Эфиопия Конга для фильтра",
+    "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-951607431183-efiopiya-konga-dlya-filtra",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "6dc001a09e94",
+    "roaster": "caffeinelab",
+    "name": "Эфиопия Лиму для фильтра",
+    "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-333396207571-efiopiya-limu-dlya-filtra",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "fe258f6a20b3",
+    "roaster": "caffeinelab",
+    "name": "Эфиопия Лиму для эспрессо",
+    "url": "https://caffeinelab.ru/coffee/espresso/tproduct/834531917-711575715603-efiopiya-limu-dlya-espresso",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "1c167b332715",
+    "roaster": "caffeinelab",
+    "name": "Эфиопия Сидамо",
+    "url": "https://caffeinelab.ru/tproduct/1-160938805611-efiopiya-sidamo",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "8387d47f50eb",
+    "roaster": "caffeinelab",
+    "name": "Эфиопия Хамбела для эспрессо",
+    "url": "https://caffeinelab.ru/coffee/espresso/tproduct/834531917-986714335043-efiopiya-hambela-dlya-espresso",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "b87ac9638192",
+    "roaster": "caffeinelab",
+    "name": "Эфиопия Харо Сорса для фильтра",
+    "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-817995379553-efiopiya-haro-sorsa-dlya-filtra",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "41c529d187bb",
+    "roaster": "kofeop",
+    "name": "Кофе в зернах",
+    "url": "https://kofeop.ru/catalog/coffee/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "099c51d78e0d",
+    "roaster": "kofeop",
+    "name": "Кофе в зернах",
+    "url": "https://kofeop.ru/catalog/coffee/dlya-ofisa/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "02188a946fc4",
+    "roaster": "kofeop",
+    "name": "Кофе в зернах",
+    "url": "https://kofeop.ru/catalog/coffee/dlya-doma/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "e6b0c0e45ab2",
+    "roaster": "kofeop",
+    "name": "Кофе в зернах",
+    "url": "https://kofeop.ru/catalog/coffee/dlya-kafe/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "c5d974b304e0",
+    "roaster": "kofeop",
+    "name": "Кофе в зернах",
+    "url": "https://kofeop.ru/catalog/coffee/peru/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "04baafb2c7c6",
+    "roaster": "kofeop",
+    "name": "Кофе в зернах",
+    "url": "https://kofeop.ru/catalog/coffee/1-kg/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "00606807590f",
+    "roaster": "kofeop",
+    "name": "Кофе в зернах",
+    "url": "https://kofeop.ru/catalog/coffee/250-g/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "3c5ff0fd4bd8",
+    "roaster": "kofeop",
+    "name": "Кофе в зернах",
+    "url": "https://kofeop.ru/catalog/coffee/ochen-vysokaya-kislotnost/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "ef1f4cfe3528",
+    "roaster": "kofeop",
+    "name": "Кофе в зернах",
+    "url": "https://kofeop.ru/catalog/coffee/vysokaya-kislotnost/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "801c05d4f427",
+    "roaster": "kofeop",
+    "name": "Кофе в зернах",
+    "url": "https://kofeop.ru/catalog/coffee/srednyaya-kislotnost/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "f6147be7f432",
+    "roaster": "kofeop",
+    "name": "Кофе в зернах",
+    "url": "https://kofeop.ru/catalog/coffee/nizkaya-kislotnost/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "88d2f8dd547b",
+    "roaster": "kofeop",
+    "name": "Кофе в зернах",
+    "url": "https://kofeop.ru/catalog/coffee/ochen-nizkaya-kislotnost/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "3c136a3e5f9a",
+    "roaster": "kofeop",
+    "name": "Кофе в зернах",
+    "url": "https://kofeop.ru/catalog/coffee/srednyaya-sladost/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "937ae1949b77",
+    "roaster": "kofeop",
+    "name": "Кофе в зернах",
+    "url": "https://kofeop.ru/catalog/coffee/vysokaya-sladost/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "df371d0d1961",
+    "roaster": "kofeop",
+    "name": "Кофе в зернах",
+    "url": "https://kofeop.ru/catalog/coffee/ochen-vysokaya-sladost/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "d2dddd419e8b",
+    "roaster": "kofeop",
+    "name": "Кофе в зернах",
+    "url": "https://kofeop.ru/catalog/coffee/voronka/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "e129aeeff466",
+    "roaster": "kofeop",
+    "name": "Кофе в зернах",
+    "url": "https://kofeop.ru/catalog/coffee/kofevarka-kapelnaya/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "a42f56497684",
+    "roaster": "kofeop",
+    "name": "Кофе в зернах",
+    "url": "https://kofeop.ru/catalog/coffee/turka/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "01fd4d1b0a1b",
+    "roaster": "kofeop",
+    "name": "Кофе в зернах",
+    "url": "https://kofeop.ru/catalog/coffee/french-press/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "b2c1d5521ad1",
+    "roaster": "kofeop",
+    "name": "Кофе в зернах",
+    "url": "https://kofeop.ru/catalog/coffee/v-chashke/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "a3feb5f3f638",
+    "roaster": "kofeop",
+    "name": "Кофе в зернах",
+    "url": "https://kofeop.ru/catalog/coffee/geyzer/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "cdc5669bd3ca",
+    "roaster": "kofeop",
+    "name": "Кофе в зернах",
+    "url": "https://kofeop.ru/catalog/coffee/espresso/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "cdb69343f509",
+    "roaster": "kofeop",
+    "name": "Кофе в зернах",
+    "url": "https://kofeop.ru/catalog/coffee/obzharka-espresso/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "c32b9c66d097",
+    "roaster": "kofeop",
+    "name": "Кофе в зернах",
+    "url": "https://kofeop.ru/catalog/coffee/filtr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "dd78763ef1ca",
+    "roaster": "kofeop",
+    "name": "Кофе в зернах",
+    "url": "https://kofeop.ru/catalog/coffee/espresso/1-kg/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "d046f9621a7c",
+    "roaster": "kofeop",
+    "name": "Основной кофе в зернах",
+    "url": "https://kofeop.ru/catalog/osnovnoy-kofe/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "5f0cd239d0c2",
+    "roaster": "kofeop",
+    "name": "Основной кофе в зернах",
+    "url": "https://kofeop.ru/catalog/osnovnoy-kofe/voronka/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "6313957e0f75",
+    "roaster": "kofeop",
+    "name": "Основной кофе в зернах",
+    "url": "https://kofeop.ru/catalog/osnovnoy-kofe/kofevarka-kapelnaya/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "d23a7415d708",
+    "roaster": "kofeop",
+    "name": "Основной кофе в зернах",
+    "url": "https://kofeop.ru/catalog/osnovnoy-kofe/turka/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "e10e761490b4",
+    "roaster": "kofeop",
+    "name": "Основной кофе в зернах",
+    "url": "https://kofeop.ru/catalog/osnovnoy-kofe/french-press/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "b9069a51f13b",
+    "roaster": "kofeop",
+    "name": "Основной кофе в зернах",
+    "url": "https://kofeop.ru/catalog/osnovnoy-kofe/v-chashke/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "4077c7248556",
+    "roaster": "kofeop",
+    "name": "Основной кофе в зернах",
+    "url": "https://kofeop.ru/catalog/osnovnoy-kofe/geyzer/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "c5a9269d627d",
+    "roaster": "kofeop",
+    "name": "Основной кофе в зернах",
+    "url": "https://kofeop.ru/catalog/osnovnoy-kofe/kofemashina/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "91a66395a00f",
+    "roaster": "kofeop",
+    "name": "Основной кофе в зернах",
+    "url": "https://kofeop.ru/catalog/osnovnoy-kofe/espresso/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "48172edc24b5",
+    "roaster": "kofeop",
+    "name": "Основной кофе в зернах",
+    "url": "https://kofeop.ru/catalog/osnovnoy-kofe/rozhkovaya-kofemashina/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "36466b9d2085",
+    "roaster": "kofeop",
+    "name": "Основной кофе оптом",
+    "url": "https://kofeop.ru/catalog/osnovnoy-kofe-optom/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "244536651f0e",
+    "roaster": "kofeop",
+    "name": "Основной кофе оптом",
+    "url": "https://kofeop.ru/catalog/osnovnoy-kofe-optom/voronka/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "657fa76f4944",
+    "roaster": "kofeop",
+    "name": "Основной кофе оптом",
+    "url": "https://kofeop.ru/catalog/osnovnoy-kofe-optom/kofevarka-kapelnaya/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "0a7f7bd24565",
+    "roaster": "kofeop",
+    "name": "Основной кофе оптом",
+    "url": "https://kofeop.ru/catalog/osnovnoy-kofe-optom/turka/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "1b4522a5c63a",
+    "roaster": "kofeop",
+    "name": "Основной кофе оптом",
+    "url": "https://kofeop.ru/catalog/osnovnoy-kofe-optom/french-press/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "69f1594de33d",
+    "roaster": "kofeop",
+    "name": "Основной кофе оптом",
+    "url": "https://kofeop.ru/catalog/osnovnoy-kofe-optom/v-chashke/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "d932802ae49e",
+    "roaster": "kofeop",
+    "name": "Основной кофе оптом",
+    "url": "https://kofeop.ru/catalog/osnovnoy-kofe-optom/geyzer/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "ad4a8aa2dff0",
+    "roaster": "kofeop",
+    "name": "Основной кофе оптом",
+    "url": "https://kofeop.ru/catalog/osnovnoy-kofe-optom/kofemashina/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "19f3dba42b12",
+    "roaster": "kofeop",
+    "name": "Основной кофе оптом",
+    "url": "https://kofeop.ru/catalog/osnovnoy-kofe-optom/espresso/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "6699c73beac6",
+    "roaster": "kofeop",
+    "name": "Основной кофе оптом",
+    "url": "https://kofeop.ru/catalog/osnovnoy-kofe-optom/rozhkovaya-kofemashina/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "d41829adeb36",
+    "roaster": "kofeop",
+    "name": "Открывающий кофе в зернах",
+    "url": "https://kofeop.ru/catalog/otkryvayushchiy-kofe/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "03de40a50829",
+    "roaster": "kofeop",
+    "name": "Открывающий кофе оптом",
+    "url": "https://kofeop.ru/catalog/otkryvayushchiy-kofe-optom/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "ffae746c0109",
+    "roaster": "kofeop",
+    "name": "Редкий кофе в зернах",
+    "url": "https://kofeop.ru/catalog/redkiy-kofe/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "5a49f123cc9d",
+    "roaster": "lebo",
+    "name": "Copy: Перу Кахамарка",
+    "url": "https://pro.lebo.ru/coffee/tproduct/339640869832-copy-peru-kahamarka",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "e203ba3d3769",
+    "roaster": "madheads",
+    "name": "Guji Hambella Gr.2",
+    "url": "https://madheadscoffee.com/catalog/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "fe9383a82853",
+    "roaster": "neva",
+    "name": "Crema 250 гр.",
+    "url": "https://nevacoffee.ru/catalog/coffee/smesi-s-robustoy-i-robusta/sredney-kreposti/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "c22219a1339d",
+    "roaster": "neva",
+    "name": "Crema 250 гр.",
+    "url": "https://nevacoffee.ru/catalog/coffee/smesi-s-robustoy-i-robusta/yarkaya/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "d5df13127943",
+    "roaster": "neva",
+    "name": "Espresso Classic 250 гр.",
+    "url": "https://nevacoffee.ru/catalog/coffee/sorta-s-gorchinkoy/braziliya/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "3a57b0e85fb1",
+    "roaster": "neva",
+    "name": "Mild 250 гр.",
+    "url": "https://nevacoffee.ru/catalog/coffee/smesi-s-robustoy-i-robusta/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "df4f38ac785b",
+    "roaster": "neva",
+    "name": "Mild 250 гр.",
+    "url": "https://nevacoffee.ru/catalog/coffee/smesi-s-robustoy-i-robusta/arabika-robusta/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "ba64b97ec013",
+    "roaster": "neva",
+    "name": "Mild 250 гр.",
+    "url": "https://nevacoffee.ru/catalog/coffee/smesi-s-robustoy-i-robusta/srednyaya/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "451e49565f67",
+    "roaster": "neva",
+    "name": "Mild 250 гр.",
+    "url": "https://nevacoffee.ru/catalog/coffee/smesi-s-robustoy-i-robusta/s-kofeinom/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "07c4bb4a883e",
+    "roaster": "neva",
+    "name": "Mild 250 гр.",
+    "url": "https://nevacoffee.ru/catalog/coffee/smesi-s-robustoy-i-robusta/myagkiy/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "6bb33117b378",
+    "roaster": "neva",
+    "name": "Mild 250 гр.",
+    "url": "https://nevacoffee.ru/catalog/coffee/smesi-s-robustoy-i-robusta/dlya-turki/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "897ef5c636d4",
+    "roaster": "neva",
+    "name": "Mild 250 гр.",
+    "url": "https://nevacoffee.ru/catalog/coffee/smesi-s-robustoy-i-robusta/dlya-rozhka-espresso-mashiny/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "3c3c64d41c27",
+    "roaster": "neva",
+    "name": "Mild 250 гр.",
+    "url": "https://nevacoffee.ru/catalog/coffee/smesi-s-robustoy-i-robusta/dlya-geyzernoy-kofevarki/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "4456030193e8",
+    "roaster": "neva",
+    "name": "Mild 250 гр.",
+    "url": "https://nevacoffee.ru/catalog/coffee/smesi-s-robustoy-i-robusta/dlya-kapelnoy-kofevarki/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "09ccc16fa4b7",
+    "roaster": "neva",
+    "name": "Mild 250 гр.",
+    "url": "https://nevacoffee.ru/catalog/coffee/smesi-s-robustoy-i-robusta/dlya-french-pressa/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "85d2e5c1824b",
+    "roaster": "neva",
+    "name": "Mild 250 гр.",
+    "url": "https://nevacoffee.ru/catalog/coffee/smesi-s-robustoy-i-robusta/ne-molot/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "accb9bd18875",
+    "roaster": "neva",
+    "name": "Regular 250 гр.",
+    "url": "https://nevacoffee.ru/catalog/coffee/smesi-s-robustoy-i-robusta/slabaya/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "a3512425baaa",
+    "roaster": "neva",
+    "name": "Амазонас 250 гр",
+    "url": "https://nevacoffee.ru/catalog/coffee/peru/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "6c40d1b2bf7c",
+    "roaster": "neva",
+    "name": "Гватемала Аяраза 250 гр",
+    "url": "https://nevacoffee.ru/catalog/coffee/gvatemala/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "8fcd26a06cc7",
+    "roaster": "neva",
+    "name": "Гуджи Гр. 4 250гр",
+    "url": "https://nevacoffee.ru/catalog/coffee/efiopiya/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "110fa56294b0",
+    "roaster": "neva",
+    "name": "Далат 250",
+    "url": "https://nevacoffee.ru/catalog/coffee/sorta-s-gorchinkoy/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "6e25c981c97d",
+    "roaster": "neva",
+    "name": "Далат 250",
+    "url": "https://nevacoffee.ru/catalog/coffee/vetnam/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "f0816dc2f4db",
+    "roaster": "neva",
+    "name": "Далат 250",
+    "url": "https://nevacoffee.ru/catalog/coffee/slabaya/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "0b8c3fd880e9",
+    "roaster": "neva",
+    "name": "Далат 250",
+    "url": "https://nevacoffee.ru/catalog/coffee/sorta-s-gorchinkoy/srednyaya/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "1b98adae106f",
+    "roaster": "neva",
+    "name": "Далат 250",
+    "url": "https://nevacoffee.ru/catalog/coffee/sorta-s-gorchinkoy/500-g/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "a58bfc0d68ee",
+    "roaster": "neva",
+    "name": "Далат 250",
+    "url": "https://nevacoffee.ru/catalog/coffee/sorta-s-gorchinkoy/1-kg/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "0566c9ffdb1b",
+    "roaster": "neva",
+    "name": "Далат 250",
+    "url": "https://nevacoffee.ru/catalog/coffee/sorta-s-gorchinkoy/250-g/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "45cc5101af4b",
+    "roaster": "neva",
+    "name": "Далат 250",
+    "url": "https://nevacoffee.ru/catalog/coffee/sorta-s-gorchinkoy/dlya-turki/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "0d1512f9675f",
+    "roaster": "neva",
+    "name": "Далат 250",
+    "url": "https://nevacoffee.ru/catalog/coffee/sorta-s-gorchinkoy/dlya-rozhka-espresso-mashiny/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "a214eef5421b",
+    "roaster": "neva",
+    "name": "Далат 250",
+    "url": "https://nevacoffee.ru/catalog/coffee/sorta-s-gorchinkoy/dlya-geyzernoy-kofevarki/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "09bdfd81cd94",
+    "roaster": "neva",
+    "name": "Далат 250",
+    "url": "https://nevacoffee.ru/catalog/coffee/sorta-s-gorchinkoy/dlya-kapelnoy-kofevarki/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "225d7641c55d",
+    "roaster": "neva",
+    "name": "Далат 250",
+    "url": "https://nevacoffee.ru/catalog/coffee/sorta-s-gorchinkoy/dlya-french-pressa/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "d23d460ee0bc",
+    "roaster": "neva",
+    "name": "Далат 250",
+    "url": "https://nevacoffee.ru/catalog/coffee/sorta-s-gorchinkoy/ne-molot/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "475927c92657",
+    "roaster": "neva",
+    "name": "Далат 250",
+    "url": "https://nevacoffee.ru/catalog/coffee/sorta-s-gorchinkoy/vetnam/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "36c237ee0b4a",
+    "roaster": "neva",
+    "name": "Далат 250",
+    "url": "https://nevacoffee.ru/catalog/coffee/sorta-s-gorchinkoy/temnaya/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "7f947f1fc8c9",
+    "roaster": "neva",
+    "name": "Далат 250",
+    "url": "https://nevacoffee.ru/catalog/coffee/sorta-s-gorchinkoy/s-kofeinom/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "cca5ce365276",
+    "roaster": "neva",
+    "name": "Далат 250",
+    "url": "https://nevacoffee.ru/catalog/coffee/sorta-s-gorchinkoy/dlya-rozhkovoy-kofevarki/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "ac282bdb67e6",
+    "roaster": "neva",
+    "name": "Далат 250",
+    "url": "https://nevacoffee.ru/catalog/coffee/sorta-s-gorchinkoy/dlya-kofemashiny/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "c451672f18e6",
+    "roaster": "neva",
+    "name": "Далат 250",
+    "url": "https://nevacoffee.ru/catalog/coffee/sorta-s-gorchinkoy/s-dostavkoy-v-ofis/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "e32044643eb2",
+    "roaster": "neva",
+    "name": "Далат 250",
+    "url": "https://nevacoffee.ru/catalog/coffee/sorta-s-gorchinkoy/dlya-kofeen/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "ee7a5c65baaf",
+    "roaster": "neva",
+    "name": "Далат 250",
+    "url": "https://nevacoffee.ru/catalog/coffee/sorta-s-gorchinkoy/sredney-kreposti/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "344f7e03f010",
+    "roaster": "neva",
+    "name": "Колумбия Вуш Вуш",
+    "url": "https://nevacoffee.ru/catalog/coffee/filter-coffee/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "bcbe8a78fe1a",
+    "roaster": "neva",
+    "name": "Колумбия Вуш Вуш",
+    "url": "https://nevacoffee.ru/catalog/coffee/kolumbiya/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "99652b3cf723",
+    "roaster": "neva",
+    "name": "Колумбия Вуш Вуш",
+    "url": "https://nevacoffee.ru/catalog/coffee/yarkaya/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "ea08418eb891",
+    "roaster": "neva",
+    "name": "Колумбия Вуш Вуш",
+    "url": "https://nevacoffee.ru/catalog/coffee/naturalnaya-anaerobnaya-obrabotka/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "ede36936b5a6",
+    "roaster": "neva",
+    "name": "Колумбия Де Ла Тьеррита 250гр",
+    "url": "https://nevacoffee.ru/catalog/coffee/bez-kofeina/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "16786bb28209",
+    "roaster": "neva",
+    "name": "Кофе Гватемала Марагоджип",
+    "url": "https://nevacoffee.ru/catalog/coffee/guatemala-maragojip/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "228d8dcc974b",
+    "roaster": "neva",
+    "name": "Кофе Джи-Джига",
+    "url": "https://nevacoffee.ru/catalog/coffee/arabika/dzhi-dzhiga/",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "2fa2fc7f09b9",
+    "roaster": "neva",
+    "name": "Кофе Кения С",
+    "url": "https://nevacoffee.ru/catalog/coffee/kenya-c/",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "af052f41793e",
+    "roaster": "neva",
+    "name": "Кофе Колумбия Ла Богемия Геша (фильтр)",
+    "url": "https://nevacoffee.ru/catalog/coffee/kolumbiya-la-bogemiya-gesha-/",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "1cbd25f47ac7",
+    "roaster": "neva",
+    "name": "Кофе Колумбия Розовый Бурбон Мистер Смит (фильтр)",
+    "url": "https://nevacoffee.ru/catalog/coffee/colombia-pink-bourbon-mr-smith-filtr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "c84ae18bdb2c",
+    "roaster": "neva",
+    "name": "Кофе Ла Габана Бурбон Ахи (фильтр)",
+    "url": "https://nevacoffee.ru/catalog/coffee/colombia-la-gabana-bourbon-ahi-filtr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "e0719e187798",
+    "roaster": "neva",
+    "name": "Кофе Эфиопия Иргачефф",
+    "url": "https://nevacoffee.ru/catalog/coffee/ethiopia-yirgacheffe-gr-2/",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "34e4739cf6fe",
+    "roaster": "neva",
+    "name": "Кофе Эфиопия Иргачеффе Арича",
+    "url": "https://nevacoffee.ru/catalog/coffee/efiopiya-irgacheffe-aricha-gr-2/",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "f9e2d45ce486",
+    "roaster": "neva",
+    "name": "Мутетели 250 гр",
+    "url": "https://nevacoffee.ru/catalog/coffee/ruanda/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "0ca1b8a56068",
+    "roaster": "neva",
+    "name": "Симао Меллоу 250 гр",
+    "url": "https://nevacoffee.ru/catalog/coffee/kitay/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "5a1120849081",
+    "roaster": "neva",
+    "name": "Симао Меллоу 250 гр",
+    "url": "https://nevacoffee.ru/catalog/coffee/mytaya/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "a750dbb34adc",
+    "roaster": "neva",
+    "name": "Суль де Минас 250 гр.",
+    "url": "https://nevacoffee.ru/catalog/coffee/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "ee1ebe172c19",
+    "roaster": "neva",
+    "name": "Суль де Минас 250 гр.",
+    "url": "https://nevacoffee.ru/catalog/coffee/dlya-espresso/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "a2a83f656b60",
+    "roaster": "neva",
+    "name": "Суль де Минас 250 гр.",
+    "url": "https://nevacoffee.ru/catalog/coffee/dlya-kofemashiny/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "1b924f3e41f5",
+    "roaster": "neva",
+    "name": "Суль де Минас 250 гр.",
+    "url": "https://nevacoffee.ru/catalog/coffee/pod-moloko/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "68b2c8c43de4",
+    "roaster": "neva",
+    "name": "Суль де Минас 250 гр.",
+    "url": "https://nevacoffee.ru/catalog/coffee/molotyy-kofe/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "b25987ea7574",
+    "roaster": "neva",
+    "name": "Суль де Минас 250 гр.",
+    "url": "https://nevacoffee.ru/catalog/coffee/arabika/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "52f8055e6b8a",
+    "roaster": "neva",
+    "name": "Суль де Минас 250 гр.",
+    "url": "https://nevacoffee.ru/catalog/coffee/braziliya/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "bee2fd8a639c",
+    "roaster": "neva",
+    "name": "Суль де Минас 250 гр.",
+    "url": "https://nevacoffee.ru/catalog/coffee/s-kofeinom/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "2302ffff0add",
+    "roaster": "neva",
+    "name": "Суль де Минас 250 гр.",
+    "url": "https://nevacoffee.ru/catalog/coffee/srednyaya/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "d58beb430dc9",
+    "roaster": "neva",
+    "name": "Суль де Минас 250 гр.",
+    "url": "https://nevacoffee.ru/catalog/coffee/naturalnaya/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "edbd4d2d2115",
+    "roaster": "neva",
+    "name": "Уганда Сиронко",
+    "url": "https://nevacoffee.ru/catalog/coffee/uganda/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "416a7aa0eb71",
+    "roaster": "qq",
+    "name": "Кения Кириньяга",
+    "url": "https://qqcoffee.ru/products/keniya-kirinyaga",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "ed204553121d",
+    "roaster": "tasty",
+    "name": "Black Coffee",
+    "url": "https://shop.tastycoffee.ru/coffee/cold_coffee_black_java",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "385c63b1a5a6",
+    "roaster": "tasty",
+    "name": "COLOMBIA 2026",
+    "url": "https://shop.tastycoffee.ru/coffee",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "b45de70e183f",
+    "roaster": "tasty",
+    "name": "Cappuccino",
+    "url": "https://shop.tastycoffee.ru/coffee/cold_coffee_cappuccino",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "969784b9aae5",
+    "roaster": "tasty",
+    "name": "Cascara",
+    "url": "https://shop.tastycoffee.ru/coffee/cold_coffee_cascara",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "00cc5fb2e8b0",
+    "roaster": "tasty",
+    "name": "Christmas Blend 2017",
+    "url": "https://shop.tastycoffee.ru/coffee/christmas-blend-2017",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "fdf63fa56a5e",
+    "roaster": "tasty",
+    "name": "Christmas Blend 2018",
+    "url": "https://shop.tastycoffee.ru/coffee/christmas-blend-2018",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "2f23c5584cc0",
+    "roaster": "tasty",
+    "name": "Christmas Blend 2019",
+    "url": "https://shop.tastycoffee.ru/coffee/christmas-blend-2019",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "03c1090b11a2",
+    "roaster": "tasty",
+    "name": "Christmas Blend 2020",
+    "url": "https://shop.tastycoffee.ru/coffee/christmas-blend-2020",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "39e31daba018",
+    "roaster": "tasty",
+    "name": "Christmas Blend 2021",
+    "url": "https://shop.tastycoffee.ru/coffee/christmas-blend-2021",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "312684bb18c4",
+    "roaster": "tasty",
+    "name": "Christmas Blend 2022",
+    "url": "https://shop.tastycoffee.ru/coffee/christmas-blend-2022",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "43d41e7e4baf",
+    "roaster": "tasty",
+    "name": "Christmas Blend 2026",
+    "url": "https://shop.tastycoffee.ru/coffee/christmas-blend-2026",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "9ed947eb6050",
+    "roaster": "tasty",
+    "name": "Coffee Tonic",
+    "url": "https://shop.tastycoffee.ru/coffee/cold_coffee_tonic",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "5a010d0c89a2",
+    "roaster": "tasty",
+    "name": "Lavender Raf",
+    "url": "https://shop.tastycoffee.ru/coffee/cold_coffee_lavender_raf",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "6618b2465e10",
+    "roaster": "tasty",
+    "name": "Nitro Сoffee",
+    "url": "https://shop.tastycoffee.ru/coffee/cold_coffee_nitro",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "c056c501b99c",
+    "roaster": "tasty",
+    "name": "Австралия Скайбери",
+    "url": "https://shop.tastycoffee.ru/coffee/australia-skubury",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "90043a273bc9",
+    "roaster": "tasty",
+    "name": "Аром. кофе на основе Бразилии Суль-де-Минас",
+    "url": "https://shop.tastycoffee.ru/coffee/aroma-brazil-santos",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "be1fe200d211",
+    "roaster": "tasty",
+    "name": "Аром. кофе на основе Марагоджипа",
+    "url": "https://shop.tastycoffee.ru/coffee/aroma-maragogype",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "6535e279f249",
+    "roaster": "tasty",
+    "name": "Арома",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-aroma",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "29bf60ab87f6",
+    "roaster": "tasty",
+    "name": "Ароматизированный кофе на основе Марагоджипа Никарагуа",
+    "url": "https://shop.tastycoffee.ru/coffee/aroma-maragogype-nicaragua-superior",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "53145459f4ab",
+    "roaster": "tasty",
+    "name": "Ароматизированный кофе на основе Никарагуа Хинотега",
+    "url": "https://shop.tastycoffee.ru/coffee/aroma-nicaragua-shg-jinotega",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "b4df7c1f10a2",
+    "roaster": "tasty",
+    "name": "Боливия Катурра Эль Кусилло",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-yellow-caturra",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "71b5afa744b5",
+    "roaster": "tasty",
+    "name": "Боливия Экстра",
+    "url": "https://shop.tastycoffee.ru/coffee/bolivia-extra",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "1091274b85ce",
+    "roaster": "tasty",
+    "name": "Бразилия Айпи",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-acaia",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "79c595b72167",
+    "roaster": "tasty",
+    "name": "Бразилия Андре Гарсия",
+    "url": "https://shop.tastycoffee.ru/coffee/brazil-andre-garcia",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "91a577d51792",
+    "roaster": "tasty",
+    "name": "Бразилия Анима Верде",
+    "url": "https://shop.tastycoffee.ru/coffee/brazil-anima-verde",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "9fb23fc70ef8",
+    "roaster": "tasty",
+    "name": "Бразилия Боа Эсперанса",
+    "url": "https://shop.tastycoffee.ru/coffee/brazil-boa-esperanza",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "1f99383363a5",
+    "roaster": "tasty",
+    "name": "Бразилия Габриель Нунес",
+    "url": "https://shop.tastycoffee.ru/coffee/brazil-gabriel-nunes",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "e2aaf92bf632",
+    "roaster": "tasty",
+    "name": "Бразилия Габриель Нунес",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-brazil-gabriel-nunes",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "43a6acd43b51",
+    "roaster": "tasty",
+    "name": "Бразилия Да Лагоа",
+    "url": "https://shop.tastycoffee.ru/coffee/brazil-da-lagoa",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "a7a18741f964",
+    "roaster": "tasty",
+    "name": "Бразилия Да Рока",
+    "url": "https://shop.tastycoffee.ru/coffee/braziliya-da-roka",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "542440990146",
+    "roaster": "tasty",
+    "name": "Бразилия Желтый Бурбон",
+    "url": "https://shop.tastycoffee.ru/coffee/brazil-yellow-burbon",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "8b17e9f308b3",
+    "roaster": "tasty",
+    "name": "Бразилия Игл",
+    "url": "https://shop.tastycoffee.ru/coffee/braziliya-igl",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "379f581ce77d",
+    "roaster": "tasty",
+    "name": "Бразилия Инасиу Урбан",
+    "url": "https://shop.tastycoffee.ru/coffee/brazil-inaciu-urban",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "cd29d281cab0",
+    "roaster": "tasty",
+    "name": "Бразилия Ипанема Вайни",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-brazil-ipanema-vayni",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "2bbdd2ba6957",
+    "roaster": "tasty",
+    "name": "Бразилия Ипанема Дульче",
+    "url": "https://shop.tastycoffee.ru/coffee/brazil-ipanema-dulce",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "e0efc3b29fa9",
+    "roaster": "tasty",
+    "name": "Бразилия Исабелла Лима",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-topazio",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "89f80369e635",
+    "roaster": "tasty",
+    "name": "Бразилия Кампо дас Вертентес",
+    "url": "https://shop.tastycoffee.ru/coffee/brazil-campo-das-vertentes",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "003f06f12527",
+    "roaster": "tasty",
+    "name": "Бразилия Колибри",
+    "url": "https://shop.tastycoffee.ru/coffee/brazil-colibri",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "3d544c23b8f1",
+    "roaster": "tasty",
+    "name": "Бразилия Конгонас",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-paraiso",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "9d54b66e52a8",
+    "roaster": "tasty",
+    "name": "Бразилия Мария Накао",
+    "url": "https://shop.tastycoffee.ru/coffee/brazil-maria-nakao",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "544450f15841",
+    "roaster": "tasty",
+    "name": "Бразилия Маурисио Араюхо",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-obata",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "f81db3eeeed8",
+    "roaster": "tasty",
+    "name": "Бразилия Мауро Гальери",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-arara",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "d87d68309331",
+    "roaster": "tasty",
+    "name": "Бразилия Минейро",
+    "url": "https://shop.tastycoffee.ru/coffee/brazil-mineiro",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "9dbc37b007f5",
+    "roaster": "tasty",
+    "name": "Бразилия Можиана для эспрессо",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-brazil-santos",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "363727881410",
+    "roaster": "tasty",
+    "name": "Бразилия Монтанари",
+    "url": "https://shop.tastycoffee.ru/coffee/braziliya-montanari",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "bed4732d4dff",
+    "roaster": "tasty",
+    "name": "Бразилия Нова Орисонтина",
+    "url": "https://shop.tastycoffee.ru/coffee/brazil-nova-orysontina",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "1e3a89a1fd93",
+    "roaster": "tasty",
+    "name": "Бразилия Обата",
+    "url": "https://shop.tastycoffee.ru/coffee/brazil-obata",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "da6028e350e5",
+    "roaster": "tasty",
+    "name": "Бразилия Пантано",
+    "url": "https://shop.tastycoffee.ru/coffee/brazil-pantano",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "e97a3fc44f9f",
+    "roaster": "tasty",
+    "name": "Бразилия Параизо",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-brazil-paraiso",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "92a530e8afb5",
+    "roaster": "tasty",
+    "name": "Бразилия Рафаэль Виньял",
+    "url": "https://shop.tastycoffee.ru/coffee/brazil-rafael-vinhal",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "489712ef04ee",
+    "roaster": "tasty",
+    "name": "Бразилия Рио Верде",
+    "url": "https://shop.tastycoffee.ru/coffee/brazil-rio-verde",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "c12e4fc8b5db",
+    "roaster": "tasty",
+    "name": "Бразилия Рио Верде Вайн",
+    "url": "https://shop.tastycoffee.ru/coffee/brazil-rio-verde-wine",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "6e99899d2feb",
+    "roaster": "tasty",
+    "name": "Бразилия Рио Верде Фрути",
+    "url": "https://shop.tastycoffee.ru/coffee/brazil-rio-verde-fryti",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "12a02059f046",
+    "roaster": "tasty",
+    "name": "Бразилия Руби",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-brazil-ipanema-rubi",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "4c3b6606eec1",
+    "roaster": "tasty",
+    "name": "Бразилия Руме Судан Гидро Хани",
+    "url": "https://shop.tastycoffee.ru/coffee/brazil-rume-sudan-gidro-hani",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "30fe9a8a7ed8",
+    "roaster": "tasty",
+    "name": "Бразилия Санта Изабель",
+    "url": "https://shop.tastycoffee.ru/coffee/brazil-santa-isabel",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "1a01a1b1f2ec",
+    "roaster": "tasty",
+    "name": "Бразилия Санта Инес",
+    "url": "https://shop.tastycoffee.ru/coffee/braziliya-santa-ines",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "03dcdacd41c5",
+    "roaster": "tasty",
+    "name": "Бразилия Санта Люсия",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-icatu",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "22a540777d1d",
+    "roaster": "tasty",
+    "name": "Бразилия Санта Моника",
+    "url": "https://shop.tastycoffee.ru/coffee/brazil-santa-monica",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "763d7e992953",
+    "roaster": "tasty",
+    "name": "Бразилия Санта Моника",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-brazil-santa-monica",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "fd1ad38d3ca7",
+    "roaster": "tasty",
+    "name": "Бразилия Сантуарио Сул",
+    "url": "https://shop.tastycoffee.ru/coffee/brazil-santuario-sul",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "eb87c942780d",
+    "roaster": "tasty",
+    "name": "Бразилия Сантуарио Сул Иргачефф",
+    "url": "https://shop.tastycoffee.ru/coffee/brazil-santuario-sul-yirgacheffe",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "d9b661609fec",
+    "roaster": "tasty",
+    "name": "Бразилия Сеньорас",
+    "url": "https://shop.tastycoffee.ru/coffee/brazil-senhoras",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "4416ce71a797",
+    "roaster": "tasty",
+    "name": "Бразилия Серра ду Кабраль",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-catucai",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "82ab304b8505",
+    "roaster": "tasty",
+    "name": "Бразилия Серра ду Кабраль",
+    "url": "https://shop.tastycoffee.ru/coffee/brazil-serra-do-cabral",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "6043a2485efe",
+    "roaster": "tasty",
+    "name": "Бразилия Серра ду Кабраль",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-brazil-serra-do-cabral",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "b4cf95264791",
+    "roaster": "tasty",
+    "name": "Бразилия Серрадо",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-coffee",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "abdf859459d0",
+    "roaster": "tasty",
+    "name": "Бразилия Сильва",
+    "url": "https://shop.tastycoffee.ru/coffee/brazil-silva",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "d4dd2dfe24f2",
+    "roaster": "tasty",
+    "name": "Бразилия Ситио Канаа",
+    "url": "https://shop.tastycoffee.ru/coffee/brazil-sitio-canaa",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "9593548ec580",
+    "roaster": "tasty",
+    "name": "Бразилия Уолтер Херингер",
+    "url": "https://shop.tastycoffee.ru/coffee/braziliya-uolter-kheringer",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "0f1a1f561a52",
+    "roaster": "tasty",
+    "name": "Бразилия Фазенда Монтанари",
+    "url": "https://shop.tastycoffee.ru/coffee/brazil-fazenda-montanari",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "8e79e6ca91a7",
+    "roaster": "tasty",
+    "name": "Бразилия Фазенда Монтанари",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-brazil-fazenda-montanari",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "2a6ece45195c",
+    "roaster": "tasty",
+    "name": "Бразилия Фрейтас",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-mundo-novo",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "39199fe7aa80",
+    "roaster": "tasty",
+    "name": "Бразилия Эдуардо Коста",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-yellow-catuai",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "169fae97af74",
+    "roaster": "tasty",
+    "name": "Бразилия Эдуардо Пинейро",
+    "url": "https://shop.tastycoffee.ru/coffee/brazil-eduardo-pineiro",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "e2ad97333dd9",
+    "roaster": "tasty",
+    "name": "Бразилия Эльдорадо",
+    "url": "https://shop.tastycoffee.ru/coffee/brazil-eldorado",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "3ff7a4e5eefb",
+    "roaster": "tasty",
+    "name": "Бразилия Эрика Урбан",
+    "url": "https://shop.tastycoffee.ru/coffee/brazil-erika-urban",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "5e7b82c559fb",
+    "roaster": "tasty",
+    "name": "Бразилия Эрон де Карвальо",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-red-catuai",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "f9535f9bb8bd",
+    "roaster": "tasty",
+    "name": "Бразилия Эрон де Карвальо",
+    "url": "https://shop.tastycoffee.ru/coffee/brazil-heron-de-carvalho",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "4edc739b217a",
+    "roaster": "tasty",
+    "name": "Браун Кэнди",
+    "url": "https://shop.tastycoffee.ru/coffee/brown-candy",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "da0f78480953",
+    "roaster": "tasty",
+    "name": "Брейкфаст Бленд",
+    "url": "https://shop.tastycoffee.ru/coffee/breakfast-blend",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "d760fffba001",
+    "roaster": "tasty",
+    "name": "Бурунди Бусинде Нат",
+    "url": "https://shop.tastycoffee.ru/coffee/burundi-businde-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "b79e9cd69bd4",
+    "roaster": "tasty",
+    "name": "Бурунди Бусинде Нат",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-burundi-businde-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "c721677e6418",
+    "roaster": "tasty",
+    "name": "Бурунди Гакенке",
+    "url": "https://shop.tastycoffee.ru/coffee/burundi-gakenke",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "40fb77cda404",
+    "roaster": "tasty",
+    "name": "Бурунди Гатукуза",
+    "url": "https://shop.tastycoffee.ru/coffee/burundi-gatukuza",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "4ea663c128e8",
+    "roaster": "tasty",
+    "name": "Бурунди Нгози",
+    "url": "https://shop.tastycoffee.ru/coffee/burundi-ngozi",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "39332ce39fb4",
+    "roaster": "tasty",
+    "name": "Бурунди Ругембе",
+    "url": "https://shop.tastycoffee.ru/coffee/burundi-rugembe",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "e5ace4c2c394",
+    "roaster": "tasty",
+    "name": "Бурунди Ругори",
+    "url": "https://shop.tastycoffee.ru/coffee/burundi-rugori",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "bbbf49285c93",
+    "roaster": "tasty",
+    "name": "Бурунди Яндаро",
+    "url": "https://shop.tastycoffee.ru/coffee/burundi-yandaro",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "55e5e766314a",
+    "roaster": "tasty",
+    "name": "Бурунди Ярама",
+    "url": "https://shop.tastycoffee.ru/coffee/burundi-yarama",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "f37bd9075a85",
+    "roaster": "tasty",
+    "name": "Вендинг",
+    "url": "https://shop.tastycoffee.ru/coffee/coffee-vending",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "8e50c0e9acb0",
+    "roaster": "tasty",
+    "name": "Венская обжарка",
+    "url": "https://shop.tastycoffee.ru/coffee/viennese-roast-250g",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "a839aaeb2e7b",
+    "roaster": "tasty",
+    "name": "Верона",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-verona",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "5dfda13f59e9",
+    "roaster": "tasty",
+    "name": "Вьетнам Тай Нгуен",
+    "url": "https://shop.tastycoffee.ru/coffee/vietnam-tai-nguen",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "1fa305da9e87",
+    "roaster": "tasty",
+    "name": "Галапагос Сан Кристобаль",
+    "url": "https://shop.tastycoffee.ru/coffee/galapagos-san-cristobal",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "4569a17031f9",
+    "roaster": "tasty",
+    "name": "Гватемала Акатенанго",
+    "url": "https://shop.tastycoffee.ru/coffee/guatemala-acatenango",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "d622d4f7239a",
+    "roaster": "tasty",
+    "name": "Гватемала Антигуа",
+    "url": "https://shop.tastycoffee.ru/coffee/guatemala-antigua",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "7de392f8bfd2",
+    "roaster": "tasty",
+    "name": "Гватемала Барранкас",
+    "url": "https://shop.tastycoffee.ru/coffee/guatemala-barrancas",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "51063214c75f",
+    "roaster": "tasty",
+    "name": "Гватемала Белла Виста",
+    "url": "https://shop.tastycoffee.ru/coffee/guatemala-bella-vista",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "8eb3f3c9759e",
+    "roaster": "tasty",
+    "name": "Гватемала Блу Айярза",
+    "url": "https://shop.tastycoffee.ru/coffee/guatemala-blu-ayarza-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "ca9be9ddb286",
+    "roaster": "tasty",
+    "name": "Гватемала Блу Айярза",
+    "url": "https://shop.tastycoffee.ru/coffee/guatemala-blue-ayarza",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "decb7521bcf9",
+    "roaster": "tasty",
+    "name": "Гватемала Блу Айярза Карбоник",
+    "url": "https://shop.tastycoffee.ru/coffee/guatemala-blue-ayarza-carbonic",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "b97e7b8287c1",
+    "roaster": "tasty",
+    "name": "Гватемала Гейша Финка Медина",
+    "url": "https://shop.tastycoffee.ru/coffee/guatemala-geisha-finka-medina",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "4f3fe1d15b08",
+    "roaster": "tasty",
+    "name": "Гватемала Исауро Соларес",
+    "url": "https://shop.tastycoffee.ru/coffee/guatemala-isauro-solares",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "d8c706815fca",
+    "roaster": "tasty",
+    "name": "Гватемала Куксиналес",
+    "url": "https://shop.tastycoffee.ru/coffee/guatemala-kuksinales",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "b17706f18e57",
+    "roaster": "tasty",
+    "name": "Гватемала Ла Лома",
+    "url": "https://shop.tastycoffee.ru/coffee/guatemala-la-loma",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "c716467bc8e5",
+    "roaster": "tasty",
+    "name": "Гватемала Ла Мерсед",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-guatemala-la-merced",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "75aa0fd86170",
+    "roaster": "tasty",
+    "name": "Гватемала Ла Мерсед",
+    "url": "https://shop.tastycoffee.ru/coffee/guatemala-la-merced",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "935cae4a24f2",
+    "roaster": "tasty",
+    "name": "Гватемала Лас Делисиас",
+    "url": "https://shop.tastycoffee.ru/coffee/guatemala-las-delicias",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "7c8daae8ee47",
+    "roaster": "tasty",
+    "name": "Гватемала Медина Хани",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-guatemala-medina-hani",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "e55a4942b745",
+    "roaster": "tasty",
+    "name": "Гватемала Пакамара Куксиналес",
+    "url": "https://shop.tastycoffee.ru/coffee/guatemala-pacamara-cuxinales",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "760100af2b27",
+    "roaster": "tasty",
+    "name": "Гватемала Пьедра Анча",
+    "url": "https://shop.tastycoffee.ru/coffee/guatemala-pedra-ancha",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "83f1e6498c1b",
+    "roaster": "tasty",
+    "name": "Гватемала Санта Роза",
+    "url": "https://shop.tastycoffee.ru/coffee/guatemala-santa-roza",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "6952301ec87c",
+    "roaster": "tasty",
+    "name": "Гватемала Финка Ла Перла",
+    "url": "https://shop.tastycoffee.ru/coffee/guatemala-finca-la-perla",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "eb47d77faf88",
+    "roaster": "tasty",
+    "name": "Гватемала Финка Медина",
+    "url": "https://shop.tastycoffee.ru/coffee/guatemala-finka-medina",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "0453cf84c1a6",
+    "roaster": "tasty",
+    "name": "Гватемала Флор Дель Розарио",
+    "url": "https://shop.tastycoffee.ru/coffee/guatemala-flor-del-rosario",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "b97cee005aeb",
+    "roaster": "tasty",
+    "name": "Гватемала Фуэго",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-bourbon",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "8c0fe9f46173",
+    "roaster": "tasty",
+    "name": "Гватемала Фуэго",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-caturra",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "b5f0ed9b62e0",
+    "roaster": "tasty",
+    "name": "Гватемала Фэнси",
+    "url": "https://shop.tastycoffee.ru/coffee/guatemala-fancy",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "594747d00124",
+    "roaster": "tasty",
+    "name": "Гватемала Эль Морито",
+    "url": "https://shop.tastycoffee.ru/coffee/guatemala-el-morito",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "9faafc4f7723",
+    "roaster": "tasty",
+    "name": "Гватемала Эль Сокорро",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-maracaturra",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "d12e3582d8c5",
+    "roaster": "tasty",
+    "name": "Гватемала Эль Сокорро",
+    "url": "https://shop.tastycoffee.ru/coffee/guatemala-el-socorro2",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "669927edce50",
+    "roaster": "tasty",
+    "name": "Гватемала Эль Сокорро",
+    "url": "https://shop.tastycoffee.ru/coffee/guatemala-el-socorro",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "b0b11ca266ed",
+    "roaster": "tasty",
+    "name": "Гватемала Юнион Кантинил",
+    "url": "https://shop.tastycoffee.ru/coffee/guatemala-union-cantinil",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "c78fbb198fab",
+    "roaster": "tasty",
+    "name": "Гватемала Юнион Кантинил",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-guatemala-union-cantinil",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "dc6427b80fcc",
+    "roaster": "tasty",
+    "name": "Гондурас Данни Морело",
+    "url": "https://shop.tastycoffee.ru/coffee/gonduras-danny-morelo",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "5548d6fdae43",
+    "roaster": "tasty",
+    "name": "Гондурас Данни Морено",
+    "url": "https://shop.tastycoffee.ru/coffee/gonduras-danny-moreno",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "0d96bc2003c6",
+    "roaster": "tasty",
+    "name": "Гондурас Ла Педро",
+    "url": "https://shop.tastycoffee.ru/coffee/honduras-la-pedro",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "e9a4cf708436",
+    "roaster": "tasty",
+    "name": "Гондурас Лас Ломас Нат",
+    "url": "https://shop.tastycoffee.ru/coffee/honduras-las-lomas-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "2d4a66b8e0c5",
+    "roaster": "tasty",
+    "name": "Гондурас Сан Маркос",
+    "url": "https://shop.tastycoffee.ru/coffee/honduras-san-marcos",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "15b793b168f4",
+    "roaster": "tasty",
+    "name": "Гондурас Санта Клара Нат",
+    "url": "https://shop.tastycoffee.ru/coffee/honduras-santa-klara-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "a35b4b807d5e",
+    "roaster": "tasty",
+    "name": "Гондурас Хосе Мартинес",
+    "url": "https://shop.tastycoffee.ru/coffee/honduras-jose-martinez",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "850872d4c9f2",
+    "roaster": "tasty",
+    "name": "Гондурас Эль Кампо",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-honduras-el-campo",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "87ff3a1a3f8c",
+    "roaster": "tasty",
+    "name": "Гурме",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-gourmet",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "7605c2d06f3e",
+    "roaster": "tasty",
+    "name": "Доминикана Барахона",
+    "url": "https://shop.tastycoffee.ru/coffee/dominicana-barahona-aa",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "5b60b816e0b8",
+    "roaster": "tasty",
+    "name": "Замбия АА",
+    "url": "https://shop.tastycoffee.ru/coffee/zambia-aa-plus-lupili",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "9e23105aa4e1",
+    "roaster": "tasty",
+    "name": "Замбия Нсунзу",
+    "url": "https://shop.tastycoffee.ru/coffee/zambia-nsunzu-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "f15e5667b88b",
+    "roaster": "tasty",
+    "name": "Индия Муссон",
+    "url": "https://shop.tastycoffee.ru/coffee/india-monsooned-malabar",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "3ffbfc481df3",
+    "roaster": "tasty",
+    "name": "Индия Плантейшн АА",
+    "url": "https://shop.tastycoffee.ru/coffee/india-plantation-aa",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "9a2d20c7736c",
+    "roaster": "tasty",
+    "name": "Индонезия Ачех выдержанный, урожая 2005 г.",
+    "url": "https://shop.tastycoffee.ru/coffee/indonesia-acheh",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "0c3dabe20ac7",
+    "roaster": "tasty",
+    "name": "Индонезия Копи Лювак",
+    "url": "https://shop.tastycoffee.ru/coffee/indonesia-kopi-luwak",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "d284fc550ef0",
+    "roaster": "tasty",
+    "name": "Индонезия Лини Ява Фринса",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-lini",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "4a4977ac5920",
+    "roaster": "tasty",
+    "name": "Индонезия Суматра Блю Батак",
+    "url": "https://shop.tastycoffee.ru/coffee/indonesia-sumatra-blue-batak",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "c22a4ea4ff16",
+    "roaster": "tasty",
+    "name": "Индонезия Суматра Гайо",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-typica",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "af335cf26913",
+    "roaster": "tasty",
+    "name": "Индонезия Суматра Гайо",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-catimor",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "728bde98571c",
+    "roaster": "tasty",
+    "name": "Индонезия Суматра Жасмин Каро",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-sigarar-utang",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "b0991bb63845",
+    "roaster": "tasty",
+    "name": "Индонезия Ява Атик",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-indonesia-atik-java",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "3954218bfa0d",
+    "roaster": "tasty",
+    "name": "Индонезия Ява Фринса Анаэробный",
+    "url": "https://shop.tastycoffee.ru/coffee/indonesia-frinsa-anaerobic",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "291b790b416e",
+    "roaster": "tasty",
+    "name": "Индонезия Ява Фринса Манис",
+    "url": "https://shop.tastycoffee.ru/coffee/indonesia-java-frinsa-manis",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "06500c198430",
+    "roaster": "tasty",
+    "name": "Индонезия Ява Фринса Эдун",
+    "url": "https://shop.tastycoffee.ru/coffee/indonesia-frinsa-edun-java",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "cb2fa4ce0933",
+    "roaster": "tasty",
+    "name": "Итальянская обжарка",
+    "url": "https://shop.tastycoffee.ru/coffee/italian-roast-250g",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "a68c4c4fd8a7",
+    "roaster": "tasty",
+    "name": "Йемен Аль Джабери",
+    "url": "https://shop.tastycoffee.ru/coffee/yemen-al-jaberi",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "e9bec197f491",
+    "roaster": "tasty",
+    "name": "Йемен Аль Махжар",
+    "url": "https://shop.tastycoffee.ru/coffee/yemen-al-mahjar",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "2bc3d405c24b",
+    "roaster": "tasty",
+    "name": "Йемен Матари",
+    "url": "https://shop.tastycoffee.ru/coffee/yemen-matari",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "db22f1ae95a2",
+    "roaster": "tasty",
+    "name": "Йемен Хайма Анаэробный",
+    "url": "https://shop.tastycoffee.ru/coffee/yemen-khaimah-anaerobic",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "c130b1012a03",
+    "roaster": "tasty",
+    "name": "Йемен Хайма Анаэробный",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-udaini",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "84b2d899ea28",
+    "roaster": "tasty",
+    "name": "Йемен Хараз",
+    "url": "https://shop.tastycoffee.ru/coffee/yemen-haraz",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "fb2e7061de8a",
+    "roaster": "tasty",
+    "name": "Йемен Хараз Анаэробный",
+    "url": "https://shop.tastycoffee.ru/coffee/yemen-haraz-anaerobic",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "87ddd03561ae",
+    "roaster": "tasty",
+    "name": "Камерун Бойо Алонгси",
+    "url": "https://shop.tastycoffee.ru/coffee/cameroon-boyo-alongsi",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "6d964e0c2059",
+    "roaster": "tasty",
+    "name": "Кения АА",
+    "url": "https://shop.tastycoffee.ru/coffee/kenya-aa",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "ba33d3280eee",
+    "roaster": "tasty",
+    "name": "Кения АА Барагви Каруманди",
+    "url": "https://shop.tastycoffee.ru/coffee/kenya-aa-baragwi-karumandi",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "a159964cf25e",
+    "roaster": "tasty",
+    "name": "Кения АА Баричу",
+    "url": "https://shop.tastycoffee.ru/coffee/kenya-aa-barichu",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "3a20a5409c1a",
+    "roaster": "tasty",
+    "name": "Кения АА Гатина",
+    "url": "https://shop.tastycoffee.ru/coffee/keniya-aa-gatina",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "b42770bad3ef",
+    "roaster": "tasty",
+    "name": "Кения АА Карани",
+    "url": "https://shop.tastycoffee.ru/coffee/kenya-aa-karani",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "358c42bda555",
+    "roaster": "tasty",
+    "name": "Кения АА Кии",
+    "url": "https://shop.tastycoffee.ru/coffee/kenya-aa-kii",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "d6792253b66e",
+    "roaster": "tasty",
+    "name": "Кения АА Мутека Мутуаини",
+    "url": "https://shop.tastycoffee.ru/coffee/kenya-aa-mutheka-muthuaini",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "7c2f900abf15",
+    "roaster": "tasty",
+    "name": "Кения АА Нгарьяма",
+    "url": "https://shop.tastycoffee.ru/coffee/kenya-aa-ngariama",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "a1d797204cb2",
+    "roaster": "tasty",
+    "name": "Кения АА Самбуру",
+    "url": "https://shop.tastycoffee.ru/coffee/kenya-aa-samburu",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "9cfb3c2b1f8e",
+    "roaster": "tasty",
+    "name": "Кения АА Хайлендс Нат",
+    "url": "https://shop.tastycoffee.ru/coffee/kenya-aa-highlands-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "fa6485106cb1",
+    "roaster": "tasty",
+    "name": "Кения АБ",
+    "url": "https://shop.tastycoffee.ru/coffee/kenya-ab",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "abbb9f90a398",
+    "roaster": "tasty",
+    "name": "Кения АБ Гичатаини",
+    "url": "https://shop.tastycoffee.ru/coffee/kenya-ab-gichathaini",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "c32e62f92a97",
+    "roaster": "tasty",
+    "name": "Кения АБ Камоко",
+    "url": "https://shop.tastycoffee.ru/coffee/kenya-ab-kamoko",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "5cc591f31c50",
+    "roaster": "tasty",
+    "name": "Кения Барагви Гачами",
+    "url": "https://shop.tastycoffee.ru/coffee/kenya_baragvi_gachami",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "1b38a42eee4c",
+    "roaster": "tasty",
+    "name": "Кения Гатаити",
+    "url": "https://shop.tastycoffee.ru/coffee/kenya-gataiti",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "4b74df9535e2",
+    "roaster": "tasty",
+    "name": "Кения Иригуини",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-ruiru-11",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "3f730910d2be",
+    "roaster": "tasty",
+    "name": "Кения Иригуини",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-batian",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "e6cb7d892613",
+    "roaster": "tasty",
+    "name": "Кения Кагонго",
+    "url": "https://shop.tastycoffee.ru/coffee/kenya-kagongo",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "9cb69a3a5a07",
+    "roaster": "tasty",
+    "name": "Кения Киамара",
+    "url": "https://shop.tastycoffee.ru/coffee/kenya-kiamara",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "6e87ee20280b",
+    "roaster": "tasty",
+    "name": "Кения Кириняга",
+    "url": "https://shop.tastycoffee.ru/coffee/kenya_kirinyaga",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "d547be45022b",
+    "roaster": "tasty",
+    "name": "Кения Маунт",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-sl28",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "724802270dd5",
+    "roaster": "tasty",
+    "name": "Кения Маунт",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-sl34",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "efda049ac80c",
+    "roaster": "tasty",
+    "name": "Кения Муруе Кавутири",
+    "url": "https://shop.tastycoffee.ru/coffee/kenya-murue-kavytiri",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "60509dbe2632",
+    "roaster": "tasty",
+    "name": "Кения Мчана",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-k7",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "ea94dff31d14",
+    "roaster": "tasty",
+    "name": "Кения ПБ Йего",
+    "url": "https://shop.tastycoffee.ru/coffee/kenya-pb-iego",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "daede7d656db",
+    "roaster": "tasty",
+    "name": "Кения Риакиберу Пиберри",
+    "url": "https://shop.tastycoffee.ru/coffee/kenya-riakiberu-peaberry",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "aca674a7de2b",
+    "roaster": "tasty",
+    "name": "Кения Руера",
+    "url": "https://shop.tastycoffee.ru/coffee/kenya-ruera",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "2a17d02ef03d",
+    "roaster": "tasty",
+    "name": "Кения Рукира",
+    "url": "https://shop.tastycoffee.ru/coffee/kenya-rukira",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "11800d815a4a",
+    "roaster": "tasty",
+    "name": "Кения Рунгето Каримикуй",
+    "url": "https://shop.tastycoffee.ru/coffee/kenya_rungeto_karimikuy",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "514943db7ce2",
+    "roaster": "tasty",
+    "name": "Кения Хайлендс Нат",
+    "url": "https://shop.tastycoffee.ru/coffee/kenya-highlands-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "0ee9257de0f5",
+    "roaster": "tasty",
+    "name": "Китай Женг Ян Пин",
+    "url": "https://shop.tastycoffee.ru/coffee/china-jeng-yan-pin",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "cc44492884a1",
+    "roaster": "tasty",
+    "name": "Китай Юннань АА",
+    "url": "https://shop.tastycoffee.ru/coffee/china-yunnan-aa",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "dcd4b93a1d56",
+    "roaster": "tasty",
+    "name": "Классик (30% Робуста)",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-classic",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "422663b90b96",
+    "roaster": "tasty",
+    "name": "Колумбия Анжело Соса",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-tabi",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "3196341bb074",
+    "roaster": "tasty",
+    "name": "Колумбия Апонте",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-colombia-aponte-2026",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "61e926c3eae2",
+    "roaster": "tasty",
+    "name": "Колумбия Ахи Эль Дивизо",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-aji",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "47373062dc09",
+    "roaster": "tasty",
+    "name": "Колумбия Весинос",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-colombia-vesinos",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "9026334ad4fa",
+    "roaster": "tasty",
+    "name": "Колумбия Весинос Фанки",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-vesinos-funky",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "3f2bd8756d6d",
+    "roaster": "tasty",
+    "name": "Колумбия Вилламария Нат",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-villamaria-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "466bddce3ebb",
+    "roaster": "tasty",
+    "name": "Колумбия Виноград Кристиан Франко",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-yellow-bourbon",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "e4b576d179cd",
+    "roaster": "tasty",
+    "name": "Колумбия Вуш Вуш Эль Зафиро",
+    "url": "https://shop.tastycoffee.ru/coffee/kolumbiya-vush-vush-el-zafiro",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "259230e2a42b",
+    "roaster": "tasty",
+    "name": "Колумбия Вуш-вуш Вилла Бетулия",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-wush-wush",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "71dd15787a9e",
+    "roaster": "tasty",
+    "name": "Колумбия Гейша Вилла Бетулия",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-yellow-geisha",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "feb1ba3520a9",
+    "roaster": "tasty",
+    "name": "Колумбия Гейша Гато Пардо",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-geisha-gato-pardo",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "cae9323c8532",
+    "roaster": "tasty",
+    "name": "Колумбия Гейша Гутьеррес",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-gesha-gutierrez",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "1ea7e0b12df3",
+    "roaster": "tasty",
+    "name": "Колумбия Гейша Ла Кабана",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-geisha-la-cabana",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "b722620d1585",
+    "roaster": "tasty",
+    "name": "Колумбия Гейша Ла Негрита",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-gesha-la-negrita",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "eafa8baa4552",
+    "roaster": "tasty",
+    "name": "Колумбия Гейша Манантиалес",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-geisha-manantiales",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "cb4ccbabfe83",
+    "roaster": "tasty",
+    "name": "Колумбия Гейша Монтеверде",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-geisha",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "d22bbdc5ed59",
+    "roaster": "tasty",
+    "name": "Колумбия Гейша Монтеверде",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-geisha-monteverde",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "c88e66268158",
+    "roaster": "tasty",
+    "name": "Колумбия Гейша Финка Инмакулада",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-geisha-finca-inmaculada",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "56e1ac400b44",
+    "roaster": "tasty",
+    "name": "Колумбия Гейша Хардинес Дель Эден",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-geisha-jardines-del-eden-2025",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "88e1a9ca5adf",
+    "roaster": "tasty",
+    "name": "Колумбия Гейша Эль Робле",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-gesha-el-roble",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "4a3d804e96d7",
+    "roaster": "tasty",
+    "name": "Колумбия Данило Перес",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-danilo-peres",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "43f273000d7e",
+    "roaster": "tasty",
+    "name": "Колумбия Де Лас Эрмосас",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-de-las-ermosas",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "15f6b521cbda",
+    "roaster": "tasty",
+    "name": "Колумбия Декаф",
+    "url": "https://shop.tastycoffee.ru/coffee/novye-loty-2025",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "4b116a3e0103",
+    "roaster": "tasty",
+    "name": "Колумбия Дулима",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-dulima",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "4616b5d91d7d",
+    "roaster": "tasty",
+    "name": "Колумбия Инза",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-colombia-inza-2026",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "f4186708c148",
+    "roaster": "tasty",
+    "name": "Колумбия Катуррон Вилла Бетулия",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-caturron",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "a4f6110b8aeb",
+    "roaster": "tasty",
+    "name": "Колумбия Консака",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-colombia",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "75c2087d54e9",
+    "roaster": "tasty",
+    "name": "Колумбия Ла Армения",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-la-armenia",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "1a993242cda9",
+    "roaster": "tasty",
+    "name": "Колумбия Ла Вирхиния",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-la-virginia",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "34011eec8785",
+    "roaster": "tasty",
+    "name": "Колумбия Ла Кабана",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-la-cabana-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "f34e43d21927",
+    "roaster": "tasty",
+    "name": "Колумбия Ла Кабана",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-la-cabana",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "f7c75b85ebe0",
+    "roaster": "tasty",
+    "name": "Колумбия Ла Луиза",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-la-luisa",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "431cecf00724",
+    "roaster": "tasty",
+    "name": "Колумбия Ла Мануэла",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-la-manuella",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "3b44bad3ada4",
+    "roaster": "tasty",
+    "name": "Колумбия Ла Прадера",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-la-pradera",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "5848562f74bf",
+    "roaster": "tasty",
+    "name": "Колумбия Ла Флорида",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-la-florida",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "b54dbe702491",
+    "roaster": "tasty",
+    "name": "Колумбия Ла Фрагуа",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-la-fragua-2018",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "3f2ba9ef5789",
+    "roaster": "tasty",
+    "name": "Колумбия Ла Фрагуа",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-la-fragua",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "169be595062f",
+    "roaster": "tasty",
+    "name": "Колумбия Ла Фрагуа Нат",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-la-fragua-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "c8bcec7b996a",
+    "roaster": "tasty",
+    "name": "Колумбия Ла Фрагуа Таби",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-la-fragua-tabi",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "898b35ee6f04",
+    "roaster": "tasty",
+    "name": "Колумбия Ла-Хойерия",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-la-hoyeria",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "8f3ab32ced62",
+    "roaster": "tasty",
+    "name": "Колумбия Лас Флорес",
+    "url": "https://shop.tastycoffee.ru/coffee/columbia-las-flores",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "eb2065c12f81",
+    "roaster": "tasty",
+    "name": "Колумбия Лаурина Ла Негрита",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-laurina",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "7e4376f96ba8",
+    "roaster": "tasty",
+    "name": "Колумбия Лаурина Ла Негрита",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-laurina-la-negrita",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "8fe9342bdbd6",
+    "roaster": "tasty",
+    "name": "Колумбия Леонид Рамирес",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-leonid-ramires",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "998f0ea59a53",
+    "roaster": "tasty",
+    "name": "Колумбия Луис Калдерон",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-primitivo",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "8eb4ba1901a4",
+    "roaster": "tasty",
+    "name": "Колумбия Луис Калдерон",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-orange-bourbon",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "5d43dad3faa0",
+    "roaster": "tasty",
+    "name": "Колумбия Марагейша Вилла Бетулия",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-maragesha",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "fdd9310d3bb9",
+    "roaster": "tasty",
+    "name": "Колумбия Маракуйя Фелипе Арчила",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-passion-fruit-felipe-archila",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "b87fa700c523",
+    "roaster": "tasty",
+    "name": "Колумбия Мария Контрерас",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-maria-contreras",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "3ea4be6427ce",
+    "roaster": "tasty",
+    "name": "Колумбия Монте Верде Нат",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-monte-verde-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "ac843370cb11",
+    "roaster": "tasty",
+    "name": "Колумбия Нариньо",
+    "url": "https://shop.tastycoffee.ru/coffee/columbia-narino",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "5fa05056d170",
+    "roaster": "tasty",
+    "name": "Колумбия Нариньо Ла Мора",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-narino-la-mora",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "d3d3939f37e7",
+    "roaster": "tasty",
+    "name": "Колумбия Норбей Кимбайо",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-pink-bourbon",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "a0865733e1d0",
+    "roaster": "tasty",
+    "name": "Колумбия Норбей Санчез",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-norbey-sanchez",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "007a189147bf",
+    "roaster": "tasty",
+    "name": "Колумбия Омблигон Нестор Лассо",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-ombligon",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "74a188303529",
+    "roaster": "tasty",
+    "name": "Колумбия Пакамара Лас-Брисас",
+    "url": "https://shop.tastycoffee.ru/coffee/limited-edition",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "f9431fbaf886",
+    "roaster": "tasty",
+    "name": "Колумбия Пакамара Лас-Брисас",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-pacamara",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "b6f235178e73",
+    "roaster": "tasty",
+    "name": "Колумбия Папайо Вилла Бетулия",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-papayo",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "b162459236d0",
+    "roaster": "tasty",
+    "name": "Колумбия Перпл Ла Мария",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-purple-bourbon",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "2e862096768f",
+    "roaster": "tasty",
+    "name": "Колумбия Робинсон Фигероа",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-robinson-phigeroa",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "eb07196c235f",
+    "roaster": "tasty",
+    "name": "Колумбия Руме Судан Фелипе Арчила",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-sudan-rume",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "8339c7da7738",
+    "roaster": "tasty",
+    "name": "Колумбия Сан Паскуаль Нат",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-san-pasqual-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "a71137ef832b",
+    "roaster": "tasty",
+    "name": "Колумбия Санта Моника",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-santa-monica",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "ca9e798e3112",
+    "roaster": "tasty",
+    "name": "Колумбия Сантуарио",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-colombia-santuario",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "6313f60a6f85",
+    "roaster": "tasty",
+    "name": "Колумбия Сантьяго Лондоньо",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia_santiago_londono",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "baf425bcdc6d",
+    "roaster": "tasty",
+    "name": "Колумбия Сидра Кампо Эрмосо",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-sidra-campo-hermoso",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "5c7811ae693a",
+    "roaster": "tasty",
+    "name": "Колумбия Сидра Лас-Флорес",
+    "url": "https://shop.tastycoffee.ru/coffee/novye-loty-2026",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "a29cc3e13414",
+    "roaster": "tasty",
+    "name": "Колумбия Сидра Лас-Флорес",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-sidra",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "3c9fabc68a73",
+    "roaster": "tasty",
+    "name": "Колумбия Сьюпремо",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia_supremo",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "b213d1d088f8",
+    "roaster": "tasty",
+    "name": "Колумбия Сьюпремо",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-supremo-antioquia",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "0d15f2b23e58",
+    "roaster": "tasty",
+    "name": "Колумбия Уила Альтамира",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-huila-altamira",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "cd8fdfbff26c",
+    "roaster": "tasty",
+    "name": "Колумбия Финка Веракрус",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-finca-veracruz",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "cd2d6b56cc80",
+    "roaster": "tasty",
+    "name": "Колумбия Финка Тамана Нат",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-finka-tamana-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "0e7468eea8bf",
+    "roaster": "tasty",
+    "name": "Колумбия Хайме Гонсалес Хани",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-haime-honsales-hany",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "930cd5a3edb5",
+    "roaster": "tasty",
+    "name": "Колумбия Хелена Салазар",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-colombia-helena-salazar",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "b28088ff23cc",
+    "roaster": "tasty",
+    "name": "Колумбия Цитрус Свитнесс",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-citrus-sweetness",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "eee85c08d554",
+    "roaster": "tasty",
+    "name": "Колумбия Чирозо Каса Негра",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-chiroso-casa-negra-2026",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "31675fa3d502",
+    "roaster": "tasty",
+    "name": "Колумбия Чирозо Лас Флорес",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-chiroso",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "82e2b2893042",
+    "roaster": "tasty",
+    "name": "Колумбия Эксельсо",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-columbia-excelso",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "12a99e6a8d2b",
+    "roaster": "tasty",
+    "name": "Колумбия Эль Ботон Нат",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-el-boton",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "222599ed3f2f",
+    "roaster": "tasty",
+    "name": "Колумбия Эль Индио",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-el-indio-2026",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "085c0c506420",
+    "roaster": "tasty",
+    "name": "Колумбия Эль Мирадор",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-el-mirador",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "d7bec4470be2",
+    "roaster": "tasty",
+    "name": "Колумбия Эль Пласер",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-el-pleser",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "a9fe34a2ba63",
+    "roaster": "tasty",
+    "name": "Колумбия Эль Порвенир Нат",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-el-porvenir-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "eb7c25585bcf",
+    "roaster": "tasty",
+    "name": "Колумбия Эль Рефуджио",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-el-refujio-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "4dd586bee2af",
+    "roaster": "tasty",
+    "name": "Колумбия Эль Робле",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-el-roble",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "c417cd5c31c9",
+    "roaster": "tasty",
+    "name": "Колумбия Эль Тамбо",
+    "url": "https://shop.tastycoffee.ru/coffee/kolumbiya-el-tambo",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "cd458c95c8ee",
+    "roaster": "tasty",
+    "name": "Колумбия Эмбрухо",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-castillo",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "c072f90a1361",
+    "roaster": "tasty",
+    "name": "Колумбия Эртсон Берналь",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-ertson-bernal",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "6c5dd93eae52",
+    "roaster": "tasty",
+    "name": "Колумбия Эфрен Тулкан",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-efren-tulcan",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "73f2bc5f0d3b",
+    "roaster": "tasty",
+    "name": "Колумбия Ява Хайро Арчила",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-yellow-java",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "dde594581129",
+    "roaster": "tasty",
+    "name": "Колумбия Ява Хайро Лопес",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-java",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "eefb22014d11",
+    "roaster": "tasty",
+    "name": "Колумбия вуш-вуш Монтеверде",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-wush-wush-monteverde",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "a7e499960b50",
+    "roaster": "tasty",
+    "name": "Конго Катана",
+    "url": "https://shop.tastycoffee.ru/coffee/congo-katana",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "51f001c42d35",
+    "roaster": "tasty",
+    "name": "Конго Киву",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-blue-mountain",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "b786b908edb9",
+    "roaster": "tasty",
+    "name": "Конго Киву",
+    "url": "https://shop.tastycoffee.ru/coffee/congo-kivu",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "e01211406dde",
+    "roaster": "tasty",
+    "name": "Коста-Рика Азалия",
+    "url": "https://shop.tastycoffee.ru/coffee/costa-rica-azalea",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "c93bfe71f7da",
+    "roaster": "tasty",
+    "name": "Коста-Рика Асьенда Валерио Нат",
+    "url": "https://shop.tastycoffee.ru/coffee/costa-rica-hacienda-valerio-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "cbdf50b64e58",
+    "roaster": "tasty",
+    "name": "Коста-Рика Асьенда Сонора Нат",
+    "url": "https://shop.tastycoffee.ru/coffee/costa-rica-hacienda-sonora-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "497ee884038a",
+    "roaster": "tasty",
+    "name": "Коста-Рика Виста Аль Санто",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-catuai",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "3247ed2f93b6",
+    "roaster": "tasty",
+    "name": "Коста-Рика Вьентос",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-milenio",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "4873f783c342",
+    "roaster": "tasty",
+    "name": "Коста-Рика Гейша Трес Милагрос Нат",
+    "url": "https://shop.tastycoffee.ru/coffee/costa-rika-geisha-tres-milagros-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "c39621607cb9",
+    "roaster": "tasty",
+    "name": "Коста-Рика Гейша Хани",
+    "url": "https://shop.tastycoffee.ru/coffee/costa-rica-geisha-honey",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "42af155a1b04",
+    "roaster": "tasty",
+    "name": "Коста-Рика Дель Чиррипо",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-costa-rica-del-chirripo",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "69efdfb8830a",
+    "roaster": "tasty",
+    "name": "Коста-Рика Дон Сабино Монтанья",
+    "url": "https://shop.tastycoffee.ru/coffee/costa-rica-don-sabino-montana",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "489b370d0df9",
+    "roaster": "tasty",
+    "name": "Коста-Рика Карлос Монтеро",
+    "url": "https://shop.tastycoffee.ru/coffee/costa-rica-carlos-montero-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "c524c29b1d52",
+    "roaster": "tasty",
+    "name": "Коста-Рика Ла Крус",
+    "url": "https://shop.tastycoffee.ru/coffee/costa-rica-la-cruz",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "021a8b5cd5c7",
+    "roaster": "tasty",
+    "name": "Коста-Рика Ла Плаза",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-costa-rica-la-plaza",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "2b5676bef047",
+    "roaster": "tasty",
+    "name": "Коста-Рика Лас Маргаритас",
+    "url": "https://shop.tastycoffee.ru/coffee/costa-rica-las-margaritas",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "9de7cc191b65",
+    "roaster": "tasty",
+    "name": "Коста-Рика Лос Альпинос",
+    "url": "https://shop.tastycoffee.ru/coffee/costa-rica-los-alpinos",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "a15f38bd2eee",
+    "roaster": "tasty",
+    "name": "Коста-Рика Лос Лириос",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-villa-sarchi",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "eacc9efc2dd2",
+    "roaster": "tasty",
+    "name": "Коста-Рика Монтаньяс-Дель-Диаманте Хани",
+    "url": "https://shop.tastycoffee.ru/coffee/costa-rica-montanas-del-diamante-honey",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "942ff78ef95c",
+    "roaster": "tasty",
+    "name": "Коста-Рика Мора",
+    "url": "https://shop.tastycoffee.ru/coffee/costa-rica-mora",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "c258ce5fa05e",
+    "roaster": "tasty",
+    "name": "Коста-Рика Нельсин Эрнандес",
+    "url": "https://shop.tastycoffee.ru/coffee/costa-rica-camilo-merisalde",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "f1d250759902",
+    "roaster": "tasty",
+    "name": "Коста-Рика Президенте",
+    "url": "https://shop.tastycoffee.ru/coffee/costa-rica-presidente",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "6b98da81cf49",
+    "roaster": "tasty",
+    "name": "Коста-Рика Пьедра Альта",
+    "url": "https://shop.tastycoffee.ru/coffee/costa-rica-piedra-alta",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "07c2538af88b",
+    "roaster": "tasty",
+    "name": "Коста-Рика Рафаэль Прадо",
+    "url": "https://shop.tastycoffee.ru/coffee/costa-rica-raphael-prado",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "be0be0a2a809",
+    "roaster": "tasty",
+    "name": "Коста-Рика Рио Конехо",
+    "url": "https://shop.tastycoffee.ru/coffee/costa-rica-rio-conejo",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "0a363ecf8f18",
+    "roaster": "tasty",
+    "name": "Коста-Рика Сан Рафаэль",
+    "url": "https://shop.tastycoffee.ru/coffee/costa-rica-san-rafael",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "26575e33d09b",
+    "roaster": "tasty",
+    "name": "Коста-Рика Сан Хуанильо",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-h1",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "20b1f0c1b1dd",
+    "roaster": "tasty",
+    "name": "Коста-Рика Санта Круз Хани",
+    "url": "https://shop.tastycoffee.ru/coffee/costa-rica-santa-cruz-honey",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "dc5e346626dd",
+    "roaster": "tasty",
+    "name": "Коста-Рика Тарразу",
+    "url": "https://shop.tastycoffee.ru/coffee/costa-rica-tarrazu",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "d3f20f7e2fde",
+    "roaster": "tasty",
+    "name": "Коста-Рика Тарразу",
+    "url": "https://shop.tastycoffee.ru/coffee/costa-rica-terrazu-la-pastora",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "acd4d66d2c0f",
+    "roaster": "tasty",
+    "name": "Коста-Рика Терра Белла Нат",
+    "url": "https://shop.tastycoffee.ru/coffee/costa-rica-terra-bella-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "e5285d9ea4b7",
+    "roaster": "tasty",
+    "name": "Коста-Рика Трес Милагрос Хани",
+    "url": "https://shop.tastycoffee.ru/coffee/costa-rica-tres-milagros-honey",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "1f43d8eac475",
+    "roaster": "tasty",
+    "name": "Коста-Рика Хуанра Монтеро",
+    "url": "https://shop.tastycoffee.ru/coffee/costa-rica-huanra-montero",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "19e364f8c086",
+    "roaster": "tasty",
+    "name": "Коста-Рика Эль Агуакате",
+    "url": "https://shop.tastycoffee.ru/coffee/costa-rica-el-aguacate",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "14cea66912fc",
+    "roaster": "tasty",
+    "name": "Коста-Рика Эль Серро",
+    "url": "https://shop.tastycoffee.ru/coffee/costa-rica-el-cerro-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "55572aec9878",
+    "roaster": "tasty",
+    "name": "Коста-Рика Эстебан Заморо Нат",
+    "url": "https://shop.tastycoffee.ru/coffee/costa-rica-esteban-zamoro-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "b8c21f1f3966",
+    "roaster": "tasty",
+    "name": "Кофе в банке \"Christmas Coffee\"",
+    "url": "https://shop.tastycoffee.ru/coffee/cold_coffee_christmas",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "8579570c3cf1",
+    "roaster": "tasty",
+    "name": "Куба Альтура Лавадо",
+    "url": "https://shop.tastycoffee.ru/coffee/cuba-altura-lavado",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "b85865c8dc3f",
+    "roaster": "tasty",
+    "name": "Куба Серрано Лавадо",
+    "url": "https://shop.tastycoffee.ru/coffee/cuba-serrano-lavado",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "23d91da12fce",
+    "roaster": "tasty",
+    "name": "Лайт",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-light",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "702acefb6d32",
+    "roaster": "tasty",
+    "name": "Малави Памвамба",
+    "url": "https://shop.tastycoffee.ru/coffee/malawi-ab-plus-pamwamba",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "8056c852cfaa",
+    "roaster": "tasty",
+    "name": "Малайзия Либерика Кулай",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-liberica",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "21ec29657318",
+    "roaster": "tasty",
+    "name": "Марагоджип Бразилия",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-maracatuai",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "163295e1f731",
+    "roaster": "tasty",
+    "name": "Марагоджип Бразилия",
+    "url": "https://shop.tastycoffee.ru/coffee/maragogype-brazil",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "3975391d6348",
+    "roaster": "tasty",
+    "name": "Марагоджип Гватемала",
+    "url": "https://shop.tastycoffee.ru/coffee/maragogype-guatemala",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "112b3de8b7a1",
+    "roaster": "tasty",
+    "name": "Марагоджип Колумбия",
+    "url": "https://shop.tastycoffee.ru/coffee/maragogype-colombia",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "6a082948f04d",
+    "roaster": "tasty",
+    "name": "Марагоджип Мексика",
+    "url": "https://shop.tastycoffee.ru/coffee/maragogype-mexico",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "ed8da6205d50",
+    "roaster": "tasty",
+    "name": "Мексика Анакафе Иксуатлан",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-anacafe-14",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "3098c29e1fda",
+    "roaster": "tasty",
+    "name": "Мексика Веракруз Нат",
+    "url": "https://shop.tastycoffee.ru/coffee/mexico-veracruz-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "cf585d2633f1",
+    "roaster": "tasty",
+    "name": "Мексика Веракруз Хани",
+    "url": "https://shop.tastycoffee.ru/coffee/meksika-verakruz-hani",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "389aa42bd3e4",
+    "roaster": "tasty",
+    "name": "Мексика Иксуатлан Анаэробная",
+    "url": "https://shop.tastycoffee.ru/coffee/mexico-ixuatlan-anaerobic",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "74d0583d7809",
+    "roaster": "tasty",
+    "name": "Мексика Иксуатлан Тако",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-rojo-amarillo",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "1842c080ba8d",
+    "roaster": "tasty",
+    "name": "Мексика Иксуатлан Тако",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-mexico-ixuatlan-taco",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "6b554f723175",
+    "roaster": "tasty",
+    "name": "Мексика Иксуатлан Хани",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-marsellesa",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "488a8d11b228",
+    "roaster": "tasty",
+    "name": "Мексика Марагоджип",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-maragogype",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "58b87e31e455",
+    "roaster": "tasty",
+    "name": "Мексика СХГ",
+    "url": "https://shop.tastycoffee.ru/coffee/mexico-shg",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "671a40ef4443",
+    "roaster": "tasty",
+    "name": "Мексика Чьяпас",
+    "url": "https://shop.tastycoffee.ru/coffee/meksika-chyapas",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "115119fc2ac6",
+    "roaster": "tasty",
+    "name": "Милд",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-mild",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "9fc8bf759f54",
+    "roaster": "tasty",
+    "name": "Мокка-Ява Бленд",
+    "url": "https://shop.tastycoffee.ru/coffee/mokka-java-blend",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "9e9e3c8de7b7",
+    "roaster": "tasty",
+    "name": "Мьянма Иванган",
+    "url": "https://shop.tastycoffee.ru/coffee/myanma-ivangan",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "f4cda14c754a",
+    "roaster": "tasty",
+    "name": "Мьянма Мья Зе Ди",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-s795",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "33813bba5747",
+    "roaster": "tasty",
+    "name": "Натти",
+    "url": "https://shop.tastycoffee.ru/coffee/dark-coffee",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "5fcd44076d0e",
+    "roaster": "tasty",
+    "name": "Натти",
+    "url": "https://shop.tastycoffee.ru/coffee/dlia-kofemasiny",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "9065bb652f0c",
+    "roaster": "tasty",
+    "name": "Никарагуа Садальсууд",
+    "url": "https://shop.tastycoffee.ru/coffee/nicaragua-sadalsuud",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "7095f67c273d",
+    "roaster": "tasty",
+    "name": "Никарагуа Хинотега",
+    "url": "https://shop.tastycoffee.ru/coffee/nicaragua-shg-jinotega",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "b40a26fc11f3",
+    "roaster": "tasty",
+    "name": "Никарагуа Хуан Рамон Диас Нат",
+    "url": "https://shop.tastycoffee.ru/coffee/nicaragua-huan-ramon-dias-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "de1117d82975",
+    "roaster": "tasty",
+    "name": "Никарагуа Эль Камбалаче",
+    "url": "https://shop.tastycoffee.ru/coffee/nicaragua-el-kambalache",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "272d0685f64b",
+    "roaster": "tasty",
+    "name": "Никарагуа Эль Чипоте Нат",
+    "url": "https://shop.tastycoffee.ru/coffee/nicaragua-el-chipote-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "e057d302ed51",
+    "roaster": "tasty",
+    "name": "Никарагуа Эль Чипоте Нат",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-nicaragua-el-chipote-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "9051ddd12886",
+    "roaster": "tasty",
+    "name": "Паганини (25% Робуста)",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-paganini",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "56d3ea3a6cdc",
+    "roaster": "tasty",
+    "name": "Панама Вулкан Санта Клара",
+    "url": "https://shop.tastycoffee.ru/coffee/panama-volcan-santa-clara",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "13e4e5e6e2ab",
+    "roaster": "tasty",
+    "name": "Панама Гейша Джульетта",
+    "url": "https://shop.tastycoffee.ru/coffee/panama-geysha-dzhuletta",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "2c1106d95b6e",
+    "roaster": "tasty",
+    "name": "Панама Гейша Ла Эсмеральда",
+    "url": "https://shop.tastycoffee.ru/coffee/panama-geisha-la-esmeralda",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "bbd769660ab5",
+    "roaster": "tasty",
+    "name": "Панама Гейша Перси",
+    "url": "https://shop.tastycoffee.ru/coffee/panama-geysha-persi",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "ebf420df932b",
+    "roaster": "tasty",
+    "name": "Панама Некиссе",
+    "url": "https://shop.tastycoffee.ru/coffee/panama-nekisse",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "7bac98015ff4",
+    "roaster": "tasty",
+    "name": "Папуа-Новая Гвинея",
+    "url": "https://shop.tastycoffee.ru/coffee/papua-new-guinea",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "4fdd223f67ad",
+    "roaster": "tasty",
+    "name": "Папуа-Новая Гвинея Сигри",
+    "url": "https://shop.tastycoffee.ru/coffee/papua-new-guinea-sigri",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "48759e940038",
+    "roaster": "tasty",
+    "name": "Перу Альто Пириас",
+    "url": "https://shop.tastycoffee.ru/coffee/peru-alto-pirias-2026",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "ee97919c3ea3",
+    "roaster": "tasty",
+    "name": "Перу Амазонас",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-pache",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "929e2c164d5e",
+    "roaster": "tasty",
+    "name": "Перу Асьенда Ла Эрмоса",
+    "url": "https://shop.tastycoffee.ru/coffee/peru-hacienda-la-hermosa",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "5c6176b0f272",
+    "roaster": "tasty",
+    "name": "Перу Виктория Рамос",
+    "url": "https://shop.tastycoffee.ru/coffee/peru-victoria-ramos",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "bd51ea23ff93",
+    "roaster": "tasty",
+    "name": "Перу Карранса Монтенегро Нат",
+    "url": "https://shop.tastycoffee.ru/coffee/peru-carranza-montenegro-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "da8260683364",
+    "roaster": "tasty",
+    "name": "Перу Кени Яхахуанка",
+    "url": "https://shop.tastycoffee.ru/coffee/peru-keni-yahauanka",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "f8c66ffb4fe5",
+    "roaster": "tasty",
+    "name": "Перу Ла Марипоса",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-peru-la-mariposa",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "dea7f2ad3e98",
+    "roaster": "tasty",
+    "name": "Перу Ла Сидра",
+    "url": "https://shop.tastycoffee.ru/coffee/peru-la-sidra",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "c55dfd8a675b",
+    "roaster": "tasty",
+    "name": "Перу Монте Верде",
+    "url": "https://shop.tastycoffee.ru/coffee/peru-monte-verde-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "f49046af2382",
+    "roaster": "tasty",
+    "name": "Перу Монте Верде",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-peru-monte-verde",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "7baba79a62bf",
+    "roaster": "tasty",
+    "name": "Перу Норандино",
+    "url": "https://shop.tastycoffee.ru/coffee/peru-norandino",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "0948d9bfd0c5",
+    "roaster": "tasty",
+    "name": "Перу Уилдер Гарсия",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-peru-wilder-garcia",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "b8e54c1fa6db",
+    "roaster": "tasty",
+    "name": "Перу Фернал Руис",
+    "url": "https://shop.tastycoffee.ru/coffee/peru-fernal-ruiz",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "07078e1bc6f1",
+    "roaster": "tasty",
+    "name": "Перу Хосе Ривера",
+    "url": "https://shop.tastycoffee.ru/coffee/peru-jose-rivera",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "895eae412be3",
+    "roaster": "tasty",
+    "name": "Перу Чанчамайо",
+    "url": "https://shop.tastycoffee.ru/coffee/peru-chanchamayo",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "ed8e8b0b40d7",
+    "roaster": "tasty",
+    "name": "Перу Янеша",
+    "url": "https://shop.tastycoffee.ru/coffee/peru-yanesha",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "6b4ef061196c",
+    "roaster": "tasty",
+    "name": "Робуста Индия Каапи",
+    "url": "https://shop.tastycoffee.ru/coffee/robusta-india-kaapi",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "0122954dcb83",
+    "roaster": "tasty",
+    "name": "Робуста Индонезия Флорес",
+    "url": "https://shop.tastycoffee.ru/coffee/robusta-indonesia-flores",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "d21c3b2408b0",
+    "roaster": "tasty",
+    "name": "Робуста Уганда",
+    "url": "https://shop.tastycoffee.ru/coffee/robusta-uganda",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "82704717f636",
+    "roaster": "tasty",
+    "name": "Руанда Гишеке",
+    "url": "https://shop.tastycoffee.ru/coffee/rwanda-gisheke",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "6520a8bf43d5",
+    "roaster": "tasty",
+    "name": "Руанда Дахве",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-rwanda-dahve",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "0d67236ef666",
+    "roaster": "tasty",
+    "name": "Руанда Кабуе",
+    "url": "https://shop.tastycoffee.ru/coffee/rwanda-kabue",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "c14a05864c8a",
+    "roaster": "tasty",
+    "name": "Руанда Камони Нат",
+    "url": "https://shop.tastycoffee.ru/coffee/ruanda-kamonyi-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "e894ebe7cdfa",
+    "roaster": "tasty",
+    "name": "Руанда Каронги",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-rwanda-karongi",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "67304f5b28c8",
+    "roaster": "tasty",
+    "name": "Руанда Кигали",
+    "url": "https://shop.tastycoffee.ru/coffee/novye-loty-2023",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "089c6cacc0f9",
+    "roaster": "tasty",
+    "name": "Руанда Килимби",
+    "url": "https://shop.tastycoffee.ru/coffee/rwanda-kilimbi",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "2e42ded199fe",
+    "roaster": "tasty",
+    "name": "Руанда Килимби",
+    "url": "https://shop.tastycoffee.ru/coffee/ruanda_kilimbi",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "de0cc9b8f897",
+    "roaster": "tasty",
+    "name": "Руанда Килимби Анаэробный",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-rwanda-kilimbi-anaerobic",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "d8911e69d007",
+    "roaster": "tasty",
+    "name": "Руанда Килимби Хани",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-rwanda-kilimbi-honey",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "79e4dfb3cdbb",
+    "roaster": "tasty",
+    "name": "Руанда Мараба Анаэробная",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-red-bourbon",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "24b5e4191eb3",
+    "roaster": "tasty",
+    "name": "Руанда Мукашияка",
+    "url": "https://shop.tastycoffee.ru/coffee/ruanda-mukashyaka",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "28b52c9953e0",
+    "roaster": "tasty",
+    "name": "Руанда Муракозе Нат",
+    "url": "https://shop.tastycoffee.ru/coffee/ruanda-murakoze-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "d510726de31a",
+    "roaster": "tasty",
+    "name": "Руанда Мухирва",
+    "url": "https://shop.tastycoffee.ru/coffee/ruanda-muhirwa",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "b43efb2bbd67",
+    "roaster": "tasty",
+    "name": "Руанда Нгома",
+    "url": "https://shop.tastycoffee.ru/coffee/rwanda-ngoma",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "bc61cdf2ed56",
+    "roaster": "tasty",
+    "name": "Руанда Ньябиху",
+    "url": "https://shop.tastycoffee.ru/coffee/rwanda-nyabikhu",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "a71dcec67e4d",
+    "roaster": "tasty",
+    "name": "Руанда Ньямашеке",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-rwanda-nyamasheke",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "821ba4c197d2",
+    "roaster": "tasty",
+    "name": "Руанда Ньямашеке Нат",
+    "url": "https://shop.tastycoffee.ru/coffee/ruanda-nyamasheke-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "51251eb099e7",
+    "roaster": "tasty",
+    "name": "Руанда Ньярусиза",
+    "url": "https://shop.tastycoffee.ru/coffee/ruanda-nyarusiza",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "fef79b7e1ba7",
+    "roaster": "tasty",
+    "name": "Руанда Ремера Нат",
+    "url": "https://shop.tastycoffee.ru/coffee/ruanda-remera-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "ccfe9df4fa49",
+    "roaster": "tasty",
+    "name": "Руанда Ругали",
+    "url": "https://shop.tastycoffee.ru/coffee/rwanda-rugali",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "f53f1e0c7c3f",
+    "roaster": "tasty",
+    "name": "Руанда Ругали Анаэробный",
+    "url": "https://shop.tastycoffee.ru/coffee/rwanda-rugali-anaerobic",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "ecc56aa00129",
+    "roaster": "tasty",
+    "name": "Руанда Ругали Нат",
+    "url": "https://shop.tastycoffee.ru/coffee/ruanda-rugali-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "8307c33f6138",
+    "roaster": "tasty",
+    "name": "Руанда Ругали Ролекс",
+    "url": "https://shop.tastycoffee.ru/coffee/rwanda-rugali-rolex",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "74e00bee2d64",
+    "roaster": "tasty",
+    "name": "Руанда Уе Маунтин",
+    "url": "https://shop.tastycoffee.ru/coffee/ruanda-huye-mountain",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "84d34e98e34e",
+    "roaster": "tasty",
+    "name": "Руанда Умарадже",
+    "url": "https://shop.tastycoffee.ru/coffee/ruanda-umaradge-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "910006956001",
+    "roaster": "tasty",
+    "name": "Руанда Чеша",
+    "url": "https://shop.tastycoffee.ru/coffee/rwanda-chesha",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "597ae17f210a",
+    "roaster": "tasty",
+    "name": "Руанда Шийира",
+    "url": "https://shop.tastycoffee.ru/coffee/rwanda-shiiira",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "7176d550c9b3",
+    "roaster": "tasty",
+    "name": "Сальвадор Дон Мануэль",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-salvador-don-manuel",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "5ea9ac059b66",
+    "roaster": "tasty",
+    "name": "Сальвадор Дон Хаиме",
+    "url": "https://shop.tastycoffee.ru/coffee/salvador-don-jaime",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "70c1b8388dc3",
+    "roaster": "tasty",
+    "name": "Сальвадор Ла Дивина Провиденсия",
+    "url": "https://shop.tastycoffee.ru/coffee/salvador-la-divina-providencia",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "5cf3d79cac51",
+    "roaster": "tasty",
+    "name": "Сальвадор Лас Пьедрас Нат",
+    "url": "https://shop.tastycoffee.ru/coffee/el-salvador-las-piedras-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "8c23ee9d8d46",
+    "roaster": "tasty",
+    "name": "Сальвадор Пакамара",
+    "url": "https://shop.tastycoffee.ru/coffee/salvador-pacamara",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "0728d81013a8",
+    "roaster": "tasty",
+    "name": "Сальвадор Салаверия",
+    "url": "https://shop.tastycoffee.ru/coffee/salvador-salaverria-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "f4801f3d7266",
+    "roaster": "tasty",
+    "name": "Сальвадор Салаверрия",
+    "url": "https://shop.tastycoffee.ru/coffee/salvador-salaverria",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "2580a14ad4cd",
+    "roaster": "tasty",
+    "name": "Сальвадор Сан Мартин Нат",
+    "url": "https://shop.tastycoffee.ru/coffee/el-salvador-san-martin-gourmet",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "1c84e696a6cb",
+    "roaster": "tasty",
+    "name": "Сальвадор Финка Портузуэло",
+    "url": "https://shop.tastycoffee.ru/coffee/salvador-finca-portuzuelo",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "70cada9ae797",
+    "roaster": "tasty",
+    "name": "Сальвадор Финка Хосефита",
+    "url": "https://shop.tastycoffee.ru/coffee/salvador-finka-khosefita",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "f7cf43792d41",
+    "roaster": "tasty",
+    "name": "Сальвадор Эрманос Мена",
+    "url": "https://shop.tastycoffee.ru/coffee/salvador-hermanos-mena-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "7bc65283efca",
+    "roaster": "tasty",
+    "name": "Сбалансированный кофе для фильтра",
+    "url": "https://shop.tastycoffee.ru/coffee/balanced-alt-mono",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "f6dd90c51c80",
+    "roaster": "tasty",
+    "name": "Селекшн",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-selection",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "92a86e815f37",
+    "roaster": "tasty",
+    "name": "Сулавеси Торайа",
+    "url": "https://shop.tastycoffee.ru/coffee/indonesia-sulawesi-toraja-2014",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "58264cb82909",
+    "roaster": "tasty",
+    "name": "Сулавеси Торайя",
+    "url": "https://shop.tastycoffee.ru/coffee/indonesia-sulawesi-toraja-2020",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "1d29b85ca970",
+    "roaster": "tasty",
+    "name": "Суматра Алам Коринджи",
+    "url": "https://shop.tastycoffee.ru/coffee/sumatra-alam-korinji",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "0d800791a732",
+    "roaster": "tasty",
+    "name": "Суматра Гайо",
+    "url": "https://shop.tastycoffee.ru/coffee/sumatra-gayo",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "01e7ddd3706f",
+    "roaster": "tasty",
+    "name": "Суматра Керинчи",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-andungsari",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "5db7b64dd2af",
+    "roaster": "tasty",
+    "name": "Суматра Керинчи",
+    "url": "https://shop.tastycoffee.ru/coffee/sumatra-kerinchi-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "7c3ace8c7a45",
+    "roaster": "tasty",
+    "name": "Суматра Линтонг",
+    "url": "https://shop.tastycoffee.ru/coffee/sumatra-lintong",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "23711f49a146",
+    "roaster": "tasty",
+    "name": "Суматра Манделлин",
+    "url": "https://shop.tastycoffee.ru/coffee/sumatra-mandhelling",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "032920ca06b9",
+    "roaster": "tasty",
+    "name": "Суматра Мандири",
+    "url": "https://shop.tastycoffee.ru/coffee/sumatra-mandiri",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "0d762be747df",
+    "roaster": "tasty",
+    "name": "Таиланд Мае Суай",
+    "url": "https://shop.tastycoffee.ru/coffee/thailand-mae-suai",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "64b6af532fa3",
+    "roaster": "tasty",
+    "name": "Таиланд Мае Ха Ян",
+    "url": "https://shop.tastycoffee.ru/coffee/thailand-mae-ha-yan",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "9a2506277dcc",
+    "roaster": "tasty",
+    "name": "Танзания АА",
+    "url": "https://shop.tastycoffee.ru/coffee/tanzania-aa-kigoma",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "a688a035f0c5",
+    "roaster": "tasty",
+    "name": "Уганда Бугису",
+    "url": "https://shop.tastycoffee.ru/coffee/uganda-bugisu",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "0a5a8ed0e129",
+    "roaster": "tasty",
+    "name": "Уганда Капчорва",
+    "url": "https://shop.tastycoffee.ru/coffee/uganda-kapchorwa",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "ef387c4ce548",
+    "roaster": "tasty",
+    "name": "Уганда Капчорва Нат",
+    "url": "https://shop.tastycoffee.ru/coffee/uganda-kapchorva-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "bfffd43ebdfb",
+    "roaster": "tasty",
+    "name": "Уганда Муки Фанки",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-sl14",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "ea0979f9bdf4",
+    "roaster": "tasty",
+    "name": "Уганда Рувензори",
+    "url": "https://shop.tastycoffee.ru/coffee/uganda-ruvensori-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "edb27bcbffa0",
+    "roaster": "tasty",
+    "name": "Уганда Сипи Фоллз",
+    "url": "https://shop.tastycoffee.ru/coffee/uganda-sipi-falls-organic",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "b5103a08e5b2",
+    "roaster": "tasty",
+    "name": "Уганда Сипи Фоллз Нат",
+    "url": "https://shop.tastycoffee.ru/coffee/uganda-sipi-falls-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "81ed5fad0e15",
+    "roaster": "tasty",
+    "name": "Уганда Чигалагала Нат",
+    "url": "https://shop.tastycoffee.ru/coffee/uganda-chigalagala-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "0b670d49be17",
+    "roaster": "tasty",
+    "name": "Французская обжарка",
+    "url": "https://shop.tastycoffee.ru/coffee/french-roast-test",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "788aa3407389",
+    "roaster": "tasty",
+    "name": "Французская обжарка",
+    "url": "https://shop.tastycoffee.ru/coffee/french-roast-250g",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "f2b87322102a",
+    "roaster": "tasty",
+    "name": "Экстра",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-extra",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "3d69ac8389ce",
+    "roaster": "tasty",
+    "name": "Эль-Сальвадор финка Ла-Фани",
+    "url": "https://shop.tastycoffee.ru/coffee/el-salvador-finca-la-fany",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "01fba38d4221",
+    "roaster": "tasty",
+    "name": "Эфиопия Адорси",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-ethiopia-adorsi",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "4366435ba112",
+    "roaster": "tasty",
+    "name": "Эфиопия Амбела Нат",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-ethiopia-ambela-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "2bbec5c1bbbb",
+    "roaster": "tasty",
+    "name": "Эфиопия Амхара Айеху Нат",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-ethiopia-amhara",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "949c68a5d60d",
+    "roaster": "tasty",
+    "name": "Эфиопия Анасора Анаэробная",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-anasora",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "284e22c94c81",
+    "roaster": "tasty",
+    "name": "Эфиопия Анасора Анаэробная",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-anasora-anaerobic",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "384bef8ffe11",
+    "roaster": "tasty",
+    "name": "Эфиопия Анасора Корица",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-ethiopia-anasora-cinnamon",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "4a648c21f324",
+    "roaster": "tasty",
+    "name": "Эфиопия Арамо Нат",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-aramo-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "1641ddeb37a4",
+    "roaster": "tasty",
+    "name": "Эфиопия Арича",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-aricha",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "3540270d7637",
+    "roaster": "tasty",
+    "name": "Эфиопия Арича",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-ethiopia-aricha",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "29a70957f207",
+    "roaster": "tasty",
+    "name": "Эфиопия Арсосала",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-arsosala",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "d9bacc48fe2e",
+    "roaster": "tasty",
+    "name": "Эфиопия Бале Маунтин",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-bale-mountain-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "27d8100541be",
+    "roaster": "tasty",
+    "name": "Эфиопия Банко Готете",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-banko-gotete",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "be89e3ee682d",
+    "roaster": "tasty",
+    "name": "Эфиопия Банко Готете Гидро",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-banko-gotete-hydro-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "cc0764b00972",
+    "roaster": "tasty",
+    "name": "Эфиопия Бартукаана Нат",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-bartukaana-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "62ff9cc52f31",
+    "roaster": "tasty",
+    "name": "Эфиопия Беби Буку",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-baby-buku",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "2db5fdde7aa4",
+    "roaster": "tasty",
+    "name": "Эфиопия Билойа Нат",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-biloya-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "6b72d721b0e8",
+    "roaster": "tasty",
+    "name": "Эфиопия Бэйл Маунтин Нат",
+    "url": "https://shop.tastycoffee.ru/coffee/efiopiya-beyl-mauntin-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "d9cf9a552744",
+    "roaster": "tasty",
+    "name": "Эфиопия Валичу Вачу",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-valichu-vachu",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "790b00b84d3a",
+    "roaster": "tasty",
+    "name": "Эфиопия Валичу Вачу Нат",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-ethiopia-valichu-vachu-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "3669105c5709",
+    "roaster": "tasty",
+    "name": "Эфиопия Ворка Сакаро",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-vorka-sakaro",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "74dcc5880aa0",
+    "roaster": "tasty",
+    "name": "Эфиопия Гедео Коре Нат",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-gedeo-kore-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "2442a77ba31b",
+    "roaster": "tasty",
+    "name": "Эфиопия Гейша Гелана",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-geisha-gelana",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "7d07ba728881",
+    "roaster": "tasty",
+    "name": "Эфиопия Гелана Абайя",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-ethiopia-gelana-abaya",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "02290ab750d2",
+    "roaster": "tasty",
+    "name": "Эфиопия Гигеса",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-ethiopia-gigesa",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "e73f7c458da0",
+    "roaster": "tasty",
+    "name": "Эфиопия Готити Нат",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-gotiti-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "9171a54c3904",
+    "roaster": "tasty",
+    "name": "Эфиопия Гуджи",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-guji",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "8c063aff2889",
+    "roaster": "tasty",
+    "name": "Эфиопия Гуджи",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-ethiopia-guji",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "45c118a04f5b",
+    "roaster": "tasty",
+    "name": "Эфиопия Гуджи Сидамо",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-sidamo-guji",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "621567b35969",
+    "roaster": "tasty",
+    "name": "Эфиопия Гуджи Урага",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-guji-uraga",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "781d26d49a82",
+    "roaster": "tasty",
+    "name": "Эфиопия Данче",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-wolisho",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "19a7aef67875",
+    "roaster": "tasty",
+    "name": "Эфиопия Данче",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-kurume",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "7deafec6da5e",
+    "roaster": "tasty",
+    "name": "Эфиопия Данче",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-ethiopia-danche",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "aca88599ed02",
+    "roaster": "tasty",
+    "name": "Эфиопия Идидо Нат",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-idido-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "6348d0407086",
+    "roaster": "tasty",
+    "name": "Эфиопия Иргачефф",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-yirgacheffe",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "12a8725a704b",
+    "roaster": "tasty",
+    "name": "Эфиопия Иргачефф Арамо",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-yirgacheffe-aramo",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "18484d98635b",
+    "roaster": "tasty",
+    "name": "Эфиопия Иргачефф Кочере Мисти Вэлли",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-yirgacheffe-kochere-misty-valley",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "c5f6a5c77b43",
+    "roaster": "tasty",
+    "name": "Эфиопия Иргачефф Кочере Нат",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-yirgacheffe-kochere",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "6a54742b3187",
+    "roaster": "tasty",
+    "name": "Эфиопия Иргачефф Нотс Фэмили",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-yirgacheffe-knots-family",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "c2ca4ccb6834",
+    "roaster": "tasty",
+    "name": "Эфиопия Исраэль Дегфа Нат",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-israel-degfa-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "3cf71668a101",
+    "roaster": "tasty",
+    "name": "Эфиопия Каффа Сахама",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-kaffa-sahama",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "fb02148c2588",
+    "roaster": "tasty",
+    "name": "Эфиопия Келе",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-kele",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "19ef9abefe80",
+    "roaster": "tasty",
+    "name": "Эфиопия Кеша",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-kesha",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "2235114f41a6",
+    "roaster": "tasty",
+    "name": "Эфиопия Конга",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-konga",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "9a14edbabbe3",
+    "roaster": "tasty",
+    "name": "Эфиопия Конга Нат",
+    "url": "https://shop.tastycoffee.ru/coffee/efiopiya-konga-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "93e6f8bd1eec",
+    "roaster": "tasty",
+    "name": "Эфиопия Коне",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-kone",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "328076a826d9",
+    "roaster": "tasty",
+    "name": "Эфиопия Кочере",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-kochere",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "6fbd5a89aaf5",
+    "roaster": "tasty",
+    "name": "Эфиопия Кочере Нат",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-kochere-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "e68658ad559b",
+    "roaster": "tasty",
+    "name": "Эфиопия Кубситу Нат",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-kubsitu-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "a624b8831d09",
+    "roaster": "tasty",
+    "name": "Эфиопия Лалеса Гедеб",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-lalesa-gedeb",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "e22fe81f863e",
+    "roaster": "tasty",
+    "name": "Эфиопия Лиму Нат",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-limu-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "3990f654092e",
+    "roaster": "tasty",
+    "name": "Эфиопия Лиму Нат",
+    "url": "https://shop.tastycoffee.ru/coffee/efiopiya-limu-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "67be496f0b72",
+    "roaster": "tasty",
+    "name": "Эфиопия Магарриса",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-magarrisa",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "02e7a372aa78",
+    "roaster": "tasty",
+    "name": "Эфиопия Менгеша Дересо",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-mengesha-dereso",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "808256582d66",
+    "roaster": "tasty",
+    "name": "Эфиопия Мессина",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-ethiopia-messina",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "b8c1ff0b87f2",
+    "roaster": "tasty",
+    "name": "Эфиопия Мессина Нат",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-messina-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "5627795d508b",
+    "roaster": "tasty",
+    "name": "Эфиопия Мечеча",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-mechecha",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "a0f940a0a97a",
+    "roaster": "tasty",
+    "name": "Эфиопия Мукера",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-mukera",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "2b71174f9580",
+    "roaster": "tasty",
+    "name": "Эфиопия Ненсебо Нат",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-ethiopia-nensebo-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "ca7e504d3741",
+    "roaster": "tasty",
+    "name": "Эфиопия Ньяла",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-nyala",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "b48d887e026a",
+    "roaster": "tasty",
+    "name": "Эфиопия Рари Ворка",
+    "url": "https://shop.tastycoffee.ru/coffee/efiopiya-rari-vorka",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "12067cb03f2a",
+    "roaster": "tasty",
+    "name": "Эфиопия Ририпа",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-riripa",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "57252eb2af7f",
+    "roaster": "tasty",
+    "name": "Эфиопия Сидамо Гуджи",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-ethiopia-sidamo",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "7c36c63fb2bb",
+    "roaster": "tasty",
+    "name": "Эфиопия Сидамо Нат",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-sidamo-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "8ebae2a56cb8",
+    "roaster": "tasty",
+    "name": "Эфиопия Симеон Абай Анаэробная",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-ethiopia-simeon-abaj-anaerobnaja",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "548668317343",
+    "roaster": "tasty",
+    "name": "Эфиопия Сонколле",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-ethiopia-soncolle-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "95d2826bdc3d",
+    "roaster": "tasty",
+    "name": "Эфиопия Суке Куто Хани Органик",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-suke-quto-honey-organic",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "482ecbfd0944",
+    "roaster": "tasty",
+    "name": "Эфиопия Султан Легессе",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-ethiopia-sultan-legesse",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "ed120bc5202d",
+    "roaster": "tasty",
+    "name": "Эфиопия Тиртра Даму",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-ethiopia-tirtra-damu",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "a7b19e830385",
+    "roaster": "tasty",
+    "name": "Эфиопия Урага Гаморо Нат",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-ethiopia-uraga-gamoro-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "3e3e129c4265",
+    "roaster": "tasty",
+    "name": "Эфиопия Урага Раро",
+    "url": "https://shop.tastycoffee.ru/coffee/raznovidnost-dega",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "298b117829bc",
+    "roaster": "tasty",
+    "name": "Эфиопия Урага Раро",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-uraga-raro",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "61a27801881b",
+    "roaster": "tasty",
+    "name": "Эфиопия Ханчебе Нат",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-henchibi-nat",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "c510e89e22aa",
+    "roaster": "tasty",
+    "name": "Эфиопия Харрар",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-harrar",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "34b0218001fc",
+    "roaster": "tasty",
+    "name": "Эфиопия Цеганеш Хабтемариям",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-tseganesh-habtemariam",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "9cfbcb20f858",
+    "roaster": "tasty",
+    "name": "Эфиопия Челбеса",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-ethiopia-chelbes",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "2815d1b81135",
+    "roaster": "tasty",
+    "name": "Эфиопия Челелекту",
+    "url": "https://shop.tastycoffee.ru/coffee/efiopiya-chelelektu",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "14a963d4d28c",
+    "roaster": "tasty",
+    "name": "Эфиопия Челчеле",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-chelchele",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "000c40713a13",
+    "roaster": "tasty",
+    "name": "Эфиопия Челчеле",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-chelchele-espresso",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "12ee8c12dcca",
+    "roaster": "tasty",
+    "name": "Эфиопия Челчеле 120 часов",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-celchele-120-hours",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "45ff0dedf369",
+    "roaster": "tasty",
+    "name": "Эфиопия Челчеле 72 часа",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-ethiopia-celchele-72-hours",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "04496dccba9c",
+    "roaster": "tasty",
+    "name": "Эфиопия Черенет",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-cherenet",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "cecfc36df40b",
+    "roaster": "tasty",
+    "name": "Ява Блаван",
+    "url": "https://shop.tastycoffee.ru/coffee/java-blawan",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "7bf3086e5009",
+    "roaster": "tasty",
+    "name": "Ява Джампит",
+    "url": "https://shop.tastycoffee.ru/coffee/java-jumpit",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "6e2c03ecd60c",
+    "roaster": "tasty",
+    "name": "Ява Фринса Анаэробная",
+    "url": "https://shop.tastycoffee.ru/coffee/java-frinsa-anaerobnaja",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "9026f552c427",
+    "roaster": "tasty",
+    "name": "Ява Фринса Коллектив",
+    "url": "https://shop.tastycoffee.ru/coffee/java-frinsa-collective",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "7f69a4e0a70e",
+    "roaster": "tasty",
+    "name": "Ява Фринса Коллектив Лактик",
+    "url": "https://shop.tastycoffee.ru/coffee/java-frinsa-collective-lactic",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "8db36af5b4fc",
+    "roaster": "tasty",
+    "name": "Ямайка Голубая гора (Блю Маунтин)",
+    "url": "https://shop.tastycoffee.ru/coffee/jamaica-blue-mountain",
+    "reason": "пропал с сайта"
+   }
+  ]
  }
 ]

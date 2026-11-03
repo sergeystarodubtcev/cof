@@ -2,25 +2,20 @@
  "status": {
   "id": "kofeop",
   "platform": "bitrix+generic",
-  "items": 69,
-  "seconds": 147.5,
+  "items": 54,
+  "seconds": 878.7,
   "ok": true,
   "error": null,
-  "at": "2026-11-03T07:04:21+00:00"
+  "at": "2026-11-03T07:30:18+00:00"
  },
  "items": [
   {
-   "url": "https://kofeop.ru/catalog/osnovnoy-kofe/",
-   "name": "Основной кофе в зернах",
-   "description": "Основной кофе - купить спешелти кофе в зернах свежей обжарки по цене от производителя в интернет-магазине в Челябинске с доставкой по всей России. ✅ Заказать specialty свежеобжаренный зерновой натуральный премиальный кофе для кофейни Kofeop Roastery. ✅ Официальный сайт.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе в зернах / Кофе в зернах / Основной кофе в зернах",
-   "specs": {
-    "Страна": "Бразилия",
-    "Обжарка": "Фильтр",
-    "Регион": "Каука",
-    "Обработка": "мытая"
-   },
+   "url": "https://kofeop.ru/catalog/coffee/c_paez/",
+   "name": "Паез",
+   "description": "",
+   "image": "https://kofeop.ru/upload/iblock/164/chdznys7hfi3kk01z50to5pymhbko68e.png",
+   "category": "",
+   "specs": {},
    "gallery": [],
    "available": true,
    "variants": [
@@ -28,62 +23,206 @@
      "weight_g": null,
      "price": 850.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://kofeop.ru/catalog/coffee/meykers-blend/",
+   "name": "Мейкерс Бленд",
+   "description": "",
+   "image": "https://kofeop.ru/upload/iblock/22f/2vw39x1rm0a83dfgu4v2e8d2dao4xmga.png",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 2580.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://kofeop.ru/catalog/coffee/dekaf_Columbian/",
+   "name": "Декаф",
+   "description": "",
+   "image": "https://kofeop.ru/upload/iblock/eab/ujmpky6cclq31pef9vwhl8uqmh6bd95n.png",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 3620.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://kofeop.ru/catalog/coffee/pirakha/",
+   "name": "Пираха",
+   "description": "",
+   "image": "https://kofeop.ru/upload/iblock/7f4/0ssn77d4n9rz0tplg7rbweo1i394tjlm.png",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 2560.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://kofeop.ru/catalog/coffee/nikaragua/",
+   "name": "Никарагуа",
+   "description": "",
+   "image": "https://kofeop.ru/upload/iblock/53c/qiskkzbyed7a2jlppeo6zyhb5bmorh8h.png",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 2680.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://kofeop.ru/catalog/coffee/veludo/",
+   "name": "Велудо",
+   "description": "",
+   "image": "https://kofeop.ru/upload/iblock/cc4/y3xae42oaumnhan5ozbfzkieqvrv7pcp.png",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 2620.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://kofeop.ru/catalog/coffee/74/",
+   "name": "74",
+   "description": "",
+   "image": "https://kofeop.ru/upload/iblock/673/6j50te0u5uf9qgghxcl7fa2ovucnwurk.png",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 2410.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://kofeop.ru/catalog/coffee/lilu/",
+   "name": "Лилу",
+   "description": "",
+   "image": "https://kofeop.ru/upload/iblock/b58/6v7ynk9cs34tj2x5yh2gvpzjd3w9yf1e.png",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 2790.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://kofeop.ru/catalog/coffee/bogota/",
+   "name": "Богота",
+   "description": "",
+   "image": "https://kofeop.ru/upload/iblock/1bd/cic3zw2o18tpmz495u8m1ah26clokx9j.png",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 2570.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://kofeop.ru/catalog/coffee/furla/",
+   "name": "Фурла",
+   "description": "",
+   "image": "https://kofeop.ru/upload/iblock/05f/3z1an5wykhd90jzryt19qflsod2s8vi9.png",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 800.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://kofeop.ru/catalog/coffee/kataleya/",
+   "name": "Каталея",
+   "description": "",
+   "image": "https://kofeop.ru/upload/iblock/21d/033dgj5akmrbvpql5pqug565dczwzxx7.png",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 2700.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://kofeop.ru/catalog/coffee/saturado/",
+   "name": "Сатурадо",
+   "description": "",
+   "image": "https://kofeop.ru/upload/iblock/0fd/41l1x0sj4esixfevqe2opqi35507hpvj.png",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 2510.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://kofeop.ru/catalog/coffee/chebusta/",
+   "name": "Чебуста",
+   "description": "",
+   "image": "https://kofeop.ru/upload/iblock/c6d/3wf23vd9atdpnsdc9wv876j85zq50qzt.png",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 2380.0,
@@ -92,18 +231,12 @@
    ]
   },
   {
-   "url": "https://kofeop.ru/catalog/coffee/",
-   "name": "Кофе в зернах",
-   "description": "Кофе в зернах - купить зерновой кофе от 250г - 1 кг по цене от производителя в интернет-магазине в Челябинске с доставкой по России. ✅ Заказать хороший свежеобжаренный спешелти натуральный вкусный премиальный кофе для кофемашины и турки недорого. ✅ Официальный сайт Kofeop Roastery.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе в зернах",
-   "specs": {
-    "Страна": "Бразилия",
-    "Обжарка": "Фильтр",
-    "Регион": "Сидама",
-    "Обработка": "Натуральная",
-    "Разновидность": "Катурра, Кастийо, Типика"
-   },
+   "url": "https://kofeop.ru/catalog/coffee/gedeb-voreda/",
+   "name": "Гедеб Вореда",
+   "description": "",
+   "image": "https://kofeop.ru/upload/iblock/eba/k6l959h11tlph75o0bdjf95b8qrjfjb5.png",
+   "category": "",
+   "specs": {},
    "gallery": [],
    "available": true,
    "variants": [
@@ -111,293 +244,325 @@
      "weight_g": null,
      "price": 1070.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://kofeop.ru/catalog/coffee/alshemali/",
+   "name": "Альшемали",
+   "description": "",
+   "image": "https://kofeop.ru/upload/iblock/f98/vjhrnz1x0xvrotuf6yl166syovz8u71o.png",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 918.0,
      "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 790.0,
-     "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://kofeop.ru/catalog/coffee/la-esperansa/",
+   "name": "Ла Эсперанса",
+   "description": "",
+   "image": "https://kofeop.ru/upload/iblock/4c8/7cfbxw6b6nismhtkjdi1sts3exua26rb.jpg",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 1190.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://kofeop.ru/catalog/coffee/barbosa/",
+   "name": "Барбоса",
+   "description": "",
+   "image": "https://kofeop.ru/upload/iblock/bad/enbness2j0o9rvyti5unhs4zmb8sf8yw.png",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 750.0,
      "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 980.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2580.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2560.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2680.0,
-     "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://kofeop.ru/catalog/coffee/matunda/",
+   "name": "Матунда",
+   "description": "",
+   "image": "https://kofeop.ru/upload/iblock/ffa/wqo5164qcehqj8c1lv2lgao46fw6s9dv.png",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 890.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://kofeop.ru/catalog/coffee/bakho/",
+   "name": "Бахо",
+   "description": "",
+   "image": "https://kofeop.ru/upload/iblock/61b/7f6ybsv66b9qj0g326s953rfaenp14v4.png",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1230.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://kofeop.ru/catalog/coffee/el-deskanso/",
+   "name": "Эль Дескансо",
+   "description": "",
+   "image": "https://kofeop.ru/upload/iblock/912/685kcgf0unaghjjbreg2bxzrui6gtx0r.png",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1160.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://89.104.74.22/catalog/coffee/c_paez/",
+   "name": "Паез",
+   "description": "",
+   "image": "https://89.104.74.22/upload/iblock/164/chdznys7hfi3kk01z50to5pymhbko68e.png",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 850.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://89.104.74.22/catalog/coffee/meykers-blend/",
+   "name": "Мейкерс Бленд",
+   "description": "",
+   "image": "https://89.104.74.22/upload/iblock/22f/2vw39x1rm0a83dfgu4v2e8d2dao4xmga.png",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2580.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://89.104.74.22/catalog/coffee/dekaf_Columbian/",
+   "name": "Декаф",
+   "description": "",
+   "image": "https://89.104.74.22/upload/iblock/eab/ujmpky6cclq31pef9vwhl8uqmh6bd95n.png",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 3620.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://89.104.74.22/catalog/coffee/pirakha/",
+   "name": "Пираха",
+   "description": "",
+   "image": "https://89.104.74.22/upload/iblock/7f4/0ssn77d4n9rz0tplg7rbweo1i394tjlm.png",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2560.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://89.104.74.22/catalog/coffee/nikaragua/",
+   "name": "Никарагуа",
+   "description": "",
+   "image": "https://89.104.74.22/upload/iblock/53c/qiskkzbyed7a2jlppeo6zyhb5bmorh8h.png",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2680.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://89.104.74.22/catalog/coffee/veludo/",
+   "name": "Велудо",
+   "description": "",
+   "image": "https://89.104.74.22/upload/iblock/cc4/y3xae42oaumnhan5ozbfzkieqvrv7pcp.png",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 2620.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://89.104.74.22/catalog/coffee/74/",
+   "name": "74",
+   "description": "",
+   "image": "https://89.104.74.22/upload/iblock/673/6j50te0u5uf9qgghxcl7fa2ovucnwurk.png",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 2410.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://89.104.74.22/catalog/coffee/bogota/",
+   "name": "Богота",
+   "description": "",
+   "image": "https://89.104.74.22/upload/iblock/1bd/cic3zw2o18tpmz495u8m1ah26clokx9j.png",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 2570.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://89.104.74.22/catalog/coffee/lilu/",
+   "name": "Лилу",
+   "description": "",
+   "image": "https://89.104.74.22/upload/iblock/b58/6v7ynk9cs34tj2x5yh2gvpzjd3w9yf1e.png",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 2790.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://89.104.74.22/catalog/coffee/furla/",
+   "name": "Фурла",
+   "description": "",
+   "image": "https://89.104.74.22/upload/iblock/05f/3z1an5wykhd90jzryt19qflsod2s8vi9.png",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 800.0,
      "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1230.0,
-     "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://89.104.74.22/catalog/coffee/kataleya/",
+   "name": "Каталея",
+   "description": "",
+   "image": "https://89.104.74.22/upload/iblock/21d/033dgj5akmrbvpql5pqug565dczwzxx7.png",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 2700.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://89.104.74.22/catalog/coffee/saturado/",
+   "name": "Сатурадо",
+   "description": "",
+   "image": "https://89.104.74.22/upload/iblock/0fd/41l1x0sj4esixfevqe2opqi35507hpvj.png",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 2510.0,
      "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2380.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1160.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 890.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 830.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2380.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 830.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1160.0,
-     "available": true
     }
    ]
   },
   {
-   "url": "https://kofeop.ru/catalog/otkryvayushchiy-kofe/",
-   "name": "Открывающий кофе в зернах",
-   "description": "Открывающий кофе - купить кофе с ароматами ягод и фруктов в зернах по цене от производителя в интернет-магазине в Челябинске с доставкой. ✅ Заказать экзотический свежеобжаренный фруктовый зерновой натуральный кофе Kofeop Roastery. ✅ Официальный сайт.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе в зернах / Кофе в зернах / Открывающий кофе в зернах",
-   "specs": {
-    "Страна": "Бразилия",
-    "Обжарка": "Фильтр",
-    "Регион": "Ньери",
-    "Обработка": "Мытая"
-   },
+   "url": "https://89.104.74.22/catalog/coffee/chebusta/",
+   "name": "Чебуста",
+   "description": "",
+   "image": "https://89.104.74.22/upload/iblock/c6d/3wf23vd9atdpnsdc9wv876j85zq50qzt.png",
+   "category": "",
+   "specs": {},
    "gallery": [],
    "available": true,
    "variants": [
-    {
-     "weight_g": null,
-     "price": 918.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 750.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 890.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://kofeop.ru/catalog/redkiy-kofe/",
-   "name": "Редкий кофе в зернах",
-   "description": "Купить элитный редкий кофе темной обжарки в Челябинске с доставкой, свежеобжаренный кофе премиум класса уникальных сортов со всех уголков мира. Заказать премиальный coffee на заказ в упаковке по России.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе в зернах / Кофе в зернах / Редкий кофе в зернах",
-   "specs": {
-    "Страна": "Колумбия",
-    "Обжарка": "Фильтр",
-    "Регион": "Сидама",
-    "Обработка": "Натуральная"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 1070.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1190.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1230.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1160.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://kofeop.ru/catalog/osnovnoy-kofe-optom/",
-   "name": "Основной кофе оптом",
-   "description": "Основной кофе оптом - купить спешелти кофе в зернах по оптовым ценам от производителя для кофейни в интернет-магазине в Челябинске с доставкой. ✅ Заказать свежеобжаренный зерновой натуральный кофе Kofeop Roastery. ✅ Официальный сайт.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе оптом / Кофе оптом / Основной кофе оптом",
-   "specs": {
-    "Страна": "Бразилия",
-    "Обжарка": "Фильтр",
-    "Регион": "Каука",
-    "Обработка": "мытая"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2580.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2560.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2680.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2410.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2570.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2790.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2700.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2510.0,
-     "available": true
-    },
     {
      "weight_g": null,
      "price": 2380.0,
@@ -406,795 +571,15 @@
    ]
   },
   {
-   "url": "https://kofeop.ru/catalog/otkryvayushchiy-kofe-optom/",
-   "name": "Открывающий кофе оптом",
-   "description": "Открывающий кофе оптом - купить спешелти кофе в зернах по оптовым ценам от производителя для кофейни в интернет-магазине в Челябинске с доставкой. ✅ Заказать свежеобжаренный зерновой натуральный кофе Kofeop Roastery. ✅ Официальный сайт.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе оптом / Кофе оптом / Открывающий кофе оптом",
-   "specs": {
-    "Страна": "Бразилия",
-    "Обжарка": "Фильтр",
-    "Регион": "Ньери",
-    "Обработка": "Мытая"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 918.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 790.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 750.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 980.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 890.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 830.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://kofeop.ru/catalog/coffee/dlya-ofisa/",
+   "url": "https://kofeop.ru/catalog/coffee/kofe-v-zernakh-dlya-kofemashiny/",
    "name": "Кофе в зернах",
-   "description": "Кофе Для офиса - купить спешелти кофе в зернах по цене от производителя в интернет-магазине в Челябинске с доставкой. ✅ Заказать свежеобжаренный зерновой натуральный кофе Kofeop Roastery. ✅ Официальный сайт.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе Для офиса",
-   "specs": {
-    "Страна": "Бразилия",
-    "Обжарка": "Фильтр",
-    "Регион": "Минас-Жерайс",
-    "Обработка": "Анаэробная",
-    "Разновидность": "Красный Катуаи, Кастийо, Каттура"
-   },
+   "description": "",
+   "image": "https://kofeop.ru/upload/iblock/44f/nb1rnwjtmkuqx2vfwpxcmna8n63gp0kw.png",
+   "category": "",
+   "specs": {},
    "gallery": [],
    "available": true,
    "variants": [
-    {
-     "weight_g": null,
-     "price": 790.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2580.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2680.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2410.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2510.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2380.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 890.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 830.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2570.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 890.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2680.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 850.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://kofeop.ru/catalog/coffee/dlya-doma/",
-   "name": "Кофе в зернах",
-   "description": "Кофе Для дома - купить спешелти кофе в зернах по цене от производителя в интернет-магазине в Челябинске с доставкой. ✅ Заказать свежеобжаренный зерновой натуральный кофе Kofeop Roastery. ✅ Официальный сайт.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе Для дома",
-   "specs": {
-    "Страна": "Бразилия",
-    "Обжарка": "Фильтр",
-    "Регион": "Сидама",
-    "Обработка": "Натуральная",
-    "Разновидность": "Красный Катуаи"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 1070.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 918.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1190.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 750.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 980.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 890.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1230.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1160.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2560.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2680.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 750.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://kofeop.ru/catalog/coffee/dlya-kafe/",
-   "name": "Кофе в зернах",
-   "description": "Кофе Для кафе - купить спешелти кофе в зернах по цене от производителя в интернет-магазине в Челябинске с доставкой. ✅ Заказать свежеобжаренный зерновой натуральный кофе Kofeop Roastery. ✅ Официальный сайт.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе Для кафе",
-   "specs": {
-    "Страна": "Бразилия",
-    "Обжарка": "Фильтр",
-    "Регион": "Каука",
-    "Обработка": "мытая",
-    "Разновидность": "Катурра"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2560.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2570.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2790.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2700.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2680.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 790.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2410.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://kofeop.ru/catalog/coffee/braziliya/",
-   "name": "Кофе в зернах",
-   "description": "Кофе Бразилия в зернах - купить Бразилия спешелти кофе в зернах по цене от производителя в интернет-магазине в Челябинске с доставкой. ✅ Заказать свежеобжаренный зерновой натуральный кофе Kofeop Roastery. ✅ Официальный сайт.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе Бразилия в зернах",
-   "specs": {
-    "Обжарка": "Фильтр",
-    "Страна": "Бразилия",
-    "Регион": "Минас-Жерайс",
-    "Обработка": "Анаэробная",
-    "Разновидность": "Эфиопское наследие"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 790.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 750.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2580.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2510.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 980.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1190.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2510.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 750.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://kofeop.ru/catalog/coffee/keniya/",
-   "name": "Кофе в зернах",
-   "description": "Кофе Кения - купить Кенийский спешелти кофе в зернах по цене от производителя в интернет-магазине в Челябинске с доставкой. ✅ Заказать свежеобжаренный зерновой натуральный кофе Kofeop Roastery. ✅ Официальный сайт.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кенийский зерновой кофе",
-   "specs": {
-    "Обжарка": "Фильтр",
-    "Страна": "Кения",
-    "Регион": "Ньери",
-    "Обработка": "Мытая",
-    "Разновидность": "Мундо Ново"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 918.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 890.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 830.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1230.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2510.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://kofeop.ru/catalog/coffee/kolumbiya/",
-   "name": "Кофе в зернах",
-   "description": "Кофе Колумбия в зернах - купить Колумбия спешелти кофе в зернах по цене от производителя в интернет-магазине в Челябинске с доставкой. ✅ Заказать свежеобжаренный зерновой натуральный кофе Kofeop Roastery. ✅ Официальный сайт.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе Колумбия в зернах",
-   "specs": {
-    "Обжарка": "Фильтр",
-    "Страна": "Колумбия",
-    "Регион": "Гуадалупе",
-    "Обработка": "Натуральная",
-    "Разновидность": "Катуаи"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 1190.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2700.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1160.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2510.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2570.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 830.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://kofeop.ru/catalog/coffee/kofe-v-zernah-nikaragua/",
-   "name": "Кофе в зернах",
-   "description": "Кофе Никарагуа в зернах - купить Никарагуа спешелти кофе в зернах по цене от производителя в интернет-магазине в Челябинске с доставкой. ✅ Заказать свежеобжаренный зерновой натуральный кофе Kofeop Roastery. ✅ Официальный сайт.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе Никарагуа в зернах",
-   "specs": {
-    "Обжарка": "Фильтр",
-    "Страна": "Никарагуа",
-    "Регион": "Хинотега",
-    "Обработка": "Мытая",
-    "Разновидность": "Катурра, Типика, Кастийо"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 2680.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2700.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1230.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 790.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://kofeop.ru/catalog/coffee/peru/",
-   "name": "Кофе в зернах",
-   "description": "Кофе Перу в зернах - купить Перу спешелти кофе в зернах по цене от производителя в интернет-магазине в Челябинске с доставкой. ✅ Заказать свежеобжаренный зерновой натуральный кофе Kofeop Roastery. ✅ Официальный сайт.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе Перу в зернах",
-   "specs": {
-    "Страна": "Бразилия",
-    "Обжарка": "Фильтр",
-    "Регион": "Сидама",
-    "Обработка": "Натуральная",
-    "Разновидность": "Мундо Ново"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 1070.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 918.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 790.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1190.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 750.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 980.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2580.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2560.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2680.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 890.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2410.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2790.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2570.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1230.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2700.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2510.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2380.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1160.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 890.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 830.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2510.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2680.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2700.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 790.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 918.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2580.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://kofeop.ru/catalog/coffee/salvador/",
-   "name": "Кофе в зернах",
-   "description": "Кофе Сальвадор в зернах - купить Сальвадор спешелти кофе в зернах по цене от производителя в интернет-магазине в Челябинске с доставкой. ✅ Заказать свежеобжаренный зерновой натуральный кофе Kofeop Roastery. ✅ Официальный сайт.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе Сальвадор в зернах",
-   "specs": {
-    "Обжарка": "Фильтр",
-    "Страна": "Сальвадор",
-    "Регион": "Апанека-Иламатепек",
-    "Обработка": "Анаэробная",
-    "Разновидность": "Катурра"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 980.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1160.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 890.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 890.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://kofeop.ru/catalog/coffee/smes/",
-   "name": "Кофе в зернах",
-   "description": "Кофе Смесь в зернах - купить Смесь спешелти кофе в зернах по цене от производителя в интернет-магазине в Челябинске с доставкой. ✅ Заказать свежеобжаренный зерновой натуральный кофе Kofeop Roastery. ✅ Официальный сайт.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе Смесь в зернах",
-   "specs": {
-    "Обжарка": "Фильтр",
-    "Страна": "Смесь",
-    "Регион": "Серрадо",
-    "Обработка": "сухая",
-    "Разновидность": "Катурра, Кастийо, Типика"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 2560.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2410.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2570.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2380.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2580.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 890.0,
-     "available": true
-    },
     {
      "weight_g": null,
      "price": 800.0,
@@ -1205,718 +590,10 @@
   {
    "url": "https://kofeop.ru/catalog/coffee/efiopiya/",
    "name": "Кофе в зернах",
-   "description": "Кофе Эфиопия - купить Эфиопский спешелти кофе в зернах по цене от производителя оптом и в розницу в интернет-магазине в Челябинске с доставкой. ✅ Заказать свежеобжаренный зерновой натуральный кофе Kofeop Roastery. ✅ Официальный сайт.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе Эфиопия в зернах",
-   "specs": {
-    "Обжарка": "Фильтр",
-    "Страна": "Эфиопия",
-    "Регион": "Сидама",
-    "Обработка": "Натуральная",
-    "Разновидность": "Катуаи, Робуста"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 1070.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2790.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 890.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2410.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 790.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2380.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2790.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://kofeop.ru/catalog/coffee/1-kg/",
-   "name": "Кофе в зернах",
-   "description": "Кофе в зернах 1 кг - купить зерновой кофе 1 килограмм ☕ по цене от производителя в интернет-магазине в Челябинске с доставкой по России. ✅ Заказать кофе в зёрнах недорого. ✅ Официальный сайт Kofeop Roastery.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе в зернах 1 кг",
-   "specs": {
-    "Страна": "Бразилия",
-    "Обжарка": "Фильтр",
-    "Регион": "Каука",
-    "Обработка": "мытая",
-    "Разновидность": "Красный Катуаи"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 3270.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2580.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2560.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2680.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3420.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2410.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2790.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2570.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3080.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2700.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2510.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2380.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2560.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 850.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://kofeop.ru/catalog/coffee/250-g/",
-   "name": "Кофе в зернах",
-   "description": "Кофе в зернах 250 г - купить зерновой кофе 250 г ☕ по цене от производителя в интернет-магазине в Челябинске с доставкой по России. ✅ Заказать кофе в зёрнах недорого. ✅ Официальный сайт Kofeop Roastery.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе в зернах 250 г",
-   "specs": {
-    "Страна": "Бразилия",
-    "Обжарка": "Фильтр",
-    "Регион": "Сидама",
-    "Обработка": "Натуральная",
-    "Разновидность": "SL-28"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 1070.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 918.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1190.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 750.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 680.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 940.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 670.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 700.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 890.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 690.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 640.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 730.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 670.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1230.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 710.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 660.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 630.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1160.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 918.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1230.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2510.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2570.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://kofeop.ru/catalog/coffee/ochen-vysokaya-kislotnost/",
-   "name": "Кофе в зернах",
-   "description": "Кофе с кислотностью Очень высокая - купить кофе в зернах по цене от производителя в интернет-магазине в Челябинске с доставкой по всей России. ✅ Заказать свежеобжаренный зерновой натуральный кофе Kofeop Roastery. ✅ Официальный сайт.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе с кислотностью Очень высокая",
-   "specs": {
-    "Страна": "Бразилия",
-    "Обжарка": "Фильтр",
-    "Регион": "Армения",
-    "Обработка": "мытая",
-    "Разновидность": "Жёлтый Бурбон, Катуаи"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 2700.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2580.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1070.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2680.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 890.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://kofeop.ru/catalog/coffee/vysokaya-kislotnost/",
-   "name": "Кофе в зернах",
-   "description": "Кофе с высокой кислотностью - купить кофе в зернах по цене от производителя в интернет-магазине в Челябинске с доставкой по всей России. ✅ Заказать свежеобжаренный зерновой натуральный кофе Kofeop Roastery. ✅ Официальный сайт.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе с высокой кислотностью",
-   "specs": {
-    "Страна": "Бразилия",
-    "Обжарка": "Фильтр",
-    "Регион": "Ньери",
-    "Обработка": "Мытая",
-    "Разновидность": "Катурра"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 918.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 890.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2790.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1230.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 830.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2680.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2560.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2380.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2700.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://kofeop.ru/catalog/coffee/srednyaya-kislotnost/",
-   "name": "Кофе в зернах",
-   "description": "Кофе с кислотностью Средняя - купить кофе в зернах по цене от производителя в интернет-магазине в Челябинске с доставкой по всей России. ✅ Заказать свежеобжаренный зерновой натуральный кофе Kofeop Roastery. ✅ Официальный сайт.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе с кислотностью Средняя",
-   "specs": {
-    "Страна": "Бразилия",
-    "Обжарка": "Фильтр",
-    "Регион": "Сидама",
-    "Обработка": "Натуральная",
-    "Разновидность": "Эфиопское наследие"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 1070.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 790.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1190.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 750.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 980.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2560.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2570.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2510.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1160.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 890.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1070.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 830.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2790.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 800.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://kofeop.ru/catalog/coffee/nizkaya-kislotnost/",
-   "name": "Кофе в зернах",
-   "description": "Кофе с кислотностью Низкая - купить кофе в зернах по цене от производителя в интернет-магазине в Челябинске с доставкой по всей России. ✅ Заказать свежеобжаренный зерновой натуральный кофе Kofeop Roastery. ✅ Официальный сайт.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе с кислотностью Низкая",
-   "specs": {
-    "Страна": "Бразилия",
-    "Обжарка": "Фильтр",
-    "Регион": "Монтекуэрра де Минас, Серрадо",
-    "Обработка": "Натуральная",
-    "Разновидность": "Эфиопское наследие"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 2580.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2680.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2410.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 890.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2570.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1070.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://kofeop.ru/catalog/coffee/ochen-nizkaya-kislotnost/",
-   "name": "Кофе в зернах",
-   "description": "Кофе с кислотностью Очень низкая - купить кофе в зернах по цене от производителя в интернет-магазине в Челябинске с доставкой по всей России. ✅ Заказать свежеобжаренный зерновой натуральный кофе Kofeop Roastery. ✅ Официальный сайт.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе с кислотностью Очень низкая",
-   "specs": {
-    "Страна": "Бразилия",
-    "Обжарка": "Фильтр",
-    "Регион": "Серрадо, Каапи",
-    "Обработка": "сухая",
-    "Разновидность": "Катурра"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 2380.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1160.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 890.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1070.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2580.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://kofeop.ru/catalog/coffee/srednyaya-sladost/",
-   "name": "Кофе в зернах",
-   "description": "Кофе с Средняя сладостью - купить кофе в зернах по цене от производителя в интернет-магазине в Челябинске с доставкой по всей России. ✅ Заказать свежеобжаренный зерновой натуральный кофе Kofeop Roastery. ✅ Официальный сайт.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе со сладостью Средняя",
-   "specs": {
-    "Страна": "Бразилия",
-    "Обжарка": "Фильтр",
-    "Регион": "Сидама",
-    "Обработка": "Натуральная",
-    "Разновидность": "Катурра"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 1070.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 918.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2680.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 890.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1230.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2380.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 830.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2680.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 750.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2620.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://kofeop.ru/catalog/coffee/vysokaya-sladost/",
-   "name": "Кофе в зернах",
-   "description": "Кофе с высокой сладостью - купить кофе в зернах по цене от производителя в интернет-магазине в Челябинске с доставкой по всей России. ✅ Заказать свежеобжаренный зерновой натуральный кофе Kofeop Roastery. ✅ Официальный сайт.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе с высокой сладостью",
-   "specs": {
-    "Страна": "Бразилия",
-    "Обжарка": "Фильтр",
-    "Регион": "Минас-Жерайс",
-    "Обработка": "Анаэробная",
-    "Разновидность": "Батиан, Руиру 11, SL 28 и SL 34"
-   },
+   "description": "",
+   "image": "https://kofeop.ru/upload/iblock/44f/nb1rnwjtmkuqx2vfwpxcmna8n63gp0kw.png",
+   "category": "",
+   "specs": {},
    "gallery": [],
    "available": true,
    "variants": [
@@ -1924,306 +601,19 @@
      "weight_g": null,
      "price": 790.0,
      "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1190.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 750.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2580.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2560.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2410.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2570.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2790.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2700.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2510.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1160.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 890.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2790.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 830.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2510.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 750.0,
-     "available": true
     }
    ]
   },
   {
-   "url": "https://kofeop.ru/catalog/coffee/ochen-vysokaya-sladost/",
+   "url": "https://kofeop.ru/catalog/coffee/smes/",
    "name": "Кофе в зернах",
-   "description": "Кофе с Очень высокая сладостью - купить кофе в зернах по цене от производителя в интернет-магазине в Челябинске с доставкой по всей России. ✅ Заказать свежеобжаренный зерновой натуральный кофе Kofeop Roastery. ✅ Официальный сайт.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе со сладостью Очень высокая",
-   "specs": {
-    "Страна": "Бразилия",
-    "Обжарка": "Фильтр",
-    "Регион": "Апанека-Иламатепек",
-    "Обработка": "Анаэробная",
-    "Разновидность": "Катурра"
-   },
+   "description": "",
+   "image": "https://kofeop.ru/upload/iblock/44f/nb1rnwjtmkuqx2vfwpxcmna8n63gp0kw.png",
+   "category": "",
+   "specs": {},
    "gallery": [],
    "available": true,
    "variants": [
-    {
-     "weight_g": null,
-     "price": 980.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2680.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2380.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2790.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://kofeop.ru/catalog/coffee/voronka/",
-   "name": "Кофе в зернах",
-   "description": "Кофе в зернах для воронки (пуровера) - купить зерновой кофе для приготовления в Воронка по цене от производителя в интернет-магазине в Челябинске с доставкой по России. ✅ Заказать хороший свежеобжаренный спешелти натуральный вкусный премиальный кофе для кофемашины и Воронка недорого. ✅ Официальный сайт Kofeop Roastery.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе для воронки (пуровера)",
-   "specs": {
-    "Страна": "Бразилия",
-    "Обжарка": "Фильтр",
-    "Регион": "Сидама",
-    "Обработка": "Натуральная",
-    "Разновидность": "Батиан, Руиру 11, SL 28 и SL 34"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 1070.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 918.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1190.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 750.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 890.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1230.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1160.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 890.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2680.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2570.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1070.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://kofeop.ru/catalog/coffee/kofevarka-kapelnaya/",
-   "name": "Кофе в зернах",
-   "description": "Кофе в зернах для кофеварки капельной - купить зерновой кофе для приготовления в Кофеварка капельная по цене от производителя в интернет-магазине в Челябинске с доставкой по России. ✅ Заказать хороший свежеобжаренный спешелти натуральный вкусный премиальный кофе для Кофеварка капельная недорого. ✅ Официальный сайт Kofeop Roastery.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе в зернах для кофеварки капельной",
-   "specs": {
-    "Страна": "Бразилия",
-    "Обжарка": "Фильтр",
-    "Регион": "Сидама",
-    "Обработка": "Натуральная",
-    "Разновидность": "Красный Катуаи"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 1070.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 918.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1190.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 750.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 890.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1230.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1160.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2560.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 850.0,
-     "available": true
-    },
     {
      "weight_g": null,
      "price": 800.0,
@@ -2232,644 +622,18 @@
    ]
   },
   {
-   "url": "https://kofeop.ru/catalog/coffee/turka/",
+   "url": "https://kofeop.ru/catalog/coffee/salvador/",
    "name": "Кофе в зернах",
-   "description": "Кофе в зернах для турки - купить зерновой кофе для приготовления в турке (джезвы) по цене от производителя в интернет-магазине в Челябинске с доставкой по России. ✅ Заказать хороший свежеобжаренный спешелти натуральный вкусный премиальный кофе для кофемашины и турки недорого. ✅ Официальный сайт Kofeop Roastery.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе в зернах для турки",
-   "specs": {
-    "Страна": "Бразилия",
-    "Обжарка": "Фильтр",
-    "Регион": "Сидама",
-    "Обработка": "Натуральная",
-    "Разновидность": "Красный Бурбон"
-   },
+   "description": "",
+   "image": "https://kofeop.ru/upload/iblock/44f/nb1rnwjtmkuqx2vfwpxcmna8n63gp0kw.png",
+   "category": "",
+   "specs": {},
    "gallery": [],
    "available": true,
    "variants": [
     {
      "weight_g": null,
-     "price": 1070.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 918.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 750.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
      "price": 850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 890.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1230.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1160.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1230.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 750.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 800.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://kofeop.ru/catalog/coffee/kofe-v-zernakh-dlya-kofemashiny/",
-   "name": "Кофе в зернах",
-   "description": "Кофе в зернах для кофемашины - купить зерновой кофе для кофемашины по цене от производителя в интернет-магазине в Челябинске с доставкой по России. ✅ Заказать вкусный кофе для кофемашины недорого. ✅ Официальный сайт Kofeop Roastery.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе в зернах для кофемашины",
-   "specs": {
-    "Страна": "Бразилия",
-    "Обжарка": "Фильтр",
-    "Регион": "Ньери",
-    "Обработка": "Мытая",
-    "Разновидность": "Катуаи, Робуста"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 918.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2580.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2560.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2680.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 890.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2410.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2570.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2790.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2700.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2510.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2380.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2410.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 890.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 830.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1190.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://kofeop.ru/catalog/coffee/french-press/",
-   "name": "Кофе в зернах",
-   "description": "Кофе в зернах для Френч-пресс - купить зерновой кофе для приготовления в Френч-пресс по цене от производителя в интернет-магазине в Челябинске с доставкой по России. ✅ Заказать хороший свежеобжаренный спешелти натуральный вкусный премиальный кофе для кофемашины и Френч-пресс недорого. ✅ Официальный сайт Kofeop Roastery.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе в зернах Френч-пресс",
-   "specs": {
-    "Страна": "Бразилия",
-    "Обжарка": "Фильтр",
-    "Регион": "Сидама",
-    "Обработка": "Натуральная",
-    "Разновидность": "Параизо, Аранас"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 1070.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 918.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1190.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 750.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 890.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1230.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1160.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 750.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2680.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2700.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://kofeop.ru/catalog/coffee/v-chashke/",
-   "name": "Кофе в зернах",
-   "description": "Кофе в зернах для В чашке - купить зерновой кофе для приготовления в В чашке по цене от производителя в интернет-магазине в Челябинске с доставкой по России. ✅ Заказать хороший свежеобжаренный спешелти натуральный вкусный премиальный кофе для кофемашины и В чашке недорого. ✅ Официальный сайт Kofeop Roastery.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе в зернах В чашке",
-   "specs": {
-    "Страна": "Бразилия",
-    "Обжарка": "Фильтр",
-    "Регион": "Сидама",
-    "Обработка": "Натуральная",
-    "Разновидность": "Катурра, Типика, Кастийо"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 1070.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 918.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 790.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1190.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 750.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 980.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 890.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1230.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1160.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 890.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 830.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2700.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 890.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 830.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 800.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://kofeop.ru/catalog/coffee/geyzer/",
-   "name": "Кофе в зернах",
-   "description": "Кофе в зернах для Гейзер - купить зерновой кофе для приготовления в Гейзер по цене от производителя в интернет-магазине в Челябинске с доставкой по России. ✅ Заказать хороший свежеобжаренный спешелти натуральный вкусный премиальный кофе для кофемашины и Гейзер недорого. ✅ Официальный сайт Kofeop Roastery.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе в зернах Гейзер",
-   "specs": {
-    "Страна": "Бразилия",
-    "Обжарка": "Фильтр",
-    "Регион": "Сидама",
-    "Обработка": "Натуральная",
-    "Разновидность": "Эфиопское наследие"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 1070.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 918.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1190.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 750.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2580.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2560.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2680.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 890.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2410.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2790.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2570.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1230.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2700.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2510.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2380.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1070.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2410.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2510.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 800.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://kofeop.ru/catalog/coffee/espresso/",
-   "name": "Кофе в зернах",
-   "description": "Кофе в зернах для Эспрессо - купить зерновой кофе для приготовления в Эспрессо по цене от производителя в интернет-магазине в Челябинске с доставкой по России. ✅ Заказать хороший свежеобжаренный спешелти натуральный вкусный премиальный кофе для кофемашины и Эспрессо недорого. ✅ Официальный сайт Kofeop Roastery.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе в зернах Эспрессо",
-   "specs": {
-    "Страна": "Бразилия",
-    "Обжарка": "Фильтр",
-    "Регион": "Ньери",
-    "Обработка": "Мытая",
-    "Разновидность": "Батиан, Руиру 11, SL 28 и SL 34"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 918.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 750.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2580.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2560.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2680.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 890.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2410.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2570.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2790.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2700.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2510.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2380.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 890.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2570.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2680.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 750.0,
      "available": true
     }
    ]
@@ -2877,44 +641,13 @@
   {
    "url": "https://kofeop.ru/catalog/coffee/rozhkovaya-kofemashina/",
    "name": "Кофе в зернах",
-   "description": "Кофе для рожковой кофеварки в зернах - купить зерновой кофе по цене от производителя в интернет-магазине в Челябинске с доставкой по России. ✅ Заказать свежеобжаренный спешелти кофе для рожковой кофеварки и кофемашин недорого. ✅ Официальный сайт Kofeop Roastery.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе для рожковой кофеварки в зернах",
-   "specs": {
-    "Страна": "Бразилия",
-    "Обжарка": "Фильтр",
-    "Регион": "Ньери",
-    "Обработка": "Мытая",
-    "Разновидность": "Cenicafe 1"
-   },
+   "description": "",
+   "image": "https://kofeop.ru/upload/iblock/44f/nb1rnwjtmkuqx2vfwpxcmna8n63gp0kw.png",
+   "category": "",
+   "specs": {},
    "gallery": [],
    "available": true,
    "variants": [
-    {
-     "weight_g": null,
-     "price": 918.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1190.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2580.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1230.0,
-     "available": true
-    },
     {
      "weight_g": null,
      "price": 790.0,
@@ -2923,1335 +656,32 @@
    ]
   },
   {
-   "url": "https://kofeop.ru/catalog/osnovnoy-kofe/voronka/",
-   "name": "Основной кофе в зернах",
-   "description": "Основной кофе Воронка - купить спешелти кофе в зернах свежей обжарки по цене от производителя в интернет-магазине в Челябинске с доставкой по всей России. ✅ Заказать specialty свежеобжаренный зерновой натуральный премиальный кофе для кофейни Kofeop Roastery. ✅ Официальный сайт.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе в зернах / Кофе в зернах / Основной кофе в зернах / Основной кофе в зернах / Кофе в зернах / Кофе в зернах / Основной кофе в зернах / Основной кофе в зернах / Основной кофе Воронка",
-   "specs": {
-    "Страна": "Бразилия",
-    "Обжарка": "Фильтр",
-    "Регион": "Каука",
-    "Обработка": "мытая",
-    "Разновидность": "Катуаи, Робуста"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2410.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2510.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2560.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://kofeop.ru/catalog/osnovnoy-kofe/kofevarka-kapelnaya/",
-   "name": "Основной кофе в зернах",
-   "description": "Основной кофе Кофеварка капельная - купить спешелти кофе в зернах свежей обжарки по цене от производителя в интернет-магазине в Челябинске с доставкой по всей России. ✅ Заказать specialty свежеобжаренный зерновой натуральный премиальный кофе для кофейни Kofeop Roastery. ✅ Официальный сайт.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе в зернах / Кофе в зернах / Основной кофе в зернах / Основной кофе в зернах / Кофе в зернах / Кофе в зернах / Основной кофе в зернах / Основной кофе в зернах / Основной кофе Кофеварка капельная",
-   "specs": {
-    "Страна": "Бразилия",
-    "Обжарка": "Фильтр",
-    "Регион": "Каука",
-    "Обработка": "мытая",
-    "Разновидность": "Катурра, Кастийо, Типика"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2410.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2380.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://kofeop.ru/catalog/osnovnoy-kofe/turka/",
-   "name": "Основной кофе в зернах",
-   "description": "Основной кофе Турка - купить спешелти кофе в зернах свежей обжарки по цене от производителя в интернет-магазине в Челябинске с доставкой по всей России. ✅ Заказать specialty свежеобжаренный зерновой натуральный премиальный кофе для кофейни Kofeop Roastery. ✅ Официальный сайт.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе в зернах / Кофе в зернах / Основной кофе в зернах / Основной кофе в зернах / Кофе в зернах / Кофе в зернах / Основной кофе в зернах / Основной кофе в зернах / Основной кофе Турка",
-   "specs": {
-    "Страна": "Бразилия",
-    "Обжарка": "Фильтр",
-    "Регион": "Каука",
-    "Обработка": "мытая",
-    "Разновидность": "Катуаи"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2510.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2700.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2580.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2410.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://kofeop.ru/catalog/osnovnoy-kofe/french-press/",
-   "name": "Основной кофе в зернах",
-   "description": "Основной кофе Френч-пресс - купить спешелти кофе в зернах свежей обжарки по цене от производителя в интернет-магазине в Челябинске с доставкой по всей России. ✅ Заказать specialty свежеобжаренный зерновой натуральный премиальный кофе для кофейни Kofeop Roastery. ✅ Официальный сайт.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе в зернах / Кофе в зернах / Основной кофе в зернах / Основной кофе в зернах / Кофе в зернах / Кофе в зернах / Основной кофе в зернах / Основной кофе в зернах / Основной кофе Френч-пресс",
-   "specs": {
-    "Страна": "Бразилия",
-    "Обжарка": "Фильтр",
-    "Регион": "Каука",
-    "Обработка": "мытая",
-    "Разновидность": "Жёлтый Бурбон, Катуаи"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2580.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2790.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2560.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2380.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://kofeop.ru/catalog/osnovnoy-kofe/v-chashke/",
-   "name": "Основной кофе в зернах",
-   "description": "Основной кофе В чашке - купить спешелти кофе в зернах свежей обжарки по цене от производителя в интернет-магазине в Челябинске с доставкой по всей России. ✅ Заказать specialty свежеобжаренный зерновой натуральный премиальный кофе для кофейни Kofeop Roastery. ✅ Официальный сайт.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе в зернах / Кофе в зернах / Основной кофе в зернах / Основной кофе в зернах / Кофе в зернах / Кофе в зернах / Основной кофе в зернах / Основной кофе в зернах / Основной кофе В чашке",
-   "specs": {
-    "Страна": "Бразилия",
-    "Обжарка": "Фильтр",
-    "Регион": "Каука",
-    "Обработка": "мытая",
-    "Разновидность": "Эфиопское наследие"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2510.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2680.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2410.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://kofeop.ru/catalog/osnovnoy-kofe/geyzer/",
-   "name": "Основной кофе в зернах",
-   "description": "Основной кофе Гейзер - купить спешелти кофе в зернах свежей обжарки по цене от производителя в интернет-магазине в Челябинске с доставкой по всей России. ✅ Заказать specialty свежеобжаренный зерновой натуральный премиальный кофе для кофейни Kofeop Roastery. ✅ Официальный сайт.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе в зернах / Кофе в зернах / Основной кофе в зернах / Основной кофе в зернах / Кофе в зернах / Кофе в зернах / Основной кофе в зернах / Основной кофе в зернах / Основной кофе Гейзер",
-   "specs": {
-    "Страна": "Бразилия",
-    "Обжарка": "Фильтр",
-    "Регион": "Каука",
-    "Обработка": "мытая",
-    "Разновидность": "Красный Катуаи, Кастийо, Каттура"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2580.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2560.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2680.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2410.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2790.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2570.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2700.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2510.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2380.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2570.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2510.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2580.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2620.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://kofeop.ru/catalog/osnovnoy-kofe/kofemashina/",
-   "name": "Основной кофе в зернах",
-   "description": "Основной кофе Кофемашина - купить спешелти кофе в зернах свежей обжарки по цене от производителя в интернет-магазине в Челябинске с доставкой по всей России. ✅ Заказать specialty свежеобжаренный зерновой натуральный премиальный кофе для кофейни Kofeop Roastery. ✅ Официальный сайт.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе в зернах / Кофе в зернах / Основной кофе в зернах / Основной кофе в зернах / Кофе в зернах / Кофе в зернах / Основной кофе в зернах / Основной кофе в зернах / Основной кофе Кофемашина",
-   "specs": {
-    "Страна": "Бразилия",
-    "Обжарка": "Фильтр",
-    "Регион": "Каука",
-    "Обработка": "мытая",
-    "Разновидность": "Жёлтый Бурбон, Катуаи"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2580.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2560.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2680.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2410.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2790.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2570.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2700.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2510.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2380.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2580.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2700.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 800.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://kofeop.ru/catalog/osnovnoy-kofe/espresso/",
-   "name": "Основной кофе в зернах",
-   "description": "Основной кофе Эспрессо - купить спешелти кофе в зернах свежей обжарки по цене от производителя в интернет-магазине в Челябинске с доставкой по всей России. ✅ Заказать specialty свежеобжаренный зерновой натуральный премиальный кофе для кофейни Kofeop Roastery. ✅ Официальный сайт.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе в зернах / Кофе в зернах / Основной кофе в зернах / Основной кофе в зернах / Кофе в зернах / Кофе в зернах / Основной кофе в зернах / Основной кофе в зернах / Основной кофе Эспрессо",
-   "specs": {
-    "Страна": "Бразилия",
-    "Обжарка": "Фильтр",
-    "Регион": "Каука",
-    "Обработка": "мытая",
-    "Разновидность": "Жёлтый Бурбон, Катуаи"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2580.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2560.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2680.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2410.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2790.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2570.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2700.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2510.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2380.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2580.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2380.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3620.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://kofeop.ru/catalog/osnovnoy-kofe/rozhkovaya-kofemashina/",
-   "name": "Основной кофе в зернах",
-   "description": "Основной кофе Рожковая кофемашина - купить спешелти кофе в зернах свежей обжарки по цене от производителя в интернет-магазине в Челябинске с доставкой по всей России. ✅ Заказать specialty свежеобжаренный зерновой натуральный премиальный кофе для кофейни Kofeop Roastery. ✅ Официальный сайт.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе в зернах / Кофе в зернах / Основной кофе в зернах / Основной кофе в зернах / Кофе в зернах / Кофе в зернах / Основной кофе в зернах / Основной кофе в зернах / Основной кофе Рожковая кофемашина",
-   "specs": {
-    "Страна": "Бразилия",
-    "Обжарка": "Фильтр",
-    "Регион": "Каука",
-    "Обработка": "мытая",
-    "Разновидность": "Катуаи, Робуста"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2410.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2680.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2790.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2580.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://kofeop.ru/catalog/osnovnoy-kofe-optom/voronka/",
-   "name": "Основной кофе оптом",
-   "description": "Основной кофе оптом в зернах Воронка - купить кофе в зернах по оптовым ценам от производителя для кофейни в интернет-магазине с доставкой. ✅ Заказать свежеобжаренный зерновой кофе Kofeop Roastery. ✅ Официальный сайт.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе оптом / Кофе оптом / Основной кофе оптом / Основной кофе оптом / Кофе оптом / Кофе оптом / Основной кофе оптом / Основной кофе оптом / Основной кофе оптом в зернах Воронка",
-   "specs": {
-    "Страна": "Бразилия",
-    "Обжарка": "Фильтр",
-    "Регион": "Каука",
-    "Обработка": "мытая",
-    "Разновидность": "Катурра, Кастийо, Типика"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2560.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 850.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://kofeop.ru/catalog/osnovnoy-kofe-optom/kofevarka-kapelnaya/",
-   "name": "Основной кофе оптом",
-   "description": "Основной кофе оптом в зернах Кофеварка капельная - купить кофе в зернах по оптовым ценам от производителя для кофейни в интернет-магазине с доставкой. ✅ Заказать свежеобжаренный зерновой кофе Kofeop Roastery. ✅ Официальный сайт.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе оптом / Кофе оптом / Основной кофе оптом / Основной кофе оптом / Кофе оптом / Кофе оптом / Основной кофе оптом / Основной кофе оптом / Основной кофе оптом в зернах Кофеварка капельная",
-   "specs": {
-    "Страна": "Бразилия",
-    "Обжарка": "Фильтр",
-    "Регион": "Каука",
-    "Обработка": "мытая",
-    "Разновидность": "Красный Катуаи, Робуста"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2380.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2570.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2620.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://kofeop.ru/catalog/osnovnoy-kofe-optom/turka/",
-   "name": "Основной кофе оптом",
-   "description": "Основной кофе оптом в зернах Турка - купить кофе в зернах по оптовым ценам от производителя для кофейни в интернет-магазине с доставкой. ✅ Заказать свежеобжаренный зерновой кофе Kofeop Roastery. ✅ Официальный сайт.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе оптом / Кофе оптом / Основной кофе оптом / Основной кофе оптом / Кофе оптом / Кофе оптом / Основной кофе оптом / Основной кофе оптом / Основной кофе оптом в зернах Турка",
-   "specs": {
-    "Страна": "Бразилия",
-    "Обжарка": "Фильтр",
-    "Регион": "Каука",
-    "Обработка": "мытая",
-    "Разновидность": "Мундо Ново"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2380.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2790.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 850.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://kofeop.ru/catalog/osnovnoy-kofe-optom/french-press/",
-   "name": "Основной кофе оптом",
-   "description": "Основной кофе оптом в зернах Френч-пресс - купить кофе в зернах по оптовым ценам от производителя для кофейни в интернет-магазине с доставкой. ✅ Заказать свежеобжаренный зерновой кофе Kofeop Roastery. ✅ Официальный сайт.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе оптом / Кофе оптом / Основной кофе оптом / Основной кофе оптом / Кофе оптом / Кофе оптом / Основной кофе оптом / Основной кофе оптом / Основной кофе оптом в зернах Френч-пресс",
-   "specs": {
-    "Страна": "Бразилия",
-    "Обжарка": "Фильтр",
-    "Регион": "Каука",
-    "Обработка": "мытая",
-    "Разновидность": "Красный Катуаи"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2560.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2510.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2700.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://kofeop.ru/catalog/osnovnoy-kofe-optom/v-chashke/",
-   "name": "Основной кофе оптом",
-   "description": "Основной кофе оптом в зернах В чашке - купить кофе в зернах по оптовым ценам от производителя для кофейни в интернет-магазине с доставкой. ✅ Заказать свежеобжаренный зерновой кофе Kofeop Roastery. ✅ Официальный сайт.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе оптом / Кофе оптом / Основной кофе оптом / Основной кофе оптом / Кофе оптом / Кофе оптом / Основной кофе оптом / Основной кофе оптом / Основной кофе оптом в зернах В чашке",
-   "specs": {
-    "Страна": "Бразилия",
-    "Обжарка": "Фильтр",
-    "Регион": "Каука",
-    "Обработка": "мытая",
-    "Разновидность": "Катуаи, Робуста"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2410.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2560.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2790.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://kofeop.ru/catalog/osnovnoy-kofe-optom/geyzer/",
-   "name": "Основной кофе оптом",
-   "description": "Основной кофе оптом в зернах Гейзер - купить кофе в зернах по оптовым ценам от производителя для кофейни в интернет-магазине с доставкой. ✅ Заказать свежеобжаренный зерновой кофе Kofeop Roastery. ✅ Официальный сайт.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе оптом / Кофе оптом / Основной кофе оптом / Основной кофе оптом / Кофе оптом / Кофе оптом / Основной кофе оптом / Основной кофе оптом / Основной кофе оптом в зернах Гейзер",
-   "specs": {
-    "Страна": "Бразилия",
-    "Обжарка": "Фильтр",
-    "Регион": "Каука",
-    "Обработка": "мытая",
-    "Разновидность": "Жёлтый Бурбон, Катуаи"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2580.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2560.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2680.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2410.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2790.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2570.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2700.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2510.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2380.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2580.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2560.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3620.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://kofeop.ru/catalog/osnovnoy-kofe-optom/kofemashina/",
-   "name": "Основной кофе оптом",
-   "description": "Основной кофе оптом в зернах Кофемашина - купить кофе в зернах по оптовым ценам от производителя для кофейни в интернет-магазине с доставкой. ✅ Заказать свежеобжаренный зерновой кофе Kofeop Roastery. ✅ Официальный сайт.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе оптом / Кофе оптом / Основной кофе оптом / Основной кофе оптом / Кофе оптом / Кофе оптом / Основной кофе оптом / Основной кофе оптом / Основной кофе оптом в зернах Кофемашина",
-   "specs": {
-    "Страна": "Бразилия",
-    "Обжарка": "Фильтр",
-    "Регион": "Каука",
-    "Обработка": "мытая",
-    "Разновидность": "Красный Катуаи"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2580.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2560.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2680.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2410.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2790.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2570.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2700.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2510.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2380.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2560.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2580.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2680.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2790.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://kofeop.ru/catalog/osnovnoy-kofe-optom/espresso/",
-   "name": "Основной кофе оптом",
-   "description": "Основной кофе оптом в зернах Эспрессо - купить кофе в зернах по оптовым ценам от производителя для кофейни в интернет-магазине с доставкой. ✅ Заказать свежеобжаренный зерновой кофе Kofeop Roastery. ✅ Официальный сайт.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе оптом / Кофе оптом / Основной кофе оптом / Основной кофе оптом / Кофе оптом / Кофе оптом / Основной кофе оптом / Основной кофе оптом / Основной кофе оптом в зернах Эспрессо",
-   "specs": {
-    "Страна": "Бразилия",
-    "Обжарка": "Фильтр",
-    "Регион": "Каука",
-    "Обработка": "мытая",
-    "Разновидность": "Катурра, Кастийо, Типика"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2580.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2560.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2680.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2410.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2790.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2570.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2700.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2510.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2380.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2380.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2700.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2570.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://kofeop.ru/catalog/osnovnoy-kofe-optom/rozhkovaya-kofemashina/",
-   "name": "Основной кофе оптом",
-   "description": "Основной кофе оптом в зернах Рожковая кофемашина - купить кофе в зернах по оптовым ценам от производителя для кофейни в интернет-магазине с доставкой. ✅ Заказать свежеобжаренный зерновой кофе Kofeop Roastery. ✅ Официальный сайт.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе оптом / Кофе оптом / Основной кофе оптом / Основной кофе оптом / Кофе оптом / Кофе оптом / Основной кофе оптом / Основной кофе оптом / Основной кофе оптом в зернах Рожковая кофемашина",
-   "specs": {
-    "Страна": "Бразилия",
-    "Обжарка": "Фильтр",
-    "Регион": "Каука",
-    "Обработка": "мытая",
-    "Разновидность": "Красный Катуаи, Кастийо, Каттура"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2570.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2790.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2510.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://kofeop.ru/catalog/coffee/obzharka-espresso/",
+   "url": "https://kofeop.ru/catalog/coffee/kofe-v-zernah-nikaragua/",
    "name": "Кофе в зернах",
-   "description": "Обжарка кофе в зернах Эспрессо - купить зерновой кофе Эспрессо ☕ по цене от производителя в интернет-магазине в Челябинске с доставкой по России. ✅ Заказать кофе в зёрнах недорого. ✅ Официальный сайт Kofeop Roastery.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе в зернах / Обжарка кофе в зернах Эспрессо",
-   "specs": {
-    "Страна": "Бразилия",
-    "Обжарка": "Эспрессо",
-    "Регион": "Ньери",
-    "Обработка": "Мытая",
-    "Разновидность": "Красный Катуаи"
-   },
+   "description": "",
+   "image": "https://kofeop.ru/upload/iblock/44f/nb1rnwjtmkuqx2vfwpxcmna8n63gp0kw.png",
+   "category": "",
+   "specs": {},
    "gallery": [],
    "available": true,
    "variants": [
     {
      "weight_g": null,
-     "price": 918.0,
+     "price": 790.0,
      "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2580.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2560.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2680.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 890.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2410.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2790.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2570.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2700.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2510.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2380.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2560.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2570.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2510.0,
-     "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://kofeop.ru/catalog/coffee/kolumbiya/",
+   "name": "Кофе в зернах",
+   "description": "",
+   "image": "https://kofeop.ru/upload/iblock/44f/nb1rnwjtmkuqx2vfwpxcmna8n63gp0kw.png",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
      "price": 800.0,
@@ -4260,84 +690,35 @@
    ]
   },
   {
-   "url": "https://kofeop.ru/catalog/coffee/filtr/",
+   "url": "https://kofeop.ru/catalog/coffee/keniya/",
    "name": "Кофе в зернах",
-   "description": "Обжарка кофе в зернах Фильтр - купить зерновой кофе Фильтр ☕ по цене от производителя в интернет-магазине в Челябинске с доставкой по России. ✅ Заказать кофе в зёрнах недорого. ✅ Официальный сайт Kofeop Roastery.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе в зернах / Обжарка кофе в зернах Фильтр",
-   "specs": {
-    "Страна": "Бразилия",
-    "Обжарка": "Фильтр",
-    "Регион": "Сидама",
-    "Обработка": "Натуральная",
-    "Разновидность": "Катуаи"
-   },
+   "description": "",
+   "image": "https://kofeop.ru/upload/iblock/44f/nb1rnwjtmkuqx2vfwpxcmna8n63gp0kw.png",
+   "category": "",
+   "specs": {},
    "gallery": [],
    "available": true,
    "variants": [
-    {
-     "weight_g": null,
-     "price": 1070.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 918.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1190.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 750.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 890.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1230.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1160.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2510.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 800.0,
-     "available": true
-    },
     {
      "weight_g": null,
      "price": 830.0,
      "available": true
-    },
+    }
+   ]
+  },
+  {
+   "url": "https://kofeop.ru/catalog/coffee/braziliya/",
+   "name": "Кофе в зернах",
+   "description": "",
+   "image": "https://kofeop.ru/upload/iblock/44f/nb1rnwjtmkuqx2vfwpxcmna8n63gp0kw.png",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
     {
      "weight_g": null,
-     "price": 890.0,
+     "price": 750.0,
      "available": true
     }
    ]
@@ -4345,77 +726,16 @@
   {
    "url": "https://kofeop.ru/catalog/coffee/espresso/braziliya/",
    "name": "Кофе в зернах",
-   "description": "Кофе в зернах Эспрессо Бразилия купить по цене от производителя на официальном сайте интернет-магазина Kofeop Roastery.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе в зернах Эспрессо Бразилия",
-   "specs": {
-    "Обжарка": "Фильтр",
-    "Страна": "Бразилия",
-    "Регион": "Минас-Жерайс",
-    "Обработка": "Ферментированная",
-    "Разновидность": "Батиан, Руиру 11, SL 28 и SL 34"
-   },
+   "description": "",
+   "image": "https://kofeop.ru/upload/iblock/44f/nb1rnwjtmkuqx2vfwpxcmna8n63gp0kw.png",
+   "category": "",
+   "specs": {},
    "gallery": [],
    "available": true,
    "variants": [
     {
      "weight_g": null,
      "price": 750.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2580.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2510.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 890.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2570.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 790.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2680.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2700.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 980.0,
      "available": true
     }
    ]
@@ -4423,67 +743,16 @@
   {
    "url": "https://kofeop.ru/catalog/coffee/espresso/keniya/",
    "name": "Кофе в зернах",
-   "description": "Кофе в зернах Эспрессо Кения купить по цене от производителя на официальном сайте интернет-магазина Kofeop Roastery.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе в зернах Эспрессо Кения",
-   "specs": {
-    "Обжарка": "Фильтр",
-    "Страна": "Кения",
-    "Регион": "Ньери",
-    "Обработка": "Мытая",
-    "Разновидность": "Эфиопское наследие"
-   },
+   "description": "",
+   "image": "https://kofeop.ru/upload/iblock/44f/nb1rnwjtmkuqx2vfwpxcmna8n63gp0kw.png",
+   "category": "",
+   "specs": {},
    "gallery": [],
    "available": true,
    "variants": [
     {
      "weight_g": null,
-     "price": 918.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 890.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
      "price": 800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 830.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2380.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1230.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2700.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2570.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1190.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 830.0,
      "available": true
     }
    ]
@@ -4491,72 +760,16 @@
   {
    "url": "https://kofeop.ru/catalog/coffee/espresso/kolumbiya/",
    "name": "Кофе в зернах",
-   "description": "Кофе в зернах Эспрессо Колумбия купить по цене от производителя на официальном сайте интернет-магазина Kofeop Roastery.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе в зернах Эспрессо Колумбия",
-   "specs": {
-    "Обжарка": "Фильтр",
-    "Страна": "Колумбия",
-    "Регион": "Каука",
-    "Обработка": "мытая",
-    "Разновидность": "SL-28"
-   },
+   "description": "",
+   "image": "https://kofeop.ru/upload/iblock/44f/nb1rnwjtmkuqx2vfwpxcmna8n63gp0kw.png",
+   "category": "",
+   "specs": {},
    "gallery": [],
    "available": true,
    "variants": [
     {
      "weight_g": null,
-     "price": 850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2700.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 918.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1070.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2680.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2700.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
      "price": 790.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 980.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2510.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2570.0,
      "available": true
     }
    ]
@@ -4564,62 +777,16 @@
   {
    "url": "https://kofeop.ru/catalog/coffee/espresso/nikaragua/",
    "name": "Кофе в зернах",
-   "description": "Кофе в зернах Эспрессо Никарагуа купить по цене от производителя на официальном сайте интернет-магазина Kofeop Roastery.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе в зернах Эспрессо Никарагуа",
-   "specs": {
-    "Обжарка": "Фильтр",
-    "Страна": "Никарагуа",
-    "Регион": "Хинотега",
-    "Обработка": "Мытая",
-    "Разновидность": "Параизо, Аранас"
-   },
+   "description": "",
+   "image": "https://kofeop.ru/upload/iblock/44f/nb1rnwjtmkuqx2vfwpxcmna8n63gp0kw.png",
+   "category": "",
+   "specs": {},
    "gallery": [],
    "available": true,
    "variants": [
     {
      "weight_g": null,
-     "price": 2680.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2790.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
      "price": 750.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 790.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 890.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1190.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 750.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 830.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2790.0,
      "available": true
     }
    ]
@@ -4627,77 +794,16 @@
   {
    "url": "https://kofeop.ru/catalog/coffee/espresso/smes/",
    "name": "Кофе в зернах",
-   "description": "Кофе в зернах Эспрессо Смесь купить по цене от производителя на официальном сайте интернет-магазина Kofeop Roastery.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе в зернах Эспрессо Смесь",
-   "specs": {
-    "Обжарка": "Фильтр",
-    "Страна": "Смесь",
-    "Регион": "Серрадо",
-    "Обработка": "сухая",
-    "Разновидность": "Красный Катуаи, Робуста"
-   },
+   "description": "",
+   "image": "https://kofeop.ru/upload/iblock/44f/nb1rnwjtmkuqx2vfwpxcmna8n63gp0kw.png",
+   "category": "",
+   "specs": {},
    "gallery": [],
    "available": true,
    "variants": [
     {
      "weight_g": null,
-     "price": 2560.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2410.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2570.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2380.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2790.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2380.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 890.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2410.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 980.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
      "price": 800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2380.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1230.0,
      "available": true
     }
    ]
@@ -4705,67 +811,16 @@
   {
    "url": "https://kofeop.ru/catalog/coffee/espresso/efiopiya/",
    "name": "Кофе в зернах",
-   "description": "Кофе в зернах Эспрессо Эфиопия купить по цене от производителя на официальном сайте интернет-магазина Kofeop Roastery.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе в зернах Эспрессо Эфиопия",
-   "specs": {
-    "Обжарка": "Фильтр",
-    "Страна": "Эфиопия",
-    "Регион": "Сидамо",
-    "Обработка": "мытая",
-    "Разновидность": "Катурра, Кастилло"
-   },
+   "description": "",
+   "image": "https://kofeop.ru/upload/iblock/44f/nb1rnwjtmkuqx2vfwpxcmna8n63gp0kw.png",
+   "category": "",
+   "specs": {},
    "gallery": [],
    "available": true,
    "variants": [
     {
      "weight_g": null,
-     "price": 2790.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
      "price": 800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2570.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2700.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2410.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2580.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 890.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 980.0,
      "available": true
     }
    ]
@@ -4773,52 +828,16 @@
   {
    "url": "https://kofeop.ru/catalog/coffee/braziliya/1-kg/",
    "name": "Кофе в зернах",
-   "description": "Кофе Бразилия 1кг в зернах купить по цене от производителя на официальном сайте интернет-магазина Kofeop Roastery.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе Бразилия 1кг в зернах",
-   "specs": {
-    "Обжарка": "Фильтр",
-    "Страна": "Бразилия",
-    "Регион": "Монтекуэрра де Минас, Серрадо",
-    "Обработка": "Натуральная",
-    "Разновидность": "Красный Бурбон"
-   },
+   "description": "",
+   "image": "https://kofeop.ru/upload/iblock/44f/nb1rnwjtmkuqx2vfwpxcmna8n63gp0kw.png",
+   "category": "",
+   "specs": {},
    "gallery": [],
    "available": true,
    "variants": [
     {
      "weight_g": null,
-     "price": 2580.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2510.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1230.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 980.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
      "price": 800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 850.0,
      "available": true
     }
    ]
@@ -4826,42 +845,16 @@
   {
    "url": "https://kofeop.ru/catalog/coffee/keniya/1-kg/",
    "name": "Кофе в зернах",
-   "description": "Кофе Кения 1кг в зернах купить по цене от производителя на официальном сайте интернет-магазина Kofeop Roastery.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе Кения 1кг в зернах",
-   "specs": {
-    "Обжарка": "Фильтр",
-    "Страна": "Кения",
-    "Регион": "Ньери",
-    "Обработка": "Мытая",
-    "Разновидность": "Катурра"
-   },
+   "description": "",
+   "image": "https://kofeop.ru/upload/iblock/44f/nb1rnwjtmkuqx2vfwpxcmna8n63gp0kw.png",
+   "category": "",
+   "specs": {},
    "gallery": [],
    "available": true,
    "variants": [
     {
      "weight_g": null,
-     "price": 3420.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2680.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
      "price": 800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2380.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2620.0,
      "available": true
     }
    ]
@@ -4869,52 +862,16 @@
   {
    "url": "https://kofeop.ru/catalog/coffee/kolumbiya/1-kg/",
    "name": "Кофе в зернах",
-   "description": "Кофе Колумбия 1кг в зернах купить по цене от производителя на официальном сайте интернет-магазина Kofeop Roastery.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе Колумбия 1кг в зернах",
-   "specs": {
-    "Обжарка": "Фильтр",
-    "Страна": "Колумбия",
-    "Регион": "Каука",
-    "Обработка": "мытая",
-    "Разновидность": "Катуаи"
-   },
+   "description": "",
+   "image": "https://kofeop.ru/upload/iblock/44f/nb1rnwjtmkuqx2vfwpxcmna8n63gp0kw.png",
+   "category": "",
+   "specs": {},
    "gallery": [],
    "available": true,
    "variants": [
     {
      "weight_g": null,
-     "price": 3270.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2700.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2790.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2510.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
      "price": 890.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2620.0,
      "available": true
     }
    ]
@@ -4922,42 +879,16 @@
   {
    "url": "https://kofeop.ru/catalog/coffee/nikaragua/1-kg/",
    "name": "Кофе в зернах",
-   "description": "Кофе Никарагуа 1кг в зернах купить по цене от производителя на официальном сайте интернет-магазина Kofeop Roastery.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе Никарагуа 1кг в зернах",
-   "specs": {
-    "Обжарка": "Фильтр",
-    "Страна": "Никарагуа",
-    "Регион": "Хинотега",
-    "Обработка": "Мытая",
-    "Разновидность": "Жёлтый Бурбон, Катуаи"
-   },
+   "description": "",
+   "image": "https://kofeop.ru/upload/iblock/44f/nb1rnwjtmkuqx2vfwpxcmna8n63gp0kw.png",
+   "category": "",
+   "specs": {},
    "gallery": [],
    "available": true,
    "variants": [
     {
      "weight_g": null,
-     "price": 2680.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2580.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
      "price": 890.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 980.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2510.0,
      "available": true
     }
    ]
@@ -4965,57 +896,16 @@
   {
    "url": "https://kofeop.ru/catalog/coffee/smes/1-kg/",
    "name": "Кофе в зернах",
-   "description": "Кофе Смесь 1кг в зернах купить по цене от производителя на официальном сайте интернет-магазина Kofeop Roastery.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе Смесь 1кг в зернах",
-   "specs": {
-    "Обжарка": "Фильтр",
-    "Страна": "Смесь",
-    "Регион": "Серрадо",
-    "Обработка": "сухая",
-    "Разновидность": "Батиан, Руиру 11, SL 28 и SL 34"
-   },
+   "description": "",
+   "image": "https://kofeop.ru/upload/iblock/44f/nb1rnwjtmkuqx2vfwpxcmna8n63gp0kw.png",
+   "category": "",
+   "specs": {},
    "gallery": [],
    "available": true,
    "variants": [
     {
      "weight_g": null,
-     "price": 2560.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2410.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2570.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2380.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 830.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
      "price": 750.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 790.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2510.0,
      "available": true
     }
    ]
@@ -5023,155 +913,16 @@
   {
    "url": "https://kofeop.ru/catalog/coffee/efiopiya/1-kg/",
    "name": "Кофе в зернах",
-   "description": "Кофе Эфиопия 1кг в зернах купить по цене от производителя на официальном сайте интернет-магазина Kofeop Roastery.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе Эфиопия 1кг в зернах",
-   "specs": {
-    "Обжарка": "Фильтр",
-    "Страна": "Эфиопия",
-    "Регион": "Сидамо",
-    "Обработка": "мытая",
-    "Разновидность": "Катуаи"
-   },
+   "description": "",
+   "image": "https://kofeop.ru/upload/iblock/44f/nb1rnwjtmkuqx2vfwpxcmna8n63gp0kw.png",
+   "category": "",
+   "specs": {},
    "gallery": [],
    "available": true,
    "variants": [
     {
      "weight_g": null,
-     "price": 2790.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3080.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2510.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2680.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
      "price": 800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2560.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://kofeop.ru/catalog/coffee/espresso/1-kg/",
-   "name": "Кофе в зернах",
-   "description": "Кофе в зернах Эспрессо 1 кг купить по цене от производителя на официальном сайте интернет-магазина Kofeop Roastery.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе в зернах / Кофе в зернах Эспрессо 1 кг",
-   "specs": {
-    "Страна": "Бразилия",
-    "Обжарка": "Фильтр",
-    "Регион": "Каука",
-    "Обработка": "мытая",
-    "Разновидность": "Эфиопское наследие"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 3270.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2580.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2560.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2680.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3420.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2620.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2410.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2790.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2570.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3080.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2700.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2510.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2380.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2700.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 830.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 750.0,
      "available": true
     }
    ]

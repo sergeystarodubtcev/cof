@@ -3,10 +3,10 @@
   "id": "qq",
   "platform": "generic",
   "items": 26,
-  "seconds": 45.6,
+  "seconds": 68.3,
   "ok": true,
   "error": null,
-  "at": "2026-11-03T07:02:25+00:00"
+  "at": "2026-11-03T07:15:48+00:00"
  },
  "items": [
   {
@@ -40,87 +40,87 @@
     "Обработка": "Мытая"
    },
    "gallery": [],
-   "available": true,
+   "available": false,
    "variants": [
     {
      "weight_g": null,
      "price": 865.0,
-     "available": true
+     "available": false
     },
     {
      "weight_g": null,
      "price": 865.0,
-     "available": true
+     "available": false
     },
     {
      "weight_g": null,
      "price": 865.0,
-     "available": true
+     "available": false
     },
     {
      "weight_g": null,
      "price": 865.0,
-     "available": true
+     "available": false
     },
     {
      "weight_g": null,
      "price": 865.0,
-     "available": true
+     "available": false
     },
     {
      "weight_g": null,
      "price": 865.0,
-     "available": true
+     "available": false
     },
     {
      "weight_g": null,
      "price": 865.0,
-     "available": true
+     "available": false
     },
     {
      "weight_g": null,
      "price": 865.0,
-     "available": true
+     "available": false
     },
     {
      "weight_g": null,
      "price": 3510.0,
-     "available": true
+     "available": false
     },
     {
      "weight_g": null,
      "price": 3510.0,
-     "available": true
+     "available": false
     },
     {
      "weight_g": null,
      "price": 3510.0,
-     "available": true
+     "available": false
     },
     {
      "weight_g": null,
      "price": 3510.0,
-     "available": true
+     "available": false
     },
     {
      "weight_g": null,
      "price": 3510.0,
-     "available": true
+     "available": false
     },
     {
      "weight_g": null,
      "price": 3510.0,
-     "available": true
+     "available": false
     },
     {
      "weight_g": null,
      "price": 3510.0,
-     "available": true
+     "available": false
     },
     {
      "weight_g": null,
      "price": 3510.0,
-     "available": true
+     "available": false
     }
    ]
   },
@@ -139,42 +139,12 @@
    "available": true,
    "variants": [
     {
-     "weight_g": null,
+     "weight_g": 200,
      "price": 680.0,
      "available": true
     },
     {
-     "weight_g": null,
-     "price": 680.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 680.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 680.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2610.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2610.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2610.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 2610.0,
      "available": true
     }
@@ -195,42 +165,12 @@
    "available": true,
    "variants": [
     {
-     "weight_g": null,
+     "weight_g": 200,
      "price": 725.0,
      "available": true
     },
     {
-     "weight_g": null,
-     "price": 725.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 725.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 725.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2785.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2785.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2785.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 2785.0,
      "available": true
     }
@@ -252,42 +192,12 @@
    "available": true,
    "variants": [
     {
-     "weight_g": null,
+     "weight_g": 200,
      "price": 675.0,
      "available": true
     },
     {
-     "weight_g": null,
-     "price": 675.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 675.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 675.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2590.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2590.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2590.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 2590.0,
      "available": true
     }
@@ -309,82 +219,12 @@
    "available": true,
    "variants": [
     {
-     "weight_g": null,
+     "weight_g": 200,
      "price": 720.0,
      "available": true
     },
     {
-     "weight_g": null,
-     "price": 720.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 720.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 720.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 720.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 720.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 720.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 720.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3000.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3000.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3000.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3000.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3000.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3000.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3000.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3000.0,
      "available": true
     }
@@ -405,42 +245,12 @@
    "available": true,
    "variants": [
     {
-     "weight_g": null,
+     "weight_g": 200,
      "price": 650.0,
      "available": true
     },
     {
-     "weight_g": null,
-     "price": 650.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 650.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 650.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2675.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2675.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2675.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 2675.0,
      "available": true
     }
@@ -462,42 +272,12 @@
    "available": true,
    "variants": [
     {
-     "weight_g": null,
+     "weight_g": 200,
      "price": 780.0,
      "available": true
     },
     {
-     "weight_g": null,
-     "price": 780.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 780.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 780.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3185.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3185.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3185.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3185.0,
      "available": true
     }
@@ -519,82 +299,12 @@
    "available": true,
    "variants": [
     {
-     "weight_g": null,
+     "weight_g": 200,
      "price": 875.0,
      "available": true
     },
     {
-     "weight_g": null,
-     "price": 875.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 875.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 875.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 875.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 875.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 875.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 875.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3330.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3330.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3330.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3330.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3330.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3330.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3330.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3330.0,
      "available": true
     }
@@ -615,42 +325,12 @@
    "available": true,
    "variants": [
     {
-     "weight_g": null,
+     "weight_g": 200,
      "price": 685.0,
      "available": true
     },
     {
-     "weight_g": null,
-     "price": 685.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 685.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 685.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2520.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2520.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2520.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 2520.0,
      "available": true
     }
@@ -672,82 +352,12 @@
    "available": true,
    "variants": [
     {
-     "weight_g": null,
+     "weight_g": 200,
      "price": 720.0,
      "available": true
     },
     {
-     "weight_g": null,
-     "price": 720.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 720.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 720.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2860.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2860.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2860.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2860.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 720.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 720.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 720.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 720.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2860.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2860.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2860.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 2860.0,
      "available": true
     }
@@ -768,42 +378,12 @@
    "available": true,
    "variants": [
     {
-     "weight_g": null,
+     "weight_g": 200,
      "price": 680.0,
      "available": true
     },
     {
-     "weight_g": null,
-     "price": 680.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 680.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 680.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2735.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2735.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2735.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 2735.0,
      "available": true
     }
@@ -825,82 +405,12 @@
    "available": true,
    "variants": [
     {
-     "weight_g": null,
+     "weight_g": 200,
      "price": 750.0,
      "available": true
     },
     {
-     "weight_g": null,
-     "price": 750.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 750.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 750.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 750.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 750.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 750.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 750.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2850.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 2850.0,
      "available": true
     }
@@ -922,52 +432,12 @@
    "available": true,
    "variants": [
     {
-     "weight_g": null,
+     "weight_g": 200,
      "price": 955.0,
      "available": true
     },
     {
-     "weight_g": null,
-     "price": 955.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 955.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 955.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 955.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 955.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 955.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 955.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 4045.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 4045.0,
      "available": true
     }
@@ -989,27 +459,12 @@
    "available": true,
    "variants": [
     {
-     "weight_g": null,
+     "weight_g": 200,
      "price": 2055.0,
      "available": true
     },
     {
-     "weight_g": null,
-     "price": 2055.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2055.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 2055.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 8305.0,
      "available": true
     }
@@ -1031,82 +486,12 @@
    "available": true,
    "variants": [
     {
-     "weight_g": null,
+     "weight_g": 200,
      "price": 835.0,
      "available": true
     },
     {
-     "weight_g": null,
-     "price": 835.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 835.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 835.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 835.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 835.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 835.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 835.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3130.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3130.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3130.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3130.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3130.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3130.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3130.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3130.0,
      "available": true
     }
@@ -1128,82 +513,12 @@
    "available": true,
    "variants": [
     {
-     "weight_g": null,
+     "weight_g": 200,
      "price": 845.0,
      "available": true
     },
     {
-     "weight_g": null,
-     "price": 845.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 845.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 845.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 845.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 845.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 845.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 845.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3440.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3440.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3440.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3440.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3440.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3440.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3440.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3440.0,
      "available": true
     }
@@ -1225,42 +540,12 @@
    "available": true,
    "variants": [
     {
-     "weight_g": null,
+     "weight_g": 200,
      "price": 1105.0,
      "available": true
     },
     {
-     "weight_g": null,
-     "price": 1105.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1105.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1105.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 4715.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 4715.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 4715.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 4715.0,
      "available": true
     }
@@ -1282,82 +567,12 @@
    "available": true,
    "variants": [
     {
-     "weight_g": null,
+     "weight_g": 200,
      "price": 905.0,
      "available": true
     },
     {
-     "weight_g": null,
-     "price": 905.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 905.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 905.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 905.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 905.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 905.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 905.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3925.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3925.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3925.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3925.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3925.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3925.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3925.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3925.0,
      "available": true
     }
@@ -1379,42 +594,12 @@
    "available": true,
    "variants": [
     {
-     "weight_g": null,
+     "weight_g": 200,
      "price": 1410.0,
      "available": true
     },
     {
-     "weight_g": null,
-     "price": 1410.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1410.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1410.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 5990.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 5990.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 5990.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 5990.0,
      "available": true
     }
@@ -1436,82 +621,12 @@
    "available": true,
    "variants": [
     {
-     "weight_g": null,
+     "weight_g": 200,
      "price": 780.0,
      "available": true
     },
     {
-     "weight_g": null,
-     "price": 780.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 780.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 780.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 780.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 780.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 780.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 780.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3115.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3115.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3115.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3115.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3115.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3115.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3115.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3115.0,
      "available": true
     }
@@ -1533,82 +648,12 @@
    "available": true,
    "variants": [
     {
-     "weight_g": null,
+     "weight_g": 200,
      "price": 845.0,
      "available": true
     },
     {
-     "weight_g": null,
-     "price": 845.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 845.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 845.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 845.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 845.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 845.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 845.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3420.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3420.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3420.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3420.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3420.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3420.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3420.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3420.0,
      "available": true
     }
@@ -1630,82 +675,12 @@
    "available": true,
    "variants": [
     {
-     "weight_g": null,
+     "weight_g": 200,
      "price": 810.0,
      "available": true
     },
     {
-     "weight_g": null,
-     "price": 810.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 810.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 810.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 810.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 810.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 810.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 810.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3260.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3260.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3260.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3260.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3260.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3260.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3260.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
+     "weight_g": 1000,
      "price": 3260.0,
      "available": true
     }
