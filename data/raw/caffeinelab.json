@@ -1,0 +1,4970 @@
+{
+ "status": {
+  "id": "caffeinelab",
+  "platform": "tilda+generic",
+  "items": 123,
+  "seconds": 166.1,
+  "ok": true,
+  "error": null,
+  "at": "2026-11-03T06:08:32+00:00"
+ },
+ "items": [
+  {
+   "url": "https://caffeinelab.ru/svezheobzharennyy-kofe/tproduct/131134953-653127187311-kofe-efiopiya-irgacheff-sukke",
+   "name": "Кофе Эфиопия Иргачефф Сукке",
+   "description": "География: Африка\nУрожай: 2020/21\nОценка SCA: 86+\nОбработка: натуральная\nКлассификация: specialty\nОбжарка: для фильтра\nОбжарка: для эспрессо\nПриготовление: турка\nПриготовление: эспрессо\nПриготовление: гейзер\nПриготовление: пуровер\nПриготовление: капельная\nПриготовление: френч-пресс\nПриготовление: колд брю",
+   "image": "https://static.tildacdn.com/tild3630-3431-4438-a363-623434633762/_.jpg",
+   "category": "",
+   "specs": {
+    "Урожай": "2020/21",
+    "Оценка SCA": "86+",
+    "Обработка": "натуральная",
+    "Обжарка": "для фильтра",
+    "Высота произрастания": "1900–2100 метров"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 620.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1240.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1860.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2480.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 620.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1240.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1860.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2480.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/svezheobzharennyy-kofe/tproduct/131134953-866162301568-kofe-efiopiya-sidamo-bale-mauntin",
+   "name": "Кофе Эфиопия Сидамо Бале Маунтин",
+   "description": "География: Африка\nУрожай: 2021/22\nОценка SCA: 84+\nОбработка: натуральная\nКлассификация: specialty\nОбжарка: для фильтра\nОбжарка: для эспрессо\nПриготовление: эспрессо\nПриготовление: турка\nПриготовление: аэропресс\nПриготовление: капельная\nПриготовление: пуровер\nПриготовление: френч-пресс\nПриготовление: колд брю",
+   "image": "https://static.tildacdn.com/stor6336-6365-4031-b265-386230643361/43139940.png",
+   "category": "",
+   "specs": {
+    "Урожай": "2021/22",
+    "Оценка SCA": "84+",
+    "Обработка": "натуральная",
+    "Обжарка": "для фильтра",
+    "Высота произрастания": "1800–2100 метров",
+    "Способ обработки": "натуральная"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 740.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1480.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2109.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2738.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 740.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1480.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2109.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2738.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/svezheobzharennyy-kofe/tproduct/131134953-863966934951-kofe-indoneziya-frinsa",
+   "name": "Кофе Индонезия Фринса",
+   "description": "География: Азия\nУрожай: 2023\nОценка SCA: 88+\nКлассификация: specialty\nОбработка: анаэробная\nОбжарка: для фильтра\nПриготовление: пуровер\nПриготовление: турка\nПриготовление: аэропресс\nПриготовление: кемекс\nПриготовление: колд брю",
+   "image": "https://static.tildacdn.com/tild6638-6632-4862-b138-363263333339/_.jpg",
+   "category": "",
+   "specs": {
+    "Урожай": "2023",
+    "Оценка SCA": "88+",
+    "Обработка": "анаэробная",
+    "Обжарка": "для фильтра",
+    "Высота произрастания": "1300−1500 метров"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 942.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1884.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2826.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 3768.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 942.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1884.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2826.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 3768.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/zapchasti_dlya_kofemashin/tproduct/346283265-975579480731-poroshok-dlya-udaleniya-kofeinih-masel-d",
+   "name": "Порошок для удаления кофейных масел Dr. Purity Coffee Washer, 1000 г",
+   "description": "Профессиональное чистящее средство для очистки групп всех традиционных эспрессо-машин от российской компании Dr.Purity. Удаляет кофейный налет и посторонние запахи в рабочих узлах, кофейных системах традиционных рожковых и автоматических кофемашин. Высокая растворимость обеспечивает отличный результат по очистке и промывке кофейного оборудования. Гарантирует прекрасный чистый вкус кофейных напитков. Универсальное и эффективное решение для чистки кофейного оборудования.\nПорошок \nCoffee Washer\n эффективно очищает группу и холдеры профессиональных кофемашин.\nХарактеристики\nВес: 1 кг;\nСостав: карбонат натрия, перкарбонат натрия, триполифосфат натрия;\nПроизводитель: DrPurity;\nСтрана производства: Россия.",
+   "image": "https://static.tildacdn.com/tild3332-6231-4763-b465-383334393633/drpurity.jpg",
+   "category": "",
+   "specs": {
+    "Производитель": "DrPurity"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 1000,
+     "price": 1000.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/order-opt-online/tproduct/346641889-214472036631-kofemolka-ruchnaya-timemore-chestnut-c2",
+   "name": "Кофемолка ручная Timemore Chestnut C2 Titanium version",
+   "description": "",
+   "image": "https://static.tildacdn.com/tild6664-3365-4537-b962-363538666538/Titanium-Version-1.jpg",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 8000.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-630293270092-kofe-indoneziya-sumatra-dlya-filtra",
+   "name": "Кофе Индонезия Суматра для фильтра",
+   "description": "География: Азия\nУрожай: 2025\nОценка SCA: 83+\nОбработка: гилинг-басах\nОбжарка: для фильтра\nПриготовление: турка\nПриготовление: френч-пресс\nПриготовление: гейзер",
+   "image": "https://static.tildacdn.com/stor6165-6631-4564-b135-396431666632/6474a9e12e0d45260ae8fbf48f7211e8.jpg",
+   "category": "",
+   "specs": {
+    "Урожай": "2025",
+    "Оценка SCA": "83+",
+    "Обработка": "гилинг-басах",
+    "Обжарка": "для фильтра",
+    "Высота произрастания": "1250-1450 метров"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 900.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 3600.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 900.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 3600.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/coffee/espresso/tproduct/834531917-226683665781-braziliya-sul-di-minas-dlya-espresso",
+   "name": "Бразилия Суль-ди-Минас для эспрессо",
+   "description": "География: Америка\nУрожай: 2025/26\nОценка SCA: 82+\nОбработка: натуральная\nОбжарка: для эспрессо\nПриготовление: эспрессо\nПриготовление: гейзер\nПриготовление: френч-пресс",
+   "image": "https://static.tildacdn.com/stor6463-6338-4363-b632-376235646163/99168698.png",
+   "category": "",
+   "specs": {
+    "Урожай": "2025/26",
+    "Оценка SCA": "82+",
+    "Обработка": "натуральная",
+    "Обжарка": "для эспрессо",
+    "Высота произрастания": "840−1150 метров"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 740.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2960.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 11000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 740.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2960.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 11000.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/coffee/espresso/tproduct/834531917-154533572981-gonduras-shg-dlya-espresso",
+   "name": "Гондурас SHG для эспрессо",
+   "description": "География: Америка\nУрожай: 2025/26\nОценка SCA: 82+\nОбработка: мытая\nОбжарка: для эспрессо\nПриготовление: эспрессо\nПриготовление: гейзер\nПриготовление: турка\nПриготовление: френч-пресс",
+   "image": "https://static.tildacdn.com/stor6131-6662-4232-a530-613831643534/67563748.jpg",
+   "category": "",
+   "specs": {
+    "Урожай": "2025/26",
+    "Оценка SCA": "82+",
+    "Обработка": "мытая",
+    "Обжарка": "для эспрессо",
+    "Высота произрастания": "1300-1500 метров",
+    "Способ обработки": "мытая"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 730.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2920.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 11000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 730.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2920.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 11000.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-333396207571-efiopiya-limu-dlya-filtra",
+   "name": "Эфиопия Лиму для фильтра",
+   "description": "География: Африка\nУрожай: 2025/26\nОценка SCA: 84+\nОбработка: мытая\nОбжарка: для фильтра\nПриготовление: турка\nПриготовление: аэропресс\nПриготовление: капельная\nПриготовление: пуровер\nПриготовление: френч-пресс\nПриготовление: колд брю",
+   "image": "https://static.tildacdn.com/stor6234-3830-4061-b137-343330323565/45971030.png",
+   "category": "",
+   "specs": {
+    "Урожай": "2025/26",
+    "Оценка SCA": "84+",
+    "Обработка": "мытая",
+    "Обжарка": "для фильтра",
+    "Высота произрастания": "1800−2000 метров",
+    "Способ обработки": "мытая"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 885.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3540.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 885.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3540.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/coffee/espresso/tproduct/834531917-448947635282-keniya-aa-pod-espresso",
+   "name": "Кения АА под эспрессо",
+   "description": "География: Африка\nУрожай: 2025/26\nОценка SCA: 86+\nОбработка: мытая\nОбжарка: для эспрессо\nПриготовление: эспрессо\nПриготовление: гейзер\nПриготовление: турка\nПриготовление: френч-пресс",
+   "image": "https://static.tildacdn.com/stor6332-3730-4234-b166-613134666434/60051084.jpg",
+   "category": "",
+   "specs": {
+    "Урожай": "2025/26",
+    "Оценка SCA": "86+",
+    "Обработка": "мытая",
+    "Обжарка": "для эспрессо",
+    "Высота произрастания": "1600 метров",
+    "Способ обработки": "мытая"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 920.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3680.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 920.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3680.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-838372907062-keniya-aa-pod-filtr",
+   "name": "Кения АА под фильтр",
+   "description": "География: Африка\nУрожай: 2025/26\nОценка SCA: 86+\nОбработка: мытая\nОбжарка: для фильтра\nПриготовление: пуровер\nПриготовление: капельная\nПриготовление: аэропресс\nПриготовление: турка\nПриготовление: френч-пресс\nПриготовление: колд брю\nПриготовление: дрип-пакет",
+   "image": "https://static.tildacdn.com/stor6265-6531-4932-b862-366666353638/f02edda4bd1e6dbe66d1819a8e671c66.jpg",
+   "category": "",
+   "specs": {
+    "Урожай": "2025/26",
+    "Оценка SCA": "86+",
+    "Обработка": "мытая",
+    "Обжарка": "для фильтра",
+    "Высота произрастания": "1600 метров",
+    "Способ обработки": "мытая"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 920.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3680.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 920.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3680.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/coffee/espresso/tproduct/834531917-594571871032-kofe-gvatemala-dekaf-dlya-espresso",
+   "name": "Кофе Гватемала Декаф для эспрессо",
+   "description": "Гватемала Декаф обжарка для эспрессо, декофеинизированный кофе из Гватемалы. Идеально для гейзера или кофемашины. Оценка SCA: 84. Во вкусе: вишня, яблоко, шоколад, тростниковый сахар.",
+   "image": "https://static.tildacdn.com/stor3634-6663-4165-a662-663733386135/755afcca754d2a1d473dd156d67f1292.jpg",
+   "category": "",
+   "specs": {
+    "Урожай": "2025/26",
+    "Оценка SCA": "84+",
+    "Обработка": "мытая",
+    "Обжарка": "для эспрессо",
+    "Высота произрастания": "1200-2000 метров"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 900.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3600.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 900.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3600.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/coffee/espresso/tproduct/834531917-201477315652-kofe-uganda-vugar-elgon-dlya-espresso",
+   "name": "Кофе Уганда Вугар Элгон для эспрессо",
+   "description": "География: Африка\nУрожай: 2025/26\nОценка SCA: 83+\nОбработка: мытая\nОбжарка: для эспрессо\nПриготовление: эспрессо\nПриготовление: гейзер\nПриготовление: турка\nПриготовление: френч-пресс",
+   "image": "https://static.tildacdn.com/stor3865-3364-4635-a132-636536646533/c0f68a2dac6bc291bd9d801014ef68de.jpg",
+   "category": "",
+   "specs": {
+    "Урожай": "2025/26",
+    "Оценка SCA": "83+",
+    "Обработка": "мытая",
+    "Обжарка": "для эспрессо",
+    "Высота произрастания": "1200-2200 метров",
+    "Способ обработки": "мытая"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 745.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2980.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 11000.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 745.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2980.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 11000.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/coffee/espresso/tproduct/834531917-385972012292-uganda-mvezi-dlya-espresso",
+   "name": "Уганда Мвези для эспрессо",
+   "description": "География: Африка\nУрожай: 2025/26\nОценка SCA: 86+\nОбработка: натуральная\nОбжарка: для эспрессо\nПриготовление: эспрессо\nПриготовление: гейзер\nПриготовление: турка\nПриготовление: френч-пресс",
+   "image": "https://static.tildacdn.com/stor3539-3934-4630-a439-336536353461/e6a449637545286b21ccdc801ffe0c87.jpg",
+   "category": "",
+   "specs": {
+    "Урожай": "2025/26",
+    "Оценка SCA": "86+",
+    "Обработка": "натуральная",
+    "Обжарка": "для эспрессо",
+    "Высота произрастания": "1100-1600 метров",
+    "Способ обработки": "натуральная"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 825.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 3300.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 11390.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 825.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 3300.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 11390.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-943358230082-tanzaniya-pb-mbilindino-dlya-filtra",
+   "name": "Танзания ПБ Мбилиндино для фильтра",
+   "description": "География: Африка\nУрожай: 2025/26\nОценка SCA: 86+\nОбработка: мытая\nОбжарка: для фильтра\nПриготовление: турка\nПриготовление: аэропресс\nПриготовление: пуровер\nПриготовление: капельная\nПриготовление: френч-пресс",
+   "image": "https://static.tildacdn.com/stor3830-6662-4031-a635-363031363137/9d59e1b6c70480822b103f4ae36a9cf9.jpg",
+   "category": "",
+   "specs": {
+    "Урожай": "2025/26",
+    "Оценка SCA": "86+",
+    "Обработка": "мытая",
+    "Обжарка": "для фильтра",
+    "Высота произрастания": "1870 метров",
+    "Способ обработки": "мытая"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 945.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3780.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 945.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3780.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-387097833812-kolumbiya-garzon-dlya-filtra",
+   "name": "Колумбия Гарзон для фильтра",
+   "description": "География: Америка\nУрожай: 2025\nОценка SCA: 86+\nОбработка: мытая\nКлассификация: specialty\nОбжарка: для фильтра\nПриготовление: пуровер\nПриготовление: аэропресс\nПриготовление: турка\nПриготовление: капельная\nПриготовление: френч-пресс",
+   "image": "https://static.tildacdn.com/stor3762-6332-4732-b139-643466383061/e34682f7520c370d1acf6e97deef0427.jpg",
+   "category": "",
+   "specs": {
+    "Урожай": "2025",
+    "Оценка SCA": "86+",
+    "Обработка": "мытая",
+    "Обжарка": "для фильтра",
+    "Высота произрастания": "1600-2200 метров",
+    "Способ обработки": "мытая"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 865.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 3460.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 865.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 3460.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-153034318892-keniya-aa-gitura-pod-filtr",
+   "name": "Кения АА Гитура под фильтр",
+   "description": "География: Африка\nУрожай: 2025\nОценка SCA: 86+\nОбработка: мытая\nОбжарка: для фильтра\nПриготовление: пуровер\nПриготовление: аэропресс\nПриготовление: капельная\nПриготовление: френч-пресс\nПриготовление: турка\nПриготовление: колд брю",
+   "image": "https://static.tildacdn.com/stor3762-6163-4838-a534-613837396132/d9731678e128cb4462c665e035d866a1.jpg",
+   "category": "",
+   "specs": {
+    "Урожай": "2025",
+    "Оценка SCA": "86+",
+    "Обработка": "мытая",
+    "Обжарка": "для фильтра",
+    "Высота произрастания": "1600-1800 метров",
+    "Способ обработки": "мытая"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 960.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3840.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 960.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3840.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-951607431183-efiopiya-konga-dlya-filtra",
+   "name": "Эфиопия Конга для фильтра",
+   "description": "География: Африка\nУрожай: 2025/26\nОценка SCA: 87+\nОбработка: натуральная\nОбжарка: для фильтра\nПриготовление: турка\nПриготовление: капельная\nПриготовление: пуровер\nПриготовление: френч-пресс\nПриготовление: аэропресс\nПриготовление: кемекс",
+   "image": "https://static.tildacdn.com/stor3632-3363-4462-b364-353630336230/ad333cbdd70c87fd2b54066fb1ea51dc.jpg",
+   "category": "",
+   "specs": {
+    "Урожай": "2025/26",
+    "Оценка SCA": "87+",
+    "Обработка": "натуральная",
+    "Обжарка": "для фильтра",
+    "Высота произрастания": "1950–2100 метров",
+    "Способ обработки": "натуральная"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1110.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 4440.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1110.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 4440.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-677435383003-gvatemala-el-sokorro-dlya-filtra",
+   "name": "Гватемала Эль Сокорро для фильтра",
+   "description": "География: Америка\nУрожай: 2025/26\nОценка SCA: 85+\nОбработка: мытая\nКлассификация: specialty\nОбжарка: для фильтра\nПриготовление: пуровер\nПриготовление: аэропресс\nПриготовление: турка\nПриготовление: капельная\nПриготовление: френч-пресс",
+   "image": "https://static.tildacdn.com/stor3237-3865-4764-b531-393161663337/683b7495ec6137af1ce55c644e1e2996.jpg",
+   "category": "",
+   "specs": {
+    "Урожай": "2025/26",
+    "Оценка SCA": "85+",
+    "Обработка": "мытая",
+    "Обжарка": "для фильтра",
+    "Производитель": "Финка Эль Сокорро",
+    "Высота произрастания": "1400-2000 метров",
+    "Способ обработки": "мытая"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 860.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3440.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 860.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3440.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/coffee/espresso/tproduct/834531917-592231843913-gvatemala-el-sokorro-pod-espresso",
+   "name": "Гватемала Эль Сокорро под эспрессо",
+   "description": "География: Америка\nУрожай: 2025/26\nОценка SCA: 85+\nОбработка: мытая\nКлассификация: specialty\nОбжарка: для эспрессо\nПриготовление: гейзер\nПриготовление: эспрессо\nПриготовление: турка\nПриготовление: френч-пресс",
+   "image": "https://static.tildacdn.com/stor6266-3030-4034-a439-633462663233/17716ae64ae82b7242373baa950e5de3.jpg",
+   "category": "",
+   "specs": {
+    "Урожай": "2025/26",
+    "Оценка SCA": "85+",
+    "Обработка": "мытая",
+    "Обжарка": "для эспрессо",
+    "Производитель": "Финка Эль Сокорро",
+    "Высота произрастания": "1400-2000 метров",
+    "Способ обработки": "мытая"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 860.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3440.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 860.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3440.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/coffee/espresso/tproduct/834531917-212286531243-venesuela-merla-dlya-espresso",
+   "name": "Венесуэла Мерла для эспрессо",
+   "description": "География: Америка\nУрожай: 2025/26\nОценка SCA: 83+\nОбработка: мытая\nОбжарка: для эспрессо\nПриготовление: эспрессо\nПриготовление: гейзер\nПриготовление: турка\nПриготовление: френч-пресс",
+   "image": "https://static.tildacdn.com/stor3964-3662-4538-a133-636430323836/ed9237c2d109cad91825cb2f93ab5c40.jpg",
+   "category": "",
+   "specs": {
+    "Урожай": "2025/26",
+    "Оценка SCA": "83+",
+    "Обработка": "мытая",
+    "Обжарка": "для эспрессо",
+    "Высота произрастания": "1200–1800 метров",
+    "Способ обработки": "мытая"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 740.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2960.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 740.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2960.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-853528956503-indoneziya-kerinchi-dlya-filtra",
+   "name": "Индонезия Керинчи для фильтра",
+   "description": "География: Азия\nУрожай: 2025/26\nОценка SCA: 85+\nОбработка: гилинг-басах\nОбжарка: для фильтра\nПриготовление: турка\nПриготовление: френч-пресс\nПриготовление: гейзер\nПриготовление: капельная",
+   "image": "https://static.tildacdn.com/stor3831-3433-4465-b566-643664323137/cc2ae4005bfc85ab7d9a3e8e3eabce47.jpg",
+   "category": "",
+   "specs": {
+    "Урожай": "2025/26",
+    "Оценка SCA": "85+",
+    "Обработка": "гилинг-басах",
+    "Обжарка": "для фильтра",
+    "Высота произрастания": "1500-1600 метров"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 930.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3720.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 930.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3720.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/coffee/espresso/tproduct/834531917-168722562243-indoneziya-kerinchi-dlya-espresso",
+   "name": "Индонезия Керинчи для эспрессо",
+   "description": "География: Азия\nУрожай: 2025/26\nОценка SCA: 85+\nОбработка: гилинг-басах\nОбжарка: для эспрессо\nПриготовление: эспрессо\nПриготовление: гейзер\nПриготовление: турка\nПриготовление: френч-пресс",
+   "image": "https://static.tildacdn.com/stor3435-3239-4338-a134-343665313939/5f48ab1775016b429d4d90796a1193d4.jpg",
+   "category": "",
+   "specs": {
+    "Урожай": "2025/26",
+    "Оценка SCA": "85+",
+    "Обработка": "гилинг-басах",
+    "Обжарка": "для эспрессо",
+    "Высота произрастания": "1500-1600 метров"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 930.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3720.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 930.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3720.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-969754254203-kolumbiya-l7-el-vergel-dlya-filtra",
+   "name": "Колумбия Л7 Эль Вергель для фильтра",
+   "description": "География: Америка\nУрожай: 2025/26\nОценка SCA: 88+\nОбработка: анаэробная\nКлассификация: specialty\nОбжарка: для фильтра\nПриготовление: пуровер\nПриготовление: аэропресс\nПриготовление: турка\nПриготовление: капельная\nПриготовление: френч-пресс",
+   "image": "https://static.tildacdn.com/stor3737-3934-4030-b633-343034636133/9e8473e1b05b6b14150ec1ce5d3f8cf9.jpg",
+   "category": "",
+   "specs": {
+    "Урожай": "2025/26",
+    "Оценка SCA": "88+",
+    "Обработка": "анаэробная",
+    "Обжарка": "для фильтра",
+    "Производитель": "фермеры Элиас и Шейди Бейтер",
+    "Высота произрастания": "1450 метров",
+    "Способ обработки": "полуанаэробная"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1440.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 5760.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1440.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 5760.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-499251872573-kolumbiya-bellavista-dlya-filtra",
+   "name": "Колумбия Беллависта для фильтра",
+   "description": "География: Америка\nУрожай: 2025/26\nОценка SCA: 87+\nОбработка: мытая\nКлассификация: specialty\nОбжарка: для фильтра\nПриготовление: пуровер\nПриготовление: аэропресс\nПриготовление: турка\nПриготовление: капельная\nПриготовление: френч-пресс",
+   "image": "https://static.tildacdn.com/stor3835-3030-4330-a235-333539386362/998acea7b5714acec67dc2c04983e032.jpg",
+   "category": "",
+   "specs": {
+    "Урожай": "2025/26",
+    "Оценка SCA": "87+",
+    "Обработка": "мытая",
+    "Обжарка": "для фильтра",
+    "Производитель": "ферма Беллависта",
+    "Высота произрастания": "1750 метров",
+    "Способ обработки": "мытая"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1140.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 4560.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1140.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 4560.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/coffee/espresso/tproduct/834531917-711575715603-efiopiya-limu-dlya-espresso",
+   "name": "Эфиопия Лиму для эспрессо",
+   "description": "География: Африка\nУрожай: 2025/26\nОценка SCA: 84+\nОбработка: мытая\nОбжарка: для эспрессо\nПриготовление: эспрессо\nПриготовление: гейзер\nПриготовление: турка\nПриготовление: френч-пресс",
+   "image": "https://static.tildacdn.com/stor3964-3662-4538-a133-636430323836/ed9237c2d109cad91825cb2f93ab5c40.jpg",
+   "category": "",
+   "specs": {
+    "Урожай": "2025/26",
+    "Оценка SCA": "84+",
+    "Обработка": "мытая",
+    "Обжарка": "для эспрессо",
+    "Высота произрастания": "1800−2000 метров",
+    "Способ обработки": "мытая"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 885.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3540.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 885.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3540.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/coffee/espresso/tproduct/834531917-986714335043-efiopiya-hambela-dlya-espresso",
+   "name": "Эфиопия Хамбела для эспрессо",
+   "description": "География: Африка\nУрожай: 2025/26\nОценка SCA: 85+\nОбработка: натуральная\nОбжарка: для эспрессо\nПриготовление: эспрессо\nПриготовление: гейзер\nПриготовление: турка\nПриготовление: френч-пресс",
+   "image": "https://static.tildacdn.com/stor6562-3237-4132-b736-613732633532/20c7fcc347072e43e94f62e3791e9b67.jpg",
+   "category": "",
+   "specs": {
+    "Урожай": "2025/26",
+    "Оценка SCA": "85+",
+    "Обработка": "натуральная",
+    "Обжарка": "для эспрессо",
+    "Высота произрастания": " 2000 метров",
+    "Способ обработки": " натуральная"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 890.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3560.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 890.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3560.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-817995379553-efiopiya-haro-sorsa-dlya-filtra",
+   "name": "Эфиопия Харо Сорса для фильтра",
+   "description": "География: Африка\nУрожай: 2025/26\nОценка SCA: 87+\nОбработка: натуральная\nОбжарка: для фильтра\nПриготовление: турка\nПриготовление: капельная\nПриготовление: пуровер\nПриготовление: френч-пресс\nПриготовление: аэропресс\nПриготовление: кемекс",
+   "image": "https://static.tildacdn.com/stor3738-3466-4431-b162-626339656163/4f968e3b096a650b8270f284bd8fa245.jpg",
+   "category": "",
+   "specs": {
+    "Урожай": "2025/26",
+    "Оценка SCA": "87+",
+    "Обработка": "натуральная",
+    "Обжарка": "для фильтра",
+    "Высота произрастания": "2400 метров",
+    "Способ обработки": "натуральная"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1100.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 4400.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1100.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 4400.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/coffee/espresso/tproduct/834531917-681166526143-angola-kibala-dlya-espresso",
+   "name": "Ангола Кибала для эспрессо",
+   "description": "География: Африка\nУрожай: 2025/26\nОценка SCA: 83+\nОбработка: полумытая\nОбжарка: для эспрессо\nПриготовление: эспрессо\nПриготовление: гейзер\nПриготовление: турка\nПриготовление: френч-пресс",
+   "image": "https://static.tildacdn.com/stor6438-3563-4836-a161-336631393763/4b98697c69281e5922bbc2810eda7bb0.jpg",
+   "category": "",
+   "specs": {
+    "Урожай": "2025/26",
+    "Оценка SCA": "83+",
+    "Обработка": "полумытая",
+    "Обжарка": "для эспрессо",
+    "Высота произрастания": "1400 метров"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 790.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 3160.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 790.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 3160.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-664578347343-keniya-aa-nat-pod-filtr",
+   "name": "Кения АА Нат. под фильтр",
+   "description": "География: Африка\nУрожай: 2025/26\nОценка SCA: 86+\nОбработка: натуральная\nОбжарка: для фильтра\nПриготовление: пуровер\nПриготовление: аэропресс\nПриготовление: капельная\nПриготовление: френч-пресс\nПриготовление: турка\nПриготовление: колд брю",
+   "image": "https://static.tildacdn.com/stor3735-3661-4235-b262-306336383564/efdaaa3c4047261f8ff5cf9b0a7b7e65.jpg",
+   "category": "",
+   "specs": {
+    "Урожай": "2025/26",
+    "Оценка SCA": "86+",
+    "Обработка": "натуральная",
+    "Обжарка": "для фильтра",
+    "Высота произрастания": "1700 метров",
+    "Способ обработки": "натуральная"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 910.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3640.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 910.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3640.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-462248467883-kolumbiya-rosado-dlya-filtra",
+   "name": "Колумбия Росадо для фильтра",
+   "description": "География: Америка\nУрожай: 2025/26\nОценка SCA: 87+\nОбработка: анаэробная\nКлассификация: specialty\nОбжарка: для фильтра\nПриготовление: пуровер\nПриготовление: аэропресс\nПриготовление: турка\nПриготовление: капельная\nПриготовление: френч-пресс",
+   "image": "https://static.tildacdn.com/stor3562-3439-4035-a137-663636306436/e8003d32dc13b215dc274322492571a4.jpg",
+   "category": "",
+   "specs": {
+    "Урожай": "2025/26",
+    "Оценка SCA": "87+",
+    "Обработка": "анаэробная",
+    "Обжарка": "для фильтра",
+    "Высота произрастания": "1750 метров",
+    "Способ обработки": "анаэробная, ферментация в ягоде"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1475.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 5900.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1475.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 5900.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/coffee/espresso/tproduct/834531917-824247650983-meksika-ki-soya-dekaf-dlya-espresso",
+   "name": "Мексика Ки-Соя Декаф для эспрессо",
+   "description": "Гватемала Декаф обжарка для эспрессо, декофеинизированный кофе из Гватемалы. Идеально для гейзера или кофемашины. Оценка SCA: 84. Во вкусе: вишня, яблоко, шоколад, тростниковый сахар.",
+   "image": "https://static.tildacdn.com/stor3634-6663-4165-a662-663733386135/755afcca754d2a1d473dd156d67f1292.jpg",
+   "category": "",
+   "specs": {
+    "Урожай": "2025/26",
+    "Оценка SCA": "84+",
+    "Обработка": "мытая",
+    "Обжарка": "для эспрессо",
+    "Высота произрастания": "1200-1800 метров"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 990.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3960.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 990.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3960.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-269681479273-meksika-ki-soya-dekaf-dlya-filtra",
+   "name": "Мексика Ки-Соя Декаф для фильтра",
+   "description": "География: Америка\nУрожай: 2025/26\nОценка SCA: 86+\nОбработка: мытая\nОбжарка: для фильтра\nПриготовление: пуровер\nПриготовление: турка\nПриготовление: аэропресс\nПриготовление: капельная\nПриготовление: френч-пресс\nПриготовление: дрип-пакет\nПриготовление: в чашке",
+   "image": "https://static.tildacdn.com/stor3634-6663-4165-a662-663733386135/755afcca754d2a1d473dd156d67f1292.jpg",
+   "category": "",
+   "specs": {
+    "Урожай": "2025/26",
+    "Оценка SCA": "86+",
+    "Обработка": "мытая",
+    "Обжарка": "для фильтра",
+    "Высота произрастания": "1200-1800 метров"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 990.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3960.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 990.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3960.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-634568981873-gvatemala-l2-pampohila-dlya-filtra",
+   "name": "Гватемала Л2 Пампохила для фильтра",
+   "description": "География: Америка\nУрожай: 2025/26\nОценка SCA: 88+\nОбработка: анаэробная\nКлассификация: specialty\nОбжарка: для фильтра\nПриготовление: пуровер\nПриготовление: аэропресс\nПриготовление: турка\nПриготовление: капельная\nПриготовление: френч-пресс",
+   "image": "https://static.tildacdn.com/stor3737-3934-4030-b633-343034636133/9e8473e1b05b6b14150ec1ce5d3f8cf9.jpg",
+   "category": "",
+   "specs": {
+    "Урожай": "2025/26",
+    "Оценка SCA": "88+",
+    "Обработка": "анаэробная",
+    "Обжарка": "для фильтра",
+    "Производитель": "Перископ",
+    "Высота произрастания": "1450 метров",
+    "Способ обработки": "полуанаэробная"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1320.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 5280.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1320.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 5280.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/coffee/espresso/tproduct/834531917-347692089183-keniya-aa-nat-pod-espresso",
+   "name": "Кения АА Нат. под эспрессо",
+   "description": "География: Африка\nУрожай: 2025/26\nОценка SCA: 86+\nОбработка: натуральная\nОбжарка: для эспрессо\nПриготовление: гейзер\nПриготовление: эспрессо\nПриготовление: френч-пресс\nПриготовление: турка\nПриготовление: в чашке",
+   "image": "https://static.tildacdn.com/stor3735-3661-4235-b262-306336383564/efdaaa3c4047261f8ff5cf9b0a7b7e65.jpg",
+   "category": "",
+   "specs": {
+    "Урожай": "2025/26",
+    "Оценка SCA": "86+",
+    "Обработка": "натуральная",
+    "Обжарка": "для эспрессо",
+    "Высота произрастания": "1700 метров",
+    "Способ обработки": "натуральная"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 910.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3640.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 910.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3640.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-879324349813-iemen-udaini-himmi",
+   "name": "Йемен Удаини Химми",
+   "description": "География: Азия\nУрожай: 2025/26\nОценка SCA: 88+\nОбработка: анаэробная\nКлассификация: specialty\nОбжарка: для фильтра\nПриготовление: пуровер\nПриготовление: аэропресс\nПриготовление: турка\nПриготовление: капельная\nПриготовление: френч-пресс",
+   "image": "https://static.tildacdn.com/stor6535-3437-4463-a133-633137356263/cd6fa34dd36cd8d67d84866dad4182c2.jpg",
+   "category": "",
+   "specs": {
+    "Урожай": "2025/26",
+    "Оценка SCA": "88+",
+    "Обработка": "анаэробная",
+    "Обжарка": "для фильтра",
+    "Высота произрастания": "2100 метров",
+    "Способ обработки": "анаэробная"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2115.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2115.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-332729255863-keniya-ab-karimikui-pod-filtr",
+   "name": "Кения АБ Каримикуи под фильтр",
+   "description": "География: Африка\nУрожай: 2025\nОценка SCA: 86+\nОбработка: мытая\nОбжарка: для фильтра\nПриготовление: пуровер\nПриготовление: аэропресс\nПриготовление: капельная\nПриготовление: френч-пресс\nПриготовление: турка\nПриготовление: колд брю",
+   "image": "https://static.tildacdn.com/stor3762-6163-4838-a534-613837396132/d9731678e128cb4462c665e035d866a1.jpg",
+   "category": "",
+   "specs": {
+    "Урожай": "2025",
+    "Оценка SCA": "86+",
+    "Обработка": "мытая",
+    "Обжарка": "для фильтра",
+    "Высота произрастания": "1600-1800 метров",
+    "Способ обработки": "мытая"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1070.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 4280.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1070.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 4280.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-570674488481-efiopiya-irgacheff",
+   "name": "Эфиопия Иргачефф",
+   "description": "Регион произрастания:\n зона Гедийо, ст. обр. Арича.\nРазновидности:\n местные разновидности.\nВысота произрастания:\n 1900-2100 метров.\nОбработка:\n мытая.\nУрожай:\n 2020-2021.\nОценка SCA:\n 85,5.\nВо вкусе:\nлайм, бергамот, цветочный, черный чай.\nГеография: Африка\nУрожай: 2020/21\nКлассификация: specialty\nОценка SCA: 85+\nРекомендуем: для фильтра\nРекомендуем: для эспрессо",
+   "image": "https://static.tildacdn.com/tild6361-6432-4337-b534-633732646237/_.jpg",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "1900-2100 метров",
+    "Обработка": "мытая",
+    "Урожай": "2020-2021",
+    "Оценка SCA": "85,5"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1550.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1628.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1550.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1628.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-919301920041-efiopiya-sidamo",
+   "name": "Эфиопия Сидамо",
+   "description": "Регион произрастания:\n регион Оромия, зона Гуджи.\nРазновидности:\n местные разновидности.\nВысота произрастания:\n 1700-2100 метров.\nСпособ обработки:\n мытая.\nОценка SCA:\n 85,25.\nУрожай:\n 2019-2020.\nВо вкусе:\nабрикос, лайм, красные ягоды, кориандр.\nГеография: Африка\nУрожай: 2019/20\nОценка SCA: 85+\nРекомендуем: для фильтра\nРекомендуем: для эспрессо",
+   "image": "https://static.tildacdn.com/tild3031-6136-4536-a135-623636353661/--.jpg",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "1700-2100 метров",
+    "Способ обработки": "мытая",
+    "Оценка SCA": "85,25",
+    "Урожай": "2019-2020"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1350.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1417.5,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1350.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1417.5,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-105057224881-kosta-rika-tarrazu-shb",
+   "name": "Коста-Рика Тарразу SHB",
+   "description": "Регион произрастания:\n Тарразу.\nВысота произрастания:\n 1500-1850 метров.\nРазновидности:\n катурра, катуаи.\nОбработка:\n мытая.\nУрожай:\n 2022-2023.\nОценка SCA:\n 84.\nВо вкусе:\nцитрусы, красные ягоды, миндаль, шоколад.\nГеография: Америка\nУрожай: 2022/23\nОбработка: мытая\nОценка SCA: 84+\nОбжарка: для эспрессо\nПриготовление: эспрессо\nПриготовление: гейзер\nПриготовление: турка\nПриготовление: френч-пресс",
+   "image": "https://static.tildacdn.com/tild6363-3064-4865-a439-613533313764/-.png",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "1500-1850 метров",
+    "Обработка": "мытая",
+    "Урожай": "2022-2023",
+    "Оценка SCA": "84",
+    "Обжарка": "для эспрессо"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1900.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1995.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1900.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1995.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-966879926021-indoneziya-bali",
+   "name": "Индонезия Бали",
+   "description": "Регион произрастания:\n Кинтамани, Бангли, остров Бали.\nВысота произрастания:\n 1100 метров.\nРазновидности:\n В1, В21.\nОбработка:\n полумытая.\nКлассификация:\n specialty.\nУрожай:\n 2019-2020.\nОценка SCA:\n 86,25.\nВо вкусе:\nбелый шоколад, специи, персик.\nГеография: Азия\nУрожай: 2019/20\nОценка SCA: 86+\nОбработка: полумытая\nКлассификация: specialty\nРекомендуем: для фильтра\nРекомендуем: для эспрессо",
+   "image": "https://static.tildacdn.com/tild3736-3865-4632-b864-623366356633/_.jpg",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "1100 метров",
+    "Обработка": "полумытая",
+    "Урожай": "2019-2020",
+    "Оценка SCA": "86,25"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1840.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1932.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1840.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1932.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-362286944941-efiopiya-sidamo-bale-mauntin",
+   "name": "Эфиопия Сидамо Бале Маунтин",
+   "description": "Регион произрастания:\n Зона Западный Арси, Ненсебо Вореда, ферма Бале Маунтин.\nРазновидности:\n местные разновидности.\nВысота произрастания:\n 1800–2100 метров.\nСпособ обработки:\n натуральная.\nКлассификация:\n specialty.\nУрожай:\n 2020-2021.\nОценка SCA:\n85,25\n.\nВо вкусе:\nабрикос, цитрус, мед, черный чай.\nГеография: Африка\nОценка SCA: 85+\nУрожай: 2020/21\nРекомендуем: для эспрессо\nРекомендуем: для фильтра\nКлассификация: specialty",
+   "image": "https://static.tildacdn.com/tild3064-3933-4539-a633-386132323130/11.jpg",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "1800–2100 метров",
+    "Способ обработки": "натуральная",
+    "Урожай": "2020-2021",
+    "Оценка SCA": "85,25"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2410.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2531.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2410.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2531.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-252129195431-kuba-serrano-lavado",
+   "name": "Куба Серрано Лавадо",
+   "description": "Регион произрастания:\n Сьерра-Маэстра.\nВысота произрастания:\n 400-800 метров.\nРазновидности:\n типика, бурбон, катурра.\nОбработка:\n мытая.\nУрожай:\n 2020-2021.\nОценка SCA:\n 82,5.\nВо вкусе:\nцветы, шоколад, орех.\nГеография: Америка\nУрожай: 2020/21\nОценка SCA: 82+\nОбработка: мытая\nРекомендуем: для эспрессо",
+   "image": "https://static.tildacdn.com/tild3834-6536-4332-b738-386536663461/_.jpg",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "400-800 метров",
+    "Обработка": "мытая",
+    "Урожай": "2020-2021",
+    "Оценка SCA": "82,5"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1750.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1837.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1750.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1837.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-775630521461-indiya-malabarskii-musson",
+   "name": "Индия Малабарский Муссон",
+   "description": "Регион произрастания: Керала, Малабарское побережье.\nВысота произрастания: 450-900 метров.\nРазновидности: селекция 795, сел. 9, сел. 6, кент.\nСпособ обработки: натуральная.\nУрожай: 2019.\nВо вкусе: \nорехи, чёрный перец.\nГеография: Азия\nУрожай: 2021/22\nОценка SCA: 80+\nРекомендуем: для фильтра\nПриготовление: турка",
+   "image": "https://static.tildacdn.com/tild3064-3933-4539-a633-386132323130/11.jpg",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "450-900 метров",
+    "Способ обработки": "натуральная",
+    "Урожай": "2019",
+    "Оценка SCA": "80+"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1570.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1649.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1570.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1649.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-118300011791-efiopiya-sidamo-natural",
+   "name": "Эфиопия Сидамо (Natural)",
+   "description": "Регион произрастания:\n Сидамо.\nРазновидности:\n местные разновидности.\nВысота произрастания:\n 1600–2200 метров.\nСпособ обработки:\n натуральная.\nУрожай:\n 2021-2022.\nОценка SCA:\n 83.\nВо вкусе:\nшоколад, вишня, косточковые фрукты, цитрусовые ноты.\nГеография: Африка\nУрожай: 2021/22\nОценка SCA: 83+\nОбжарка: для эспрессо\nПриготовление: эспрессо\nПриготовление: гейзер\nПриготовление: турка",
+   "image": "https://static.tildacdn.com/stor6336-3865-4431-a666-366133366335/22212455.jpg",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "1600–2200 метров",
+    "Способ обработки": "натуральная",
+    "Урожай": "2021-2022",
+    "Оценка SCA": "83",
+    "Обжарка": "для эспрессо"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1450.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1523.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1450.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1523.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-575334202591-meksika-shg-chyapas",
+   "name": "Мексика СХГ Чьяпас",
+   "description": "Регион произрастания:\n Хальтенанго, штат Чьяпас.\nВысота произрастания:\n 1200-1600 метров.\nРазновидности:\n катурра, бурбон, мундо-ново.\nОбработка:\n мытая.\nУрожай:\n 2020-2021.\nОценка SCA:\n 81,5.\nВо вкусе:\nчернослив, цитрус, древесный, орех.\nГеография: Америка\nУрожай: 2020/21\nОценка SCA: 81+\nРекомендуем: для эспрессо",
+   "image": "https://static.tildacdn.com/tild3064-3933-4539-a633-386132323130/11.jpg",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "1200-1600 метров",
+    "Обработка": "мытая",
+    "Урожай": "2020-2021",
+    "Оценка SCA": "81,5"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1760.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1848.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1760.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1848.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-113313842301-braziliya-kolibri-blend",
+   "name": "Бразилия Колибри Бленд",
+   "description": "Регион произрастания:\n Серра ду Кабрал, Минас-Жерайс, ферма Экоагрикола.\nВысота произрастания:\n 1100 метров.\nРазновидности:\n красный и желтый катукаи.\nОбработка:\n натуральная.\nКлассификация:\n specialty.\nУрожай:\n 2020-2021.\nОценка SCA:\n 86.\nВо вкусе:\nмеласса, темные фрукты, карамель.\nГеография: Америка\nУрожай: 2020/21\nОценка SCA: 86+\nОбработка: натуральная\nКлассификация: specialty\nРекомендуем: для эспрессо\nРекомендуем: для фильтра",
+   "image": "https://static.tildacdn.com/tild6333-3336-4236-a537-373765306361/_.jpg",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "1100 метров",
+    "Обработка": "натуральная",
+    "Урожай": "2020-2021",
+    "Оценка SCA": "86"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1900.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1956.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1900.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1956.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-429524192761-gonduras-finka-el-durazno",
+   "name": "Гондурас Финка Эль-Дуразно",
+   "description": "Регион произрастания:\n Опалака, Интибука, Масагуара, финка Эль-Дуразно.\nВысота произрастания:\n1626 метров.\nРазновидности:\n катурра.\nОбработка:\n натуральная.\nКлассификация:\n specialty.\nУрожай:\n 2020-2021.\nОценка SCA:\n 85,75.\nВо вкусе:\nтропические сухофрукты, малина, винный, шоколад.\nВладельцы Финки Эль-Дуразно выращивают кофе на протяжении 40 лет, наследуя традиции трех поколений.\nКофе растет в тени деревьев, собирается вручную, далее сортируется в воде методом флотации с последующей сушкой на африканских кроватях.\nГеография: Америка\nУрожай: 2020/21\nОценка SCA: 85+\nОбработка: натуральная\nКлассификация: specialty\nРекомендуем: для фильтра\nРекомендуем: для эспрессо",
+   "image": "https://static.tildacdn.com/tild3232-6535-4434-b537-323230336430/_-.jpg",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "1626 метров",
+    "Обработка": "натуральная",
+    "Урожай": "2020-2021",
+    "Оценка SCA": "85,75"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1790.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1844.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1790.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1844.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-829066618461-papua-novaya-gvineya",
+   "name": "Папуа Новая Гвинея",
+   "description": "Регион произрастания:\n долина Вахги, западное высогорье.\nВысота произрастания:\n 1550 метров.\nРазновидности:\n аруша, типика.\nОбработка:\n мытая.\nУрожай:\n 2020-2021.\nОценка SCA:\n 84,5.\nВо вкусе:\nчерная смородина, лайм, специи, карамель.\nГеография: Азия\nУрожай: 2020/21\nОценка SCA: 84+\nОбработка: мытая\nРекомендуем: для фильтра\nРекомендуем: для эспрессо",
+   "image": "https://static.tildacdn.com/tild3764-6665-4334-b439-343330303465/__.jpg",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "1550 метров",
+    "Обработка": "мытая",
+    "Урожай": "2020-2021",
+    "Оценка SCA": "84,5"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1800.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1890.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1800.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1890.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-421396818811-efiopiya-gudzhi-gute-sodu",
+   "name": "Эфиопия Гуджи Гуте Соду",
+   "description": "Регион произрастания:\n Оромия, Гуджи, Амбела, Гуте Соду.\nРазновидности:\n местные разновидности.\nВысота произрастания:\n 2000–2250 метров.\nСпособ обработки:\n натуральная.\nКлассификация:\n specialty.\nУрожай:\n 2020-2021.\nОценка SCA:\n88,25\n.\nВо вкусе:\nлемонграсс, красные фрукты, клубника, шелковистое тело.\nГеография: Африка\nУрожай: 2020/21\nОценка SCA: 88+\nОбработка: натуральная\nРекомендуем: для фильтра\nКлассификация: specialty",
+   "image": "https://static.tildacdn.com/tild6562-3935-4661-b265-363630393766/__.jpg",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "2000–2250 метров",
+    "Способ обработки": "натуральная",
+    "Урожай": "2020-2021",
+    "Оценка SCA": "88,25",
+    "Обработка": "натуральная"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1950.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1025.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1950.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1025.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-202202867671-efiopiya-sidamo-bale-mauntin-anaerobic",
+   "name": "Эфиопия Сидамо Бале Маунтин (Anaerobic)",
+   "description": "Регион произрастания:\n Зона Западный Арси, Ненсебо Вореда, ферма Бале Маунтин.\nРазновидности:\n местные разновидности.\nВысота произрастания:\n 1800–2100 метров.\nОбработка:\n анаэробная.\nКлассификация:\n specialty.\nУрожай:\n 2022-2023.\nОценка SCA:\n86,75.\nВо вкусе:\nананас, виноград, белое вино, тропические фрукты.\nГеография: Африка\nУрожай: 2022/23\nОценка SCA: 86+\nОбработка: анаэробная\nКлассификация: specialty\nОбжарка: для фильтра\nОбжарка: для эспрессо\nПриготовление: аэропресс\nПриготовление: гейзер\nПриготовление: капельная\nПриготовление: пуровер\nПриготовление: турка\nПриготовление: френч-пресс\nПриготовление: эспрессо",
+   "image": "https://static.tildacdn.com/stor3062-3962-4438-b536-333638363665/59472855.png",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "1800–2100 метров",
+    "Обработка": "анаэробная",
+    "Урожай": "2022-2023",
+    "Оценка SCA": "86,75",
+    "Обжарка": "для фильтра"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2550.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1339.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2550.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1339.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-261961344791-vetnam-dalat",
+   "name": "Вьетнам Далат",
+   "description": "Регион произрастания:\n северо-запад Вьетнама, провинция Шонла.\nВысота произрастания:\n 800-1400 метров.\nРазновидности:\n катимор.\nСпособ обработки:\n мытая.\nУрожай:\n 2024-2025.\nОценка SCA:\n 82,5.\nВо вкусе:\nчернослив, шоколад, орехи, цитрусы.\nГеография: Азия\nОбработка: мытая\nУрожай: 2024/25\nОценка SCA: 82+\nОбжарка: для эспрессо\nПриготовление: эспрессо\nПриготовление: турка\nПриготовление: гейзер",
+   "image": "https://static.tildacdn.com/stor3138-6137-4962-b339-643830636633/26983397.jpg",
+   "category": "",
+   "specs": {
+    "Высота произрастания": " 800-1400 метров",
+    "Способ обработки": " мытая",
+    "Урожай": " 2024-2025",
+    "Оценка SCA": " 82,5",
+    "Обработка": "мытая",
+    "Обжарка": "для эспрессо"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1850.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1944.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1850.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1944.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-557145039191-ruanda-muteteli",
+   "name": "Руанда Мутетели",
+   "description": "Регион произрастания:\n Западная, Южная и Северная провинции.\nВысота произрастания:\n 1700-2200 метров.\nРазновидности:\n бурбон, мибиризи.\nСпособ обработки:\n мытая.\nУрожай:\n 2025/26.\nОценка SCA:\n 86.\nВо вкусе:\nвишня, красная смородина, цветочный, карамель.\nГеография: Африка\nУрожай: 2025/26\nОценка SCA: 86+\nОбработка: мытая\nОбжарка: для фильтра\nОбжарка: для эспрессо",
+   "image": "https://static.tildacdn.com/stor3166-6632-4639-a565-393661323363/75143513.png",
+   "category": "",
+   "specs": {
+    "Высота произрастания": " 1700-2200 метров",
+    "Способ обработки": " мытая",
+    "Урожай": " 2025/26",
+    "Оценка SCA": " 86",
+    "Обработка": "мытая",
+    "Обжарка": "для фильтра"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2300.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2300.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2415.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2415.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2300.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2300.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2415.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2415.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-224951448171-uganda-chigalagala-natural",
+   "name": "Уганда Чигалагала (Natural)",
+   "description": "Регион произрастания:\n Капчорва, гора Элгон, Бугису.\nРазновидности:\n SL-28, SL-34, SL-14.\nВысота произрастания:\n 1500−2000 метров.\nСпособ обработки:\n натуральная.\nКлассификация:\n specialty.\nУрожай:\n 2020−2021.\nОценка SCA:\n87\n.\nВо вкусе:\nвишня, апельсин, персик, крем-брюле.\nКофе обрабатывается на современной центральной станции натуральной обработки, ориентированной исключительно на натуральную (сухую) обработку. Этот кофе основан на вкусовом профиле и не привязан к определенному месту. Вишня поступает из разных мест, но всегда должна соответствовать критериям качества и прослеживаемости.\nФермеры небольшие и в среднем выращивают около 600 — 1000 деревьев, каждое дерево дает примерно 0,5 кг ягод.\nЭтот кофе имеет очень отчетливый и узнаваемый вкусовой профиль, кофе натуральной обработки, основанный на классической натуральной ферментации, со вкусом зрелых фруктов и оттенками молочнокислого и алкогольного напитка. \nГеография: Африка\nУрожай: 2020/21\nОценка SCA: 87+\nОбработка: натуральная\nКлассификация: specialty\nРекомендуем: для фильтра\nРекомендуем: для эспрессо",
+   "image": "https://static.tildacdn.com/tild3531-3938-4139-b631-623832333332/_.jpg",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "1500−2000 метров",
+    "Способ обработки": "натуральная",
+    "Урожай": "2020−2021",
+    "Оценка SCA": "87",
+    "Обработка": "натуральная"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2300.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2415.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2300.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2415.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-627275155801-kosta-rika-cherri-medness",
+   "name": "Коста-Рика Черри Мэднесс",
+   "description": "Регион произрастания:\n Дота Тарразу, ферма Трес Милагрос.\nВысота произрастания:\n 1500-1850 метров.\nРазновидности:\n бурбон.\nКлассификация:\n specialty.\nОбработка:\n анаэробная ферментация с моссто (69+42 часа).\nУрожай:\n 2020-2021.\nОценка SCA:\n87.\nВо вкусе:\nананас, винный, молочный шоколад, грейпфрут.\nОбщая площадь фермы Трес Милагрос равна 120 гектарам. Почвы здесь богаты минералами и гумусом, образующийся в результате разложения вулканического пепла (неподалеку от фермы находится вулкан Иразу), уровень pH почв равен 5,3.\nКлимат региона Дота Тарразу характеризуется двумя сезонами: сезон дождей (длится стабильно семь месяцев, с мая по ноябрь) и сухой сезон (с декабря по апрель). В среднем осадков ежегодно выпадает 1350 мм, среднегодовая температура воздуха составляет 19 °C.\nОбработка cherry madness состоит из следующих этапов:\n○ Сбор спелых ягод - 23° brix;\n○ Замачивание ягод в чистой воде — 3 ч;\n○ Анаэроб. ферментация с моссто — 69 ч;\n○ Депульпация;\n○ 2-ая ферментация с моссто - 42 ч;\n○ Сушка на африканских кроватях - 18 дн.;\n○ Стабилизация уровня влажности/доп. сушка в тени - 6 дн.. \nГеография: Америка\nУрожай: 2020/21\nОценка SCA: 87+\nКлассификация: specialty\nОбработка: анаэробная\nОбжарка: для фильтра\nПриготовление: кемекс\nПриготовление: турка\nПриготовление: аэропресс\nПриготовление: пуровер\nПриготовление: френч-пресс\nПриготовление: колд брю",
+   "image": "https://static.tildacdn.com/tild6663-6466-4332-a330-303465396339/-__.jpg",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "1500-1850 метров",
+    "Обработка": "анаэробная ферментация с моссто (69+42 часа)",
+    "Урожай": "2020-2021",
+    "Оценка SCA": "87",
+    "Обжарка": "для фильтра"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2280.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2394.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2280.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2394.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-106925380971-kolumbiya-la-paloma",
+   "name": "Колумбия Ла Палома",
+   "description": "Регион произрастания:\n Киндио, ферма Кампо Эрмосо, участник фермы Ла Палома.\nВладельцы:\n Эдвин Норенья и Ана-Мария Доннис.\nВысота произрастания:\n 1600-1700 метров.\nРазновидности:\n катурра.\nОбработка:\n натуральная.\nКлассификация:\n specialty.\nУрожай:\n 2020-2021.\nОценка SCA:\n88.25.\nВо вкусе:\nсмородина, ананас, мелисса, мята.\nГеография: Америка\nУрожай: 2020/21\nОценка SCA: 88+\nОбработка: натуральная\nКлассификация: specialty\nРекомендуем: для фильтра\nПриготовление: пуровер\nПриготовление: турка\nПриготовление: аэропресс\nПриготовление: кемекс\nПриготовление: капельная",
+   "image": "https://static.tildacdn.com/tild6439-6632-4165-b739-303233393536/__.jpg",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "1600-1700 метров",
+    "Обработка": "натуральная",
+    "Урожай": "2020-2021",
+    "Оценка SCA": "88.25"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1950.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2048.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1950.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2048.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-661930890431-indoneziya-frinsa",
+   "name": "Индонезия Фринса",
+   "description": "Регион произрастания:\n остров Ява, ферма Фринса Эстейт.\nВысота произрастания:\n 1300−1500 метров.\nРазновидности:\n сигарарутанг, андунгсари, тимтим, атенг супер, борбор.\nКлассификация:\n specialty.\nОбработка:\n удлиненная натуральная, 2 дня анаэробного брожения с лактобактериями.\nУрожай:\n 2021.\nОценка SCA:\n88.\nВо вкусе:\nбелое вино, сироп ревеня, красная вишня.\nГеография: Азия\nУрожай: 2021\nОценка SCA: 88+\nКлассификация: specialty\nОбработка: анаэробная\nОбжарка: для фильтра\nПриготовление: пуровер\nПриготовление: турка\nПриготовление: аэропресс\nПриготовление: кемекс\nПриготовление: колд брю",
+   "image": "https://static.tildacdn.com/tild6634-3061-4032-b035-366465303936/_.jpg",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "1300−1500 метров",
+    "Обработка": "удлиненная натуральная, 2 дня анаэробного брожения с лактобактериями",
+    "Урожай": "2021",
+    "Оценка SCA": "88",
+    "Обжарка": "для фильтра"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2400.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1260.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2400.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1260.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-814758623801-efiopiya-gudzhi-uraga",
+   "name": "Эфиопия Гуджи Урага",
+   "description": "Регион произрастания:\n Гуджи, станция обработки Урага.\nВысота произрастания:\n 1950−2250 метров.\nРазновидности:\n волишо и дега.\nОбработка:\n мытая.\nКлассификация:\n specialty.\nУрожай:\n 2020-2021.\nОценка SCA:\n86,75\n.\nВо вкусе:\nлемонграсс, зелёный чай, яблочная карамель, кориандр, цветы.\nГеография: Африка\nУрожай: 2020/21\nОценка SCA: 86+\nОбработка: мытая\nОбжарка: для фильтра\nОбжарка: для эспрессо\nПриготовление: эспрессо\nПриготовление: турка\nПриготовление: гейзер\nПриготовление: пуровер\nПриготовление: капельная\nПриготовление: аэропресс\nПриготовление: френч-пресс",
+   "image": "https://static.tildacdn.com/tild3462-3930-4736-a136-333864613934/__.jpg",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "1950−2250 метров",
+    "Обработка": "мытая",
+    "Урожай": "2020-2021",
+    "Оценка SCA": "86,75",
+    "Обжарка": "для фильтра"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1800.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1890.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1800.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1890.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-961888451171-gvatemala-shb-monteklaro",
+   "name": "Гватемала SHB Монтекларо",
+   "description": "Регион произрастания:\n Уэуэтенанго, ферма Монтекларо.\nВысота произрастания:\n 1700 метров.\nРазновидности:\n катуаи.\nОбработка:\n мытая.\nКлассификация:\n specialty.\nУрожай:\n 2021.\nОценка SCA:\n 84.\nВо вкусе:\nизюм, карамель, пряности\n. \nГеография: Америка\nУрожай: 2020/21\nОценка SCA: 84+\nОбработка: мытая\nКлассификация: specialty\nОбжарка: для фильтра\nОбжарка: для эспрессо\nПриготовление: эспрессо\nПриготовление: турка\nПриготовление: гейзер\nПриготовление: капельная\nПриготовление: френч-пресс",
+   "image": "https://static.tildacdn.com/tild3064-3233-4763-b362-653364343464/_.jpg",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "1700 метров",
+    "Обработка": "мытая",
+    "Урожай": "2021",
+    "Оценка SCA": "84",
+    "Обжарка": "для фильтра"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1630.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1712.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1630.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1712.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-705337217961-gonduras-finka-la-leona",
+   "name": "Гондурас Финка Ла Леона",
+   "description": "Регион произрастания:\n Интибука, Сан Мигелито, ферма Ла Леона.\nФермер:\n Бернардо Кантарера.\nВысота произрастания:\n1500 метров.\nРазновидности:\n лемпира, катуаи, катурра.\nСпособ обработки:\n мытая.\nУрожай:\n 2020-2021.\nКлассификация:\n specialty.\nОценка SCA:\n 85.\nВо вкусе:\nжелтая слива, зеленый виноград, красное яблоко.\nГеография: Америка\nУрожай: 2020/21\nОценка SCA: 85+\nОбработка: мытая\nРекомендуем: для эспрессо\nРекомендуем: для фильтра",
+   "image": "https://static.tildacdn.com/tild6239-6631-4666-b636-613465383663/__.jpg",
+   "category": "",
+   "specs": {
+    "Фермер": "Бернардо Кантарера",
+    "Высота произрастания": "1500 метров",
+    "Способ обработки": "мытая",
+    "Урожай": "2020-2021",
+    "Оценка SCA": "85",
+    "Обработка": "мытая"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1630.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1712.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1630.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1712.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-704039899651-meksika-iksuatlan",
+   "name": "Мексика Иксуатлан",
+   "description": "Регион произрастания:\n Веракрус, станция обработки Иксуатлан Сантуарио.\nВысота произрастания:\n 1500−1700 метров.\nРазновидности:\n бурбон.\nОбработка:\n красный хани.\nКлассификация:\n specialty.\nУрожай:\n 2020-2021.\nОценка SCA: \n84,5.\nВо вкусе: \nкофейная\nягода, лесные фрукты, ваниль, древесный.\nИксуатлан (Ixhuatlán del café) \n— центр обработки кофе проекта Santuario Project Mexico, он был основан в 2018 году. Это полностью интегрированный комплекс, оборудованных всем необходимым для различных способов обработки и сушки кофе, на территории центра также расположен кофейный сад (550 га), лаборатория и склад.\nИксуатлан работает с несколькими мелкими производителями кофе из Веракруса — принимает от местных фермеров только лучшие партии, которые затем обрабатываются под бдительным присмотром опытных менеджеров по обработке проекта Сантуарио. Эти фермеры получают поддержку от AMSA Veracruz.\nЧтобы добиться неизменно высокого качества, основное внимание уделяется\nпроизводителям кофе и их обучению. Перед сбором у ягод замеряется уровень сахара по шкале Brix, сбор ягод производится вручную (selective picking), затем ягоды тщательно сортируют и промывают в чистой воде. Кофейные ягоды собирают на разных стадиях спелости в зависимости от метода обработки, которым их собираются подвергнуть, чтобы лучше контролировать процесс обработки и конечное качество кофе (вкус).\nВ центре установлено новое современное оборудование и чистые резервуары для\nферментации (что также позволяет лучше контролировать стадии ферментации). После обработки каждая партия медленно сушится в тени на африканских кроватях с использованием вентиляторов и экстракторов для поддержания абсолютной стабильности температуры и влажности в процессе сушки.\nОбработка:\nred honey (красный хани)\n в центре обработки Сантуарио состоит из следующих основных этапов:\n○ сбор спелых ягод ;— 24−25° brix;\n○ замачивание ягод в чистой воде — 5 ч.;\n○ депульпация;\n○ анаэробная ферментация с моссто — 6 ч.;\n○ сушка на афр. кроватях — 20 дн.;\n○ стабилизация уровня влажности до 10.5% / доп. сушка в тени — 6 дн.;\n○ финальная стабилизация в мешках грейн-про — 12 дн.\nГеография: Америка\nУрожай: 2020/21\nОценка SCA: 84+\nОбработка: хани\nКлассификация: specialty\nОбжарка: для фильтра\nОбжарка: для эспрессо\nПриготовление: турка\nПриготовление: эспрессо\nПриготовление: френч-пресс\nПриготовление: гейзер",
+   "image": "https://static.tildacdn.com/tild6432-3231-4436-a363-303766643464/_.jpg",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "1500−1700 метров",
+    "Обработка": "красный хани",
+    "Урожай": "2020-2021",
+    "Оценка SCA": "84+",
+    "Обжарка": "для фильтра"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1970.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1034.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1970.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1034.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-947924366181-kolumbiya-el-divizo",
+   "name": "Колумбия Эль Дивизо",
+   "description": "Регион произрастания:\n Уила, ферма Эль Дивизо.\nВладельцы:\n Луис Гузман.\nВысота произрастания:\n 1753,8 метров.\nРазновидности:\n катурра.\nКлассификация:\n specialty.\nОбработка:\n натуральная.\nУрожай:\n 2020-2021.\nОценка SCA:\n87.5.\nВо вкусе:\nкрасная вишня, тамаринд, фиалка, винный, мёд, какао.\nГеография: Америка\nУрожай: 2020/21\nОценка SCA: 87+\nОбработка: натуральная\nКлассификация: specialty\nОбжарка: для фильтра\nОбжарка: для эспрессо\nПриготовление: пуровер\nПриготовление: кемекс\nПриготовление: капельная\nПриготовление: турка\nПриготовление: гейзер\nПриготовление: эспрессо",
+   "image": "https://static.tildacdn.com/tild3734-3966-4630-a265-333838313930/__.jpg",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "1753,8 метров",
+    "Обработка": "натуральная",
+    "Урожай": "2020-2021",
+    "Оценка SCA": "87.5",
+    "Обжарка": "для фильтра"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2380.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1250.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2380.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1250.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-996351493841-burundi-muiinga",
+   "name": "Бурунди Муйинга",
+   "description": "Регион произрастания:\n Муйинга, ст.обр. Кигоганья.\nВысота произрастания:\n 1549 метров.\nРазновидности:\n бурбон, мибиризи.\nСпособ обработки:\n мытая.\nУрожай:\n 2021-2022.\nОценка SCA:\n 84,5.\nВо вкусе:\nвишня, грейпфрут, цветочный.\nПрекрасный представитель кофе из Бурунди, пожалуй наилучший сорт для начала знакомства с африканским кофе. \nГеография: Африка\nУрожай: 2021/22\nОценка SCA: 84+\nОбработка: мытая\nРекомендуем: для фильтра\nРекомендуем: для эспрессо",
+   "image": "https://static.tildacdn.com/tild3638-6439-4763-b333-353436303537/_.png",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "1549 метров",
+    "Способ обработки": "мытая",
+    "Урожай": "2021-2022",
+    "Оценка SCA": "84,5",
+    "Обработка": "мытая"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1600.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 840.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1600.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 840.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-831477948611-nikaragua-bethania",
+   "name": "Никарагуа Бетханиа",
+   "description": "Регион произрастания:\n Нуэва-Сеговия, ферма Бетханиа.\nВысота произрастания:\n 1300−1500 метров.\nРазновидности:\n красный катуаи.\nОбработка:\n мытая.\nКлассификация:\n specialty.\nУрожай:\n 2020−2021.\nОценка SCA:\n89,25.\nВо вкусе:\nтёмный шоколад, тропические фрукты, гибискус, молочный, тростниковый сахар, перец.\nГеография: Америка\nУрожай: 2020/21\nОценка SCA: 89+\nОбработка: мытая\nОбжарка: для фильтра",
+   "image": "https://static.tildacdn.com/tild3932-3932-4263-b635-336335383236/_.jpg",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "1300−1500 метров",
+    "Обработка": "мытая",
+    "Урожай": "2020−2021",
+    "Оценка SCA": "89,25",
+    "Обжарка": "для фильтра"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2350.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1234.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2350.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1234.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-588651197201-gvatemala-finka-la-bolsa",
+   "name": "Гватемала Финка Ла Болса",
+   "description": "Регион произрастания:\n Уэуэтенанго, Ла-Либертад, ферма Ла Болса.\nВысота произрастания:\n 1700 метров.\nРазновидности:\n катурра, бурбон.\nОбработка:\n мытая.\nКлассификация:\n specialty.\nУрожай:\n 2020-2021.\nОценка SCA:\n 84,5.\nВо вкусе:\nвишня, цитрус, цветочный, черный чай.\nГеография: Америка\nУрожай: 2020/21\nОценка SCA: 84+\nОбработка: мытая\nКлассификация: specialty\nРекомендуем: для фильтра\nРекомендуем: для эспрессо",
+   "image": "https://static.tildacdn.com/tild6437-3532-4535-a337-653639396361/__.png",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "1700 метров",
+    "Обработка": "мытая",
+    "Урожай": "2020-2021",
+    "Оценка SCA": "84,5"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1900.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1995.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1900.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1995.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-325923086721-indoneziya-sumatra-kerinchi",
+   "name": "Индонезия Суматра Керинчи",
+   "description": "Регион произрастания:\n Западная Суматра, Керинчи.\nВысота произрастания:\n 1200−1700 метров.\nРазновидности:\n разновидности Индонезии.\nКлассификация:\n specialty.\nОбработка:\n натуральная.\nУрожай:\n 2021-2022.\nОценка SCA:\n87,5.\nВо вкусе:\nкрасное вино, клубника, виноград, шоколад.\nГеография: Азия\nУрожай: 2021/22\nОценка SCA: 87+\nКлассификация: specialty\nОбработка: натуральная\nОбжарка: для фильтра\nПриготовление: пуровер\nПриготовление: капельная\nПриготовление: гейзер\nПриготовление: аэропресс\nПриготовление: турка\nПриготовление: френч-пресс",
+   "image": "https://static.tildacdn.com/tild6339-3138-4336-a163-306564616265/_.png",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "1200−1700 метров",
+    "Обработка": "натуральная",
+    "Урожай": "2021-2022",
+    "Оценка SCA": "87,5",
+    "Обжарка": "для фильтра"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2250.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2363.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2250.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2363.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-440534182201-braziliya-rio-verde",
+   "name": "Бразилия Рио Верде",
+   "description": "Регион произрастания:\n Серра-да-Мантикейра, ферма Рио Верде.\nВысота произрастания:\n 1185-1276 метров.\nРазновидности:\n желтый катуаи.\nОбработка:\n натуральная.\nКлассификация:\n specialty.\nУрожай:\n 2021-2022.\nОценка SCA:\n 84.75.\nВо вкусе:\nапельсин, цветочный, карамель.\nМикролоты проекта Premier Cru “Aura Magna” от Ipanema Coffees собирается с отдельного участка фермы Рио Верде, на каждом из которых выращивается только одна кофейная разновидность: акайя, желтый катуаи или бурбон.\nПосле обработки лоты разделяют на группы вкусов: цитрусовый, винный, цветочный и другие. Группы вкусов затем объединяют в серии по чистоте вкусов.\nНаш лот относится к цитрусовым размер участка на котором производился селективный ручной сбор 16,81 га. Общая площадь фермы Рио Верде составляет 900 га.\nСушка кофе производилась на африканских кроватях в течение 376 часов.\nГеография: Америка\nУрожай: 2021/22\nОценка SCA: 84+\nОбработка: натуральная\nКлассификация: specialty\nРекомендуем: для фильтра\nРекомендуем: для эспрессо",
+   "image": "https://static.tildacdn.com/tild3736-3034-4939-b162-623163663164/__.png",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "1185-1276 метров",
+    "Обработка": "натуральная",
+    "Урожай": "2021-2022",
+    "Оценка SCA": "84.75"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1630.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1712.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1630.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1712.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-558415081811-gvatemala-mam",
+   "name": "Гватемала МАМ",
+   "description": "Регион произрастания:\n Уэуэтенанго.\nВысота произрастания:\n 1500-2000 метров.\nРазновидности:\n бурбон, катуаи, катурра.\nОбработка:\n мытая.\nУрожай:\n 2020-2021.\nОценка SCA:\n 85,25.\nВо вкусе:\nсухофрукты, мед, жасмин, красное яблоко, молочный шоколад.\nГеография: Америка\nУрожай: 2020/21\nОценка SCA: 85+\nОбработка: мытая\nКлассификация: specialty\nОбжарка: для фильтра\nОбжарка: для эспрессо\nПриготовление: эспрессо\nПриготовление: гейзер\nПриготовление: турка\nПриготовление: капельная\nПриготовление: френч-пресс",
+   "image": "https://static.tildacdn.com/tild3835-3738-4438-b533-396337393362/_.png",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "1500-2000 метров",
+    "Обработка": "мытая",
+    "Урожай": "2020-2021",
+    "Оценка SCA": "85,25",
+    "Обжарка": "для фильтра"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1700.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1785.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1700.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1785.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-702026965481-kolumbiya-el-pasto-kondor",
+   "name": "Колумбия Эль-Пасто Кондор",
+   "description": "Регион произрастания:\n департамент Нариньо.\nВысота произрастания:\n 1800-2300 метров.\nРазновидности:\n катурра, колумбия, кастильо.\nОбработка:\n мытая.\nУрожай:\n 2020-2021.\nОценка SCA:\n 84.\nВо вкусе:\nцитрус, красные ягоды, шоколад.\nГеография: Америка\nУрожай: 2020/21\nКлассификация: specialty\nОценка SCA: 84+\nОбработка: мытая\nОбжарка: для эспрессо\nОбжарка: для фильтра\nПриготовление: турка\nПриготовление: гейзер\nПриготовление: эспрессо\nПриготовление: капельная",
+   "image": "https://static.tildacdn.com/tild6166-6561-4338-a136-393634323032/_-_.jpg",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "1800-2300 метров",
+    "Обработка": "мытая",
+    "Урожай": "2020-2021",
+    "Оценка SCA": "84",
+    "Обжарка": "для эспрессо"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1450.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1523.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1450.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1523.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-124327362951-efiopiya-irgacheff-sukke",
+   "name": "Эфиопия Иргачефф Сукке",
+   "description": "Регион произрастания:\n Арича, зона Гедео, SNNP.\nВысота произрастания:\n 1900–2100 метров.\nРазновидности:\n местные разновидности.\nОбработка:\n натуральная.\nКлассификация:\n specialty.\nУрожай:\n 2020-2021.\nОценка SCA:\n86\n.\nВо вкусе:\nчерника, карамель, черный чай, цветочный.\nГеография: Африка\nУрожай: 2020/21\nОценка SCA: 86+\nОбработка: натуральная\nКлассификация: specialty\nОбжарка: для фильтра\nОбжарка: для эспрессо\nПриготовление: турка\nПриготовление: эспрессо\nПриготовление: гейзер\nПриготовление: капельная\nПриготовление: френч-пресс\nПриготовление: колд брю",
+   "image": "https://static.tildacdn.com/tild3630-3431-4438-a363-623434633762/_.jpg",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "1900–2100 метров",
+    "Обработка": "натуральная",
+    "Урожай": "2020-2021",
+    "Оценка SCA": "86",
+    "Обжарка": "для фильтра"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1650.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1733.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1650.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1733.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-254465679281-indoneziya-sumatra-gaio-belangi",
+   "name": "Индонезия Суматра Гайо Беланги",
+   "description": "Регион произрастания:\n провинция Ачех.\nВысота произрастания:\n 1250-1450 метров.\nРазновидности:\n S975, кент, катимор.\nОбработка:\n гилинг-басах.\nУрожай:\n 2025.\nОценка SCA:\n 83,5.\nВо вкусе:\nягоды, персик, цитрусовые фрукты, специи.\nГеография: Азия\nУрожай: 2025\nОценка SCA: 83+\nОбработка: гилинг-басах\nОбжарка: для фильтра\nОбжарка: для эспрессо\nПриготовление: турка\nПриготовление: эспрессо\nПриготовление: капельная\nПриготовление: френч-пресс",
+   "image": "https://static.tildacdn.com/stor6134-3330-4264-a331-333030613634/66488794.jpg",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "1250-1450 метров",
+    "Обработка": "гилинг-басах",
+    "Урожай": "2025",
+    "Оценка SCA": "83,5",
+    "Обжарка": "для фильтра"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2400.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2520.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2400.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2520.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-846103407031-salvador-likvidambar",
+   "name": "Сальвадор Ликвидамбар",
+   "description": "Регион произрастания:\n горная цепь Апанека-Иламатепек.\nВысота произрастания:\n 1100−1200 метров.\nРазновидности:\n катуаи.\nКлассификация:\n specialty.\nОбработка:\n натуральная.\nУрожай:\n 2022.\nОценка SCA:\n 86,25.\nВо вкусе:\nтёмный шоколад, цитрусы, маракуйя, черника, алкогольный, грецкий орех.\nГеография: Америка\nУрожай: 2022\nОценка SCA: 86+\nОбработка: натуральная\nКлассификация: specialty\nОбжарка: для фильтра\nОбжарка: для эспрессо\nПриготовление: турка\nПриготовление: гейзер\nПриготовление: аэропресс\nПриготовление: капельная\nПриготовление: френч-пресс\nПриготовление: эспрессо",
+   "image": "https://static.tildacdn.com/stor6134-3430-4361-a131-623935663163/63473770.jpg",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "1100−1200 метров",
+    "Обработка": "натуральная",
+    "Урожай": "2022",
+    "Оценка SCA": "86,25",
+    "Обжарка": "для фильтра"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1770.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1859.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1770.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1859.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-956135904641-kolumbiya-el-plaser",
+   "name": "Колумбия Эль Пласер",
+   "description": "Регион произрастания:\n Киндио, Каларка, ферма Эль Пласер.\nВладельцы:\n Семья Рамирес.\nВысота произрастания:\n 1744 метров.\nРазновидности:\n розовый бурбон.\nКлассификация:\n specialty.\nОбработка:\n анаэробная натуральная.\nУрожай:\n 2021.\nОценка SCA:\n87.75.\nВо вкусе:\nманго, клубника, мандарин, черный чай.\nГеография: Америка\nУрожай: 2021\nОценка SCA: 87+\nОбработка: анаэробная\nКлассификация: specialty\nОбжарка: для фильтра\nОбжарка: для эспрессо\nПриготовление: турка\nПриготовление: аэропресс\nПриготовление: капельная\nПриготовление: френч-пресс\nПриготовление: кемекс",
+   "image": "https://static.tildacdn.com/tild6635-3832-4136-b662-613636333061/__.jpg",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "1744 метров",
+    "Обработка": "анаэробная натуральная",
+    "Урожай": "2021",
+    "Оценка SCA": "87.75",
+    "Обжарка": "для фильтра"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2100.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2205.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2100.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2205.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-228150793801-nikaragua-shg",
+   "name": "Никарагуа SHG",
+   "description": "Регион произрастания:\n Нуэва-Сеговия.\nВысота произрастания:\n 1000–1300 метров.\nРазновидности:\n катурра.\nОбработка:\n мытая.\nУрожай:\n 2021−2022\nОценка SCA:\n 83,25.\nВо вкусе:﻿\nягоды, карамель, цитрус, какао, чернослив.\nСеверный регион Нуэва-Сеговия производит одни из лучших кофе в стране — в основном это разновидность катурра.\nКофейные деревья для этого лота растут вдоль вулкана Момотомбо, прямо на берегу озера Ксолотлан напротив столицы Никарагуа Манагуа. \nГеография: Америка\nУрожай: 2021/22\nОценка SCA: 83+\nОбработка: мытая\nОбжарка: для эспрессо\nПриготовление: турка\nПриготовление: эспрессо\nПриготовление: гейзер\nПриготовление: френч-пресс",
+   "image": "https://static.tildacdn.com/stor3034-3535-4339-a334-666334356564/69701272.jpg",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "1000–1300 метров",
+    "Обработка": "мытая",
+    "Урожай": "2021−2022",
+    "Оценка SCA": "83,25",
+    "Обжарка": "для эспрессо"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1350.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1418.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1350.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1418.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-204852582641-kolumbiya-ekselso",
+   "name": "Колумбия Эксельсо",
+   "description": "Регион произрастания:\n Кальдас восточная часть, муниципалитет Мансанарес, кооператив \"Кооператива де Кафикульторес де Манисалес\".\nВысота произрастания:\n 1650-1800 метров.\nРазновидности:\n кастильо, катурра.\nСпособ обработки:\n мытая.\nУрожай:\n 2022-2023.\nОценка SCA:\n 83,75.\nВо вкусе:\nцитрус, чернослив, шоколадный брауни.\nГеография: Америка\nУрожай: 2022/23\nОценка SCA: 83+\nОбработка: мытая\nОбжарка: для эспрессо\nПриготовление: эспрессо\nПриготовление: гейзер\nПриготовление: турка\nПриготовление: френч-пресс",
+   "image": "https://static.tildacdn.com/stor3539-6135-4635-b839-613231666531/42958372.png",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "1650-1800 метров",
+    "Способ обработки": "мытая",
+    "Урожай": "2022-2023",
+    "Оценка SCA": "83,75",
+    "Обработка": "мытая",
+    "Обжарка": "для эспрессо"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1520.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1596.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1520.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1596.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-470469334171-kolumbiya-la-esmiralda",
+   "name": "Колумбия Ла Эсмиральда",
+   "description": "Регион произрастания:\n Уила, Гарзон, ферма Ла Эсмиральда.\nВладельцы:\n Edwin Narvaez Tellez.\nВысота произрастания:\n 1600 метров.\nРазновидности:\n розовый бурбон.\nКлассификация:\n specialty.\nОбработка:\n анаэробная.\nУрожай:\n 2021-2022.\nОценка SCA:\n87.5.\nВо вкусе:\nтропические фрукты, клубника, жасмин, мёд.\nГеография: Америка\nУрожай: 2021/22\nОценка SCA: 87+\nОбработка: анаэробная\nКлассификация: specialty\nОбжарка: для фильтра\nПриготовление: турка\nПриготовление: аэропресс\nПриготовление: пуровер\nПриготовление: кемекс\nПриготовление: капельная\nПриготовление: френч-пресс",
+   "image": "https://static.tildacdn.com/stor3863-6236-4539-b139-643862393936/61598072.png",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "1600 метров",
+    "Обработка": "анаэробная",
+    "Урожай": "2021-2022",
+    "Оценка SCA": "87.5",
+    "Обжарка": "для фильтра"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2280.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2280.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-265216609501-ruanda-gatare",
+   "name": "Руанда Гатаре",
+   "description": "Регион произрастания:\n Западная провинция, Ньямашеке, ст. обр. Гатаре.\nВысота произрастания:\n 1800 метров.\nРазновидности:\n красный бурбон.\nСпособ обработки:\n натуральная.\nУрожай:\n 2022-2023.\nОценка SCA:\n 87,5.\nВо вкусе:\nманго, маракуйя, персик, малина, черника, сухофрукты.\nГеография: Африка\nУрожай: 2022/23\nОценка SCA: 87+\nОбработка: натуральная\nОбжарка: для фильтра\nОбжарка: для эспрессо\nПриготовление: турка\nПриготовление: пуровер\nПриготовление: капельная\nПриготовление: кемекс\nПриготовление: аэропресс\nПриготовление: френч-пресс\nПриготовление: гейзер\nПриготовление: эспрессо",
+   "image": "https://static.tildacdn.com/stor3462-3064-4432-b834-636562383436/43766774.png",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "1800 метров",
+    "Способ обработки": "натуральная",
+    "Урожай": "2022-2023",
+    "Оценка SCA": "87,5",
+    "Обработка": "натуральная",
+    "Обжарка": "для фильтра"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1930.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1015.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1930.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1015.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-364862370421-efiopiya-irgacheff-biri-chereka",
+   "name": "Эфиопия Иргачефф Бири Черека",
+   "description": "Регион произрастания:\n зона Гедийо, ст. обр. Арича.\nРазновидности:\n местные разновидности.\nВысота произрастания:\n 1800-1900 метров.\nОбработка:\n мытая.\nУрожай:\n 2021-2022.\nОценка SCA:\n 85,5.\nВо вкусе:\nбергамот, абрикос, цветочный, черный чай.\nГеография: Африка\nУрожай: 2021/22\nОценка SCA: 85+\nКлассификация: specialty\nОбработка: мытая\nОбжарка: для фильтра\nОбжарка: для эспрессо\nПриготовление: турка\nПриготовление: эспрессо\nПриготовление: гейзер\nПриготовление: пуровер\nПриготовление: аэропресс\nПриготовление: капельная\nПриготовление: френч-пресс",
+   "image": "https://static.tildacdn.com/stor3663-3836-4137-a136-663536303838/55658034.png",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "1800-1900 метров",
+    "Обработка": "мытая",
+    "Урожай": "2021-2022",
+    "Оценка SCA": "85,5",
+    "Обжарка": "для фильтра"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1630.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1712.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1630.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1712.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-342434643671-kolumbiya-uila",
+   "name": "Колумбия Уила",
+   "description": "Регион произрастания:\n Уила.\nВысота произрастания:\n 1400-1750 метров.\nРазновидности:\n кастильо, катурра, колумбия.\nСпособ обработки:\n мытая.\nУрожай:\n 2021-2022.\nОценка SCA:\n 84.\nВо вкусе:\n красный ягоды, цитрусы, карамель.\nГеография: Америка\nУрожай: 2021/22\nОценка SCA: 84+\nОбработка: мытая\nОбжарка: для эспрессо\nОбжарка: для фильтра\nПриготовление: эспрессо\nПриготовление: гейзер\nПриготовление: турка\nПриготовление: капельная\nПриготовление: френч-пресс",
+   "image": "https://static.tildacdn.com/stor3236-3833-4033-b063-313261396537/50904025.png",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "1400-1750 метров",
+    "Способ обработки": "мытая",
+    "Урожай": "2021-2022",
+    "Оценка SCA": "84",
+    "Обработка": "мытая",
+    "Обжарка": "для эспрессо"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1710.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 900.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1710.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 900.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-795798860131-gonduras-nal",
+   "name": "Гондурас Нал",
+   "description": "Nal \nпроизводится семейным экспортером в регионе выращивания кофе Копан \nв Гондурас. \nLa Exportadora Familiar — это организация мелких производителей кофе, основанная в 1991 году и расположенная в регионе Кордильера-де-Монтесильос, Отатала, Масагуара, Интибука, Гондурас. \nОни специализируются на органическом кофе и кофе справедливой торговли. Они имеют сертификаты Biolatina и FLO-Cert.\n (Fairtrade) и производственной мощностью 17 000 центнеров. \nГеография: Америка\nУрожай: 2022\nОценка SCA: 84+\nОбработка: натуральная\nКлассификация: specialty\nОбжарка: для фильтра\nОбжарка: для эспрессо\nПриготовление: эспрессо\nПриготовление: гейзер\nПриготовление: турка\nПриготовление: капельная\nПриготовление: френч-пресс",
+   "image": "https://static.tildacdn.com/stor3965-3830-4230-b932-343862646236/55024351.png",
+   "category": "",
+   "specs": {
+    "Урожай": "2022",
+    "Оценка SCA": "84+",
+    "Обработка": "натуральная",
+    "Обжарка": "для фильтра"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1745.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 920.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1745.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 920.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-807916076211-maragodzhip-salvador",
+   "name": "Марагоджип Сальвадор",
+   "description": "Регион произрастания:\n Вулкан Сан-Мигель, Финка Антониета.\nВысота произрастания:\n 1500-1700 метров.\nРазновидности:\n марагоджип.\nОбработка:\n мытая.\nУрожай:\n 2021-2022.\nОценка SCA:\n 82.\nВо вкусе:\nмолочный шоколад, цитрус, орехи.\nГеография: Америка\nУрожай: 2021/22\nОценка SCA: 82+\nОбработка: мытая\nОбжарка: для эспрессо\nОбжарка: для фильтра\nПриготовление: эспрессо\nПриготовление: турка\nПриготовление: гейзер\nПриготовление: френч-пресс",
+   "image": "https://static.tildacdn.com/stor6664-6461-4136-b434-656336323138/33054489.png",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "1500-1700 метров",
+    "Обработка": "мытая",
+    "Урожай": "2021-2022",
+    "Оценка SCA": "82",
+    "Обжарка": "для эспрессо"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2100.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1102.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2100.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1102.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-503483541931-braziliya-fazenda-laguinya",
+   "name": "Бразилия Фазенда Лагуинья",
+   "description": "Регион произрастания:\n Минас-Жерайс, Трес-Корасойнс, Карму-да-Кашуэйра, Фазенда Лагуинья.\nВысота произрастания:\n 1000-1100 метров.\nРазновидности:\n жёлтый бурбон.\nОбработка:\n анаэробная.\nКлассификация:\n specialty.\nУрожай:\n 2022/23.\nОценка SCA:\n 87.\nВо вкусе:\nпапайя, изюм, клубника, карамель, ваниль.\nГеография: Америка\nУрожай: 2022/23\nОценка SCA: 87+\nОбработка: анаэробная\nОбжарка: для фильтра\nПриготовление: турка\nПриготовление: пуровер\nПриготовление: аэропресс\nПриготовление: капельная\nПриготовление: френч-пресс",
+   "image": "https://static.tildacdn.com/stor6435-3038-4930-a666-343237353564/90664476.png",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "1000-1100 метров",
+    "Обработка": " анаэробная",
+    "Урожай": "2022/23",
+    "Оценка SCA": "87",
+    "Обжарка": "для фильтра"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2040.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1075.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2040.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1075.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-262751169741-efiopiya-irgacheff-natural",
+   "name": "Эфиопия Иргачефф (Natural)",
+   "description": "Регион произрастания:\n Иргачефф.\nРазновидности:\n местные разновидности.\nВысота произрастания:\n 1700–2100 метров.\nСпособ обработки:\n натуральная.\nУрожай:\n 2021-2022.\nОценка SCA:\n 83,5.\nВо вкусе:\nсухофрукты, ваниль, шоколад.\nГеография: Африка\nУрожай: 2021/22\nОценка SCA: 83+\nОбработка: натуральная\nОбжарка: для эспрессо\nПриготовление: эспрессо\nПриготовление: гейзер\nПриготовление: турка",
+   "image": "https://static.tildacdn.com/stor3339-6431-4631-b561-333835313632/25322095.png",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "1700–2100 метров",
+    "Способ обработки": "натуральная",
+    "Урожай": "2021-2022",
+    "Оценка SCA": "83,5",
+    "Обработка": "натуральная",
+    "Обжарка": "для эспрессо"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1640.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1722.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1640.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1722.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-857310017221-vetnam-blyu-shonla",
+   "name": "Вьетнам Блю Шонла",
+   "description": "Регион произрастания:\n северо-запад Вьетнама, провинция Шонла.\nВысота произрастания:\n 800-1400 метров.\nРазновидности:\n катимор.\nСпособ обработки:\n мытая.\nУрожай:\n 2022-2023.\nОценка SCA:\n 82,75.\nВо вкусе:\nчернослив, кленовый сироп, шоколад.\nГеография: Азия\nОбработка: мытая\nУрожай: 2022/23\nОценка SCA: 82+\nОбжарка: для эспрессо\nПриготовление: эспрессо\nПриготовление: турка\nПриготовление: гейзер",
+   "image": "https://static.tildacdn.com/stor6265-3066-4166-a139-626561396530/21627351.png",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "800-1400 метров",
+    "Способ обработки": "мытая",
+    "Урожай": "2022-2023",
+    "Оценка SCA": "82,75",
+    "Обработка": "мытая",
+    "Обжарка": "для эспрессо"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1500.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1575.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1500.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1575.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-923510271531-keniya-tunguri-pb",
+   "name": "Кения Тунгури PB",
+   "description": "Регион произрастания:\n округ Кириньяга, Матира, ст.обр. Тунгури, кооператив Кибиригви.\nВысота произрастания:\n 2500 метра.\nРазновидности:\n SL28, K7, руиру-11, батиан.\nСпособ обработки:\n мытая.\nКлассификация:\n specialty.\nУрожай:\n 2022-2023.\nОценка SCA:\n85,75\n.\nВо вкусе:\nклюква, лайм, цветочные ноты, карамель.\nГеография: Африка\nУрожай: 2022/23\nОценка SCA: 85+\nОбработка: мытая\nКлассификация: specialty\nОбжарка: для фильтра\nПриготовление: аэропресс\nПриготовление: кемекс\nПриготовление: пуровер\nПриготовление: капельная\nПриготовление: френч-пресс\nПриготовление: колд брю",
+   "image": "https://static.tildacdn.com/stor6233-3133-4235-b431-366234613432/76404963.png",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "2500 метра",
+    "Способ обработки": "мытая",
+    "Урожай": "2022-2023",
+    "Оценка SCA": "85,75",
+    "Обработка": "мытая",
+    "Обжарка": "для фильтра"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2270.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1192.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2270.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1192.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-432431726001-keniya-kegva-ab",
+   "name": "Кения Кегва AB",
+   "description": "Регион произрастания:\n округ Гичугу, ст.обр. Кегва, кооперативу Нгириамбу.\nВысота произрастания:\n 1504 метра.\nРазновидности:\n руиру-11, SL28, SL34, батиан.\nСпособ обработки:\n мытая.\nКлассификация:\n specialty.\nУрожай:\n 2022-2023.\nОценка SCA:\n85,75\n.\nВо вкусе:\nмалина, красная смородина, цитрус, цветочные ноты.\nГеография: Африка\nУрожай: 2022/23\nОценка SCA: 85+\nОбработка: мытая\nКлассификация: specialty\nОбжарка: для фильтра\nПриготовление: аэропресс\nПриготовление: кемекс\nПриготовление: пуровер\nПриготовление: капельная\nПриготовление: френч-пресс\nПриготовление: колд брю",
+   "image": "https://static.tildacdn.com/stor3935-3461-4334-a636-353461613332/65847816.png",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "1504 метра",
+    "Способ обработки": "мытая",
+    "Урожай": "2022-2023",
+    "Оценка SCA": "85,75",
+    "Обработка": "мытая",
+    "Обжарка": "для фильтра"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2270.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1192.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2270.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1192.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-819325982371-tanzaniya-ab-edelveis-isteit",
+   "name": "Танзания AB Эдельвейс Истейт",
+   "description": "Регион произрастания:\n южные склоны кальдеры Нгоронгоро, район Карату, регион Аруша, Северная Танзания.\nПроизводитель:\n семья Вохора, поместье Эдельвейс Истейт.\nВысота произрастания:\n 1620−1850 метра.\nРазновидности:\n бурбон, SL28, кент.\nСпособ обработки:\n хани.\nКлассификация:\n specialty.\nУрожай:\n 2022−2023.\nОценка SCA:\n85\n.\nВо вкусе:\nчернослив, красные ягоды, ваниль, ром.\nГеография: Африка\nУрожай: 2022/23\nОценка SCA: 85+\nОбработка: хани\nКлассификация: specialty\nОбжарка: для фильтра\nПриготовление: аэропресс\nПриготовление: кемекс\nПриготовление: пуровер\nПриготовление: капельная\nПриготовление: френч-пресс\nПриготовление: колд брю",
+   "image": "https://static.tildacdn.com/stor6630-6565-4466-b361-613062323862/12348448.png",
+   "category": "",
+   "specs": {
+    "Производитель": "семья Вохора, поместье Эдельвейс Истейт",
+    "Высота произрастания": "1620−1850 метра",
+    "Способ обработки": "хани",
+    "Урожай": "2022−2023",
+    "Оценка SCA": "85",
+    "Обработка": "хани",
+    "Обжарка": "для фильтра"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2050.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1076.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2050.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1076.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-475985807721-meksika-shg-chyapas",
+   "name": "Мексика SHG Чьяпас",
+   "description": "Регион произрастания:\n Хальтенанго, штат Чьяпас.\nВысота произрастания:\n 1200−1600 метров.\nРазновидности:\n катурра, бурбон, мундо-ново.\nОбработка:\n мытая.\nУрожай:\n 2022-2023.\nОценка SCA:\n 84,25.\nВо вкусе:\n цитрусы, слива, черный чай.\nГеография: Америка\nУрожай: 2022/23\nОценка SCA: 84+\nОбработка: мытая\nОбжарка: для эспрессо\nОбжарка: для фильтра\nПриготовление: турка\nПриготовление: эспрессо\nПриготовление: гейзер\nПриготовление: френч-пресс\nПриготовление: капельная",
+   "image": "https://static.tildacdn.com/stor6339-6536-4663-b133-623666346461/55376562.png",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "1200−1600 метров",
+    "Обработка": "мытая",
+    "Урожай": "2022-2023",
+    "Оценка SCA": "84,25",
+    "Обжарка": "для эспрессо"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1540.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1617.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1540.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1617.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-913474815611-efiopiya-limu",
+   "name": "Эфиопия Лиму",
+   "description": "Регион произрастания:\n Лиму.\nРазновидности:\n местные разновидности.\nВысота произрастания:\n 1800−2000 метров.\nСпособ обработки:\n мытая.\nУрожай:\n 2022−2023.\nОценка SCA:\n85,25\n.\nВо вкусе:\nцитрусы, бергамот, красная смородина, кориандр.\nГеография: Африка\nУрожай: 2022/23\nОценка SCA: 85+\nОбработка: мытая\nОбжарка: для фильтра\nОбжарка: для эспрессо\nПриготовление: эспрессо\nПриготовление: турка\nПриготовление: аэропресс\nПриготовление: капельная\nПриготовление: пуровер\nПриготовление: френч-пресс\nПриготовление: колд брю",
+   "image": "https://static.tildacdn.com/stor6438-3637-4131-b734-643432356665/39350974.png",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "1800−2000 метров",
+    "Способ обработки": "мытая",
+    "Урожай": "2022−2023",
+    "Оценка SCA": "85,25",
+    "Обработка": "мытая",
+    "Обжарка": "для фильтра"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1940.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1019.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1019.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1940.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1940.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1019.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1019.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1940.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-154539722211-keniya-kikaiya",
+   "name": "Кения Кикайя",
+   "description": "Регион произрастания:\n Муранга, ферма Кикайя.\nВысота произрастания:\n 1650-1750 метров.\nРазновидности:\n батиан, руиру 11, SL 28.\nСпособ обработки:\n натуральная.\nКлассификация:\n specialty.\nУрожай:\n 2022-2023.\nОценка SCA:\n86\n.\nВо вкусе:\nкиви, слив. масло, персик, кр. виноград, белое вино, йогурт.\nГеография: Африка\nУрожай: 2022/23\nОценка SCA: 86+\nОбработка: натуральная\nКлассификация: specialty\nОбжарка: для эспрессо\nОбжарка: для фильтра\nПриготовление: эспрессо\nПриготовление: гейзер\nПриготовление: турка\nПриготовление: капельная\nПриготовление: френч-пресс",
+   "image": "https://static.tildacdn.com/stor3430-6138-4261-b339-353266393263/81448196.jpg",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "1650-1750 метров",
+    "Способ обработки": "натуральная",
+    "Урожай": "2022-2023",
+    "Оценка SCA": "86",
+    "Обработка": "натуральная",
+    "Обжарка": "для эспрессо"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2500.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1250.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2500.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1250.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-867032227861-nikaragua-el-zhardin",
+   "name": "Никарагуа Эль Жардин",
+   "description": "Регион произрастания:\n Нуэва-Сеговия, ферма Эль Жардин.\nВысота произрастания:\n 1300−1500 метров.\nРазновидности:\n катуаи, катурра.\nОбработка:\n анаэробная.\nКлассификация:\n specialty.\nУрожай:\n 2022−2023.\nОценка SCA:\n87,75.\nВо вкусе:﻿\nкрасная слива, киви, панела, ананас, черный чай.\nГеография: Америка\nУрожай: 2022/23\nОценка SCA: 87+\nОбработка: анаэробная\nОбжарка: для фильтра\nПриготовление: турка\nПриготовление: гейзер\nПриготовление: аэропресс\nПриготовление: пуровер\nПриготовление: кемекс\nПриготовление: капельная\nПриготовление: колд брю",
+   "image": "https://static.tildacdn.com/stor3436-6365-4262-b163-373437376165/50247251.png",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "1300−1500 метров",
+    "Обработка": "анаэробная",
+    "Урожай": "2022−2023",
+    "Оценка SCA": "87,75",
+    "Обжарка": "для фильтра"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2570.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1350.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2570.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1350.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-160938805611-efiopiya-sidamo",
+   "name": "Эфиопия Сидамо",
+   "description": "Регион произрастания:\n регион Оромия, зона Гуджи.\nРазновидности:\n местные разновидности.\nВысота произрастания:\n 1700-2100 метров.\nОбработка:\n мытая.\nКлассификация:\n грейд 2.\nУрожай:\n 2024-2025.\nОценка SCA:\n 84,5.\nВо вкусе:\nцитрусы, кориандр, черный чай, шоколад.\nГеография: Африка\nУрожай: 2024/25\nОценка SCA: 84+\nОбработка: мытая\nОбжарка: для эспрессо\nПриготовление: эспрессо\nПриготовление: гейзер\nОбжарка: для фильтра\nПриготовление: турка\nПриготовление: капельная\nПриготовление: френч-пресс",
+   "image": "https://static.tildacdn.com/stor3966-6630-4033-b036-623138373634/11429497.png",
+   "category": "",
+   "specs": {
+    "Высота произрастания": " 1700-2100 метров",
+    "Обработка": " мытая",
+    "Урожай": "2024-2025",
+    "Оценка SCA": " 84,5",
+    "Обжарка": "для эспрессо"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2090.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2196.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2090.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2196.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-241962685581-maragodzhip-nikaragua",
+   "name": "Марагоджип Никарагуа",
+   "description": "Регион произрастания:\n Лас Сеговиас.\nВысота произрастания:\n 1100-1450 метров.\nРазновидности:\n марагоджип.\nОбработка:\n мытая.\nУрожай:\n 2022-2023.\nОценка SCA:\n 81,5.\nВо вкусе:\nшоколад, цитрус, орех, цветочные ноты.\nГеография: Америка\nУрожай: 2022/23\nОценка SCA: 81+\nОбработка: мытая\nОбжарка: для эспрессо\nОбжарка: для фильтра\nПриготовление: эспрессо\nПриготовление: турка\nПриготовление: гейзер\nПриготовление: френч-пресс",
+   "image": "https://static.tildacdn.com/stor3235-3365-4134-a438-303231643866/66154692.png",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "1100-1450 метров",
+    "Обработка": "мытая",
+    "Урожай": "2022-2023",
+    "Оценка SCA": "81,5",
+    "Обжарка": "для эспрессо"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2520.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2646.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2520.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2646.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-912711165221-ruanda-simbi",
+   "name": "Руанда Симби",
+   "description": "Регион произрастания:\n Южные провинция, станция обработки Симби.\nПроизводители:\n 1850 мелких фермеров.\nВысота произрастания:\n 1700–2000 метров.\nРазновидности:\n бурбон.\nСпособ обработки:\n хани.\nКлассификация:\n specialty.\nУрожай:\n 2023/24.\nОценка SCA:\n86,5\n.\nВо вкусе:\nвишня, красная смородина, шиповник, мед.\nГеография: Африка\nУрожай: 2023/24\nОценка SCA: 86+\nОбработка: хани\nКлассификация: specialty\nОбжарка: для эспрессо\nОбжарка: для фильтра\nПриготовление: турка\nПриготовление: аэропресс\nПриготовление: кемекс\nПриготовление: пуровер\nПриготовление: капельная\nПриготовление: френч-пресс\nПриготовление: колд брю\nПриготовление: гейзер\nПриготовление: эспрессо",
+   "image": "https://static.tildacdn.com/stor6336-6138-4630-b165-356635303363/53226387.png",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "1700–2000 метров",
+    "Способ обработки": "хани",
+    "Урожай": "2023/24",
+    "Оценка SCA": "86,5",
+    "Обработка": "хани",
+    "Обжарка": "для эспрессо"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2130.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2237.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2130.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2237.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-226942885301-espresso-smes-1",
+   "name": "Эспрессо смесь #1",
+   "description": "Регион произрастания:\n Бразилия + Эфиопия\nПропорции:\n Бразилия Серрадо 70% + Эфиопия Бале Маунтин 30%\nВысота произрастания:\n 840–2100 метров.\nОбработка:\n натуральная+анаэробная.\nКлассификация:\n specialty.\nУрожай:\n 2022-2023.\nОценка SCA:\n 84,5.\nВо вкусе:\nтропические фрукты, алкоголь, шоколад.\nГеография: Африка\nУрожай: 2022/23\nОценка SCA: 84+\nОбработка: натуральная\nОбработка: анаэробная\nКлассификация: specialty\nОбжарка: для эспрессо\nПриготовление: эспрессо\nПриготовление: гейзер",
+   "image": "https://static.tildacdn.com/stor3736-3033-4537-a164-303833666361/12505463.png",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "840–2100 метров",
+    "Обработка": " натуральная+анаэробная",
+    "Урожай": "2022-2023",
+    "Оценка SCA": "84,5",
+    "Обжарка": "для эспрессо"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1710.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1796.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1710.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1796.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-372737690962-braziliya-sertao",
+   "name": "Бразилия Сертао",
+   "description": "Регион произрастания:\n Кармо-ди-Минас, Минас-Жерайс, ферма Сертао.\nВысота произрастания:\n 1100–1450 метров.\nРазновидности:\n жёлтый катуаи.\nОбработка:\n анаэробная.\nКлассификация:\n specialty.\nУрожай:\n 2023/24.\nОценка SCA:\n 85,5.\nВо вкусе:\nвишня, виноград, красное вино.\nГеография: Америка\nУрожай: 2023/24\nОценка SCA: 85+\nОбработка: анаэробная\nОбжарка: для фильтра\nПриготовление: турка\nПриготовление: пуровер\nПриготовление: аэропресс\nПриготовление: капельная\nПриготовление: френч-пресс",
+   "image": "https://static.tildacdn.com/stor6431-3635-4433-b636-383065616634/98383112.png",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "1100–1450 метров",
+    "Обработка": " анаэробная",
+    "Урожай": "2023/24",
+    "Оценка SCA": "85,5",
+    "Обжарка": "для фильтра"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1900.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1995.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1900.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1995.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-830336080032-ruanda-simbi-natural",
+   "name": "Руанда Симби Natural",
+   "description": "Регион произрастания:\n Южная провинция, станция обработки Симби.\nПроизводители:\n 1850 мелких фермеров.\nВысота произрастания:\n 1700–2000 метров.\nРазновидности:\n бурбон.\nСпособ обработки:\n натуральная.\nКлассификация:\n specialty.\nУрожай:\n 2023/24.\nОценка SCA:\n86,25\n.\nВо вкусе:\nмандарин, малина, курага, чёрный чай.\nГеография: Африка\nУрожай: 2023/24\nОценка SCA: 86+\nОбработка: натуральная\nКлассификация: specialty\nОбжарка: для эспрессо\nОбжарка: для фильтра\nПриготовление: турка\nПриготовление: аэропресс\nПриготовление: кемекс\nПриготовление: пуровер\nПриготовление: капельная\nПриготовление: френч-пресс\nПриготовление: колд брю\nПриготовление: гейзер\nПриготовление: эспрессо",
+   "image": "https://static.tildacdn.com/stor3534-3633-4934-a565-353762383265/27229484.png",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "1700–2000 метров",
+    "Способ обработки": " натуральная",
+    "Урожай": "2023/24",
+    "Оценка SCA": "86,25",
+    "Обработка": "натуральная",
+    "Обжарка": "для эспрессо"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2700.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2835.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2700.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2835.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-950094213842-keniya-gatuya-ab",
+   "name": "Кения Гатуя AB",
+   "description": "Регион произрастания:\n Регион Муранга, ст.обр. Гатуя.\nВысота произрастания:\n 1750 метра.\nРазновидности:\n  батиан, \nруиру, SL34.\nСпособ обработки:\n мытая.\nКлассификация:\n specialty.\nУрожай:\n 2023.\nОценка SCA:\n87,75\n.\nВо вкусе:\nвишня, ананас, слива, изюм, зелёное яблоко.\nГеография: Африка\nУрожай: 2023\nОценка SCA: 87+\nОбработка: мытая\nКлассификация: specialty\nОбжарка: для фильтра\nПриготовление: аэропресс\nПриготовление: кемекс\nПриготовление: пуровер\nПриготовление: капельная\nПриготовление: френч-пресс\nПриготовление: колд брю",
+   "image": "https://static.tildacdn.com/stor6338-6462-4637-a166-656637303962/60675920.png",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "1750 метра",
+    "Способ обработки": "мытая",
+    "Урожай": "2023",
+    "Оценка SCA": "87,75",
+    "Обработка": "мытая",
+    "Обжарка": "для фильтра"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2856.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2720.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2856.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2720.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-925765008722-kolumbiya-buenavista",
+   "name": "Колумбия Буэнависта",
+   "description": "Регион произрастания:\n Рисаральда, Белен, ферма Буэнависта.\nПроизводитель:\n фермер Хуан Давид Гаджего.\nВысота произрастания:\n 1800-2200 метров.\nРазновидности:\n кастильо.\nСпособ обработки:\n мытая анаэробная.\nУрожай:\n 2023.\nОценка SCA:\n86\n.\nВо вкусе:\nкрасное яблоко, груша, ваниль, мёд, мол. шоколад, карамель.\nГеография: Америка\nУрожай: 2023\nОценка SCA: 86+\nОбработка: анаэробная\nОбжарка: для эспрессо\nПриготовление: эспрессо\nПриготовление: гейзер\nОбжарка: для фильтра\nПриготовление: турка\nПриготовление: френч-пресс\nПриготовление: капельная\nПриготовление: аэропресс",
+   "image": "https://static.tildacdn.com/stor3539-3165-4337-a161-326635613133/73867655.png",
+   "category": "",
+   "specs": {
+    "Производитель": "фермер Хуан Давид Гаджего",
+    "Высота произрастания": "1800-2200 метров",
+    "Способ обработки": "мытая анаэробная",
+    "Урожай": "2023",
+    "Оценка SCA": "86",
+    "Обработка": "анаэробная",
+    "Обжарка": "для эспрессо"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2030.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2132.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2030.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2132.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-558101652082-peru-coopchebi-blend",
+   "name": "Перу Coopchebi Бленд",
+   "description": "Регион произрастания:\n регион Чанчамайо.\nПроизводитель:\n кооператив COOPCHEBI.\nВысота произрастания:\n 1500-1700 метров.\nРазновидности:\n катурра, типика, гейша.\nОбработка:\n натуральная.\nКлассификация:\n specialty.\nУрожай:\n 2023-2024.\nОценка SCA:\n 85.\nВо вкусе:\nсладкие цитрусы, фрукты.\nГеография: Америка\nУрожай: 2023/24\nОценка SCA: 87+\nОбработка: мытая\nКлассификация: specialty\nОбжарка: для фильтра\nПриготовление: пуровер\nПриготовление: аэропресс\nПриготовление: кемекс\nПриготовление: капельная\nПриготовление: френч-пресс\nПриготовление: турка",
+   "image": "https://static.tildacdn.com/stor6538-3164-4463-b065-333034636266/83327214.png",
+   "category": "",
+   "specs": {
+    "Производитель": "кооператив COOPCHEBI",
+    "Высота произрастания": "1500-1700 метров",
+    "Обработка": "натуральная",
+    "Урожай": "2023-2024",
+    "Оценка SCA": "85",
+    "Обжарка": "для фильтра"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2140.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2247.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2247.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2140.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2140.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2247.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2247.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2140.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-760236380932-keniya-ab-pod-espresso",
+   "name": "Кения АБ под эспрессо",
+   "description": "Регион произрастания:\n Ньери и Кириньяга.\nВысота произрастания:\n 1300-1800 метров.\nРазновидности:\n SL28, SL34, руиру-11, батиан.\nСпособ обработки:\n мытая.\nУрожай:\n 2025-2026.\nОценка SCA:\n85,75\n.\nВо вкусе:\nцитрус, красные ягоды, черный чай, карамель.\nГеография: Африка\nУрожай: 2025/26\nОценка SCA: 85+\nОбработка: мытая\nОбжарка: для эспрессо\nПриготовление: эспрессо\nПриготовление: гейзер\nПриготовление: турка\nПриготовление: френч-пресс",
+   "image": "https://static.tildacdn.com/stor6138-6265-4630-a435-393536343462/56750352.png",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "1300-1800 метров",
+    "Способ обработки": "мытая",
+    "Урожай": "2025-2026",
+    "Оценка SCA": "85,75",
+    "Обработка": "мытая",
+    "Обжарка": "для эспрессо"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2250.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2415.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2250.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2415.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-810183480262-efiopiya-gudzhi-dlya-espresso",
+   "name": "Эфиопия Гуджи для эспрессо",
+   "description": "Регион произрастания:\n Гуджи.\nРазновидности:\n местные разновидности.\nВысота произрастания:\n 1600−2000 метров.\nСпособ обработки:\n натуральная.\nКлассификация:\n грейд 3.\nУрожай:\n 2023−2024.\nОценка SCA:\n85\n.\nВо вкусе:\nфрукты, тропики.\nГеография: Африка\nУрожай: 2023/24\nОценка SCA: 85+\nОбработка: натуральная\nОбжарка: для эспрессо\nПриготовление: эспрессо\nПриготовление: гейзер\nПриготовление: турка\nПриготовление: френч-пресс",
+   "image": "https://static.tildacdn.com/stor3264-3638-4335-b731-303362313036/56163169.png",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "1600−2000 метров",
+    "Способ обработки": "натуральная",
+    "Урожай": "2023−2024",
+    "Оценка SCA": "85",
+    "Обработка": "натуральная",
+    "Обжарка": "для эспрессо"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1950.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2048.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1950.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2048.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-789121359172-braziliya-santa-ines",
+   "name": "Бразилия Санта Инес",
+   "description": "Регион произрастания:\n Минас-Жерайс, Кармо-ди-Минас.\nФерма:\n Санта Инес, семья Перейра.\nВысота произрастания:\n 900-1050 метров.\nРазновидности:\n желтый бурбон.\nСпособ обработки:\n натуральная.\nУрожай:\n 2024-2025.\nОценка SCA:\n 83,5.\nВо вкусе:\nшоколад, фундук, специи, цитрусы.\nГеография: Америка\nУрожай: 2024/25\nОценка SCA: 83+\nОбработка: натуральная\nОбжарка: для эспрессо\nПриготовление: эспрессо\nПриготовление: гейзер\nОбжарка: для фильтра\nПриготовление: турка\nПриготовление: капельная\nПриготовление: френч-пресс",
+   "image": "https://static.tildacdn.com/stor6430-6364-4235-b430-343334306264/53165876.png",
+   "category": "",
+   "specs": {
+    "Ферма": "Санта Инес, семья Перейра",
+    "Высота произрастания": "900-1050 метров",
+    "Способ обработки": "натуральная",
+    "Урожай": "2024-2025",
+    "Оценка SCA": "83,5",
+    "Обработка": "натуральная",
+    "Обжарка": "для эспрессо"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2100.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2205.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2100.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2205.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-471386949832-efiopiya-irgacheff",
+   "name": "Эфиопия Иргачефф",
+   "description": "Регион произрастания:\n Иргачефф.\nРазновидности:\n местные разновидности.\nВысота произрастания:\n 1800−2200 метров.\nСпособ обработки:\n мытая.\nУрожай:\n 2023−2024.\nОценка SCA:\n84,5\n.\nВо вкусе:\nбергамот, косточковые фрукты, шоколад, цветы, чёрный чай, ноты специй.\nГеография: Африка\nУрожай: 2023/24\nОценка SCA: 84+\nОбработка: мытая\nОбжарка: для фильтра\nПриготовление: турка\nПриготовление: аэропресс\nПриготовление: капельная\nПриготовление: пуровер\nПриготовление: френч-пресс\nПриготовление: колд брю",
+   "image": "https://static.tildacdn.com/stor3338-3430-4062-b463-353530356330/67602696.png",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "1800−2200 метров",
+    "Способ обработки": "мытая",
+    "Урожай": "2023−2024",
+    "Оценка SCA": "84,5",
+    "Обработка": "мытая",
+    "Обжарка": "для фильтра"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2100.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1102.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2100.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1102.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2100.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1102.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2100.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1102.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-694357216832-gvatemala-blyu-ayarza",
+   "name": "Гватемала Блю Аярза",
+   "description": "Регион произрастания:\n Санта-Роса, Халапа и Хутьяпа.\nВысота произрастания:\n 1800-2000 метров.\nРазновидности:\n желтый и красный катуаи, паш-колис, красный и желтый бурбон.\nОбработка:\n натуральная.\nКлассификация:\n specialty.\nУрожай:\n 2023-2024.\nОценка SCA:\n 85,25.\nВо вкусе:\nтропические фрукты, виноград, темный шоколад.\nГеография: Америка\nУрожай: 2023/24\nОценка SCA: 85+\nОбработка: натуральная\nКлассификация: specialty\nОбжарка: для эспрессо\nПриготовление: гейзер\nПриготовление: эспрессо\nОбжарка: для фильтра\nПриготовление: френч-пресс\nПриготовление: турка\nПриготовление: капельная\nПриготовление: кемекс\nПриготовление: пуровер",
+   "image": "https://static.tildacdn.com/stor3639-3831-4636-a132-313864336563/18639239.png",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "1800-2000 метров",
+    "Обработка": "натуральная",
+    "Урожай": "2023-2024",
+    "Оценка SCA": "85,25",
+    "Обжарка": "для эспрессо"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 614.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2340.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2340.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 614.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 614.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2340.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2340.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 614.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-271865126822-braziliya-rancho-grande",
+   "name": "Бразилия Ранчо Гранде",
+   "description": "Регион произрастания:\n южный Минас-Жерайс, Трес Понтас, ферма Ранчо Гранде\nФермер:\n Флавио Рейс.\nПроизводитель:\n Перископ.\nВысота произрастания:\n 1100–1200 метров.\nРазновидности:\n катукаи 2SL.\nОбработка:\n полуанаэробная.\nКлассификация:\n specialty.\nУрожай:\n 2024-2025.\nОценка SCA:\n 83.\nВо вкусе:\nсладкие цитрусы, сухофрукты, кешью, молочный шоколад.\nГеография: Америка\nУрожай: 2024/25\nОценка SCA: 83+\nОбработка: анаэробная\nКлассификация: specialty\nОбжарка: для эспрессо\nПриготовление: гейзер\nПриготовление: эспрессо\nПриготовление: френч-пресс\nПриготовление: турка",
+   "image": "https://static.tildacdn.com/stor3834-3665-4465-b463-343931343230/54183521.png",
+   "category": "",
+   "specs": {
+    "Фермер": "Флавио Рейс",
+    "Производитель": "Перископ",
+    "Высота произрастания": "1100–1200 метров",
+    "Обработка": "полуанаэробная",
+    "Урожай": "2024-2025",
+    "Оценка SCA": "83",
+    "Обжарка": "для эспрессо"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 496.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1890.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 496.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1890.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-621809340302-braziliya-sertao-dlya-espresso",
+   "name": "Бразилия Сертао для эспрессо",
+   "description": "Регион произрастания:\n Минас-Жерайс, Кармо-ди-Минас.\nФерма:\n Сертао.\nВысота произрастания:\n 1100–1450 метров.\nРазновидности:\n желтый бурбон.\nСпособ обработки:\n натуральная.\nКлассификация:\n specialty.\nУрожай:\n 2024-2025.\nОценка SCA:\n 83,25.\nВо вкусе:\nапельсин, сухофрукты, орехи, шоколад.\nГеография: Америка\nУрожай: 2024/25\nОценка SCA: 83+\nОбработка: натуральная\nОбжарка: для эспрессо\nПриготовление: эспрессо\nПриготовление: гейзер\nПриготовление: турка\nПриготовление: френч-пресс",
+   "image": "https://static.tildacdn.com/stor6637-3434-4261-b532-623939386234/14053024.png",
+   "category": "",
+   "specs": {
+    "Ферма": "Сертао",
+    "Высота произрастания": "1100–1450 метров",
+    "Способ обработки": "натуральная",
+    "Урожай": "2024-2025",
+    "Оценка SCA": "83,25",
+    "Обработка": "натуральная",
+    "Обжарка": "для эспрессо"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2030.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2132.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2030.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2132.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-716501877962-burundi-nduvaiezu-dlya-espresso",
+   "name": "Бурунди Ндувайезу для эспрессо",
+   "description": "Регион произрастания:\n провинция Нгози, Гашиканва, ст. обр. Ндувайезу.\nРазновидности:\n бурбон.\nВысота произрастания:\n 1750–1800 метров.\nСпособ обработки:\n мытая.\nУрожай:\n 2024−2025.\nОценка SCA:\n84\n.\nВо вкусе:\nвишня, цитрус, специи, черный чай, карамель.\nГеография: Африка\nУрожай: 2024/25\nОценка SCA: 84+\nОбработка: мытая\nОбжарка: для эспрессо\nПриготовление: эспрессо\nПриготовление: гейзер\nПриготовление: френч-пресс\nПриготовление: турка",
+   "image": "https://static.tildacdn.com/stor3835-6233-4333-b634-356335323762/b66522bfc4286074771dd080d4546459.jpg",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "1750–1800 метров",
+    "Способ обработки": "мытая",
+    "Урожай": "2024−2025",
+    "Оценка SCA": "84",
+    "Обработка": "мытая",
+    "Обжарка": "для эспрессо"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2060.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2163.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2060.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2163.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-104610582992-efiopiya-irgacheff-aricha",
+   "name": "Эфиопия Иргачефф Арича",
+   "description": "Регион произрастания: \nИргачефф, ст. обработки Арича.\nРазновидности:\n местные разновидности.\nВысота произрастания:\n 1900–2100 метров.\nСпособ обработки:\n мытая.\nУрожай:\n 2024-2025.\nОценка SCA:\n84\n.\nВо вкусе:\nбергамот, лимон, белый виноград, персик.\nГеография: Африка\nУрожай: 2024/25\nОценка SCA: 85+\nОбработка: мытая\nОбжарка: для эспрессо\nПриготовление: эспрессо\nПриготовление: гейзер\nПриготовление: турка\nПриготовление: френч-пресс\nОбжарка: для фильтра\nПриготовление: капельная\nПриготовление: пуровер\nПриготовление: турка\nПриготовление: френч-пресс\nПриготовление: колд брю",
+   "image": "https://static.tildacdn.com/stor3435-3737-4837-b636-376135613338/d771a2683aaaad1d0835b1cb62efb37c.jpg",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "1900–2100 метров",
+    "Способ обработки": "мытая",
+    "Урожай": "2024-2025",
+    "Оценка SCA": "84",
+    "Обработка": "мытая",
+    "Обжарка": "для эспрессо"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2140.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2247.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2140.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2247.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2140.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2247.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2140.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2247.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-262802853622-efiopiya-irgacheff-adado-dlya-filtra",
+   "name": "Эфиопия Иргачефф Ададо для фильтра",
+   "description": "Регион произрастания:\n регион Иргачефф.\nРазновидности:\n местные разновидности.\nВысота произрастания:\n 1900-2100 метров.\nОбработка:\n натуральная.\nКлассификация:\n грейд 1, specialty.\nУрожай:\n 2025/26.\nОценка SCA:\n 88.\nВо вкусе:\nцветы, темный шоколад, спелый манго, теплые специи, красный апельсин, ваниль.\nГеография: Африка\nУрожай: 2024/25\nОценка SCA: 88+\nОбработка: натуральная\nКлассификация: specialty\nОбжарка: для фильтра\nПриготовление: пуровер\nПриготовление: аэропресс\nПриготовление: капельная\nПриготовление: френч-пресс\nПриготовление: турка\nПриготовление: колд брю",
+   "image": "https://static.tildacdn.com/stor3239-6536-4864-b136-343834646630/5ea95f229c50c9924c96e93085bf6e20.jpg",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "1900-2100 метров",
+    "Обработка": "натуральная",
+    "Урожай": "2025/26",
+    "Оценка SCA": "88",
+    "Обжарка": "для фильтра"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2600.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2730.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2600.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2730.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/tproduct/1-764385952872-braziliya-grande-lot-11-dlya-filtra",
+   "name": "Бразилия Гранде Лот-11 для фильтра",
+   "description": "Регион произрастания:\n южный Минас-Жерайс, Трес Понтас, ферма Ранчо Гранде\nФермер:\n Флавио Рейс.\nПроизводитель:\n Перископ.\nВысота произрастания:\n 1100–1200 метров.\nРазновидности:\n топазио, катуаи.\nОбработка:\n полуанаэробная.\nКлассификация:\n specialty.\nУрожай:\n 2025.\nОбжарка:\n для фильтра.\nОценка SCA:\n87,75.\nВо вкусе:\nбелое сухое вино, черешня, шоколадный трюфель.\nГеография: Америка\nУрожай: 2025\nОценка SCA: 87+\nОбработка: анаэробная\nКлассификация: specialty\nОбжарка: для фильтра\nПриготовление: пуровер\nПриготовление: аэропресс\nПриготовление: капельная\nПриготовление: френч-пресс\nПриготовление: турка",
+   "image": "https://static.tildacdn.com/stor6531-3637-4065-b332-353564663638/fed4d8d8bd352b0bcc4323a2f60e459a.jpg",
+   "category": "",
+   "specs": {
+    "Фермер": "Флавио Рейс",
+    "Производитель": "Перископ",
+    "Высота произрастания": "1100–1200 метров",
+    "Обработка": "полуанаэробная",
+    "Урожай": "2025",
+    "Обжарка": "для фильтра",
+    "Оценка SCA": "87,75"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1050.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 4200.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1050.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 4200.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/order-opt-online/tproduct/346641889-873903533601-gonduras-shg-dlya-espresso",
+   "name": "Гондурас SHG для эспрессо",
+   "description": "Регион произрастания:\n Сигуатепеке, департамент Комаягуа.\nВысота произрастания:\n 1100-1400 метров.\nРазновидности:\n бурбон, катурра и типика.\nСпособ обработки:\n мытая.\nУрожай:\n 2025-2026.\nОценка SCA:\n 82,75.\nВо вкусе:\nцитрус, орехи, молочный шоколад.\nГеография: Америка\nУрожай: 2025/26\nОценка SCA: 82+\nОбжарка: для эспрессо\nПриготовление: эспрессо\nПриготовление: гейзер\nПриготовление: турка",
+   "image": "https://static.tildacdn.com/stor3332-3363-4635-a132-323133313661/34207534.png",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "1100-1400 метров",
+    "Способ обработки": "мытая",
+    "Урожай": "2025-2026",
+    "Оценка SCA": "82,75",
+    "Обжарка": "для эспрессо"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2050.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2153.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2050.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2153.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/order-opt-online/tproduct/346641889-780987478061-peru-shb-dlya-espresso",
+   "name": "Перу SHB для эспрессо",
+   "description": "Регион произрастания:\n регион Кахамарка.\nВысота произрастания:\n 1000-2000 метров.\nРазновидности:\n типика, бурбон.\nОбработка:\n мытая.\nУрожай:\n 2025-2026\nОценка SCA:\n 82,75.\nВо вкусе:\nзелёное яблоко, карамель, шоколад.\nГеография: Америка\nУрожай: 2025/26\nОбработка: мытая\nОценка SCA: 82+\nОбжарка: для эспрессо\nПриготовление: турка\nПриготовление: эспрессо\nПриготовление: гейзер",
+   "image": "https://static.tildacdn.com/stor3531-3066-4630-b834-386535626363/302f8d3b5634407044689de64a5e3c15.jpg",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "1000-2000 метров",
+    "Обработка": "мытая",
+    "Урожай": "2025-2026",
+    "Оценка SCA": "82,75",
+    "Обжарка": "для эспрессо"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2110.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2090.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2110.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2090.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/order-opt-online/tproduct/346641889-497051802101-kolumbiya-supremo",
+   "name": "Колумбия Супремо",
+   "description": "Регион произрастания:\n Кальдас восточная часть, муниципалитет Мансанарес, кооператив \"Кооператива де Кафикульторес де Манисалес\".\nВысота произрастания:\n 1650-1800 метров.\nРазновидности:\n кастильо, катурра.\nСпособ обработки:\n мытая.\nУрожай:\n 2022-2023.\nОценка SCA:\n 83,5.\nВо вкусе:\nкрасные фрукты, тростниковый сахар, цитрусы, орехи.\nГеография: Америка\nУрожай: 2022/23\nОценка SCA: 83+\nОбработка: мытая\nОбжарка: для эспрессо\nОбжарка: для фильтра\nПриготовление: эспрессо\nПриготовление: гейзер\nПриготовление: турка\nПриготовление: френч-пресс\nПриготовление: капельная",
+   "image": "https://static.tildacdn.com/tild3338-3064-4266-b032-353235363565/_.jpg",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "1650-1800 метров",
+    "Способ обработки": "мытая",
+    "Урожай": "2022-2023",
+    "Оценка SCA": "83,5",
+    "Обработка": "мытая",
+    "Обжарка": "для эспрессо"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1630.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1712.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1630.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1712.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/order-opt-online/tproduct/346641889-195164818401-braziliya-sul-di-minas",
+   "name": "Бразилия Суль-ди-Минас",
+   "description": "Регион произрастания:\n Можиана, Суль-ди-Минас.\nВысота произрастания:\n 840−1150 метров.\nРазновидности:\n катуаи, мундо-ново, катукаи.\nОбработка:\n натуральная.\nУрожай:\n 2025-2026.\nОценка SCA:\n 82,5.\nВо вкусе:\nшоколад, орехи, цитрус.\nГеография: Америка\nУрожай: 2025/26\nОценка SCA: 82+\nОбработка: натуральная\nОбжарка: для эспрессо\nПриготовление: эспрессо\nПриготовление: гейзер\nПриготовление: френч-пресс",
+   "image": "https://static.tildacdn.com/stor6463-6338-4363-b632-376235646163/99168698.png",
+   "category": "",
+   "specs": {
+    "Высота произрастания": "840−1150 метров",
+    "Обработка": "натуральная",
+    "Урожай": "2025-2026",
+    "Оценка SCA": "82,5",
+    "Обжарка": "для эспрессо"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2030.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2131.5,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2030.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2131.5,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/order-opt-online/tproduct/346641889-540039630971-filtri-bumazhnie-dlya-voronok-hario-vcf",
+   "name": "Фильтры бумажные для воронок HARIO VCF-02-100W-H",
+   "description": "Оригинальные бумажные фильтры Hario. Изготовлены из многослойной целлюлозы отбеленной кислородом.\nРазмер - 02 (классификация Hario).\nКоличество в упаковке: 100 шт.",
+   "image": "https://static.tildacdn.com/tild3930-6363-4734-a230-313031616261/hario-v60-02-100-1.jpg",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 790.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/order-opt-online/tproduct/346641889-675026133522-kolumbiya-dekaf",
+   "name": "Колумбия Декаф",
+   "description": "География: Америка\nУрожай: 2023\nОценка SCA: 85+\nОбработка: мытая\nОбжарка: для фильтра\nОбжарка: для эспрессо\nПриготовление: эспрессо\nПриготовление: турка\nПриготовление: гейзер\nПриготовление: капельная\nПриготовление: френч-пресс",
+   "image": "https://static.tildacdn.com/stor6432-3139-4939-a135-383435393839/30584507.png",
+   "category": "",
+   "specs": {
+    "Урожай": "2023",
+    "Оценка SCA": "85+",
+    "Обработка": "мытая",
+    "Обжарка": "для фильтра",
+    "Высота произрастания": "1700 метров"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1296.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1296.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2470.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2470.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1296.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1296.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2470.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2470.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/order-opt-online/tproduct/346641889-146082896402-kolumbiya-ekselso-dlya-espresso",
+   "name": "Колумбия Эксельсо для эспрессо",
+   "description": "География: Америка\nУрожай: 2024/25\nОценка SCA: 83+\nОбработка: мытая\nОбжарка: для эспрессо\nПриготовление: эспрессо\nПриготовление: гейзер\nПриготовление: турка\nПриготовление: френч-пресс",
+   "image": "https://static.tildacdn.com/stor6136-6436-4963-b535-663061303265/36607959.png",
+   "category": "",
+   "specs": {
+    "Урожай": "2024/25",
+    "Оценка SCA": "83+",
+    "Обработка": "мытая",
+    "Обжарка": "для эспрессо",
+    "Высота произрастания": "1200-1400 метров",
+    "Способ обработки": "мытая"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1980.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2079.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1980.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2079.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/order-opt-online/tproduct/346641889-614589655312-uganda-vugar-elgon-dlya-espresso",
+   "name": "Уганда Вугар Элгон для эспрессо",
+   "description": "География: Африка\nУрожай: 2025/26\nОценка SCA: 83+\nОбработка: мытая\nОбжарка: для эспрессо\nПриготовление: эспрессо\nПриготовление: гейзер\nПриготовление: турка\nПриготовление: френч-пресс",
+   "image": "https://static.tildacdn.com/stor3865-3364-4635-a132-636536646533/c0f68a2dac6bc291bd9d801014ef68de.jpg",
+   "category": "",
+   "specs": {
+    "Урожай": "2025/26",
+    "Оценка SCA": "83+",
+    "Обработка": "мытая",
+    "Обжарка": "для эспрессо",
+    "Высота произрастания": "1200-2200 метров",
+    "Способ обработки": "мытая"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2040.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2142.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2040.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2142.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/order-opt-online/tproduct/346641889-671604103772-uganda-mvezi",
+   "name": "Уганда Мвези",
+   "description": "География: Африка\nУрожай: 2025/26\nОценка SCA: 86+\nОбработка: натуральная\nОбжарка: для эспрессо\nПриготовление: эспрессо\nПриготовление: гейзер\nПриготовление: турка\nПриготовление: френч-пресс\nОбжарка: для фильтра\nПриготовление: капельная\nПриготовление: турка\nПриготовление: френч-пресс\nПриготовление: аэропресс",
+   "image": "https://static.tildacdn.com/stor3539-3934-4630-a439-336536353461/e6a449637545286b21ccdc801ffe0c87.jpg",
+   "category": "",
+   "specs": {
+    "Урожай": "2025/26",
+    "Оценка SCA": "86+",
+    "Обработка": "натуральная",
+    "Обжарка": "для эспрессо",
+    "Высота произрастания": "1100-1600 метров",
+    "Способ обработки": "натуральная"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2310.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2310.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2310.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2310.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/order-opt-online/tproduct/346641889-346310723783-angola-kibala-dlya-espresso",
+   "name": "Ангола Кибала для эспрессо",
+   "description": "География: Африка\nУрожай: 2025/26\nОценка SCA: 83+\nОбработка: полумытая\nОбжарка: для эспрессо\nПриготовление: эспрессо\nПриготовление: гейзер\nПриготовление: турка\nПриготовление: френч-пресс",
+   "image": "https://static.tildacdn.com/stor6438-3563-4836-a161-336631393763/4b98697c69281e5922bbc2810eda7bb0.jpg",
+   "category": "",
+   "specs": {
+    "Урожай": "2025/26",
+    "Оценка SCA": "83+",
+    "Обработка": "полумытая",
+    "Обжарка": "для эспрессо",
+    "Высота произрастания": "1400 метров"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2100.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2212.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2100.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2212.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/order-opt-online/tproduct/346641889-745606807213-venesuela-merla-dlya-espresso",
+   "name": "Венесуэла Мерла для эспрессо",
+   "description": "География: Америка\nУрожай: 2025/26\nОценка SCA: 83+\nОбработка: мытая\nОбжарка: для эспрессо\nПриготовление: эспрессо\nПриготовление: гейзер\nПриготовление: турка\nПриготовление: френч-пресс",
+   "image": "https://static.tildacdn.com/stor3964-3662-4538-a133-636430323836/ed9237c2d109cad91825cb2f93ab5c40.jpg",
+   "category": "",
+   "specs": {
+    "Урожай": "2025/26",
+    "Оценка SCA": "83+",
+    "Обработка": "мытая",
+    "Обжарка": "для эспрессо",
+    "Высота произрастания": "1200–1800 метров",
+    "Способ обработки": "мытая"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2040.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2142.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2040.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2142.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/order-opt-online/tproduct/346641889-149295230073-indoneziya-kerinchi-dlya-espresso",
+   "name": "Индонезия Керинчи для эспрессо",
+   "description": "География: Азия\nУрожай: 2025/26\nОценка SCA: 85+\nОбработка: гилинг-басах\nОбжарка: для эспрессо\nПриготовление: эспрессо\nПриготовление: гейзер\nПриготовление: турка\nПриготовление: френч-пресс",
+   "image": "https://static.tildacdn.com/stor3435-3239-4338-a134-343665313939/5f48ab1775016b429d4d90796a1193d4.jpg",
+   "category": "",
+   "specs": {
+    "Урожай": "2025/26",
+    "Оценка SCA": "85+",
+    "Обработка": "гилинг-басах",
+    "Обжарка": "для эспрессо",
+    "Высота произрастания": "1500-1600 метров"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2604.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2470.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2604.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2470.0,
+     "available": true
+    }
+   ]
+  }
+ ]
+}

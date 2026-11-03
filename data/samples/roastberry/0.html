@@ -1,0 +1,254 @@
+<!-- https://roastberry.ru -->
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="noindex, follow">
+    <link rel="icon" type="image/svg+xml" href="/favicon.ico?domain=roastberry.ru">
+    <title>roastberry.ru</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500&family=Plus+Jakarta+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg: #F9F8F5;
+            --ink: #1F1E1D;
+            --muted: #64748B;
+            --line: #E2DFD9;
+            --gold: #C4A47C;
+            --gold-deep: #BFA37C;
+            --field-bg: rgba(255, 255, 255, .7);
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            min-height: 100vh;
+            background: var(--bg);
+            color: var(--ink);
+            font-family: 'Plus Jakarta Sans', -apple-system, 'Segoe UI', Roboto, Arial, sans-serif;
+            font-size: 15px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 64px 24px;
+            -webkit-font-smoothing: antialiased;
+        }
+        .wrap { width: 100%; max-width: 540px; animation: rise .7s ease both; }
+        @keyframes rise { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
+
+        /* --- Верхний блок: домен — главный ориентир посетителя --- */
+        .domain-name {
+            font-family: 'Cormorant Garamond', Georgia, 'Times New Roman', serif;
+            font-weight: 500;
+            font-size: clamp(38px, 9vw, 64px);
+            line-height: 1.1;
+            text-align: center;
+            letter-spacing: .05em;
+            text-transform: uppercase;
+            white-space: nowrap;
+        }
+        .rule { width: 64px; height: 1px; background: var(--gold); margin: 26px auto 30px; }
+        h1 {
+            font-family: 'Cormorant Garamond', Georgia, 'Times New Roman', serif;
+            font-weight: 500;
+            font-size: clamp(24px, 5vw, 30px);
+            line-height: 1.2;
+            text-align: center;
+            letter-spacing: .02em;
+            color: var(--ink);
+        }
+        .sub {
+            text-align: center;
+            color: var(--muted);
+            font-size: 14px;
+            line-height: 1.7;
+            max-width: 430px;
+            margin: 12px auto 0;
+        }
+        .form-gap { height: 38px; }
+
+        /* --- Поля с парящими лейблами --- */
+        .field { position: relative; margin-bottom: 18px; }
+        .field input,
+        .field textarea {
+            width: 100%;
+            background: var(--field-bg);
+            border: 1px solid var(--line);
+            border-radius: 10px;
+            padding: 22px 16px 10px;
+            font: inherit;
+            font-size: 16px; /* ≥16px — иначе Safari на iOS зумит поле при фокусе */
+            color: var(--ink);
+            transition: border-color .25s ease, box-shadow .25s ease;
+        }
+        .field textarea { min-height: 108px; resize: none; overflow: hidden; line-height: 1.55; }
+        .field label {
+            position: absolute;
+            left: 16px;
+            top: 16px;
+            font-size: 14px;
+            color: var(--muted);
+            pointer-events: none;
+            transform-origin: left top;
+            transition: transform .25s ease, color .25s ease;
+        }
+        .field input:focus, .field textarea:focus {
+            outline: none;
+            border-color: var(--gold);
+            box-shadow: 0 0 0 3px rgba(196, 164, 124, .16);
+        }
+        .field input:focus ~ label,
+        .field input:not(:placeholder-shown) ~ label,
+        .field textarea:focus ~ label,
+        .field textarea:not(:placeholder-shown) ~ label {
+            transform: translateY(-10px) scale(.78);
+            color: var(--gold-deep);
+            letter-spacing: .04em;
+        }
+        .field input::placeholder, .field textarea::placeholder { color: transparent; }
+
+        .errors {
+            margin: 0 0 18px;
+            padding: 12px 16px;
+            font-size: 13px;
+            line-height: 1.6;
+            color: #B3261E;
+            background: rgba(179, 38, 30, .06);
+            border: 1px solid rgba(179, 38, 30, .2);
+            border-radius: 10px;
+        }
+
+        /* --- Кнопка --- */
+        .cta {
+            width: 100%;
+            height: 52px;
+            margin-top: 8px;
+            border: 1px solid var(--gold);
+            border-radius: 10px;
+            cursor: pointer;
+            background: #181716;
+            color: #F6F1E8;
+            font: inherit;
+            font-size: 13px;
+            font-weight: 600;
+            letter-spacing: .2em;
+            text-transform: uppercase;
+            position: relative;
+            overflow: hidden;
+            transition: color .25s ease, background .25s ease;
+        }
+        .cta::after {
+            content: '';
+            position: absolute;
+            inset: 0;
+            background: linear-gradient(105deg, transparent 30%, rgba(196, 164, 124, .35) 50%, transparent 70%);
+            transform: translateX(-110%);
+        }
+        .cta:hover::after { animation: sheen 1.1s ease; }
+        @keyframes sheen { to { transform: translateX(110%); } }
+        .cta:hover { background: #221F1D; }
+        .cta[disabled] { opacity: .65; cursor: wait; }
+        .cta .send-label { position: relative; z-index: 1; }
+
+        .legal {
+            margin-top: 18px;
+            text-align: center;
+            font-size: 12px;
+            line-height: 1.6;
+            color: var(--muted);
+        }
+        .cf-turnstile { display: flex; justify-content: center; margin: 4px 0 6px; }
+
+        .hp-field { position: absolute; left: -9999px; width: 1px; height: 1px; overflow: hidden; }
+
+        /* --- Экран успеха --- */
+        .ok { text-align: center; animation: rise .6s ease both; }
+        .ok .mark { width: 74px; height: 74px; margin: 0 auto 26px; }
+        .ok .mark circle {
+            stroke: var(--gold); stroke-width: 1.4; fill: none;
+            stroke-dasharray: 220; stroke-dashoffset: 220;
+            animation: draw 1s ease .1s forwards;
+        }
+        .ok .mark path {
+            stroke: var(--ink); stroke-width: 2; fill: none;
+            stroke-linecap: round; stroke-linejoin: round;
+            stroke-dasharray: 60; stroke-dashoffset: 60;
+            animation: draw .6s ease .8s forwards;
+        }
+        @keyframes draw { to { stroke-dashoffset: 0; } }
+        .ok h2 {
+            font-family: 'Cormorant Garamond', Georgia, 'Times New Roman', serif;
+            font-weight: 500;
+            font-size: 34px;
+            line-height: 1.15;
+            margin-bottom: 14px;
+        }
+        .ok p { color: var(--muted); font-size: 14px; line-height: 1.75; max-width: 420px; margin: 0 auto; }
+
+        @media (prefers-reduced-motion: reduce) { * { animation: none !important; transition: none !important; } }
+    </style>
+</head>
+<body>
+    <main class="wrap">
+                <div class="domain-name" style="font-size: min(64px, calc(min(540px, 100vw - 48px) / 13 / 0.8));">roastberry.ru</div>
+        <div class="rule"></div>
+        <h1>Домен зарегистрирован</h1>
+        <p class="sub">Вы можете связаться с администратором домена по форме ниже.</p>
+        <div class="form-gap"></div>
+
+                    <!-- @captcha -->
+            <form method="post" action="https://roastberry.ru/inquiries" id="inquiry-form">
+                <input type="hidden" name="_token" value="P83MKknhdGUfVOZZT0VIj9y67PUIbsBOpZAWSHVv" autocomplete="off">                <input type="hidden" name="domain_id" value="17130">
+<input type="hidden" name="captcha_token" value="17130:10:1793695795:01547e0974ba6c908071448dc8cb3c02a90f23f465e840ab98525cd9ac59efe9">
+                <div class="hp-field" aria-hidden="true">
+                    <label>Компания<input type="text" name="company" tabindex="-1" autocomplete="off"></label>
+                </div>
+
+                
+                <div class="field">
+                    <input id="f-name" type="text" name="name" value="" placeholder=" " maxlength="255" autocomplete="name"required>
+                    <label for="f-name">Имя</label>
+                </div>
+                <div class="field">
+                    <input id="f-email" type="email" name="email" value="" placeholder=" " maxlength="255" autocomplete="email">
+                    <label for="f-email">E-mail</label>
+                </div>
+                <div class="field">
+                    <textarea id="f-msg" name="comment" placeholder=" " maxlength="2000"required></textarea>
+                    <label for="f-msg">Предложение или вопрос</label>
+                </div>
+                <div class="field">
+                    <input id="f-captcha" type="number" name="captcha" value="" placeholder=" " min="0" inputmode="numeric" autocomplete="off" required>
+                    <label for="f-captcha">Сколько будет 7 + 3?</label>
+                </div>
+
+                
+                <button type="submit" class="cta"><span class="send-label">Связаться с владельцем</span></button>
+                <p class="legal">Нажимая кнопку, вы соглашаетесь на обработку данных. Мы гарантируем конфиденциальность переписки.</p>
+            </form>
+            </main>
+
+    <script>
+        (function () {
+            var form = document.getElementById('inquiry-form');
+            if (!form) return;
+
+            // Автоматическое увеличение высоты многострочного поля
+            var msg = document.getElementById('f-msg');
+            var grow = function () {
+                msg.style.height = 'auto';
+                msg.style.height = msg.scrollHeight + 'px';
+            };
+            msg.addEventListener('input', grow);
+            grow();
+
+            // Блокировка кнопки и индикация отправки
+            form.addEventListener('submit', function () {
+                var btn = form.querySelector('.cta');
+                btn.disabled = true;
+                btn.querySelector('.send-label').textContent = 'Отправка…';
+            });
+        })();
+    </script>
+<script data-hv>fetch("/internal/hv?log=1",{credentials:"same-origin"}).catch(function(){})</script></body>
+</html>

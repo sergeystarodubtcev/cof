@@ -1,6 +1,22 @@
-Обхожу 3 обжарщиков…
-  tasty          generic               578 товаров  385.8s 
-  welder         bitrix+generic        138 товаров  392.5s 
-  sok            bitrix+generic         44 товаров  834.3s 
-Кофейных товаров: 749; скачиваю картинки…
-Готово: 975 товаров, 13 лотов есть у нескольких обжарщиков → /home/runner/work/cof/cof/site/data/catalog.json
+Обхожу 18 обжарщиков…
+  kof            unreachable             0 товаров  6.9s 
+  roastberry     generic                 0 товаров  7.5s 
+  triptych       tilda                  12 товаров  9.1s 
+  botanica       tilda                  31 товаров  9.8s 
+  doubleb        tilda+generic           0 товаров  10.0s 
+  yankeesierra   tilda                   9 товаров  12.8s 
+  fauno          tilda                  17 товаров  13.3s 
+  znak           generic                 0 товаров  14.2s 
+  bernin         generic                 0 товаров  18.4s 
+  zerno          tilda                  36 товаров  20.8s 
+  bittersweet    tilda                  16 товаров  21.1s 
+  camera         tilda                  15 товаров  21.9s 
+  silkydrum      tilda                  92 товаров  29.8s 
+  bolshe         tilda                  77 товаров  34.1s 
+  hq             woocommerce+generic     0 товаров  44.4s 
+  madheads       generic                 2 товаров  38.0s 
+  notik          bitrix+generic          0 товаров  67.8s 
+  west4          unreachable             0 товаров  107.7s 
+Кофейных товаров в продаже: 2213 (нет в наличии, скрыто: 338); скачиваю картинки…
+Изменения: +228 добавлено, −335 удалено
+Готово: 2213 товаров, 183 лотов есть у нескольких обжарщиков → /home/runner/work/cof/cof/site/data/catalog.json

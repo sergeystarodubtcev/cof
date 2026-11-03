@@ -1,0 +1,1774 @@
+{
+ "status": {
+  "id": "qq",
+  "platform": "generic",
+  "items": 26,
+  "seconds": 56.6,
+  "ok": true,
+  "error": null,
+  "at": "2026-11-03T06:07:29+00:00"
+ },
+ "items": [
+  {
+   "url": "https://qqcoffee.ru/products/discovery-set",
+   "name": "Discovery Set",
+   "description": "Данный сет для тех, кто хочет открыть для себя мир кофе во всем его многообразии.",
+   "image": "https://res.cloudinary.com/qq-website/image/upload/v1692377309/image_c6ac647c06.png",
+   "category": "",
+   "specs": {
+    "Обработка": "какую выбрать?"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 849.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://qqcoffee.ru/products/keniya-kirinyaga",
+   "name": "Кения Кириньяга",
+   "description": "Малина, красная смородина, крыжовник, каркаде",
+   "image": "https://res.cloudinary.com/qq-website/image/upload/v1725129553/200_36afd7ea54.png",
+   "category": "",
+   "specs": {
+    "Дескрипторы": "Малина, красная смородина, крыжовник, каркаде",
+    "Страна": "Кения",
+    "Обработка": "Мытая"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 865.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 865.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 865.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 865.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 865.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 865.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 865.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 865.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3510.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3510.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3510.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3510.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3510.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3510.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3510.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3510.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://qqcoffee.ru/products/q-optimistic",
+   "name": "Q-Optimistic",
+   "description": "Какао, апельсиновые чипсы, орехи.",
+   "image": "https://res.cloudinary.com/qq-website/image/upload/v1758209212/200_b3221eb0ef.png",
+   "category": "",
+   "specs": {
+    "Дескрипторы": "Какао, апельсиновые чипсы, орехи",
+    "Обжарка": "Эспрессо • средняя",
+    "Обработка": "какую выбрать?"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 680.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 680.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 680.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 680.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2610.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2610.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2610.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2610.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://qqcoffee.ru/products/q-berry",
+   "name": "Q-Berry",
+   "description": "Сухофрукты, ягоды, чай, шоколад.",
+   "image": "https://res.cloudinary.com/qq-website/image/upload/v1758208862/200_f40fecb804.png",
+   "category": "",
+   "specs": {
+    "Дескрипторы": "Сухофрукты, ягоды, чай, шоколад",
+    "Обжарка": "Эспрессо • средняя",
+    "Обработка": "какую выбрать?"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 725.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 725.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 725.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 725.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2785.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2785.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2785.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2785.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://qqcoffee.ru/products/braziliya-santa-mariya",
+   "name": "Бразилия Санта Мария",
+   "description": "Молочный шоколад, урбеч, яблоко",
+   "image": "https://res.cloudinary.com/qq-website/image/upload/v1740172146/200_d9288b75d6.png",
+   "category": "",
+   "specs": {
+    "Дескрипторы": "Молочный шоколад, урбеч, яблоко",
+    "Страна": "Бразилия",
+    "Обработка": "Натуральная",
+    "Обжарка": "Эспрессо • средняя"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 675.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 675.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 675.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 675.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2590.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2590.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2590.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2590.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://qqcoffee.ru/products/kolumbiya-antiokiya",
+   "name": "Колумбия Антиокия",
+   "description": "Зелёное яблоко, цитрусы, чай, карамель",
+   "image": "https://res.cloudinary.com/qq-website/image/upload/v1757815841/200_296ab5baec.png",
+   "category": "",
+   "specs": {
+    "Дескрипторы": "зелёное яблоко, цитрусы, чай, карамель",
+    "Страна": "Колумбия",
+    "Обработка": "Мытая",
+    "Обжарка": "Эспрессо • средняя"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 720.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 720.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 720.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 720.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 720.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 720.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 720.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 720.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3000.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://qqcoffee.ru/products/q-finch",
+   "name": "Q-Finch",
+   "description": "Чай, сушёные ягоды, цветы, молочный шоколад, орехи",
+   "image": "https://res.cloudinary.com/qq-website/image/upload/v1758413723/200_f4afad21ea.png",
+   "category": "",
+   "specs": {
+    "Дескрипторы": "Чай, сушёные ягоды, цветы, молочный шоколад, орехи",
+    "Обжарка": "Эспрессо • средняя",
+    "Обработка": "какую выбрать?"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2675.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2675.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2675.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2675.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://qqcoffee.ru/products/kolumbiya-dekaf-1",
+   "name": "Колумбия Декаф",
+   "description": "Чай, цитрусы, сушёный банан, карамель",
+   "image": "https://res.cloudinary.com/qq-website/image/upload/v1760348842/200_d164fe484e.png",
+   "category": "",
+   "specs": {
+    "Дескрипторы": "Чай, цитрусы, сушёный банан, карамель",
+    "Страна": "Колумбия",
+    "Обработка": "Мытая / Декаф",
+    "Обжарка": "Эспрессо • средняя"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 780.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 780.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 780.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 780.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3185.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3185.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3185.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3185.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://qqcoffee.ru/products/indoneziya-meruri",
+   "name": "Индонезия Мерури",
+   "description": "Тропики, грейпфрут, табачный лист, карамель",
+   "image": "https://res.cloudinary.com/qq-website/image/upload/v1766147176/200_a4b1484efd.png",
+   "category": "",
+   "specs": {
+    "Дескрипторы": "тропики, грейпфрут, табачный лист, карамель",
+    "Страна": "Индонезия",
+    "Обработка": "Вэт-халл",
+    "Обжарка": "Эспрессо • средняя"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 875.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 875.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 875.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 875.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 875.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 875.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 875.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 875.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3330.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3330.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3330.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3330.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3330.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3330.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3330.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3330.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://qqcoffee.ru/products/q-punch",
+   "name": "Q-Punch",
+   "description": "Песочное печенье, сладкие специи, цедра",
+   "image": "https://res.cloudinary.com/qq-website/image/upload/v1773415624/200_c0ca2480bb.png",
+   "category": "",
+   "specs": {
+    "Дескрипторы": "песочное печенье, сладкие специи, цедра",
+    "Обжарка": "Эспрессо • средняя",
+    "Обработка": "какую выбрать?"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 685.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 685.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 685.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 685.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2520.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2520.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2520.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2520.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://qqcoffee.ru/products/uganda-luna",
+   "name": "Уганда Луна",
+   "description": "Сухофрукты, виноградная косточка, цитрусы, молочный шоколад",
+   "image": "https://res.cloudinary.com/qq-website/image/upload/v1774440061/200_2c7440d32e.png",
+   "category": "",
+   "specs": {
+    "Дескрипторы": "сухофрукты, виноградная косточка, цитрусы, молочный шоколад",
+    "Страна": "Уганда",
+    "Обработка": "Натуральная",
+    "Обжарка": "Эспрессо • средняя"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 720.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 720.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 720.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 720.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2860.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2860.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2860.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2860.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 720.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 720.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 720.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 720.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2860.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2860.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2860.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2860.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://qqcoffee.ru/products/q-profit",
+   "name": "Q-Profit",
+   "description": "Косточковые фрукты, цитрусы, шоколад, орехи",
+   "image": "https://res.cloudinary.com/qq-website/image/upload/v1774440025/200_6f8bd6ac24.png",
+   "category": "",
+   "specs": {
+    "Дескрипторы": "косточковые фрукты, цитрусы, шоколад, орехи",
+    "Обжарка": "Эспрессо • средняя",
+    "Обработка": "какую выбрать?"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 680.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 680.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 680.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 680.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2735.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2735.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2735.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2735.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://qqcoffee.ru/products/efiopiya-lalibela",
+   "name": "Эфиопия Лалибела",
+   "description": "Грейпфрут, ягоды, чай, карамель",
+   "image": "https://res.cloudinary.com/qq-website/image/upload/v1786195600/200_b372988810.png",
+   "category": "",
+   "specs": {
+    "Дескрипторы": "грейпфрут, ягоды, чай, карамель",
+    "Страна": "Эфиопия",
+    "Обработка": "Мытая",
+    "Обжарка": "Эспрессо • средняя"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 750.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 750.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 750.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 750.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 750.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 750.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 750.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 750.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2850.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2850.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2850.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2850.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2850.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2850.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2850.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2850.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://qqcoffee.ru/products/keniya-kisii",
+   "name": "Кения Кисии",
+   "description": "Тропики, ягодные леденцы, апельсин",
+   "image": "https://res.cloudinary.com/qq-website/image/upload/v1776105929/200_fd603b7dfc.png",
+   "category": "",
+   "specs": {
+    "Дескрипторы": "тропики, ягодные леденцы, апельсин",
+    "Страна": "Кения",
+    "Обработка": "Натуральная/анаэробная",
+    "Обжарка": "Эспрессо • средняя"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 955.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 955.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 955.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 955.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 955.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 955.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 955.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 955.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 4045.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 4045.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://qqcoffee.ru/products/kolumbiya-vush-vush",
+   "name": "Колумбия Вуш-Вуш",
+   "description": "Дыня, грушевый сидр, барбариски",
+   "image": "https://res.cloudinary.com/qq-website/image/upload/v1781273347/200_9012f29f71.png",
+   "category": "",
+   "specs": {
+    "Дескрипторы": "дыня, грушевый сидр, барбариски",
+    "Страна": "Колумбия",
+    "Обработка": "Натуральная",
+    "Обжарка": "Фильтр • светлая"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2055.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2055.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2055.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2055.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 8305.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://qqcoffee.ru/products/keniya-najvasha-pb",
+   "name": "Кения Найваша ПБ",
+   "description": "Смородина, ежевика, апельсин, чёрный чай",
+   "image": "https://res.cloudinary.com/qq-website/image/upload/v1784889793/200_d45476f695.png",
+   "category": "",
+   "specs": {
+    "Дескрипторы": "смородина, ежевика, апельсин, чёрный чай",
+    "Страна": "Кения",
+    "Обработка": "Мытая",
+    "Обжарка": "Эспрессо • средняя"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 835.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 835.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 835.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 835.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 835.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 835.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 835.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 835.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3130.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3130.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3130.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3130.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3130.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3130.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3130.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3130.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://qqcoffee.ru/products/ruanda-divajn",
+   "name": "Руанда Дивайн",
+   "description": "Малина, клубника, яблоко, апельсин, карамель",
+   "image": "https://res.cloudinary.com/qq-website/image/upload/v1786630024/200_86f70d21f2.png",
+   "category": "",
+   "specs": {
+    "Дескрипторы": "малина, клубника, яблоко, апельсин, карамель",
+    "Страна": "Руанда",
+    "Обработка": "Натуральная",
+    "Обжарка": "Эспрессо • средняя"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 845.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 845.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 845.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 845.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 845.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 845.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 845.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 845.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3440.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3440.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3440.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3440.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3440.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3440.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3440.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3440.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://qqcoffee.ru/products/kolumbiya-la-kordilera",
+   "name": "Колумбия Ла Кордильера",
+   "description": "Брауни с бананом, ежевика, бадьян, куантро",
+   "image": "https://res.cloudinary.com/qq-website/image/upload/v1786968161/200_51887fa921.png",
+   "category": "",
+   "specs": {
+    "Дескрипторы": "брауни с бананом, ежевика, бадьян, куантро",
+    "Страна": "Колумбия",
+    "Обработка": "Анаэробная/ко-ферментед/декаф",
+    "Обжарка": "Эспрессо • средняя"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1105.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1105.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1105.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1105.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 4715.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 4715.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 4715.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 4715.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://qqcoffee.ru/products/kolumbiya-katurron",
+   "name": "Колумбия Катуррон",
+   "description": "Цитрусовые леденцы, манговый джем, шоколадный ликёр",
+   "image": "https://res.cloudinary.com/qq-website/image/upload/v1789379719/200_e25d5eeab6.png",
+   "category": "",
+   "specs": {
+    "Дескрипторы": "цитрусовые леденцы, манговый джем, шоколадный ликёр",
+    "Страна": "Колумбия",
+    "Обработка": "натуральная/аэробная",
+    "Обжарка": "Эспрессо • средняя"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 905.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 905.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 905.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 905.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 905.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 905.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 905.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 905.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3925.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3925.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3925.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3925.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3925.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3925.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3925.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3925.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://qqcoffee.ru/products/kolumbiya-anda-lusiya",
+   "name": "Колумбия Анда Лусия",
+   "description": "Мелисса, роза, апельсин, карамель",
+   "image": "https://res.cloudinary.com/qq-website/image/upload/v1789892681/200_8e35d23b91.png",
+   "category": "",
+   "specs": {
+    "Дескрипторы": "мелисса, роза, апельсин, карамель",
+    "Страна": "Колумбия",
+    "Обработка": "Инфьюз",
+    "Обжарка": "Фильтр • светлая"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1410.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1410.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1410.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1410.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 5990.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 5990.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 5990.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 5990.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://qqcoffee.ru/products/kosta-rika-la-pantera",
+   "name": "Коста-Рика Ла Пантера",
+   "description": "Яблоко в карамели, апельсин, чёрный чай",
+   "image": "https://res.cloudinary.com/qq-website/image/upload/v1790879856/200_376d0451e7.png",
+   "category": "",
+   "specs": {
+    "Дескрипторы": "яблоко в карамели, апельсин, чёрный чай",
+    "Страна": "Коста-Рика",
+    "Обработка": "Мытая",
+    "Обжарка": "Эспрессо • средняя"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 780.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 780.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 780.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 780.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 780.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 780.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 780.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 780.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3115.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3115.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3115.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3115.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3115.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3115.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3115.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3115.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://qqcoffee.ru/products/gvatemala-morente-rejes",
+   "name": "Гватемала Моренте Рейес",
+   "description": "Малина, шиповник, роза, карамель",
+   "image": "https://res.cloudinary.com/qq-website/image/upload/v1790880104/200_6370c3e0c7.png",
+   "category": "",
+   "specs": {
+    "Дескрипторы": "малина, шиповник, роза, карамель",
+    "Страна": "Гватемала",
+    "Обработка": "Мытая",
+    "Обжарка": "Эспрессо • средняя"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 845.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 845.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 845.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 845.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 845.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 845.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 845.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 845.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3420.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3420.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3420.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3420.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3420.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3420.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3420.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3420.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://qqcoffee.ru/products/gvatemala-blyu-ayarza",
+   "name": "Гватемала Блю Аярза",
+   "description": "Чернослив, варенье из темных ягод, апельсиновые чипсы, шоколад",
+   "image": "https://res.cloudinary.com/qq-website/image/upload/v1790880315/200_24e867b592.png",
+   "category": "",
+   "specs": {
+    "Дескрипторы": "чернослив, варенье из темных ягод, апельсиновые чипсы, шоколад",
+    "Страна": "Гватемала",
+    "Обработка": "Натуральная",
+    "Обжарка": "Эспрессо • средняя"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 810.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 810.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 810.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 810.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 810.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 810.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 810.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 810.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3260.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3260.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3260.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3260.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3260.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3260.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3260.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3260.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://qqcoffee.ru/products/kaskara",
+   "name": "Каскара",
+   "description": "Высушенная под солнцем мякоть кофейного фрукта из Коста-Рики",
+   "image": "https://res.cloudinary.com/qq-website/image/upload/v1732283715/image_c0af6843a6.png",
+   "category": "",
+   "specs": {
+    "Регион": "Коста-Рика",
+    "Обработка": "какую выбрать?"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 650.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://qqcoffee.ru/products/optimistic-set",
+   "name": "Optimistic Set",
+   "description": "Данный сет для тех, кто хочет попробовать кофе с классическим характером.",
+   "image": "https://res.cloudinary.com/qq-website/image/upload/v1692377281/image_3fa44f04b5.png",
+   "category": "",
+   "specs": {
+    "Обработка": "какую выбрать?"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 749.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://qqcoffee.ru/products/stakan-dlya-kappinga-cup-in-peace-fioletovyj",
+   "name": "Стакан для каппинга «CUP IN PEACE» фиолетовый",
+   "description": "Многоразовый стакан для холодных и горячих напитков",
+   "image": "https://res.cloudinary.com/qq-website/image/upload/v1698086107/003_cup_4acb85d951.png",
+   "category": "",
+   "specs": {
+    "Высота": "139 мм",
+    "Обработка": "какую выбрать?"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 250.0,
+     "available": true
+    }
+   ]
+  }
+ ]
+}

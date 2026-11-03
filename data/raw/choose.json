@@ -1,0 +1,4259 @@
+{
+ "status": {
+  "id": "choose",
+  "platform": "tilda+generic",
+  "items": 31,
+  "seconds": 37.5,
+  "ok": true,
+  "error": null,
+  "at": "2026-11-03T06:06:35+00:00"
+ },
+ "items": [
+  {
+   "url": "https://www.choosecoffee.ru/tproduct/1-956026369733-kruzhka-krasnaya",
+   "name": "Кружка / красная",
+   "description": "Раздел: аксессуары\nСкрывать характеристики: 1\nСкрывать помол и фасовку: 1",
+   "image": "https://static.tildacdn.com/stor3564-3566-4662-b534-326637663834/c2e4991e89a31eee56946059c04104bc.png",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 650.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://www.choosecoffee.ru/tproduct/1-743140692793-kruzhka-zheltaya",
+   "name": "Кружка / желтая",
+   "description": "Раздел: аксессуары\nСкрывать характеристики: 1\nСкрывать помол и фасовку: 1",
+   "image": "https://static.tildacdn.com/stor3262-6337-4466-b762-666430636333/5fb1f58f7efe1ee143d14ab181319408.png",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 650.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://www.choosecoffee.ru/tproduct/1-647468552613-stikeri",
+   "name": "Стикеры",
+   "description": "Теперь можно всегда носить с собой напоминание о важных выборах: на чехле от телефона, ноутбуке или где пожелаете. \nРаздел: аксессуары\nСкрывать характеристики: 1\nСкрывать помол и фасовку: 1",
+   "image": "https://static.tildacdn.com/stor6664-3938-4237-a266-323961383133/5aee80ccff7947d01c8f8fd09d5c1f69.png",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 490.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 490.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://www.choosecoffee.ru/tproduct/1-200716035363-futbolka",
+   "name": "Футболка",
+   "description": "Раздел: аксессуары\nСкрывать характеристики: 1\nСкрывать помол и фасовку: 1",
+   "image": "https://static.tildacdn.com/stor3236-3136-4439-b833-386532336237/76282dcec9e9e34672a626b87144796a.jpg",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 6700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 6700.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://www.choosecoffee.ru/main/tproduct/743575945-383336404032-braziliya-santa-izabel",
+   "name": "Бразилия / Санта Изабель",
+   "description": "Сбалансированный, сладкий и плотный кофе с нотами желтых фруктов и средним телом. Отлично раскрывается в молоке. Подходит при приготовления в эспрессо машине и турке \nПлотность: 3\nКислотность: 2\nОбработка: натуральная\nРаздел: для эспрессо\nСладость: 3\nФермент: 1",
+   "image": "https://static.tildacdn.com/stor6534-6337-4463-b537-386634656562/9b653638773e1f308ac5cb13202f095d.png",
+   "category": "",
+   "specs": {
+    "Обработка": "натуральная"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2400.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2400.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2400.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2400.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2400.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2400.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2400.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2400.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2400.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2400.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2400.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2400.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2400.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2400.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://www.choosecoffee.ru/main/tproduct/743575945-625424050022-efiopiya-bensa",
+   "name": "Эфиопия / Бенса",
+   "description": "Классический мытый кофе из региона Сидамо — сочный, яркий и сладкий.\nБукет выражен спелым жёлтым киви, сладким цветочным мёдом, курагой и лёгкой приятной терпкостью чёрного чая на послевкусии. Кислотность — яблочная и цитрусовая, сочная. Тело — средней плотности, гладкое и обвалакивающее. \nПлотность: 3\nКислотность: 3\nОбработка: мытая\nРаздел: для эспрессо\nСладость: 4\nФермент: 1",
+   "image": "https://static.tildacdn.com/stor6534-6337-4463-b537-386634656562/9b653638773e1f308ac5cb13202f095d.png",
+   "category": "",
+   "specs": {
+    "Обработка": "мытая"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1100.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1100.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1100.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1100.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1100.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1100.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1100.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1100.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1100.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1100.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1100.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1100.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1100.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1100.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2700.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://www.choosecoffee.ru/main/tproduct/743575945-812318683602-efiopiya-sidamo",
+   "name": "Эфиопия / Сидамо",
+   "description": "Натуральная эфиопия для молочных напитков из региона Сидамо. Отлично подходит для домашних кофемашин и турки. Хорошо раскрывается как в молоке, так и в эспрессо. \nПлотность: 4\nКислотность: 3\nОбработка: натуральная\nРаздел: для эспрессо\nСладость: 3\nФермент: 1",
+   "image": "https://static.tildacdn.com/stor6534-6337-4463-b537-386634656562/9b653638773e1f308ac5cb13202f095d.png",
+   "category": "",
+   "specs": {
+    "Обработка": "натуральная"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2460.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2460.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2460.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2460.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2460.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2460.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2460.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2460.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2460.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2460.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2460.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2460.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2460.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2460.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://www.choosecoffee.ru/main/tproduct/743575945-313150263442-blend-start",
+   "name": "Бленд / «Старт»",
+   "description": "Сладкий кофе с хорошо читаемыми нотами шоколада, карамели и ликера. Вкусовой баланс смещен в сторону сладости, кислотнотность — цитрусовая, тело — сиропистое, гладкое. \nПлотность: 5\nКислотность: 3\nОбработка: натуральная\nРаздел: для эспрессо\nСладость: 4\nНовинка: 1\nФермент: 1",
+   "image": "https://static.tildacdn.com/stor6534-6337-4463-b537-386634656562/9b653638773e1f308ac5cb13202f095d.png",
+   "category": "",
+   "specs": {
+    "Обработка": "натуральная"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 950.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 950.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 950.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 950.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 950.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 950.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 950.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 950.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 950.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 950.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 950.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 950.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 950.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 950.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2200.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://www.choosecoffee.ru/main/tproduct/743575945-112087724302-blend-doverie",
+   "name": "Бленд / «Доверие»",
+   "description": "Бленд из натуральных лотов Бразилии и Эфиопии. Плотный, сбалансированный, сладкий кофе с орехово -шоколадными нотами и послевкусием желтых фруктов. Хорошо раскрывается как в молоке, так и в эспрессо. \nПлотность: 4\nКислотность: 3\nОбработка: натуральная\nРаздел: для эспрессо\nСладость: 2\nФермент: 1",
+   "image": "https://static.tildacdn.com/stor6534-6337-4463-b537-386634656562/9b653638773e1f308ac5cb13202f095d.png",
+   "category": "",
+   "specs": {
+    "Обработка": "натуральная"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2450.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2450.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2450.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2450.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2450.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2450.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2450.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2450.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2450.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2450.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2450.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2450.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2450.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2450.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://www.choosecoffee.ru/main/tproduct/739043735-296572363313-keniya-gituara-aa",
+   "name": "Кения/ Гитуара АА",
+   "description": "Букет этого лота из Кении на горячем раскроется сладким апельсиновым джемом и мёдом. На остывании черносливом и спелым тёмным виноградом. Послевкусие продолжительное, напомнит мёд и апельсин. Кислотность яблочная, цитрусовая и сочная. Тело средней плотности, гладкое и округлое. \nПлотность: 3\nКислотность: 4\nОбработка: мытая\nРаздел: для фильтра\nСладость: 4\nQ-грейд: 86\nФермент: 1",
+   "image": "https://static.tildacdn.com/stor6534-6337-4463-b537-386634656562/9b653638773e1f308ac5cb13202f095d.png",
+   "category": "",
+   "specs": {
+    "Обработка": "мытая"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1150.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1150.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1150.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1150.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1150.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1150.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1150.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3500.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3500.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3500.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3500.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3500.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3500.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3500.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1150.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1150.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1150.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1150.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1150.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1150.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1150.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3500.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3500.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3500.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3500.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3500.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3500.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3500.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://www.choosecoffee.ru/main/tproduct/739043735-355233633443-braziliya-rodomuno",
+   "name": "Бразилия / Родомуньо",
+   "description": "Сливочный и ягодный лот из Бразилии. Букет на горячем — ароматный пекан и тёмный виноград, на остывании раскроется ежевикой и молочным шоколадом. Послевкусие — продолжительное, сладкое, с нотами ореха пекан и тростникового сахара. Кислотность — цитрусовая, яблочная, деликатная. Вес — средний, текстура — бархатистая и округлая. \nПлотность: 4\nКислотность: 3\nОбработка: натуральная анаэробная\nРаздел: для фильтра\nСладость: 5\nQ-грейд: 86\nФермент: 2",
+   "image": "https://static.tildacdn.com/stor6534-6337-4463-b537-386634656562/9b653638773e1f308ac5cb13202f095d.png",
+   "category": "",
+   "specs": {
+    "Обработка": "натуральная анаэробная"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1100.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1100.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1100.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1100.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1100.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1100.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1100.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3260.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3260.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3260.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3260.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3260.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3260.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3260.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1100.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1100.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1100.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1100.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1100.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1100.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1100.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3260.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3260.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3260.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3260.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3260.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3260.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3260.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://www.choosecoffee.ru/main/tproduct/739043735-284433607493-efiopiya-konga",
+   "name": "Эфиопия / Конга",
+   "description": "Свежий урожай Эфиопии! В аромате — ежевика и крем-брюле. В букете на горячем — малина и абрикос; на остывании — ежевика, крем-брюле, мандарин и тростниковый сахар. Послевкусие — продолжительное, ягодное и сливочное. Кислотность — яблочная и винная, комлексная. Тело – плотное и обволакивающее. \nПлотность: 4\nКислотность: 4\nОбработка: натуральная\nРаздел: для фильтра\nСладость: 5\nQ-грейд: 87\nФермент: 1",
+   "image": "https://static.tildacdn.com/stor6534-6337-4463-b537-386634656562/9b653638773e1f308ac5cb13202f095d.png",
+   "category": "",
+   "specs": {
+    "Обработка": "натуральная"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3650.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://www.choosecoffee.ru/main/tproduct/743575945-755102661903-braziliya-mantikeira",
+   "name": "Бразилия / Мантикейра",
+   "description": "Чистая Бразилия с интенсивностью сладостью. Букет на первом глотке раскроется сладким молочным шоколадом и спелыми тёмными ягодами. На втором глотке молочным шоколадом и цитрусами. Послвкусие — продолжительное, напомнит цитрусы и фундук. Кислотность — спелая, цитрусовая. Тело — плотное и обволакивающее. \nПлотность: 4\nКислотность: 2\nОбработка: натуральная\nРаздел: для эспрессо\nСладость: 4\nQ-грейд: 82,5\nФермент: 1\nАкция: 1",
+   "image": "https://static.tildacdn.com/stor6534-6337-4463-b537-386634656562/9b653638773e1f308ac5cb13202f095d.png",
+   "category": "",
+   "specs": {
+    "Обработка": "натуральная"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 970.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 970.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 970.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 970.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 970.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 970.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 970.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2400.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2400.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2400.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2400.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2400.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2400.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2400.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 970.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 970.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 970.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 970.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 970.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 970.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 970.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2400.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2400.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2400.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2400.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2400.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2400.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2400.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://www.choosecoffee.ru/main/tproduct/743575945-493357137373-gvatemala-dekaf",
+   "name": "Гватемала / Декаф",
+   "description": "Декофеинизированный бленд на основе арабик из Гватемалы. Мягкий и фруктовый вкус для тех, кто предпочитает безкофеиновые напитки. \nПлотность: 3\nКислотность: 3\nОбработка: мытая\nРаздел: для эспрессо\nСладость: 4\nФермент: 1",
+   "image": "https://static.tildacdn.com/stor6534-6337-4463-b537-386634656562/9b653638773e1f308ac5cb13202f095d.png",
+   "category": "",
+   "specs": {
+    "Обработка": "мытая"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1150.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1150.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1150.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1150.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1150.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1150.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1150.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3050.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3050.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3050.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3050.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3050.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3050.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3050.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1150.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1150.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1150.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1150.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1150.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1150.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1150.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3050.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3050.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3050.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3050.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3050.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3050.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3050.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://www.choosecoffee.ru/main/tproduct/739043735-275705414793-kolumbiya-bruselas-geisha",
+   "name": "Колумбия / Бруселас Гейша",
+   "description": "Букет на горячем раскроется лемонграссом, барбарисом и вишней, на остывании — вишней, жасмином и тростниковым сахаром. Послевкусие — продолжительное, освежающее, напомнит мандарин и карамель. Кислотность — яблочная, цитрусовая, винная и хрустящая. Тело — среднее по плотности, сливочное и обвалакивающее \nПлотность: 3\nКислотность: 5\nОбработка: мытая анаэробная\nРаздел: для фильтра\nСладость: 4\nНовинка: 1\nQ-грейд: 88\nФермент: 2",
+   "image": "https://static.tildacdn.com/stor6534-6337-4463-b537-386634656562/9b653638773e1f308ac5cb13202f095d.png",
+   "category": "",
+   "specs": {
+    "Обработка": "мытая анаэробная"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 6000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 6000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 6000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 6000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 6000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 6000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 6000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 6000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 6000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 6000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 6000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 6000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 6000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 6000.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://www.choosecoffee.ru/main/tproduct/739043735-783039908893-kolumbiya-la-planta-tabi",
+   "name": "Колумбия / Ла Планта Таби",
+   "description": "Букет на горчем: малиновое варенье, фиалка и мандарин, на остывании: малиновое варенье, фиалка и тростниковый сахар. Послевкусие — продолжительное, напомнит малину и карамель. Кислотность — яблочная, молочная и спелая. Тело — средней плотности, гладкое \nПлотность: 4\nКислотность: 4\nОбработка: мытая анаэробная\nРаздел: для фильтра\nСладость: 5\nНовинка: 1\nQ-грейд: 87\nФермент: 2",
+   "image": "https://static.tildacdn.com/stor6534-6337-4463-b537-386634656562/9b653638773e1f308ac5cb13202f095d.png",
+   "category": "",
+   "specs": {
+    "Обработка": "мытая анаэробная"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1500.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1500.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1500.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1500.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1500.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1500.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1500.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 5800.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 5800.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 5800.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 5800.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 5800.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 5800.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 5800.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1500.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1500.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1500.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1500.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1500.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1500.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1500.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 5800.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 5800.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 5800.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 5800.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 5800.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 5800.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 5800.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://www.choosecoffee.ru/main/tproduct/739043735-915404232513-kolumbiya-el-divizo-sidra",
+   "name": "Колумбия / Эль Дивизо Сидра",
+   "description": "Букет на горячем раскроется спелым красным апельсином, ананасом и сладким грушевым сидром, на остывании — ванилью, ежевикой и вареньем из розы. Послевкусие — продолжительное, сладкое, напомнит ваниль и ананас. Кислотность — яблочная, цитрусовая, винная и комплексная. Тело — плотное, сливочное и обвалакивающее \nПлотность: 4\nКислотность: 4\nОбработка: натуральная анаэробная\nРаздел: для фильтра\nСладость: 5\nНовинка: 1\nQ-грейд: 88\nФермент: 2",
+   "image": "https://static.tildacdn.com/stor6534-6337-4463-b537-386634656562/9b653638773e1f308ac5cb13202f095d.png",
+   "category": "",
+   "specs": {
+    "Обработка": "натуральная анаэробная"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 6000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 6000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 6000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 6000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 6000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 6000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 6000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 6000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 6000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 6000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 6000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 6000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 6000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 6000.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://www.choosecoffee.ru/main/tproduct/739043735-497008953883-keniya-mara",
+   "name": "Кения / Мара",
+   "description": "Сочная натуральная Кения с яркими фруктово-ягодными оттенками. Букет раскрывается желтым яблоком, черносливом с хорошо гармонируещей терпкой сладостью брусники. Кислотность — комплексная и освежающая. Текстура напитка — гладкая и округлая. Послевкусие — продолжительное, фруктовое и чайное. \nПлотность: 3\nКислотность: 4\nОбработка: натуральная\nРаздел: для фильтра\nСладость: 4\nНовинка: 1\nQ-грейд: 86\nФермент: 2",
+   "image": "https://static.tildacdn.com/stor6534-6337-4463-b537-386634656562/9b653638773e1f308ac5cb13202f095d.png",
+   "category": "",
+   "specs": {
+    "Обработка": "натуральная"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1110.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1110.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1110.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1110.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1110.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1110.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1110.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3300.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3300.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3300.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3300.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3300.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3300.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3300.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1110.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1110.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1110.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1110.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1110.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1110.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1110.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3300.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3300.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3300.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3300.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3300.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3300.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3300.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://www.choosecoffee.ru/main/tproduct/743575945-150108932423-kolumbiya-andzhelo-sosa",
+   "name": "Колумбия / Анджело Соса",
+   "description": "Мытая Колумбия с выраженной сладостью. Букет — сладкое красное яблоко, чернослив и тёмный шоколад. Послевкусие — продолжительное, напомнит карамель. Кислотность — цитрусовая, яблочная, сочная. Тело — средней плотности, гладкое. \nПлотность: 3\nКислотность: 4\nОбработка: мытая\nРаздел: для эспрессо\nСладость: 4\nНовинка: 1\nФермент: 1",
+   "image": "https://static.tildacdn.com/stor6534-6337-4463-b537-386634656562/9b653638773e1f308ac5cb13202f095d.png",
+   "category": "",
+   "specs": {
+    "Обработка": "мытая"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1100.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1100.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1100.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1100.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1100.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1100.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1100.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1100.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1100.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1100.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1100.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1100.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1100.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1100.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2700.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://www.choosecoffee.ru/main/tproduct/739043735-852441638503-efiopiya-dekaf",
+   "name": "Эфиопия / Декаф",
+   "description": "Букет на горчем: спелый абрикос, молочный шоколад. На холодном: абрикос, жасмин и карамель. Послевкусие — продолжительное, напомнит карамель и жёлтые фрукты. Кислотность — цитрусовая, спелая. Тело — средней плотности, гладкое и обволакивающее \nПлотность: 3\nКислотность: 3\nОбработка: мытая\nРаздел: для фильтра\nСладость: 3\nФермент: 1\nНовинка: 1",
+   "image": "https://static.tildacdn.com/stor6534-6337-4463-b537-386634656562/9b653638773e1f308ac5cb13202f095d.png",
+   "category": "",
+   "specs": {
+    "Обработка": "мытая"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1090.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1090.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1090.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1090.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1090.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1090.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1090.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3500.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3500.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3500.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3500.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3500.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3500.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3500.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1090.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1090.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1090.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1090.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1090.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1090.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1090.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3500.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3500.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3500.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3500.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3500.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3500.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3500.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://www.choosecoffee.ru/main/tproduct/739043735-175308676373-gonduras-guara-azul",
+   "name": "Гондурас / Гуара Азул",
+   "description": "Букет на горячем: сладкая груша, тростниковый сахар и дыня, на холодном: дыня, кешью, карамель и яркий мандарин. Послевкусиее — средней продолжительности, сладкое, напомнит мандарин и карамель. Кислотность — цитрусовая и яблочная, спелая. Тело — плотное, гладкое и сливочное. \nПлотность: 4\nКислотность: 3\nОбработка: натуральная\nРаздел: для фильтра\nСладость: 4\nНовинка: 1\nQ-грейд: 85\nФермент: 1",
+   "image": "https://static.tildacdn.com/stor6534-6337-4463-b537-386634656562/9b653638773e1f308ac5cb13202f095d.png",
+   "category": "",
+   "specs": {
+    "Обработка": "натуральная"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1110.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1110.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1110.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1110.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1110.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1110.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1110.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3250.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3250.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3250.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3250.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3250.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3250.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3250.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1110.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1110.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1110.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1110.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1110.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1110.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1110.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3250.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3250.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3250.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3250.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3250.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3250.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3250.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://www.choosecoffee.ru/main/tproduct/739043735-753756511433-gonduras-fausto-garsiya",
+   "name": "Гондурас / Фаусто Гарсия",
+   "description": "Букет раскроется яркой красной смородиной, апельсином и зелёным киви. Послевкусие — среденей продолжительности, напомнит карамель и миндаль. Кислотность — цитрусовая, сочная. Тело — средней плотности, гладкое и обволакивающее. \nПлотность: 3\nКислотность: 5\nОбработка: хани\nРаздел: для фильтра\nСладость: 3\nНовинка: 1\nQ-грейд: 85,5\nФермент: 1",
+   "image": "https://static.tildacdn.com/stor6534-6337-4463-b537-386634656562/9b653638773e1f308ac5cb13202f095d.png",
+   "category": "",
+   "specs": {
+    "Обработка": "хани"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1110.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1110.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1110.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1110.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1110.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1110.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1110.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3250.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3250.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3250.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3250.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3250.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3250.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3250.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1110.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1110.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1110.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1110.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1110.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1110.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1110.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3250.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3250.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3250.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3250.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3250.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3250.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3250.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://www.choosecoffee.ru/main/tproduct/739043735-674046113243-kolumbiya-esteit",
+   "name": "Колумбия / Эстейт",
+   "description": "Букет на горячем: яблочный сидр, тёмный шоколад, карамель; на холодном: маракуйя, ваниль и банан. Послевкусие — продолжительное, сочное, фруктовое и шоколадное. Кислотность — яблочная, цитрусовая, винная. Тело — средней плотности, гладкое. \nПлотность: 3\nКислотность: 4\nОбработка: натуральная анаэробная\nРаздел: для фильтра\nСладость: 4\nНовинка: 1\nQ-грейд: 86\nФермент: 4",
+   "image": "https://static.tildacdn.com/stor6534-6337-4463-b537-386634656562/9b653638773e1f308ac5cb13202f095d.png",
+   "category": "",
+   "specs": {
+    "Обработка": "натуральная анаэробная"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3650.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://www.choosecoffee.ru/main/tproduct/739043735-162467536353-kolumbiya-bruselas-katurra",
+   "name": "Колумбия / Бруселас Катурра",
+   "description": "Букет на горячем раскроется яркими цитрусами, тропическими и ягодными нотами; на холодном — карамелью, виноградом и гибискусом. Послевкусие — освежающее, цитрусовое и сладкое. Кислотность — яркая, цитрусовая. Тело — лёгкое и округлое. \nПлотность: 2\nКислотность: 5\nОбработка: мытая анаэробная\nРаздел: для фильтра\nСладость: 3\nНовинка: 1\nQ-грейд: 86\nФермент: 2",
+   "image": "https://static.tildacdn.com/stor6534-6337-4463-b537-386634656562/9b653638773e1f308ac5cb13202f095d.png",
+   "category": "",
+   "specs": {
+    "Обработка": "мытая анаэробная"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1150.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1150.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1150.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1150.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1150.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1150.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1150.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3520.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3520.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3520.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3520.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3520.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3520.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3520.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1150.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1150.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1150.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1150.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1150.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1150.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1150.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3520.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3520.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3520.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3520.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3520.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3520.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3520.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://www.choosecoffee.ru/main/tproduct/743575945-410503272413-uganda-drugar",
+   "name": "Уганда / Другар",
+   "description": "Сладкий и плотный лот из Уганды. Букет раскроеется ягодными и шоколадными нотами. Послевкусие — продолжительное, напомнит карамель, чёрный чай и красные ягоды. Кислотность — сочная, цитрусовая. Тело — плотное, обвалакивающее. \nПлотность: 4\nКислотность: 3\nОбработка: натуральная\nРаздел: для эспрессо\nСладость: 4\nНовинка: 1\nФермент: 1",
+   "image": "https://static.tildacdn.com/stor6534-6337-4463-b537-386634656562/9b653638773e1f308ac5cb13202f095d.png",
+   "category": "",
+   "specs": {
+    "Обработка": "натуральная"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2450.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2450.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2450.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2450.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2450.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2450.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2450.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2450.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2450.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2450.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2450.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2450.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2450.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2450.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://www.choosecoffee.ru/main/tproduct/739043735-750393336343-gvatemala-periskop-santa-ana",
+   "name": "Гватемала Перископ / Санта-Ана",
+   "description": "Букет на горячем раскроется спелой черешней, тёмным шоколадом и виноградом; на холодном — карамелью, сухофруктами и ликёром. Послевкусие — продолжительное, напомнит тёмный шоколад и изюм. Кислотность — спелая, молочная и винная. Тело — плотное и обволакивающее. \nПлотность: 4\nКислотность: 3\nОбработка: натуральная анаэробная\nРаздел: для фильтра\nСладость: 5\nНовинка: 1\nQ-грейд: 86\nФермент: 4",
+   "image": "https://static.tildacdn.com/stor6534-6337-4463-b537-386634656562/9b653638773e1f308ac5cb13202f095d.png",
+   "category": "",
+   "specs": {
+    "Обработка": "натуральная анаэробная"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3650.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://www.choosecoffee.ru/main/tproduct/739043735-819971704523-efiopiya-shantavane",
+   "name": "Эфиопия / Шантаване",
+   "description": "Мытая эфиопская классика. Букет на горячем: карамель, спелый лимон и жасмин; букет на холодном: нектарин, жасмин и карамель. Послевкусие — средней продолжительности, сочное, цитрусовое. Килотность — яркая, цитрусовая. Тело — средней плотности, гладкое. \nПлотность: 3\nКислотность: 5\nОбработка: мытая\nРаздел: для фильтра\nСладость: 3\nНовинка: 1\nQ-грейд: 86\nФермент: 1",
+   "image": "https://static.tildacdn.com/stor6534-6337-4463-b537-386634656562/9b653638773e1f308ac5cb13202f095d.png",
+   "category": "",
+   "specs": {
+    "Обработка": "мытая"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3650.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://www.choosecoffee.ru/main/tproduct/739043735-604523425783-kitai-manmao",
+   "name": "Китай / Манмао",
+   "description": "Букет на горячем: красное вино, тёмный шоколад, сухофрукты; на холодном: маракуйя, тёмная слива. Послевкусие — продолжительное, сладкое, фруктовое. Кислотность — сочная, цитрусовая, винная. Тело — пплотное, обволакивающее. \nПлотность: 4\nКислотность: 3\nОбработка: натуральная анаэробная\nРаздел: для фильтра\nСладость: 5\nНовинка: 1\nQ-грейд: 86,5\nФермент: 3",
+   "image": "https://static.tildacdn.com/stor6534-6337-4463-b537-386634656562/9b653638773e1f308ac5cb13202f095d.png",
+   "category": "",
+   "specs": {
+    "Обработка": "натуральная анаэробная"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3760.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3760.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3760.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3760.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3760.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3760.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3760.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3760.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3760.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3760.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3760.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3760.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3760.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3760.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://www.choosecoffee.ru/main/tproduct/739043735-260661574743-efiopiya-sakaro",
+   "name": "Эфиопия / Сакаро",
+   "description": "Букет на горячем: черничный джем, карамель, цветочные ноты; букет на холодном: красный апельсин, чайная роза и карамель. Послевкусие — продолжительное, сладкое. Кислотность — цитрусовая, сочная. Тело — плотное, сливочное. \nПлотность: 4\nКислотность: 3\nОбработка: натуральная\nРаздел: для фильтра\nСладость: 5\nНовинка: 1\nQ-грейд: 86\nФермент: 1",
+   "image": "https://static.tildacdn.com/stor6534-6337-4463-b537-386634656562/9b653638773e1f308ac5cb13202f095d.png",
+   "category": "",
+   "specs": {
+    "Обработка": "натуральная"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3750.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3750.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3750.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3750.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3750.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3750.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3750.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3750.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3750.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3750.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3750.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3750.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3750.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3750.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://www.choosecoffee.ru/main/tproduct/743575945-206100081243-keniya-maunt",
+   "name": "Кения / Маунт",
+   "description": "Чистая Бразилия с интенсивностью сладостью. Букет на первом глотке раскроется сладким молочным шоколадом и спелыми тёмными ягодами. На втором глотке молочным шоколадом и цитрусами. Послвкусие — продолжительное, напомнит цитрусы и фундук. Кислотность — спелая, цитрусовая. Тело — плотное и обволакивающее. \nПлотность: 3\nКислотность: 5\nОбработка: мытая\nРаздел: для эспрессо\nСладость: 3\nНовинка: 1\nQ-грейд: 85\nФермент: 1",
+   "image": "https://static.tildacdn.com/stor6534-6337-4463-b537-386634656562/9b653638773e1f308ac5cb13202f095d.png",
+   "category": "",
+   "specs": {
+    "Обработка": "мытая"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1050.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1050.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1050.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1050.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1050.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1050.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1050.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1050.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1050.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1050.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1050.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1050.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1050.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1050.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2650.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://www.choosecoffee.ru/main/tproduct/739043735-520509135583-batch-bryu-67-six-seven",
+   "name": "Батч брю / «67 six-seven»",
+   "description": "Бленд из двух африканских стран: Кении и Эфиопии. Букет выражен ягодами, тёмным шоколадом и алкогольныи нотами. Послвкусие - средней продолжительности, шоколадно-алкогольное. Кислотность имеет уксусный и яблочный характер. Тело — средней плотности, гладкое. \nПлотность: 3\nКислотность: 4\nОбработка: мытая анаэробная\nРаздел: для фильтра\nСладость: 4\nФермент: 4\nАкция: 1",
+   "image": "https://static.tildacdn.com/stor6534-6337-4463-b537-386634656562/9b653638773e1f308ac5cb13202f095d.png",
+   "category": "",
+   "specs": {
+    "Обработка": "мытая анаэробная"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 960.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 960.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 960.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 960.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 960.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 960.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 960.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2850.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2850.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2850.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2850.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2850.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2850.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2850.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 960.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 960.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 960.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 960.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 960.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 960.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 960.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2850.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2850.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2850.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2850.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2850.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2850.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2850.0,
+     "available": true
+    }
+   ]
+  }
+ ]
+}
