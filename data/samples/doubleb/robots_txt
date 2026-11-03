@@ -1,0 +1,19 @@
+User-Agent: *
+Disallow: /page150100846.html
+Disallow: /page404
+Disallow: /page51392599.html
+Disallow: /page51392601.html
+Disallow: /tilda/form*
+Disallow: /tilda/rec*
+Disallow: /tilda/click*
+Disallow: /tilda/scroll*
+Disallow: /tilda/popup*
+Disallow: /tilda/cart*
+Disallow: /tilda/product*
+Disallow: /tilda/event*
+Disallow:
+
+
+Sitemap: https://double-b.ru/sitemap.xml
+Sitemap: https://double-b.ru/sitemap-store.xml
+Sitemap: https://double-b.ru/sitemap-feeds.xml

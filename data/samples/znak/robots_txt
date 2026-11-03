@@ -1,0 +1,27 @@
+User-agent: *
+Disallow: /*?cart=1*
+Disallow: */search*
+Disallow: *[]=*
+Disallow: */author/*
+Disallow: */?price_min*
+Disallow: */?price_max*
+Disallow: */?bx_sender_conversion_id*
+Disallow: */?*
+Disallow: *sort*
+Disallow: /index.php?*
+Disallow: /my/
+Disallow: /checkout/
+Disallow: /cart/
+Disallow: /signup/
+Disallow: /login/
+Disallow: /forgotpassword/
+Disallow: /webasyst/
+Disallow: /compare/
+Host: https://znakcoffee.shop
+Sitemap: https://znakcoffee.shop/sitemap.xml
+Crawl-delay: 10
+User-agent: *
+# wa mailer mailer/*
+Disallow: /mailer/unsubscribe/
+# wa mailer
+

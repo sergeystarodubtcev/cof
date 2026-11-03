@@ -1,43 +1,22 @@
-Обхожу 40 обжарщиков…
-  yankeesierra   error                   0 товаров  1.5s TypeError: scraper.http.get() got multiple values for keyword argument 'headers'
-  camera         error                   0 товаров  1.6s TypeError: scraper.http.get() got multiple values for keyword argument 'headers'
-  triptych       error                   0 товаров  2.4s TypeError: scraper.http.get() got multiple values for keyword argument 'headers'
-  silkydrum      error                   0 товаров  2.7s TypeError: scraper.http.get() got multiple values for keyword argument 'headers'
-  rockets        generic                 0 товаров  3.8s 
-  roastberry     generic                 0 товаров  5.2s 
-  fauno          error                   0 товаров  2.6s TypeError: scraper.http.get() got multiple values for keyword argument 'headers'
-  submarine      unreachable             0 товаров  6.5s 
+Обхожу 18 обжарщиков…
   kof            unreachable             0 товаров  6.9s 
-  bolshe         error                   0 товаров  3.0s TypeError: scraper.http.get() got multiple values for keyword argument 'headers'
-  zerno          error                   0 товаров  3.1s TypeError: scraper.http.get() got multiple values for keyword argument 'headers'
-  atlas          unreachable             0 товаров  10.9s 
-  doubleb        tilda+generic           0 товаров  13.4s 
-  sibaristica    unreachable             0 товаров  44.4s 
-  stereo         tilda+generic          53 товаров  42.2s 
-  choose         tilda+generic          31 товаров  37.5s 
-  botanica       error                   0 товаров  2.0s TypeError: scraper.http.get() got multiple values for keyword argument 'headers'
-  hq             woocommerce+generic     0 товаров  63.2s 
-  bernin         generic                 0 товаров  25.9s 
-  bittersweet    error                   0 товаров  2.2s TypeError: scraper.http.get() got multiple values for keyword argument 'headers'
-  qq             generic                26 товаров  56.6s 
-  h2o            unreachable             0 товаров  106.2s 
-  znak           generic                 0 товаров  58.7s 
-  solo           woocommerce            49 товаров  3.0s 
-  manufactory    unreachable             0 товаров  107.4s 
-  sova           unreachable             0 товаров  6.8s 
-  west4          unreachable             0 товаров  107.0s 
-  madheads       generic                 2 товаров  19.2s 
-  caffeinelab    tilda+generic         123 товаров  166.1s 
-  kanga          generic                38 товаров  225.3s 
-  lebo           tilda+generic          90 товаров  261.1s 
-  notik          bitrix+generic          0 товаров  295.0s 
-  kofeop         bitrix+generic         69 товаров  469.9s 
-  neva           bitrix+generic        146 товаров  618.0s 
-  tasty          generic               578 товаров  873.0s 
-  tab            bitrix+generic         51 товаров  971.6s 
-  welder         bitrix+generic        138 товаров  1084.9s 
-  specialtyru    bitrix+generic        414 товаров  1268.6s 
-  torrefacto     bitrix+generic        560 товаров  1467.7s 
-  sok            bitrix+generic         44 товаров  1506.8s 
-Кофейных товаров: 2320; скачиваю картинки…
-Готово: 2320 товаров, 211 лотов есть у нескольких обжарщиков → /home/runner/work/cof/cof/site/data/catalog.json
+  roastberry     generic                 0 товаров  7.5s 
+  triptych       tilda                  12 товаров  9.1s 
+  botanica       tilda                  31 товаров  9.8s 
+  doubleb        tilda+generic           0 товаров  10.0s 
+  yankeesierra   tilda                   9 товаров  12.8s 
+  fauno          tilda                  17 товаров  13.3s 
+  znak           generic                 0 товаров  14.2s 
+  bernin         generic                 0 товаров  18.4s 
+  zerno          tilda                  36 товаров  20.8s 
+  bittersweet    tilda                  16 товаров  21.1s 
+  camera         tilda                  15 товаров  21.9s 
+  silkydrum      tilda                  92 товаров  29.8s 
+  bolshe         tilda                  77 товаров  34.1s 
+  hq             woocommerce+generic     0 товаров  44.4s 
+  madheads       generic                 2 товаров  38.0s 
+  notik          bitrix+generic          0 товаров  67.8s 
+  west4          unreachable             0 товаров  107.7s 
+Кофейных товаров в продаже: 2213 (нет в наличии, скрыто: 338); скачиваю картинки…
+Изменения: +228 добавлено, −335 удалено
+Готово: 2213 товаров, 183 лотов есть у нескольких обжарщиков → /home/runner/work/cof/cof/site/data/catalog.json
