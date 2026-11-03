@@ -10,12 +10,12 @@ permissions:
   contents: write
 concurrency: {group: probe, cancel-in-progress: true}
 env:
-  ONLY: welder,sok,tasty   # пусто = все обжарщики
+  ONLY: ""                 # пусто = все обжарщики
   SCRAPE: "1"              # 0 = только диагностика и образцы страниц
 jobs:
   probe:
     runs-on: ubuntu-latest
-    timeout-minutes: 75
+    timeout-minutes: 170
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -23,11 +23,9 @@ jobs:
       - run: pip install -r requirements.txt
       - name: Доступность сайтов
         run: python -m scraper.probe ${ONLY:+--only $ONLY}
-      - name: Образцы страниц
-        run: python -m scraper.sample $ONLY
       - name: Парсер
         if: env.SCRAPE != '0'
-        run: python -m scraper.run ${ONLY:+--only $ONLY} 2>&1 | tee data/scrape.log || true
+        run: python -m scraper.run --workers 16 ${ONLY:+--only $ONLY} 2>&1 | tee data/scrape.log || true
       - name: Сохранить результаты в ветку
         if: always()
         run: |
