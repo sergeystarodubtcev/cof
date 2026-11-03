@@ -203,6 +203,49 @@ roasters:
     site: https://nevacoffee.ru
     verified: false
 
+  # ── Добавлены по запросу ─────────────────────────────────────────
+  - id: choose
+    name: Choose Coffee
+    city: Москва
+    site: https://choosecoffee.ru
+    verified: true
+
+  - id: west4
+    name: West 4 Coffee
+    city: Москва
+    site: https://west4.coffee
+    verified: true
+
+  - id: lebo
+    name: Lebo
+    city: Москва
+    site: https://pro.lebo.ru
+    verified: true
+
+  - id: qq
+    name: QQ Coffee
+    city: Москва
+    site: https://qqcoffee.ru
+    verified: true
+
+  - id: botanica
+    name: Botanica Coffee
+    city: Москва
+    site: https://botanicacoffee.ru
+    verified: true
+
+  - id: znak
+    name: Знак Кофе
+    city: Москва
+    site: https://znakcoffee.shop
+    verified: true
+
+  - id: bernin
+    name: Bernin
+    city: Москва
+    site: https://shop-bernin.ru
+    verified: true
+
   # ── Регионы ─────────────────────────────────────────────────────
   - id: bittersweet
     name: Bittersweet

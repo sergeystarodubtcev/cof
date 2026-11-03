@@ -15,7 +15,7 @@ jobs:
   scrape:
     if: github.event_name != 'push'
     runs-on: ubuntu-latest
-    timeout-minutes: 120
+    timeout-minutes: 170
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -23,7 +23,7 @@ jobs:
       - run: pip install -r requirements.txt
       - run: python tests/test_pipeline.py
       - name: Парсинг сайтов обжарщиков
-        run: python -m scraper.run 2>&1 | tee data/scrape.log
+        run: python -m scraper.run --workers 16 2>&1 | tee data/scrape.log
       - name: Сохранить данные в репозиторий
         if: always()
         run: |
