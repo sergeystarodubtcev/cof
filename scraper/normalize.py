@@ -180,7 +180,9 @@ NOT_COFFEE = re.compile(
     r"\bчай\b|\bчая\b|матча|какао-напит|шоколадн(?:ая|ый) плитк|капсул|дрип|drip|tea\b|mug|grinder|kettle|merch|gift card|"
     r"декантер|аэропресс|aeropress|v60|кемекс|chemex|холдер|питчер|темпер|бумаг|подписк|фильтр-пакет|фильтр пакет|экстракт|"
     r"в банках|банка |ассорти|худи|half-zip|свитшот|дождевик|шоппер|шапк|носки|значок|стикер|открытк|зонт|бутылк|стакан|"
-    r"набор для|комплект|концентрат|cold brew|колд брю)",
+    r"набор для|комплект|концентрат|cold brew|колд брю|благовон|комбуч|kombucha|брелок|зажигалк|bravilor|кофемашин|кофеварк|"
+    r"\bбокс\b|\bbox\b|discovery|\bset\b|сет из|\d+\s*мл\b|\d+\s*ml\b|лимонад|тоник|сироп|молоко|сливки|сахар|печенье|"
+    r"мерч|толстовк|кепк|термокруж|тамблер|гриндер|мельниц|чистящ|таблетк|cafiza|декальцин|растворим|instant)",
     re.I,
 )
 BLEND_RE = re.compile(r"(смесь|бленд|blend|эспрессо-смесь|купаж)", re.I)
@@ -188,7 +190,7 @@ DECAF_RE = re.compile(r"(декаф|без кофеина|decaf)", re.I)
 
 ALT_RE = re.compile(r"(\d{3,4})\s*(?:[-–—]\s*(\d{3,4}))?\s*(?:м|m|метр|masl|над)", re.I)
 SCA_RE = re.compile(r"(?:sca|q[- ]?grade|оценк[аи]|балл|score)[^\d]{0,12}(8\d(?:[.,]\d{1,2})?)", re.I)
-WEIGHT_RE = re.compile(r"(\d+(?:[.,]\d+)?)\s*(кг|kg|г|гр|g)\b", re.I)
+WEIGHT_RE = re.compile(r"(\d+(?:[.,]\d+)?)\s*(кг|килограмм\w*|kg|г|гр|грамм\w*|g|gr)(?![а-яa-z])", re.I)
 
 
 def fold(s: str) -> str:
@@ -272,7 +274,7 @@ def parse_weight_g(s: str) -> int | None:
     if not m:
         return None
     v = float(m.group(1).replace(",", "."))
-    g = v * 1000 if m.group(2).lower() in ("кг", "kg") else v
+    g = v * 1000 if m.group(2).lower().startswith(("кг", "кило", "kg")) else v
     return int(g) if 30 <= g <= 5000 else None
 
 

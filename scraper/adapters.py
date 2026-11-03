@@ -10,7 +10,9 @@ from __future__ import annotations
 
 import html as htmllib
 import json
+import os
 import re
+from pathlib import Path
 from urllib.parse import urljoin, urlparse
 
 from bs4 import BeautifulSoup
@@ -174,6 +176,10 @@ def tilda(site: str, pages: list[str]) -> list[dict] | None:
         api = (f"https://store.tildacdn.com/api/getproductslist/?storepartuid={part}"
                f"&recid={recid or 0}&c=1&getparts=true&getoptions=true&slice=1&size=500")
         data = http.get_json(api, headers={"Referer": site})
+        dump = os.environ.get("TILDA_DUMP")
+        if dump and data:
+            Path(dump).mkdir(parents=True, exist_ok=True)
+            (Path(dump) / f"{urlparse(site).netloc}_{part}.json").write_text(json.dumps(data, ensure_ascii=False)[:400000])
         for p in (data or {}).get("products", []):
             if p.get("uid") in seen:
                 continue
@@ -184,8 +190,15 @@ def tilda(site: str, pages: list[str]) -> list[dict] | None:
                 gallery = []
             variants = []
             for ed in p.get("editions", []) or []:
-                label = " ".join(str(v) for k, v in ed.items() if k not in ("uid", "price", "priceold", "sku", "quantity", "img"))
-                variants.append({"weight_g": parse_weight_g(label), "price": _price(ed.get("price")),
+                opts = {k: str(v) for k, v in ed.items() if k not in ("uid", "price", "priceold", "sku", "quantity", "img", "externalid")}
+                w = parse_weight_g(" ".join(opts.values()))
+                if not w:  # «Вес»: «250» — число без единиц
+                    for k, v in opts.items():
+                        if re.search(r"вес|фасовк|упаков|объ[её]м|weight|size|граммов", k, re.I) and re.fullmatch(r"\s*\d+(?:[.,]\d+)?\s*", v):
+                            x = float(v.replace(",", "."))
+                            w = int(x * 1000) if x <= 5 else int(x)
+                w = w or parse_weight_g(p.get("title", ""))
+                variants.append({"weight_g": w, "price": _price(ed.get("price")),
                                  "available": str(ed.get("quantity", "")) not in ("0",)})
             if not variants:
                 variants = [{"weight_g": parse_weight_g(p.get("title", "") + " " + (p.get("descr") or "")),

@@ -20,6 +20,9 @@ for r in roasters:
     out = ROOT / "data" / "samples" / r["id"]
     out.mkdir(parents=True, exist_ok=True)
     pages = [r["site"], *(r.get("catalog") or [])]
+    raw = ROOT / "data" / "raw" / f"{r['id']}.json"
+    if raw.exists():
+        pages += [i["url"] for i in json.loads(raw.read_text())["items"][:2]]
     home = http.get_text(r["site"]) or ""
     host = urlparse(r["site"]).netloc.replace("www.", "")
     links = []

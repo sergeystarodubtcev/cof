@@ -11,8 +11,9 @@ permissions:
 concurrency: {group: probe, cancel-in-progress: true}
 env:
   # перепрогон упавших: баг Tilda и сайты с нулём товаров
-  ONLY: "triptych,camera,silkydrum,fauno,bolshe,zerno,botanica,bittersweet,yankeesierra,roastberry,doubleb,hq,bernin,znak,notik,west4,kof,madheads"
-  SAMPLE: "roastberry,doubleb,hq,bernin,znak,notik,madheads,rockets"
+  ONLY: "triptych,camera,silkydrum,fauno,bolshe,zerno,botanica,bittersweet,yankeesierra,choose,lebo,stereo,qq,caffeinelab,tab,kofeop,roastberry,doubleb,hq,bernin,znak,notik,madheads"
+  SAMPLE: "tab,kofeop,qq,stereo,roastberry,doubleb,hq,bernin,znak,notik,madheads,rockets"
+  TILDA_DUMP: data/samples/tilda
   SCRAPE: "1"              # 0 = только диагностика и образцы страниц
 jobs:
   probe:

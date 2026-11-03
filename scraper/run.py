@@ -109,7 +109,8 @@ def to_product(roaster: dict, raw: dict) -> dict | None:
     variants, seen_v = [], set()
     for v in raw.get("variants", []):
         key = (v.get("weight_g"), v.get("price"))
-        if v.get("price") and key not in seen_v:
+        # пачка зерна дешевле 150 ₽ или дороже 30 000 ₽ — это служебная цена или оборудование
+        if v.get("price") and 150 <= v["price"] <= 30000 and key not in seen_v:
             seen_v.add(key)
             variants.append(v)
     if not variants:
@@ -153,7 +154,7 @@ def merge_history(products: list[dict], seen: dict, ts: datetime) -> list[dict]:
     return products
 
 
-def build(roasters: list[dict], statuses: dict[str, dict]) -> dict:
+def build(roasters: list[dict], statuses: dict[str, dict], log_changes: bool = True) -> dict:
     ts = now()
     previous = json.loads(CATALOG.read_text()) if CATALOG.exists() else None
     products = []
@@ -211,9 +212,10 @@ def build(roasters: list[dict], statuses: dict[str, dict]) -> dict:
               "removed": [{"id": i, "roaster": o["roaster"], "name": o["name"], "url": o["url"],
                            "reason": "нет в наличии" if i in oos_ids else "пропал с сайта"}
                           for i, o in prev_ids.items() if i not in cur_ids]}
-    log = json.loads(CHANGES.read_text()) if CHANGES.exists() else []
-    log = (log + [change])[-90:]
-    CHANGES.write_text(json.dumps(log, ensure_ascii=False, indent=1))
+    if log_changes:  # пересборка без сети (--offline) — не проверка наличия, в журнал не пишем
+        log = json.loads(CHANGES.read_text()) if CHANGES.exists() else []
+        log = (log + [change])[-90:]
+        CHANGES.write_text(json.dumps(log, ensure_ascii=False, indent=1))
     SEEN.write_text(json.dumps(seen, ensure_ascii=False, separators=(",", ":")))
     print(f"Изменения: +{len(change['added'])} добавлено, −{len(change['removed'])} удалено", flush=True)
     for p in products:
@@ -283,7 +285,7 @@ def main() -> None:
         with ThreadPoolExecutor(a.workers) as ex:
             for st in ex.map(scrape_one, todo):
                 statuses[st["id"]] = st
-    cat = build(roasters, statuses)
+    cat = build(roasters, statuses, log_changes=not a.offline)
     print(f"Готово: {cat['meta']['products']} товаров, {cat['meta']['lots_multi']} лотов есть у нескольких обжарщиков → {CATALOG}")
     if not any(r["ok"] or r["stale"] for r in cat["roasters"]):
         sys.exit("Ни один сайт не ответил — проверьте сетевой доступ.")
