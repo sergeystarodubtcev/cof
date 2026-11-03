@@ -110,7 +110,7 @@ def to_product(roaster: dict, raw: dict) -> dict | None:
     for v in raw.get("variants", []):
         key = (v.get("weight_g"), v.get("price"))
         # пачка зерна дешевле 150 ₽ или дороже 30 000 ₽ — это служебная цена или оборудование
-        if v.get("price") and 150 <= v["price"] <= 30000 and key not in seen_v:
+        if v.get("price") and 200 <= v["price"] <= 30000 and key not in seen_v:
             seen_v.add(key)
             variants.append(v)
     if not variants:
