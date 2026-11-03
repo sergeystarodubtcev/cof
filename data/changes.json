@@ -10063,5 +10063,460 @@
     "reason": "пропал с сайта"
    }
   ]
+ },
+ {
+  "at": "2026-11-03T08:27:26+00:00",
+  "added": [
+   {
+    "id": "210c3cf2f8b4",
+    "roaster": "caffeinelab",
+    "name": "Бразилия Суль-ди-Минас для эспрессо",
+    "url": "https://caffeinelab.ru/coffee/espresso/tproduct/834531917-226683665781-braziliya-sul-di-minas-dlya-espresso",
+    "back": true
+   },
+   {
+    "id": "7749bb110b31",
+    "roaster": "caffeinelab",
+    "name": "Гондурас SHG для эспрессо",
+    "url": "https://caffeinelab.ru/coffee/espresso/tproduct/834531917-154533572981-gonduras-shg-dlya-espresso",
+    "back": true
+   },
+   {
+    "id": "6dc001a09e94",
+    "roaster": "caffeinelab",
+    "name": "Эфиопия Лиму для фильтра",
+    "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-333396207571-efiopiya-limu-dlya-filtra",
+    "back": true
+   },
+   {
+    "id": "fd3cab82e673",
+    "roaster": "caffeinelab",
+    "name": "Кения АА под эспрессо",
+    "url": "https://caffeinelab.ru/coffee/espresso/tproduct/834531917-448947635282-keniya-aa-pod-espresso",
+    "back": true
+   },
+   {
+    "id": "3374767584ac",
+    "roaster": "caffeinelab",
+    "name": "Кения АА под фильтр",
+    "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-838372907062-keniya-aa-pod-filtr",
+    "back": true
+   },
+   {
+    "id": "67a122dc4d54",
+    "roaster": "caffeinelab",
+    "name": "Кофе Гватемала Декаф для эспрессо",
+    "url": "https://caffeinelab.ru/coffee/espresso/tproduct/834531917-594571871032-kofe-gvatemala-dekaf-dlya-espresso",
+    "back": true
+   },
+   {
+    "id": "51d892a015af",
+    "roaster": "caffeinelab",
+    "name": "Танзания ПБ Мбилиндино для фильтра",
+    "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-943358230082-tanzaniya-pb-mbilindino-dlya-filtra",
+    "back": true
+   },
+   {
+    "id": "2fcbb30fa313",
+    "roaster": "caffeinelab",
+    "name": "Кения АА Гитура под фильтр",
+    "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-153034318892-keniya-aa-gitura-pod-filtr",
+    "back": true
+   },
+   {
+    "id": "b9a880b2d67a",
+    "roaster": "caffeinelab",
+    "name": "Эфиопия Конга для фильтра",
+    "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-951607431183-efiopiya-konga-dlya-filtra",
+    "back": true
+   },
+   {
+    "id": "68219d1242c3",
+    "roaster": "caffeinelab",
+    "name": "Гватемала Эль Сокорро для фильтра",
+    "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-677435383003-gvatemala-el-sokorro-dlya-filtra",
+    "back": true
+   },
+   {
+    "id": "feab816280df",
+    "roaster": "caffeinelab",
+    "name": "Гватемала Эль Сокорро под эспрессо",
+    "url": "https://caffeinelab.ru/coffee/espresso/tproduct/834531917-592231843913-gvatemala-el-sokorro-pod-espresso",
+    "back": true
+   },
+   {
+    "id": "e8e19137e311",
+    "roaster": "caffeinelab",
+    "name": "Индонезия Керинчи для фильтра",
+    "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-853528956503-indoneziya-kerinchi-dlya-filtra",
+    "back": true
+   },
+   {
+    "id": "262d76e612b6",
+    "roaster": "caffeinelab",
+    "name": "Индонезия Керинчи для эспрессо",
+    "url": "https://caffeinelab.ru/coffee/espresso/tproduct/834531917-168722562243-indoneziya-kerinchi-dlya-espresso",
+    "back": true
+   },
+   {
+    "id": "356618fec3e1",
+    "roaster": "caffeinelab",
+    "name": "Колумбия Л7 Эль Вергель для фильтра",
+    "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-969754254203-kolumbiya-l7-el-vergel-dlya-filtra",
+    "back": true
+   },
+   {
+    "id": "a22c04601a73",
+    "roaster": "caffeinelab",
+    "name": "Колумбия Беллависта для фильтра",
+    "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-499251872573-kolumbiya-bellavista-dlya-filtra",
+    "back": true
+   },
+   {
+    "id": "fe258f6a20b3",
+    "roaster": "caffeinelab",
+    "name": "Эфиопия Лиму для эспрессо",
+    "url": "https://caffeinelab.ru/coffee/espresso/tproduct/834531917-711575715603-efiopiya-limu-dlya-espresso",
+    "back": true
+   },
+   {
+    "id": "8387d47f50eb",
+    "roaster": "caffeinelab",
+    "name": "Эфиопия Хамбела для эспрессо",
+    "url": "https://caffeinelab.ru/coffee/espresso/tproduct/834531917-986714335043-efiopiya-hambela-dlya-espresso",
+    "back": true
+   },
+   {
+    "id": "b87ac9638192",
+    "roaster": "caffeinelab",
+    "name": "Эфиопия Харо Сорса для фильтра",
+    "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-817995379553-efiopiya-haro-sorsa-dlya-filtra",
+    "back": true
+   },
+   {
+    "id": "7a01b3da1fa0",
+    "roaster": "caffeinelab",
+    "name": "Кения АА Нат. под фильтр",
+    "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-664578347343-keniya-aa-nat-pod-filtr",
+    "back": true
+   },
+   {
+    "id": "67a90cc405e0",
+    "roaster": "caffeinelab",
+    "name": "Колумбия Росадо для фильтра",
+    "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-462248467883-kolumbiya-rosado-dlya-filtra",
+    "back": true
+   },
+   {
+    "id": "02a08bb4233c",
+    "roaster": "caffeinelab",
+    "name": "Мексика Ки-Соя Декаф для эспрессо",
+    "url": "https://caffeinelab.ru/coffee/espresso/tproduct/834531917-824247650983-meksika-ki-soya-dekaf-dlya-espresso",
+    "back": true
+   },
+   {
+    "id": "faf98a6dc8b0",
+    "roaster": "caffeinelab",
+    "name": "Мексика Ки-Соя Декаф для фильтра",
+    "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-269681479273-meksika-ki-soya-dekaf-dlya-filtra",
+    "back": true
+   },
+   {
+    "id": "fffd4c3d80d1",
+    "roaster": "caffeinelab",
+    "name": "Гватемала Л2 Пампохила для фильтра",
+    "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-634568981873-gvatemala-l2-pampohila-dlya-filtra",
+    "back": true
+   },
+   {
+    "id": "21aa0501f650",
+    "roaster": "caffeinelab",
+    "name": "Кения АА Нат. под эспрессо",
+    "url": "https://caffeinelab.ru/coffee/espresso/tproduct/834531917-347692089183-keniya-aa-nat-pod-espresso",
+    "back": true
+   },
+   {
+    "id": "dd6a0101a482",
+    "roaster": "caffeinelab",
+    "name": "Йемен Удаини Химми",
+    "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-879324349813-iemen-udaini-himmi",
+    "back": true
+   },
+   {
+    "id": "91cfb2d931b4",
+    "roaster": "caffeinelab",
+    "name": "Кения АБ Каримикуи под фильтр",
+    "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-332729255863-keniya-ab-karimikui-pod-filtr",
+    "back": true
+   },
+   {
+    "id": "1c167b332715",
+    "roaster": "caffeinelab",
+    "name": "Эфиопия Сидамо",
+    "url": "https://caffeinelab.ru/tproduct/1-160938805611-efiopiya-sidamo",
+    "back": true
+   },
+   {
+    "id": "29db2671cb51",
+    "roaster": "caffeinelab",
+    "name": "Гондурас SHG для эспрессо",
+    "url": "https://caffeinelab.ru/order-opt-online/tproduct/346641889-873903533601-gonduras-shg-dlya-espresso",
+    "back": true
+   },
+   {
+    "id": "500b0c029f37",
+    "roaster": "caffeinelab",
+    "name": "Бразилия Суль-ди-Минас",
+    "url": "https://caffeinelab.ru/order-opt-online/tproduct/346641889-195164818401-braziliya-sul-di-minas",
+    "back": true
+   },
+   {
+    "id": "5ac230223de4",
+    "roaster": "caffeinelab",
+    "name": "Уганда Мвези",
+    "url": "https://caffeinelab.ru/order-opt-online/tproduct/346641889-671604103772-uganda-mvezi",
+    "back": true
+   },
+   {
+    "id": "bac6778a5cda",
+    "roaster": "caffeinelab",
+    "name": "Индонезия Керинчи для эспрессо",
+    "url": "https://caffeinelab.ru/order-opt-online/tproduct/346641889-149295230073-indoneziya-kerinchi-dlya-espresso",
+    "back": true
+   },
+   {
+    "id": "6fd2b4a2cd5a",
+    "roaster": "fauno",
+    "name": "Rwanda Nyamasheke",
+    "url": "https://fauno.coffee/catalog/rwanda-nyamasheke-washed",
+    "back": false
+   },
+   {
+    "id": "f391da0d66a1",
+    "roaster": "fauno",
+    "name": "Indonesia Jambi",
+    "url": "https://fauno.coffee/catalog/indonesia-jambi",
+    "back": false
+   },
+   {
+    "id": "21b6e6b232e5",
+    "roaster": "fauno",
+    "name": "Ethiopia Hambela",
+    "url": "https://fauno.coffee/catalog/ethiopia-hambela",
+    "back": false
+   },
+   {
+    "id": "0f4d4e323df4",
+    "roaster": "bolshe",
+    "name": "Бразилия Коликоли",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512384010-185577874171-braziliya-kolikoli",
+    "back": true
+   },
+   {
+    "id": "5a316333a238",
+    "roaster": "bolshe",
+    "name": "Эфиопия Дара",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512384010-711203908961-efiopiya-dara",
+    "back": true
+   },
+   {
+    "id": "0821623bfcf6",
+    "roaster": "bolshe",
+    "name": "тренинг по взбиванию молока",
+    "url": "https://bolshecoffee.ru/school_barista/tproduct/3217041001-721818223562-trening-po-vzbivaniyu-moloka",
+    "back": false
+   },
+   {
+    "id": "cadbbece3250",
+    "roaster": "bolshe",
+    "name": "тренинг по настройке эспрессо",
+    "url": "https://bolshecoffee.ru/school_barista/tproduct/3217041001-459459756772-trening-po-nastroike-espresso",
+    "back": false
+   },
+   {
+    "id": "99dbed965f2c",
+    "roaster": "bolshe",
+    "name": "тренинг по альтернативным способам заваривания кофе",
+    "url": "https://bolshecoffee.ru/school_barista/tproduct/3217041001-192934274302-trening-po-alternativnim-sposobam-zavari",
+    "back": false
+   },
+   {
+    "id": "7c4e6211d7a1",
+    "roaster": "bolshe",
+    "name": "Курс введение в мир кофе",
+    "url": "https://bolshecoffee.ru/school_barista/tproduct/3217104301-372438078122-kurs-vvedenie-v-mir-kofe",
+    "back": false
+   },
+   {
+    "id": "0c9acc15127a",
+    "roaster": "bolshe",
+    "name": "Америка Микс",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512429115-440270454312-amerika-miks",
+    "back": true
+   },
+   {
+    "id": "ebe5b8c57a72",
+    "roaster": "bolshe",
+    "name": "Азия Микс",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512429115-373557395262-aziya-miks",
+    "back": true
+   },
+   {
+    "id": "84ba6929868d",
+    "roaster": "bolshe",
+    "name": "Особый лот Колумбия Сидра",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512384010-142012696872-osobii-lot-kolumbiya-sidra",
+    "back": true
+   },
+   {
+    "id": "f00d819a2156",
+    "roaster": "bolshe",
+    "name": "Особый лот Перу гейша",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512384010-218659849252-osobii-lot-peru-geisha",
+    "back": true
+   },
+   {
+    "id": "a6648b560ef0",
+    "roaster": "bolshe",
+    "name": "Особый лот Колумбия Сидра",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512384010-726905513472-osobii-lot-kolumbiya-sidra",
+    "back": true
+   },
+   {
+    "id": "5b611090e44c",
+    "roaster": "bolshe",
+    "name": "Гватемала L&B декаф",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512384010-191094989232-gvatemala-lampb-dekaf",
+    "back": true
+   },
+   {
+    "id": "bc1d47551010",
+    "roaster": "bolshe",
+    "name": "Декаф",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512429115-750635329783-dekaf",
+    "back": true
+   },
+   {
+    "id": "e09d2af30bb9",
+    "roaster": "bolshe",
+    "name": "Черный плащ",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512429115-870236268243-chernii-plasch",
+    "back": true
+   },
+   {
+    "id": "7a9a5ccbe209",
+    "roaster": "bolshe",
+    "name": "Купи Слона",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512384010-144936497873-kupi-slona",
+    "back": true
+   },
+   {
+    "id": "df3219251b97",
+    "roaster": "bolshe",
+    "name": "Кения Кабингара",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512384010-818618395073-keniya-kabingara",
+    "back": true
+   },
+   {
+    "id": "7b8a8d8b5f6a",
+    "roaster": "bolshe",
+    "name": "Особый лот Эфиопия Демби",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512384010-560875416893-osobii-lot-efiopiya-dembi",
+    "back": true
+   },
+   {
+    "id": "992d81e9188c",
+    "roaster": "bolshe",
+    "name": "Особый лот Эфиопия Демби",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512384010-386826541173-osobii-lot-efiopiya-dembi",
+    "back": true
+   },
+   {
+    "id": "a02fe80b35e0",
+    "roaster": "bolshe",
+    "name": "Тренинг по сенсорному анализу",
+    "url": "https://bolshecoffee.ru/school_barista/tproduct/3217041001-959864107963-trening-po-sensornomu-analizu",
+    "back": false
+   },
+   {
+    "id": "5a49f123cc9d",
+    "roaster": "lebo",
+    "name": "Copy: Перу Кахамарка",
+    "url": "https://pro.lebo.ru/coffee/tproduct/339640869832-copy-peru-kahamarka",
+    "back": true
+   },
+   {
+    "id": "cd6eb8123840",
+    "roaster": "botanica",
+    "name": "Средство для чистки группы",
+    "url": "https://botanicacoffee.ru/tproduct/1-496058474264-sredstvo-dlya-chistki-gruppi",
+    "back": false
+   },
+   {
+    "id": "9e1e4acca9e8",
+    "roaster": "botanica",
+    "name": "Щетка для чистки группы",
+    "url": "https://botanicacoffee.ru/tproduct/1-828890659602-schetka-dlya-chistki-gruppi",
+    "back": false
+   },
+   {
+    "id": "0b01fa08d1ca",
+    "roaster": "botanica",
+    "name": "Слепой портафильтр",
+    "url": "https://botanicacoffee.ru/tproduct/1-197400617832-slepoi-portafiltr",
+    "back": false
+   },
+   {
+    "id": "c5d759e1a4cf",
+    "roaster": "botanica",
+    "name": "Средство для мойки мол. системы",
+    "url": "https://botanicacoffee.ru/tproduct/1-284698339291-sredstvo-dlya-moiki-mol-sistemi",
+    "back": false
+   },
+   {
+    "id": "55c4c8d1d045",
+    "roaster": "botanica",
+    "name": "Френч-пресс Timemore",
+    "url": "https://botanicacoffee.ru/tproduct/1-754685212001-french-press-timemore",
+    "back": false
+   },
+   {
+    "id": "cdf6e96a6039",
+    "roaster": "botanica",
+    "name": "Средство для чистки группы",
+    "url": "https://botanicacoffee.ru/shop/tproduct/231930079-496058474264-sredstvo-dlya-chistki-gruppi",
+    "back": false
+   },
+   {
+    "id": "36dece1b6d58",
+    "roaster": "botanica",
+    "name": "Щетка для чистки группы",
+    "url": "https://botanicacoffee.ru/shop/tproduct/231930079-828890659602-schetka-dlya-chistki-gruppi",
+    "back": false
+   },
+   {
+    "id": "4b53dc45f478",
+    "roaster": "botanica",
+    "name": "Слепой портафильтр",
+    "url": "https://botanicacoffee.ru/shop/tproduct/231930079-197400617832-slepoi-portafiltr",
+    "back": false
+   }
+  ],
+  "removed": [
+   {
+    "id": "6520a76b47e0",
+    "roaster": "stereo",
+    "name": "Овсяный напиток Coop Barista, 1л, Швеция",
+    "url": "https://stereo.coffee/shop/tproduct/574777211-689438650231-ovsyanii-napitok-coop-barista-1l-shvetsi",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "7cfbe21583a8",
+    "roaster": "stereo",
+    "name": "Овсяный напиток Oddlygood, Valio Barista, 1л, Финляндия",
+    "url": "https://stereo.coffee/shop/tproduct/574777211-717444519941-ovsyanii-napitok-oddlygood-valio-barista",
+    "reason": "пропал с сайта"
+   }
+  ]
  }
 ]

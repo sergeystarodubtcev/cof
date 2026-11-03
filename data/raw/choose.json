@@ -1,12 +1,12 @@
 {
  "status": {
   "id": "choose",
-  "platform": "tilda+generic",
+  "platform": "tilda",
   "items": 31,
-  "seconds": 64.3,
+  "seconds": 77.7,
   "ok": true,
   "error": null,
-  "at": "2026-11-03T07:15:40+00:00"
+  "at": "2026-11-03T07:53:40+00:00"
  },
  "items": [
   {

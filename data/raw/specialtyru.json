@@ -3,10 +3,10 @@
   "id": "specialtyru",
   "platform": "bitrix+generic",
   "items": 414,
-  "seconds": 1743.5,
+  "seconds": 2080.6,
   "ok": true,
   "error": null,
-  "at": "2026-11-03T07:43:13+00:00"
+  "at": "2026-11-03T08:25:35+00:00"
  },
  "items": [
   {
@@ -1644,7 +1644,7 @@
    "available": true,
    "variants": [
     {
-     "weight_g": 200,
+     "weight_g": 100,
      "price": 1490.0,
      "available": true
     }
@@ -1744,7 +1744,7 @@
    "available": true,
    "variants": [
     {
-     "weight_g": 100,
+     "weight_g": 200,
      "price": 1955.0,
      "available": true
     }
@@ -1764,7 +1764,7 @@
    "available": true,
    "variants": [
     {
-     "weight_g": 100,
+     "weight_g": 200,
      "price": 2535.0,
      "available": true
     }
@@ -1824,7 +1824,7 @@
    "available": true,
    "variants": [
     {
-     "weight_g": 100,
+     "weight_g": 200,
      "price": 1085.0,
      "available": true
     }
@@ -1904,7 +1904,7 @@
    "available": true,
    "variants": [
     {
-     "weight_g": 100,
+     "weight_g": 200,
      "price": 1000.0,
      "available": true
     }
@@ -1984,7 +1984,7 @@
    "available": true,
    "variants": [
     {
-     "weight_g": 100,
+     "weight_g": 200,
      "price": 1060.0,
      "available": true
     }
@@ -2004,7 +2004,7 @@
    "available": true,
    "variants": [
     {
-     "weight_g": 200,
+     "weight_g": 100,
      "price": 1015.0,
      "available": true
     }
@@ -2044,7 +2044,7 @@
    "available": true,
    "variants": [
     {
-     "weight_g": 100,
+     "weight_g": 200,
      "price": 1295.0,
      "available": true
     }
@@ -2084,7 +2084,7 @@
    "available": true,
    "variants": [
     {
-     "weight_g": 100,
+     "weight_g": 200,
      "price": 1405.0,
      "available": true
     }
@@ -2094,7 +2094,7 @@
    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-kolumbiya-uila-excelso/",
    "name": "Колумбия Уила Excelso",
    "description": "Описание\n Штат Уила расположен в южной части Колумбии, место, где Анды образуют «узел». Здесь три кордильеры разделены между западными, центральными и восточными Андами, которые поднимаются до северной Колумбии. Между восточной и центральной кордильерами протекает река Магдалена, поднимающаяся к Карибскому побережью. Между центральными и западными горными цепями Анд находится река Каука, впадающая в реку Магдалена на Карибских равнинах. Почва в этом районе вулканическая и поэтому идеально подходит для выращивания высококачественного кофе. Из-за географического положения вблизи экватора в Колумбии мало различий между разными сезонами.",
-   "image": "https://specialty.ru/upload/resize_cache/iblock/77b/300_400_1/emg73wv5u8em6souueb89mj6cif81lc4.png",
+   "image": "https://specialty.ru/upload/resize_cache/iblock/22a/300_400_1/p0cmwie61h76aid7f24y53frwvol5cfr.png",
    "category": "Specialty / Кофе обжаренный / Кофе в зёрнах и молотый",
    "specs": {
     "Обжарка": "Оборудование",
@@ -2324,7 +2324,7 @@
    "available": true,
    "variants": [
     {
-     "weight_g": 100,
+     "weight_g": 200,
      "price": 1275.0,
      "available": true
     }
@@ -2444,7 +2444,7 @@
    "available": true,
    "variants": [
     {
-     "weight_g": 100,
+     "weight_g": 200,
      "price": 690.0,
      "available": true
     }
@@ -2884,7 +2884,7 @@
    "available": true,
    "variants": [
     {
-     "weight_g": 100,
+     "weight_g": 200,
      "price": 730.0,
      "available": true
     }
@@ -2904,7 +2904,7 @@
    "available": true,
    "variants": [
     {
-     "weight_g": 200,
+     "weight_g": 100,
      "price": 795.0,
      "available": true
     }
@@ -3404,7 +3404,7 @@
    "available": true,
    "variants": [
     {
-     "weight_g": 200,
+     "weight_g": 100,
      "price": 1470.0,
      "available": true
     }
@@ -3904,7 +3904,7 @@
    "available": true,
    "variants": [
     {
-     "weight_g": 200,
+     "weight_g": 100,
      "price": 970.0,
      "available": true
     }
@@ -3984,7 +3984,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": 100,
+     "weight_g": 250,
      "price": 1225.0,
      "available": false
     }
@@ -4261,7 +4261,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": 200,
+     "weight_g": 100,
      "price": 990.0,
      "available": false
     }
@@ -4321,7 +4321,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": 200,
+     "weight_g": 100,
      "price": 1450.0,
      "available": false
     }
@@ -4359,7 +4359,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": 200,
+     "weight_g": 100,
      "price": 1080.0,
      "available": false
     }
@@ -4421,7 +4421,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": 100,
+     "weight_g": 200,
      "price": 1255.0,
      "available": false
     }
@@ -4480,7 +4480,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": 200,
+     "weight_g": 100,
      "price": 885.0,
      "available": false
     }
@@ -4500,7 +4500,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": 100,
+     "weight_g": 200,
      "price": 900.0,
      "available": false
     }
@@ -4520,7 +4520,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": 100,
+     "weight_g": 250,
      "price": 625.0,
      "available": false
     }
@@ -4560,7 +4560,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": 100,
+     "weight_g": 200,
      "price": 890.0,
      "available": false
     }
@@ -4716,7 +4716,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": 100,
+     "weight_g": 200,
      "price": 1350.0,
      "available": false
     }
