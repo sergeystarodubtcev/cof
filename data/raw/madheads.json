@@ -1,0 +1,1312 @@
+{
+ "status": {
+  "id": "madheads",
+  "platform": "generic",
+  "items": 2,
+  "seconds": 19.2,
+  "ok": true,
+  "error": null,
+  "at": "2026-11-03T06:07:55+00:00"
+ },
+ "items": [
+  {
+   "url": "https://madheadscoffee.com",
+   "name": "Turaco",
+   "description": "Stay Mad Respect Quality",
+   "image": "https://madheads/img/facebook-preview-madheads.jpg",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 394.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 561.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 436.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 471.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 516.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 621.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 424.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 404.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 446.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 484.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 534.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 734.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 831.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 836.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 959.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 604.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 556.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 421.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 386.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 429.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 484.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 554.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 504.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 574.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 519.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 519.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 556.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 504.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 496.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 809.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 604.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 626.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 394.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 539.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 426.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 439.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 766.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 404.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 414.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 719.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 719.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 464.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 531.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 456.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 424.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 620.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 450.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 450.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 450.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 450.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 450.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 450.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 450.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 450.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 450.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 450.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 450.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 450.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 300.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 300.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 300.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2850.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2350.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2350.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2850.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2350.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2350.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2850.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2850.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2350.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2850.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2850.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2350.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2850.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2850.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2350.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2150.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2150.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1750.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1750.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2150.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1750.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1750.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2150.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2150.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1750.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2150.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2150.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1750.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2150.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2150.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1750.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 4500.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 4500.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2950.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2450.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2450.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2550.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2450.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2950.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2950.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2950.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2150.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2150.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2150.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2150.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2150.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1850.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1850.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2350.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1850.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1850.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1850.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1850.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1850.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2350.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1850.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1850.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1850.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2350.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1850.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2350.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1850.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1850.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2100.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 220.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 4050.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 4050.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 4050.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2800.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2800.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2800.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2600.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 4000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 660.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2450.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2450.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2550.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 4050.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2450.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1850.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 660.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3950.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3950.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3950.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2200.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2950.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2950.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2950.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2450.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2450.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2950.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 850.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 850.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 220.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 220.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1350.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2950.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2150.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2950.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 230.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 220.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 660.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 660.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 660.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2450.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2950.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 650.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 220.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 400.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1270.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 304.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1547.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1209.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 449.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2395.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1328.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 293.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 14106.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 339.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2789.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 950.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 5120.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 421.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 9070.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 179.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 447.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1053.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1598.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 8475.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 368.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 277.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 349.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1216.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 219.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 439.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 539.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2163.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1920.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2000.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 5000.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/catalog/",
+   "name": "Guji Hambella Gr.2",
+   "description": "Stay Mad Respect Quality",
+   "image": "https://madheads/img/facebook-preview-madheads.jpg",
+   "category": "Головна / Головна / Категорії / Категорії",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 436.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 561.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 471.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 516.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 621.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 450.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 450.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 424.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 404.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1209.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 620.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 450.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2850.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2350.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2350.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2850.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2350.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2350.0,
+     "available": true
+    }
+   ]
+  }
+ ]
+}

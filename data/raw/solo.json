@@ -1,0 +1,748 @@
+{
+ "status": {
+  "id": "solo",
+  "platform": "woocommerce",
+  "items": 49,
+  "seconds": 3.0,
+  "ok": true,
+  "error": null,
+  "at": "2026-11-03T06:07:38+00:00"
+ },
+ "items": [
+  {
+   "url": "https://solocoffee.ru/product/blend-arabica-1kg/",
+   "name": "Бленд АРАБИКА",
+   "description": "Чистая, сладкая и сбалансированная чашка с нотами сухофруктов, фундука, молочного шоколада и тростникового сахара.",
+   "category": "Свежеобжаренный кофе Кофе зерновой Кофе молотый",
+   "image": "https://solocoffee.ru/wp-content/uploads/2026/06/blend_arabica_1kg.png",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1360.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://solocoffee.ru/product/braziliya-cantos/",
+   "name": "Бразилия Cантос",
+   "description": "Чистая, сладкая и сбалансированная чашка с нотами сухофруктов, фундука, молочного шоколада и тростникового сахара.",
+   "category": "Свежеобжаренный кофе Кофе зерновой Кофе молотый",
+   "image": "https://solocoffee.ru/wp-content/uploads/2025/02/santos-1kg.png",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1460.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://solocoffee.ru/product/blend-012/",
+   "name": "Бленд 012",
+   "description": "Бленд 012 — Венесуэла 50%/Эфиопия 50%",
+   "category": "Свежеобжаренный кофе Кофе зерновой Кофе молотый",
+   "image": "https://solocoffee.ru/wp-content/uploads/2026/07/blend_012.png",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1675.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://solocoffee.ru/product/blend-011/",
+   "name": "Бленд 011",
+   "description": "Бленд 011 — чайный, читаемый, со средней кислотностью. Сбалансированный бленд с фруктовым букетом. Подходит как для молока, так и для эспрессо.\nБразилия 70%/Эфиопия Иргачиф 30%",
+   "category": "Свежеобжаренный кофе Кофе зерновой Кофе молотый",
+   "image": "https://solocoffee.ru/wp-content/uploads/2026/07/blend_011.png",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1589.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://solocoffee.ru/product/blend-010/",
+   "name": "Бленд 010",
+   "description": "Бленд 010 —  смесь арабики из Колумбии и Бразилии в соотношении 50/50. Ноты фундука, шоколада, грейпфрута и красного вина. Чашка яркая, имеет длительное послевкусие.",
+   "category": "Свежеобжаренный кофе Кофе зерновой Кофе молотый",
+   "image": "https://solocoffee.ru/wp-content/uploads/2026/07/blend_010.png",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1500.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://solocoffee.ru/product/rwanda-butembo/",
+   "name": "Руанда Бутембо",
+   "description": "Руанда Бутембо из Нямашике — мытый красный бурбон с высоты 1520–1740 м, Q-рейтинг 86.25. Мытая обработка раскрывает чистоту зерна и подчёркивает его природный профиль. В чашке — тёплая карамель, сочная шелковица с ягодной кислинкой, характерная нота вишнёвой косточки и послевкусие чёрного чая.",
+   "category": "Свежеобжаренный кофе Кофе зерновой Кофе молотый",
+   "image": "https://solocoffee.ru/wp-content/uploads/2026/07/rwanda_butembo-1.png",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2180.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://solocoffee.ru/product/blend-001/",
+   "name": "Бленд 001",
+   "description": "Бленд 001 — это сбалансированная смесь, нашей собственной разработки. Этот бленд берет все лучшее от обоих видов кофе: от робусты — крепость, плотность тела, приятную терпкость, а от арабики — кислотность, обилие вкусовых нот и мягкость.\nВо вкусе нотки горького шоколада, грецкого ореха и цветочная кислотность.",
+   "category": "Свежеобжаренный кофе Кофе зерновой Кофе молотый",
+   "image": "https://solocoffee.ru/wp-content/uploads/2025/01/135-800x800-1.webp",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1274.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://solocoffee.ru/product/blend-002/",
+   "name": "Бленд 002",
+   "description": "Во вкусе нотки какао, горького шоколада, лесных орехов с терпкостью",
+   "category": "Свежеобжаренный кофе Кофе зерновой Кофе молотый",
+   "image": "https://solocoffee.ru/wp-content/uploads/2025/02/002-1kg.png",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1163.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://solocoffee.ru/product/vetnam/",
+   "name": "Вьетнам",
+   "description": "Кофе с выраженной горчинкой, с землистыми нотами и нотами какао",
+   "category": "Свежеобжаренный кофе Кофе зерновой Кофе молотый",
+   "image": "https://solocoffee.ru/wp-content/uploads/2025/02/vietnam-1kg.png",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1088.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://solocoffee.ru/product/uganda-robusta/",
+   "name": "Уганда Робуста",
+   "description": "Во вкусе нотки шоколада, орехов солода и чернослива",
+   "category": "Свежеобжаренный кофе Кофе зерновой Кофе молотый",
+   "image": "https://solocoffee.ru/wp-content/uploads/2025/02/uganda-robusta-1kg.png",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1183.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://solocoffee.ru/product/braziliya-modzhiana/",
+   "name": "Бразилия Моджиана",
+   "description": "Сбалансированный и очень сладкий кофе с нотами фундука, грецкихорехов, тростникового сахара и сухофруктов.",
+   "category": "Свежеобжаренный кофе Кофе зерновой Кофе молотый",
+   "image": "https://solocoffee.ru/wp-content/uploads/2025/02/modzhiana-1kg.png",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1663.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://solocoffee.ru/product/gvatemala/",
+   "name": "Гватемала",
+   "description": "Гватемальская 100% арабика — мягкий, нежный, но при этом насыщенный сорт кофейных зерен. Густая пенка, аромат темного фундука и какао. Попробуйте приготовить во френч-прессе на молоке — в латте макиато вкус зерен раскрывается особым образом.",
+   "category": "Свежеобжаренный кофе Кофе зерновой Кофе молотый",
+   "image": "https://solocoffee.ru/wp-content/uploads/2025/02/guatemala-1kg.png",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1979.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://solocoffee.ru/product/mexica/",
+   "name": "Мексика",
+   "description": "Мягкий кофе с хорошей сладостью, с нотами лимона, зеленого яблока и сухофруктов.",
+   "category": "Свежеобжаренный кофе Кофе зерновой Кофе молотый",
+   "image": "https://solocoffee.ru/wp-content/uploads/2026/07/mexica_1kg.png",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1750.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://solocoffee.ru/product/gonduras/",
+   "name": "Гондурас",
+   "description": "Чистый кофе с яркой кислотностью с нотами вишни и черного чая, впослевкусии темный шоколад и миндаль, тело чайное округлое гладкое.",
+   "category": "Свежеобжаренный кофе Кофе зерновой Кофе молотый",
+   "image": "https://solocoffee.ru/wp-content/uploads/2025/02/honduras-1kg.png",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1504.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://solocoffee.ru/product/keniya-aa/",
+   "name": "Кения АА",
+   "description": "Кофе с прекрасной, сочной, игристой кислотностью, округлым бархатистым телом. В аромате ягоды черной смородины, сливы, какао. Во вкусе красная и черная смородина, слива.",
+   "category": "Свежеобжаренный кофе Кофе зерновой Кофе молотый",
+   "image": "https://solocoffee.ru/wp-content/uploads/2025/02/kenya-1kg.png",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1733.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://solocoffee.ru/product/kolumbiya-supremo/",
+   "name": "Колумбия Супремо",
+   "description": "Сладкий, чистый кофе с хорошей кислотностью, нотками тёмных ягод, тёмного шоколада и сухофруктов.",
+   "category": "Свежеобжаренный кофе Кофе зерновой Кофе молотый",
+   "image": "https://solocoffee.ru/wp-content/uploads/2025/02/supremo-1kg.png",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1756.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://solocoffee.ru/product/kolumbiya-ekselso-dekaf/",
+   "name": "Колумбия Эксельсо ДЕКАФ",
+   "description": "Кофе с плотным, округлым телом и нотками вяленого банана, тёмного шоколада, табака и чернослива.",
+   "category": "Свежеобжаренный кофе Кофе зерновой Кофе молотый",
+   "image": "https://solocoffee.ru/wp-content/uploads/2025/02/decaf-1kg.png",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1960.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://solocoffee.ru/product/kosta-rika/",
+   "name": "Коста-Рика",
+   "description": "Кофе с фруктовой кислотностью, с нотками инжира, банана и сухофруктов",
+   "category": "Свежеобжаренный кофе Кофе зерновой Кофе молотый",
+   "image": "https://solocoffee.ru/wp-content/uploads/2025/02/costa-rica-1kg.png",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1796.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://solocoffee.ru/product/nikaragua-shg/",
+   "name": "Никарагуа",
+   "description": "Сладкий, чистый кофе с ароматом апельсиновой корки, белого изюма, карамели, комплексной среднего уровня кислотностью, нотами сушёного яблока, лимона, орехов и шоколада",
+   "category": "Свежеобжаренный кофе Кофе зерновой Кофе молотый",
+   "image": "https://solocoffee.ru/wp-content/uploads/2025/02/nicaragua-1kg.png",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1776.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://solocoffee.ru/product/nikaragua-maragodzhip/",
+   "name": "Никарагуа Марагоджип",
+   "description": "Очень сладкий кофе с ароматом чёрного чая, граната, красных ягод, яркой, комплексной кислотностью, сочным, округлым, гладким телом, нотами чёрного байхового чая, красной смородины, граната и карамели.",
+   "category": "Свежеобжаренный кофе Кофе зерновой Кофе молотый",
+   "image": "https://solocoffee.ru/wp-content/uploads/2025/02/mara-1kg.png",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2315.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://solocoffee.ru/product/peru/",
+   "name": "Перу",
+   "description": "Кофе с сочной кислотностью, плотным, округлым телом и нотками чёрной смородины, чёрного чая, сушёных тёмных ягод и специй.",
+   "category": "Свежеобжаренный кофе Кофе зерновой Кофе молотый",
+   "image": "https://solocoffee.ru/wp-content/uploads/2025/02/peru-1kg.png",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1601.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://solocoffee.ru/product/tanzaniya-aa/",
+   "name": "Танзания АА",
+   "description": "Кофейные зерна 100% арабики из Танзании впитали в себя все солнце африканской страны. Это раскрывается в нотах красных ягод, чёрного чая, лимона и темного шоколада с послевкусием пряностей и красной сливы. Можно заваривать в чашке, рожковой кофеварке или турке.",
+   "category": "Свежеобжаренный кофе Кофе зерновой Кофе молотый",
+   "image": "https://solocoffee.ru/wp-content/uploads/2025/02/tanzania-1kg.png",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1822.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://solocoffee.ru/product/efiopiya-irgachif/",
+   "name": "Эфиопия Иргачиф",
+   "description": "Сильный цветочный аромат с нотками вишни, черной смородины, лесных ягод и цитрусовых. Вкус с нотами бергамота и кислотностью спелого лимона.",
+   "category": "Свежеобжаренный кофе Кофе зерновой Кофе молотый",
+   "image": "https://solocoffee.ru/wp-content/uploads/2025/02/irgachiff-1-kg.png",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1890.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://solocoffee.ru/product/efiopiya-sidamo/",
+   "name": "Эфиопия Сидамо",
+   "description": "Яркий кофе с высокой сладостью и плотным телом, с нотами черного чая, мускатного ореха, абрикоса и легкой землистостью.",
+   "category": "Свежеобжаренный кофе Кофе зерновой Кофе молотый",
+   "image": "https://solocoffee.ru/wp-content/uploads/2025/02/sidamo-1kg.png",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1814.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://solocoffee.ru/product/aromatizirovannyj-kofe-amaretto/",
+   "name": "Ароматизированный кофе Амаретто",
+   "description": "Ароматный кофе со вкусом темного шоколада и итальянского ликера «Амаретто». В послевкусии — сладкий миндаль.",
+   "category": "Свежеобжаренный кофе Кофе ароматизированный Кофе зерновой Кофе молотый",
+   "image": "https://solocoffee.ru/wp-content/uploads/2025/03/zerno-800x800-1-1.webp",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1565.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://solocoffee.ru/product/aromatizirovannyj-kofe-bavarskij-shokolad/",
+   "name": "Ароматизированный кофе Баварский Шоколад",
+   "description": "Ароматный кофе со вкусом темного шоколада и итальянского ликера «Амаретто». В послевкусии — сладкий миндаль.",
+   "category": "Свежеобжаренный кофе Кофе ароматизированный Кофе зерновой Кофе молотый",
+   "image": "https://solocoffee.ru/wp-content/uploads/2025/03/shokolad-zerno-800x800-1-1.webp",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1565.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://solocoffee.ru/product/aromatizirovannyj-kofe-irlandskij-krem/",
+   "name": "Ароматизированный кофе Ирландский крем",
+   "description": "Терпкий кофе со вкусом ирландского виски и крема из свежих сливок. В послевкусии — карамельные и ореховые ноты.",
+   "category": "Свежеобжаренный кофе Кофе ароматизированный Кофе зерновой Кофе молотый",
+   "image": "https://solocoffee.ru/wp-content/uploads/2025/03/krem-zerno-800x800-1.webp",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1565.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://solocoffee.ru/product/aromatizirovannyj-kofe-karamel/",
+   "name": "Ароматизированный кофе Карамель",
+   "description": "Прекрасный аромат карамели в сочетании с нежным, мягким, с легкой молочной ноткой вкусом.",
+   "category": "Свежеобжаренный кофе Кофе ароматизированный Кофе зерновой Кофе молотый",
+   "image": "https://solocoffee.ru/wp-content/uploads/2025/03/karamel-zerno-800x800-1-1.webp",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1565.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://solocoffee.ru/product/aromatizirovannyj-kofe-siczilijskij-apelsin/",
+   "name": "Ароматизированный кофе Сицилийский апельсин",
+   "description": "Свежеобжаренный натуральный зерновой кофе с ярким цитрусовым вкусом и ароматом Сицилийского красного апельсина.",
+   "category": "Свежеобжаренный кофе Кофе ароматизированный Кофе зерновой Кофе молотый",
+   "image": "https://solocoffee.ru/wp-content/uploads/2025/03/apelsin-zerno-800x800-1-1.webp",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1565.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://solocoffee.ru/product/aromatizirovannyj-kofe-franczuzskaya-vanil/",
+   "name": "Ароматизированный кофе Французская ваниль",
+   "description": "Изысканный кофе из свежеобжаренной арабики с присущими ей шоколадными и фруктовыми тонами идеально оттенен чарующим ванильным ароматом.",
+   "category": "Свежеобжаренный кофе Кофе ароматизированный Кофе зерновой Кофе молотый",
+   "image": "https://solocoffee.ru/wp-content/uploads/2025/03/vanil-zerno-800x800-1-1.webp",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1565.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://solocoffee.ru/product/indiya-musonnyj-malabar/",
+   "name": "Индия Мусонный Малабар",
+   "description": "Во вкусе — специи, нотки хлеба и небольшая свежесть, возникающая за счет минимальной кислинки.",
+   "category": "Свежеобжаренный кофе Кофе зерновой Кофе молотый",
+   "image": "https://solocoffee.ru/wp-content/uploads/2025/01/malabar_1kg_zerno1.png",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1933.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://solocoffee.ru/product/drip-kofe-solo-coffee-blend001-molotyj-kofe-v-drip-paketah-6sht13gr-kopirovat-kopirovat/",
+   "name": "Дрип кофе Solo Coffee Бленд 001 (Молотый кофе в дрип-пакетах) 6шт*13гр",
+   "description": "Дрип кофе Solo Coffee  Бленд 001 (Молотый кофе в дрип-пакетах) 6шт*13гр",
+   "category": "Свежеобжаренный кофе",
+   "image": "https://solocoffee.ru/wp-content/uploads/2025/01/dripi_korobka.png",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 305.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://solocoffee.ru/product/drip-kofe-solo-coffee-columbia-supremo-molotyj-kofe-v-drip-paketah-6sht13gr-kopirovat/",
+   "name": "Дрип кофе Solo Coffee Колумбия Супремо (Молотый кофе в дрип-пакетах) 6шт*13гр",
+   "description": "Дрип кофе Solo Coffee  Колумбия Супремо (Молотый кофе в дрип-пакетах) 6шт*13гр",
+   "category": "Свежеобжаренный кофе",
+   "image": "https://solocoffee.ru/wp-content/uploads/2025/01/dripi_korobka.png",
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 305.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://solocoffee.ru/product/molochnyj-topping-pemium-solo-1-kg/",
+   "name": "Молочный топпинг ПРЕМИУМ SOLO 1 кг",
+   "description": "Топпинг гранулированный Solo, 1 кг. Растворимый напиток. Является завершающей нотой кофейного напитка: добавляет ему нотку молочного вкуса, делает кофе более жирным, однородным, смягчает его вкус. Особенно подходит для сублимированного кофе. Дозировка: 8 гр. на 150 мл воды. Обладает превосходной сыпучестью, низкой гигроскопичностью, высокой растворяемостью.",
+   "category": "Орехи и добавки Сопутствующие товары",
+   "image": "https://solocoffee.ru/wp-content/uploads/2025/01/topping_solo.png",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 1000,
+     "price": 702.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://solocoffee.ru/product/arahis-solo-nuts-s-vasabi/",
+   "name": "Арахис SOLO NUTS С ВАСАБИ",
+   "description": "Арахис SOLO NUTS С ВАСАБИ 50гр 60шт/уп [64]",
+   "category": "Орехи и добавки Другое Сопутствующие товары",
+   "image": "https://solocoffee.ru/wp-content/uploads/2025/03/arahis_vasabi.png",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2590.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://solocoffee.ru/product/konfety-zhelejnye-fruktovye-zubki-80gr/",
+   "name": "Конфеты желейные ФРУКТОВЫЕ ЗУБКИ 80гр",
+   "description": "Количество в упаковке — 60шт",
+   "category": "Другое Сопутствующие товары",
+   "image": "https://solocoffee.ru/wp-content/uploads/2026/07/zubki.png",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 80,
+     "price": 2590.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://solocoffee.ru/product/arahis-solo-nuts-s-solyu/",
+   "name": "Арахис SOLO NUTS С СОЛЬЮ",
+   "description": "Отборные ядра жареного арахиса с солью — отличный вариант перекуса, который можно взять с собой на работу, на учебу или в дорогу. Вкусные и питательные бобы являются ценнейшим источником белка, аминокислот, различных витаминов и минералов. И, конечно, хрустящий жареный арахис имеет очень приятный ореховый вкус, который становится еще более выразительным за счет добавления небольшого количества соли.",
+   "category": "Орехи и добавки Другое Сопутствующие товары",
+   "image": "https://solocoffee.ru/wp-content/uploads/2025/03/arahis_sol-1.png",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2590.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://solocoffee.ru/product/svezheobzharennyj-kofe-dlya-ofisa-braziliya-cantos/",
+   "name": "Свежеобжаренный кофе для офиса Бразилия Cантос",
+   "description": "Свежеобжаренный кофе для офиса Бразилия Cантос отличается ярким ароматом какао, ощутимым сразу после вскрытия упаковки. Вкус представлен нотами горького шоколада, к которым присоединяются карамельные полутона, придающие напитку округлость и приятную сладость. Завершает композицию послевкусие с выраженными ореховыми акцентами.\nНасыщенная плотная арабика без кислотности Бразилия Сантос идеально подходит для офисных кофемашин автоматического и полуавтоматического типа. Зерно свежей обжарки дает хорошую экстракцию, поэтому напиток получается крепким и ароматным при любом способе приготовления.",
+   "category": "",
+   "image": "https://solocoffee.ru/wp-content/uploads/2025/02/santos-1kg.png",
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1460.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://solocoffee.ru/product/svezheobzharennyj-kofe-dlya-ofisa-blend-001/",
+   "name": "Свежеобжаренный кофе для офиса Бленд 001",
+   "description": "Свежеобжаренный кофе для офиса Бленд 001 – это насыщенная смесь из бразильской арабики высшей категории и отборной индийской робусты. Купаж обеспечивает стабильное качества любого готового напитка – будь то эспрессо, американо или напитки на основе молока.\nВкус кофе насыщенный, сладковатый, с нотами темного шоколада, орехов и сухофруктов. Сбалансированная горчинка фундука и какао не переходит в терпкость, а легкая цветочная кислинка ощущается, главным образом, на остывании чашки.",
+   "category": "",
+   "image": "https://solocoffee.ru/wp-content/uploads/2025/01/135-800x800-1.webp",
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1274.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://solocoffee.ru/product/svezheobzharennyj-kofe-dlya-vendingovyh-apparatov-braziliya-cantos/",
+   "name": "Свежеобжаренный кофе для вендинговых аппаратов Бразилия Cантос",
+   "description": "Свежеобжаренный кофе для вендинговых аппаратов Бразилия Cантос имеет плотный многогранный вкус с выраженными орехово-шоколадными тонами. В ароматическом букете доминируют ноты жареного фундука и пудры какао, дополненные легким карамельным оттенком. Послевкусие напоминает шоколадную пасту.\n100% арабика Бразилия Сантос сохраняет стабильность вкусового профиля даже на низких температурах. При остывании напиток не приобретает излишней кислотности или горечи, оставаясь сбалансированным от первого до последнего глотка.",
+   "category": "",
+   "image": "https://solocoffee.ru/wp-content/uploads/2025/02/santos-1kg.png",
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1460.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://solocoffee.ru/product/svezheobzharennyj-kofe-dlya-vendingovyh-apparatov-blend-001/",
+   "name": "Свежеобжаренный кофе для вендинговых аппаратов Бленд 001",
+   "description": "Свежеобжаренный кофе для вендинговых аппаратов Бленд 001 – это премиальный купаж для требовательной аудитории. Данная кофейная смесь разработана экспертами SOLO COFFEE как образцовая композиция, сочетающая универсальность применения и стабильность вкусовых характеристик.\nНапиток, приготовленный из Бленда 001, имеет плотное, обволакивающее тело с продолжительным послевкусием. В ароматической композиции ощутимы глубокие тона карамели, дополненные оттенками лесного ореха и темного шоколада. Вкус с преобладанием оттенков жареного ореха и пекана дополнен элегантной шоколадной горчинкой с кремовой текстурой.",
+   "category": "",
+   "image": "https://solocoffee.ru/wp-content/uploads/2025/01/135-800x800-1.webp",
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1274.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://solocoffee.ru/product/svezheobzharennyj-kofe-dlya-torgovyh-avtomatov-braziliya-cantos/",
+   "name": "Свежеобжаренный кофе для торговых автоматов Бразилия Cантос",
+   "description": "Свежеобжаренный кофе для торговых автоматов Бразилия Cантос —отборная арабика с эталонным шоколадно-ореховым профилем. Ее выбирают за сбалансированный вкус с низкой кислотностью, с нотами жареного фундука, какао и карамели.\nПлотное сиропистое тело и насыщенное послевкусие лесного ореха на шоколадной базе делают арабику Бразилия Сантос идеальной основой для латте и капучино — самых популярных напитков в вендинге.",
+   "category": "",
+   "image": "https://solocoffee.ru/wp-content/uploads/2025/02/santos-1kg.png",
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1460.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://solocoffee.ru/product/svezheobzharennyj-kofe-dlya-torgovyh-avtomatov-blend-001/",
+   "name": "Свежеобжаренный кофе для торговых автоматов Бленд 001",
+   "description": "Свежеобжаренный кофе для торговых автоматов Бленд 001 обладает насыщенным и сбалансированным вкусом с нотами пудры какао, карамельной нуги и жареного лесного ореха.\nСредне-темная обжарка Medium-Dark гарантирует минимальную кислотность и отсутствие выраженной горечи даже в двойном эспрессо.\nОрганолептический профиль кофе раскрывается в два этапа: сначала во вкусе доминирует темный шоколад, а затем проявляются терпкие ноты фундука, оттененные сладостью карамели.",
+   "category": "",
+   "image": "https://solocoffee.ru/wp-content/uploads/2025/01/135-800x800-1.webp",
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1274.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://solocoffee.ru/product/svezheobzharennyj-kofe-horeka-horeca-v-zernah-braziliya-cantos/",
+   "name": "Свежеобжаренный кофе ХОРЕКА (HoReCa) в зернах Бразилия Cантос",
+   "description": "Свежеобжаренный кофе ХОРЕКА (HoReCa) в зернах Бразилия Cантос — эталон классического бразильского профиля. Моносорт, который ценят за предсказуемость, плотность и щедрый вкус без излишней кислотности.\n100% арабике Бразилия Сантос присущ идеальный баланс между сладостью карамели, терпкими ореховыми нотами и горчинкой темного шоколада. Благодаря сбалансированному вкусу и отсутствию выраженной кислотности данный сорт идеально подходит для сегмента HoReCa, поскольку нравится всем гостям.",
+   "category": "",
+   "image": "https://solocoffee.ru/wp-content/uploads/2025/02/santos-1kg.png",
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1460.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://solocoffee.ru/product/svezheobzharennyj-kofe-horeka-horeca-v-zernah-blend-001/",
+   "name": "Свежеобжаренный кофе ХОРЕКА (HoReCa) в зернах Бленд 001",
+   "description": "Почему стоит купить свежеобжаренный кофе ХОРЕКА (HoReCa) в зернах Бленд 001:\nСтабильность при любом оборудовании\n. Смесь безупречно раскрывается и в эспрессо-машинах, и в рожковых кофеварках, и в автоматических вендинговых аппаратах, и даже при альтернативных методах приготовления. Вы застрахованы от сюрпризов при смене оборудования или настройке помола.\nПлотная текстура и высокая степень экстракции\n. Густое бархатистое тело — визитная карточка Бленда 001. Кофе дает красивую золотистую пенку (крему) и стабильный выход порции без проливов или невнятности во вкусе.\nМаржинальность без компромиссов\n. Цена данного бленда позволяет устанавливать комфортную стоимость чашки. Плотный вкус не требует увеличения закладки, а стабильность результата минимизирует процент брака и пересортицы.\nИдеальная смесь для высоких оборотов\n. Ваша кофейня пользуется спросом, поэтому бариста готовит чашку за чашкой? Никаких проблем. Бленд 001 (свежее зерно в средне-темной обжарке) выдерживает интенсивную нагрузку, не теряя аромата и насыщенности к концу смены. Это идеальный кофе не только для утреннего прайм-тайма, но и для беспрерывной работы в течение всего дня.",
+   "category": "",
+   "image": "https://solocoffee.ru/wp-content/uploads/2025/01/135-800x800-1.webp",
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1274.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://solocoffee.ru/product/svezheobzharennyj-kofe-pod-stm-braziliya-cantos/",
+   "name": "Свежеобжаренный кофе под СТМ Бразилия Cантос",
+   "description": "Свежеобжаренный кофе под СТМ Бразилия Cантос – 100% арабика с насыщенной консистенцией и узнаваемым бразильским характером. Данный сорт раскрывается классической палитрой: во вкусе напитка ощутимы темный шоколад, лесной орех и сладковатые ноты топленой карамели.\nБразильский кофе одинаково хорош при любом способе приготовления – от плотного эспрессо до деликатного пуровера. А когда чашка начинает остывать, в игру вступает изящный цветочный аккорд, который делает вкус объемнее и наполняет его свежестью.",
+   "category": "",
+   "image": "https://solocoffee.ru/wp-content/uploads/2025/02/santos-1kg.png",
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1460.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://solocoffee.ru/product/svezheobzharennyj-kofe-dlya-vendinga-blend-001/",
+   "name": "Свежеобжаренный кофе для вендинга Бленд 001",
+   "description": "Бленд 001 — эталон идеального вкуса для вендинга от экспертов SOLO COFFEE. Это наша флагманская формула, разработанная специально под вендинговые аппараты. Гармоничный дуэт, состоящий из 50% нежной бразильской арабики Сантос и 50% мощной вьетнамской робусты.\nОтборная арабика дарит напитку бархатистый шоколадно-ореховый вкус. Робуста отвечает за крепость, шелковистую плотную пенку и стабильную экстракцию при приготовлении в вендинговом устройстве.",
+   "category": "",
+   "image": "https://solocoffee.ru/wp-content/uploads/2025/01/135-800x800-1.webp",
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1274.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://solocoffee.ru/product/svezheobzharennyj-kofe-dlya-vendinga-braziliya-santos/",
+   "name": "Свежеобжаренный кофе для вендинга Бразилия Сантос",
+   "description": "Представляем вам золотой стандарт кофе для вендинга — моносорт Бразилия Сантос. Это 100% арабика свежей обжарки, которая понравится большинству ваших клиентов. Проверенная классика для широкой аудитории, включая самых требовательных гурманов.\nВ вендинговом автомате данный сорт позволяет получить плотный сбалансированный напиток с шелковистым телом, притягательным ароматом и мягкой ореховой горчинкой, свойственной лучшему бразильскому кофе.",
+   "category": "",
+   "image": "https://solocoffee.ru/wp-content/uploads/2025/02/santos-1kg.png",
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1460.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://solocoffee.ru/product/svezheobzharennyj-kofe-pod-stm-blend-001/",
+   "name": "Свежеобжаренный кофе под СТМ Бленд 001",
+   "description": "Свежеобжаренный кофе под СТМ Бленд 001 — флагманская позиция компании SOLO COFFEE, созданная для ценителей насыщенного вкуса.\nВ основе купажа — безупречный дуэт арабики Бразилия Сантос и робусты Индия Черри, который дарит бархатистую сладость, идеально плотное тело и благородную горчинку в финальном аккорде.\nАкцент в профиле сделан на оттенках лесного ореха в обрамлении темного шоколада.\nБленд 001 не боится молока. Этот крепкий кофе сохраняет характер и выразительность даже в топпингах, сиропах и латте.",
+   "category": "",
+   "image": "https://solocoffee.ru/wp-content/uploads/2025/01/135-800x800-1.webp",
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1274.0,
+     "available": false
+    }
+   ]
+  }
+ ]
+}
