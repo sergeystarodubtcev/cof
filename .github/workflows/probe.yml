@@ -10,7 +10,9 @@ permissions:
   contents: write
 concurrency: {group: probe, cancel-in-progress: true}
 env:
-  ONLY: ""                 # пусто = все обжарщики
+  # перепрогон упавших: баг Tilda и сайты с нулём товаров
+  ONLY: "triptych,camera,silkydrum,fauno,bolshe,zerno,botanica,bittersweet,yankeesierra,roastberry,doubleb,hq,bernin,znak,notik,west4,kof,madheads"
+  SAMPLE: "roastberry,doubleb,hq,bernin,znak,notik,madheads,rockets"
   SCRAPE: "1"              # 0 = только диагностика и образцы страниц
 jobs:
   probe:
@@ -23,6 +25,8 @@ jobs:
       - run: pip install -r requirements.txt
       - name: Доступность сайтов
         run: python -m scraper.probe ${ONLY:+--only $ONLY}
+      - name: Образцы страниц
+        run: python -m scraper.sample "$SAMPLE"
       - name: Парсер
         if: env.SCRAPE != '0'
         run: python -m scraper.run --workers 16 ${ONLY:+--only $ONLY} 2>&1 | tee data/scrape.log || true

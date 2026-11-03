@@ -47,7 +47,8 @@ def get(url: str, *, timeout: float = 25, **kw) -> requests.Response | None:
 
 
 def get_json(url: str, **kw):
-    r = get(url, headers={"Accept": "application/json"}, **kw)
+    headers = {"Accept": "application/json", **(kw.pop("headers", None) or {})}
+    r = get(url, headers=headers, **kw)
     if r is None:
         return None
     try:
