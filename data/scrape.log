@@ -1,6 +1,3 @@
 Обхожу 3 обжарщиков…
-  tasty          generic               578 товаров  380.0s 
-  welder         bitrix+generic        138 товаров  404.5s 
-  sok            bitrix+generic         44 товаров  621.5s 
-Кофейных товаров: 749; скачиваю картинки…
-Готово: 749 товаров, 8 лотов есть у нескольких обжарщиков → /home/runner/work/cof/cof/site/data/catalog.json
+  welder         bitrix+generic        138 товаров  434.7s 
+  tasty          generic               578 товаров  438.5s 
