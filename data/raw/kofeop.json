@@ -2,11 +2,11 @@
  "status": {
   "id": "kofeop",
   "platform": "bitrix+generic",
-  "items": 54,
-  "seconds": 1022.7,
+  "items": 38,
+  "seconds": 790.6,
   "ok": true,
   "error": null,
-  "at": "2026-11-03T08:12:19+00:00"
+  "at": "2026-11-04T06:44:33+00:00"
  },
  "items": [
   {
@@ -95,23 +95,6 @@
    ]
   },
   {
-   "url": "https://kofeop.ru/catalog/coffee/veludo/",
-   "name": "Велудо",
-   "description": "",
-   "image": "https://kofeop.ru/upload/iblock/cc4/y3xae42oaumnhan5ozbfzkieqvrv7pcp.png",
-   "category": "",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 2620.0,
-     "available": true
-    }
-   ]
-  },
-  {
    "url": "https://kofeop.ru/catalog/coffee/74/",
    "name": "74",
    "description": "",
@@ -124,23 +107,6 @@
     {
      "weight_g": null,
      "price": 2410.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://kofeop.ru/catalog/coffee/lilu/",
-   "name": "Лилу",
-   "description": "",
-   "image": "https://kofeop.ru/upload/iblock/b58/6v7ynk9cs34tj2x5yh2gvpzjd3w9yf1e.png",
-   "category": "",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 2790.0,
      "available": true
     }
    ]
@@ -163,6 +129,40 @@
    ]
   },
   {
+   "url": "https://kofeop.ru/catalog/coffee/lilu/",
+   "name": "Лилу",
+   "description": "",
+   "image": "https://kofeop.ru/upload/iblock/b58/6v7ynk9cs34tj2x5yh2gvpzjd3w9yf1e.png",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2790.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://kofeop.ru/catalog/coffee/veludo/",
+   "name": "Велудо",
+   "description": "",
+   "image": "https://kofeop.ru/upload/iblock/cc4/y3xae42oaumnhan5ozbfzkieqvrv7pcp.png",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2620.0,
+     "available": true
+    }
+   ]
+  },
+  {
    "url": "https://kofeop.ru/catalog/coffee/furla/",
    "name": "Фурла",
    "description": "",
@@ -175,23 +175,6 @@
     {
      "weight_g": null,
      "price": 800.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://kofeop.ru/catalog/coffee/kataleya/",
-   "name": "Каталея",
-   "description": "",
-   "image": "https://kofeop.ru/upload/iblock/21d/033dgj5akmrbvpql5pqug565dczwzxx7.png",
-   "category": "",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 2700.0,
      "available": true
     }
    ]
@@ -214,6 +197,23 @@
    ]
   },
   {
+   "url": "https://kofeop.ru/catalog/coffee/kataleya/",
+   "name": "Каталея",
+   "description": "",
+   "image": "https://kofeop.ru/upload/iblock/21d/033dgj5akmrbvpql5pqug565dczwzxx7.png",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2700.0,
+     "available": true
+    }
+   ]
+  },
+  {
    "url": "https://kofeop.ru/catalog/coffee/chebusta/",
    "name": "Чебуста",
    "description": "",
@@ -226,6 +226,23 @@
     {
      "weight_g": null,
      "price": 2380.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://kofeop.ru/catalog/coffee/alshemali/",
+   "name": "Альшемали",
+   "description": "",
+   "image": "https://kofeop.ru/upload/iblock/f98/vjhrnz1x0xvrotuf6yl166syovz8u71o.png",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1080.0,
      "available": true
     }
    ]
@@ -248,23 +265,6 @@
    ]
   },
   {
-   "url": "https://kofeop.ru/catalog/coffee/alshemali/",
-   "name": "Альшемали",
-   "description": "",
-   "image": "https://kofeop.ru/upload/iblock/f98/vjhrnz1x0xvrotuf6yl166syovz8u71o.png",
-   "category": "",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 918.0,
-     "available": true
-    }
-   ]
-  },
-  {
    "url": "https://kofeop.ru/catalog/coffee/la-esperansa/",
    "name": "Ла Эсперанса",
    "description": "",
@@ -277,23 +277,6 @@
     {
      "weight_g": null,
      "price": 1190.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://kofeop.ru/catalog/coffee/barbosa/",
-   "name": "Барбоса",
-   "description": "",
-   "image": "https://kofeop.ru/upload/iblock/bad/enbness2j0o9rvyti5unhs4zmb8sf8yw.png",
-   "category": "",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 750.0,
      "available": true
     }
    ]
@@ -350,227 +333,6 @@
    ]
   },
   {
-   "url": "https://89.104.74.22/catalog/coffee/c_paez/",
-   "name": "Паез",
-   "description": "",
-   "image": "https://89.104.74.22/upload/iblock/164/chdznys7hfi3kk01z50to5pymhbko68e.png",
-   "category": "",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 850.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://89.104.74.22/catalog/coffee/meykers-blend/",
-   "name": "Мейкерс Бленд",
-   "description": "",
-   "image": "https://89.104.74.22/upload/iblock/22f/2vw39x1rm0a83dfgu4v2e8d2dao4xmga.png",
-   "category": "",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 2580.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://89.104.74.22/catalog/coffee/dekaf_Columbian/",
-   "name": "Декаф",
-   "description": "",
-   "image": "https://89.104.74.22/upload/iblock/eab/ujmpky6cclq31pef9vwhl8uqmh6bd95n.png",
-   "category": "",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 3620.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://89.104.74.22/catalog/coffee/pirakha/",
-   "name": "Пираха",
-   "description": "",
-   "image": "https://89.104.74.22/upload/iblock/7f4/0ssn77d4n9rz0tplg7rbweo1i394tjlm.png",
-   "category": "",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 2560.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://89.104.74.22/catalog/coffee/nikaragua/",
-   "name": "Никарагуа",
-   "description": "",
-   "image": "https://89.104.74.22/upload/iblock/53c/qiskkzbyed7a2jlppeo6zyhb5bmorh8h.png",
-   "category": "",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 2680.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://89.104.74.22/catalog/coffee/veludo/",
-   "name": "Велудо",
-   "description": "",
-   "image": "https://89.104.74.22/upload/iblock/cc4/y3xae42oaumnhan5ozbfzkieqvrv7pcp.png",
-   "category": "",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 2620.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://89.104.74.22/catalog/coffee/74/",
-   "name": "74",
-   "description": "",
-   "image": "https://89.104.74.22/upload/iblock/673/6j50te0u5uf9qgghxcl7fa2ovucnwurk.png",
-   "category": "",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 2410.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://89.104.74.22/catalog/coffee/bogota/",
-   "name": "Богота",
-   "description": "",
-   "image": "https://89.104.74.22/upload/iblock/1bd/cic3zw2o18tpmz495u8m1ah26clokx9j.png",
-   "category": "",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 2570.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://89.104.74.22/catalog/coffee/lilu/",
-   "name": "Лилу",
-   "description": "",
-   "image": "https://89.104.74.22/upload/iblock/b58/6v7ynk9cs34tj2x5yh2gvpzjd3w9yf1e.png",
-   "category": "",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 2790.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://89.104.74.22/catalog/coffee/furla/",
-   "name": "Фурла",
-   "description": "",
-   "image": "https://89.104.74.22/upload/iblock/05f/3z1an5wykhd90jzryt19qflsod2s8vi9.png",
-   "category": "",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 800.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://89.104.74.22/catalog/coffee/kataleya/",
-   "name": "Каталея",
-   "description": "",
-   "image": "https://89.104.74.22/upload/iblock/21d/033dgj5akmrbvpql5pqug565dczwzxx7.png",
-   "category": "",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 2700.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://89.104.74.22/catalog/coffee/saturado/",
-   "name": "Сатурадо",
-   "description": "",
-   "image": "https://89.104.74.22/upload/iblock/0fd/41l1x0sj4esixfevqe2opqi35507hpvj.png",
-   "category": "",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 2510.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://89.104.74.22/catalog/coffee/chebusta/",
-   "name": "Чебуста",
-   "description": "",
-   "image": "https://89.104.74.22/upload/iblock/c6d/3wf23vd9atdpnsdc9wv876j85zq50qzt.png",
-   "category": "",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 2380.0,
-     "available": true
-    }
-   ]
-  },
-  {
    "url": "https://kofeop.ru/catalog/coffee/kofe-v-zernakh-dlya-kofemashiny/",
    "name": "Кофе в зернах",
    "description": "",
@@ -599,7 +361,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 790.0,
+     "price": 800.0,
      "available": true
     }
    ]
@@ -616,7 +378,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 800.0,
+     "price": 980.0,
      "available": true
     }
    ]
@@ -633,7 +395,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 850.0,
+     "price": 800.0,
      "available": true
     }
    ]
@@ -650,24 +412,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 790.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://kofeop.ru/catalog/coffee/kofe-v-zernah-nikaragua/",
-   "name": "Кофе в зернах",
-   "description": "",
-   "image": "https://kofeop.ru/upload/iblock/44f/nb1rnwjtmkuqx2vfwpxcmna8n63gp0kw.png",
-   "category": "",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 790.0,
+     "price": 830.0,
      "available": true
     }
    ]
@@ -690,23 +435,6 @@
    ]
   },
   {
-   "url": "https://kofeop.ru/catalog/coffee/keniya/",
-   "name": "Кофе в зернах",
-   "description": "",
-   "image": "https://kofeop.ru/upload/iblock/44f/nb1rnwjtmkuqx2vfwpxcmna8n63gp0kw.png",
-   "category": "",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 830.0,
-     "available": true
-    }
-   ]
-  },
-  {
    "url": "https://kofeop.ru/catalog/coffee/braziliya/",
    "name": "Кофе в зернах",
    "description": "",
@@ -718,7 +446,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 750.0,
+     "price": 790.0,
      "available": true
     }
    ]
@@ -735,7 +463,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 750.0,
+     "price": 800.0,
      "available": true
     }
    ]
@@ -769,7 +497,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 790.0,
+     "price": 830.0,
      "available": true
     }
    ]
@@ -786,7 +514,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 750.0,
+     "price": 800.0,
      "available": true
     }
    ]
@@ -820,7 +548,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 800.0,
+     "price": 790.0,
      "available": true
     }
    ]
@@ -837,7 +565,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 800.0,
+     "price": 850.0,
      "available": true
     }
    ]
@@ -871,7 +599,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 890.0,
+     "price": 1080.0,
      "available": true
     }
    ]
@@ -888,7 +616,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 890.0,
+     "price": 790.0,
      "available": true
     }
    ]
@@ -905,7 +633,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 750.0,
+     "price": 800.0,
      "available": true
     }
    ]

@@ -3,10 +3,10 @@
   "id": "tasty",
   "platform": "generic",
   "items": 460,
-  "seconds": 1490.3,
+  "seconds": 976.2,
   "ok": true,
   "error": null,
-  "at": "2026-11-03T08:15:20+00:00"
+  "at": "2026-11-04T06:42:56+00:00"
  },
  "items": [
   {
@@ -2580,26 +2580,6 @@
     {
      "weight_g": null,
      "price": 1749.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://shop.tastycoffee.ru/coffee/dlia-caski?page=9",
-   "name": "Яркий микролот в дрип-пакетах",
-   "description": "Кофе для фильтра. Акция! При покупке 6 пачек кофе 250 г - подарок! Оплата при получении. Случайный лот, Случайный сорт, Случайный кофе.",
-   "image": "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/subscription/new_random-drip.png",
-   "category": "",
-   "specs": {
-    "Степень обжарки": "Светлая (для фильтра)",
-    "Способ обработки": "Мытый"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 719.0,
      "available": true
     }
    ]
@@ -14105,6 +14085,39 @@
     {
      "weight_g": 100,
      "price": 1899.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://shop.tastycoffee.ru/coffee/costa-rica-el-salitre",
+   "name": "Коста-Рика Эль Салитре",
+   "description": "Купить зерновой кофе из Коста-Рики с быстрой и бесплатной доставкой в упаковках по 250 г/1000 г. При покупке 6 пачек кофе 250 г — подарок! Оплата при получении.",
+   "image": "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product/1766486227.793-costa-rica-el-salitre-250-768.webp",
+   "category": "",
+   "specs": {
+    "Степень обжарки": "фильтр",
+    "Регион": "Брунка",
+    "Способ обработки": "натуральный фанки",
+    "Высота произрастания": "1500 м",
+    "Урожай": "2025",
+    "Разновидность": "катуаи"
+   },
+   "gallery": [
+    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product/1766486229.852-costa-rica-el-salitre-1000-768.webp",
+    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product/1766486231.504-costa-rica-el-salitre-beans-768.webp",
+    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1782289628.5819-costa-rica-el-salitre-front-768.jpg"
+   ],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1189.0,
+     "available": false
+    },
+    {
+     "weight_g": 1000,
+     "price": 4039.0,
      "available": false
     }
    ]

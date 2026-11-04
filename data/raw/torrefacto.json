@@ -3,10 +3,10 @@
   "id": "torrefacto",
   "platform": "bitrix+generic",
   "items": 560,
-  "seconds": 2051.2,
+  "seconds": 1488.9,
   "ok": true,
   "error": null,
-  "at": "2026-11-03T08:24:41+00:00"
+  "at": "2026-11-04T06:51:28+00:00"
  },
  "items": [
   {
@@ -16643,7 +16643,7 @@
     {
      "weight_g": null,
      "price": 410.0,
-     "available": false
+     "available": true
     },
     {
      "weight_g": 250,
@@ -16653,7 +16653,7 @@
     {
      "weight_g": null,
      "price": 410.0,
-     "available": false
+     "available": true
     },
     {
      "weight_g": null,

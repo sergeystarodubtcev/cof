@@ -2,11 +2,11 @@
  "status": {
   "id": "choose",
   "platform": "tilda",
-  "items": 31,
-  "seconds": 77.7,
+  "items": 32,
+  "seconds": 66.6,
   "ok": true,
   "error": null,
-  "at": "2026-11-03T07:53:40+00:00"
+  "at": "2026-11-04T06:30:01+00:00"
  },
  "items": [
   {
@@ -1017,6 +1017,160 @@
     {
      "weight_g": null,
      "price": 3500.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://www.choosecoffee.ru/main/tproduct/743575945-703016210543-blend-vostorg",
+   "name": "Бленд / «Восторг»",
+   "description": "Африканский бленд мытого и натурального кофе. Букет на первом глотке — красное молодое вино, абрикосовый джем, помело. На втором глотке — красное вино, чернослив, тростниковый сахар. Послевкусие — продолжительное, сладкое, с нотами корицы. Кислотность — цитрусовая, яблочная, винная, сочная и искристая. Тело — средней плотности, бархатистое. \nПлотность: 3\nКислотность: 5\nОбработка: натуральная/мытая\nРаздел: для эспрессо\nСладость: 5\nФермент: 2",
+   "image": "https://static.tildacdn.com/stor6534-6337-4463-b537-386634656562/9b653638773e1f308ac5cb13202f095d.png",
+   "category": "",
+   "specs": {
+    "Обработка": "натуральная/мытая"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1050.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1050.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1050.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1050.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1050.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1050.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1050.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2600.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2600.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2600.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2600.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2600.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2600.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2600.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1050.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1050.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1050.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1050.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1050.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1050.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1050.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2600.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2600.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2600.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2600.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2600.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2600.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2600.0,
      "available": true
     }
    ]

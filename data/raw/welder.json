@@ -3,10 +3,10 @@
   "id": "welder",
   "platform": "bitrix+generic",
   "items": 138,
-  "seconds": 1562.9,
+  "seconds": 1157.7,
   "ok": true,
   "error": null,
-  "at": "2026-11-03T08:17:46+00:00"
+  "at": "2026-11-04T06:47:10+00:00"
  },
  "items": [
   {
@@ -3166,28 +3166,6 @@
    ]
   },
   {
-   "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_kosta_rika_kennet_madrigal_khani/",
-   "name": "Галараствор Коста-Рика Кеннет Мадригаль Хани",
-   "description": "Кофе растворимый порошкообразный \"Галараствор Коста-Рика Кеннет Мадригаль Хани\", 5x3,2 г",
-   "image": "https://theweldercatherine.ru/upload/iblock/fb3/2m04rt9e201x0zm53hk67vnv8ui6jvxz/kosta_rika-khani-gala.png",
-   "category": "Главная страница / Главная страница / Каталог / Каталог / Архив кофе / Архив кофе",
-   "specs": {
-    "Разновидность": "катуаи",
-    "Регион": "Лос Сантос, Сан Лоренцо",
-    "Сбор урожая": "Март 2023",
-    "Способ обработки": "Хани, анаэробный"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 770.0,
-     "available": true
-    }
-   ]
-  },
-  {
    "url": "https://theweldercatherine.ru/catalog/dlya_filtra/kolumbiya_la_virginya_anaerob/",
    "name": "Колумбия Ла Виргинья анаэроб",
    "description": "Колумбия Ла Виргинья анаэроб",
@@ -3784,6 +3762,27 @@
     {
      "weight_g": 1000,
      "price": 5174.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_filtra/assorti_tsyganskaya_svadba_ekvador_1/",
+   "name": "Ассорти «Цыганская свадьба» Эквадор",
+   "description": "Ассорти «Цыганская свадьба» Эквадор",
+   "image": "https://theweldercatherine.ru/upload/iblock/24b/jgj06uvwrt9hni5hy2ryqgtntvxx3i1t/Assorti_TSyganskaya_svadba_Ekvador-_2_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для фильтра / Для фильтра",
+   "specs": {
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Finca Soledad",
+    "Обжарка": "фильтр"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 90,
+     "price": 3145.0,
      "available": true
     }
    ]

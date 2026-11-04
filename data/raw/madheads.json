@@ -2,11 +2,11 @@
  "status": {
   "id": "madheads",
   "platform": "generic",
-  "items": 238,
-  "seconds": 268.4,
+  "items": 237,
+  "seconds": 407.5,
   "ok": true,
   "error": null,
-  "at": "2026-11-03T08:01:02+00:00"
+  "at": "2026-11-04T06:39:25+00:00"
  },
  "items": [
   {
@@ -1280,23 +1280,6 @@
     {
      "weight_g": null,
      "price": 1000.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://madheadscoffee.com/p/iS2gh4Vej08-c637685b",
-   "name": "Turaco",
-   "description": "Перейдіть до каталога щоб обрати товар",
-   "image": "https://api.madheadscoffee.com/cdn/s/1/p/205236/0/large.png",
-   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Turaco / Turaco",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 394.0,
      "available": true
     }
    ]
