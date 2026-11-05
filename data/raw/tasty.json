@@ -3,10 +3,10 @@
   "id": "tasty",
   "platform": "generic",
   "items": 460,
-  "seconds": 976.2,
+  "seconds": 1250.5,
   "ok": true,
   "error": null,
-  "at": "2026-11-04T06:42:56+00:00"
+  "at": "2026-11-05T07:11:21+00:00"
  },
  "items": [
   {
@@ -2324,6 +2324,7 @@
    "image": "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1793248747.627-colombia-pacamara-las-brisas-front-1-768.jpg",
    "category": "",
    "specs": {
+    "Сорт": "недели",
     "Степень обжарки": "фильтр",
     "Регион": "Уила, Асеведо",
     "Способ обработки": "натуральный",
@@ -2339,7 +2340,7 @@
    "variants": [
     {
      "weight_g": 100,
-     "price": 869.0,
+     "price": 739.0,
      "available": true
     }
    ]

@@ -2,11 +2,11 @@
  "status": {
   "id": "kofeop",
   "platform": "bitrix+generic",
-  "items": 38,
-  "seconds": 790.6,
+  "items": 40,
+  "seconds": 1069.1,
   "ok": true,
   "error": null,
-  "at": "2026-11-04T06:44:33+00:00"
+  "at": "2026-11-05T07:14:48+00:00"
  },
  "items": [
   {
@@ -418,6 +418,23 @@
    ]
   },
   {
+   "url": "https://kofeop.ru/catalog/coffee/kofe-v-zernah-nikaragua/",
+   "name": "Кофе в зернах",
+   "description": "",
+   "image": "https://kofeop.ru/upload/iblock/44f/nb1rnwjtmkuqx2vfwpxcmna8n63gp0kw.png",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 980.0,
+     "available": true
+    }
+   ]
+  },
+  {
    "url": "https://kofeop.ru/catalog/coffee/kolumbiya/",
    "name": "Кофе в зернах",
    "description": "",
@@ -430,6 +447,23 @@
     {
      "weight_g": null,
      "price": 800.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://kofeop.ru/catalog/coffee/keniya/",
+   "name": "Кофе в зернах",
+   "description": "",
+   "image": "https://kofeop.ru/upload/iblock/44f/nb1rnwjtmkuqx2vfwpxcmna8n63gp0kw.png",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 790.0,
      "available": true
     }
    ]

@@ -2,11 +2,11 @@
  "status": {
   "id": "madheads",
   "platform": "generic",
-  "items": 237,
-  "seconds": 407.5,
+  "items": 236,
+  "seconds": 222.5,
   "ok": true,
   "error": null,
-  "at": "2026-11-04T06:39:25+00:00"
+  "at": "2026-11-05T07:01:59+00:00"
  },
  "items": [
   {
@@ -1098,23 +1098,6 @@
    ]
   },
   {
-   "url": "https://madheadscoffee.com/p/E8oMQKCeE8g",
-   "name": "Скляний сервірувальний чайник Hario BARISTA V60, Об'єм - 600 мл",
-   "description": "Скляний сервірувальний чайник Hario BARISTA V60, Об'єм - 600 мл|Glass serving kettle Hario BARISTA V60, Volume - 600 ml",
-   "image": "https://api.madheadscoffee.com/cdn/s/1/p/545/0/large.webp",
-   "category": "Головна / Головна / Категорії / Категорії / Аксесуари / Аксесуари / Скляний сервірувальний чайник Hario BARISTA V60, Об'єм - 600 мл / Скляний сервірувальний чайник Hario BARISTA V60, Об'єм - 600 мл",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 1053.0,
-     "available": true
-    }
-   ]
-  },
-  {
    "url": "https://madheadscoffee.com/p/O068koi28S4",
    "name": "Скляний сервірувальний чайник Hario BARISTA V60, Об'єм - 360 мл",
    "description": "Скляний сервірувальний чайник Hario BARISTA V60, Об'єм - 360 мл|Glass serving kettle Hario BARISTA V60, Volume - 360 ml",
@@ -1212,6 +1195,23 @@
     {
      "weight_g": null,
      "price": 5120.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/ogEIwKWg4Gu",
+   "name": "Паперові фільтри Hario для пуровера 01, 100 шт",
+   "description": "Паперові фільтри Hario для пуровера 01, 100 шт|Hario paper filters for pourover 01, 100 pcs",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/486/0/large.webp",
+   "category": "Головна / Головна / Категорії / Категорії / Аксесуари / Аксесуари / Паперові фільтри Hario для пуровера 01, 100 шт / Паперові фільтри Hario для пуровера 01, 100 шт",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 293.0,
      "available": true
     }
    ]
@@ -3898,23 +3898,6 @@
     {
      "weight_g": null,
      "price": 1328.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://madheadscoffee.com/p/ogEIwKWg4Gu",
-   "name": "Паперові фільтри Hario для пуровера 01, 100 шт",
-   "description": "Паперові фільтри Hario для пуровера 01, 100 шт|Hario paper filters for pourover 01, 100 pcs",
-   "image": "https://api.madheadscoffee.com/cdn/s/1/p/486/0/large.webp",
-   "category": "Головна / Головна / Категорії / Категорії / Аксесуари / Аксесуари / Паперові фільтри Hario для пуровера 01, 100 шт / Паперові фільтри Hario для пуровера 01, 100 шт",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 293.0,
      "available": true
     }
    ]

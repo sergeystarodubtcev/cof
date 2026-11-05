@@ -2,13 +2,266 @@
  "status": {
   "id": "caffeinelab",
   "platform": "tilda",
-  "items": 375,
-  "seconds": 150.1,
+  "items": 377,
+  "seconds": 246.0,
   "ok": true,
   "error": null,
-  "at": "2026-11-04T06:29:10+00:00"
+  "at": "2026-11-05T06:54:36+00:00"
  },
  "items": [
+  {
+   "url": "https://caffeinelab.ru/aksessuary-dlya-kofe/tproduct/175386858-399008228191-voronka-timemore-crystal-eye-02-plastik",
+   "name": "Воронка Timemore Crystal Eye 02, пластик",
+   "description": "Имеет прозрачную конструкцию для визуального контроля. Визуально разделена на три уровня, что облегчает процесс заваривания.\nВ комплект входит:\nворонка из пластика, размер 02;\nфильтры 10 шт.\nВоронка изготовлена из пластика. \nПрозрачная конструкция обеспечивает визуальный контроль над завариванием.\nКонструкция воронки обеспечивает плотное прилегание фильтра.\nРебра и канавки внутри воронки визуально делят её на три уровня, облегчающий процесс заваривания.\n1-й уровень (нижний) - уровень кофе\n2-й уровень (средний) - уровень воды;\n3-й уровень (верхний) - уровень закрытый для экстракции.\nВ комплект входит:\nворонка из пластика, размер 02;\nфильтры 10 шт.",
+   "image": "https://static.tildacdn.com/tild3831-6464-4737-a635-313131376266/timemore-crystal-eye.jpg",
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 990.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/aksessuary-dlya-kofe/tproduct/175386858-799007418901-filtri-bumazhnie-dlya-voronok-hario-vcf",
+   "name": "Фильтры бумажные для воронок HARIO VCF-02-100W-H",
+   "description": "Оригинальные бумажные фильтры Hario. Изготовлены из многослойной целлюлозы отбеленной кислородом.\nРазмер - 02, количество - 100 шт.\nОригинальные бумажные фильтры Hario. Изготовлены из многослойной целлюлозы отбеленной кислородом.\nРазмер - 02 (классификация Hario).\nКоличество в упаковке: 100 шт.",
+   "image": "https://static.tildacdn.com/tild3930-6363-4734-a230-313031616261/hario-v60-02-100-1.jpg",
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 790.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/aksessuary-dlya-kofe/tproduct/175386858-286377250741-kofemolka-ruchnaya-timemore-chestnut-c2",
+   "name": "Кофемолка ручная Timemore Chestnut C2 Titanium version",
+   "description": "",
+   "image": "https://static.tildacdn.com/tild6664-3365-4537-b962-363538666538/Titanium-Version-1.jpg",
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 8950.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/aksessuary-dlya-kofe/tproduct/175386858-447638099701-voronka-timemore-crystal-eye-02-steklo",
+   "name": "Воронка Timemore Crystal Eye 02, стекло",
+   "description": "Воронка изготовлена из боросиликатного стекла. Имеет прозрачную конструкцию для визуального контроля. Визуально разделена на три уровня, что облегчает процесс заваривания.\nВ комплект входит:\nворонка из стекла, размер 02;\nфильтры 10 шт.\nВоронка изготовлена из боросиликатного стекла. Прозрачная конструкция обеспечивает визуальный контроль над завариванием.\nКонструкция воронки обеспечивает плотное прилегание фильтра.\nРебра и канавки внутри воронки визуально делят её на три уровня, облегчающий процесс заваривания.\n1-й уровень (нижний) - уровень кофе\n2-й уровень (средний) - уровень воды;\n3-й уровень (верхний) - уровень закрытый для экстракции.\nВ комплект входит:\nворонка из стекла, размер 02;\nфильтры 10 шт.",
+   "image": "https://static.tildacdn.com/tild6464-6434-4534-b137-333732346436/timemore-crystal-eye.jpg",
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1490.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/aksessuary-dlya-kofe/tproduct/175386858-122413118471-filtri-bumazhnie-dlya-voronok-hario-vcf",
+   "name": "Фильтры бумажные для воронок HARIO VCF-02-40W",
+   "description": "Оригинальные бумажные фильтры Hario. Изготовлены из многослойной целлюлозы отбеленной кислородом.\nРазмер - 02, количество - 40 шт.\nОригинальные бумажные фильтры Hario. Изготовлены из многослойной целлюлозы отбеленной кислородом.\nРазмер - 02 (классификация Hario).\nКоличество в упаковке: 40 шт.",
+   "image": "https://static.tildacdn.com/tild6130-3565-4239-b138-633364396138/hario-v60-02-40-1.jpg",
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 790.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/aksessuary-dlya-kofe/tproduct/175386858-216266868771-kofevarka-kemeks-cm-1gh-so-steklyannoi-r",
+   "name": "Кофеварка Кемекс CM-1GH со стеклянной ручкой",
+   "description": "Кофеварка кемекс CM-1GH на 3 чашки со стеклянной ручкой\nОбъем: 473 мл\nВысота: 21 см\nДиаметр: 7.5 см\nШирина: 14 см (с ручкой)",
+   "image": "https://static.tildacdn.com/tild3734-3664-4137-a662-363339306336/chemex-glasshandle-3.jpg",
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 5400.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/aksessuary-dlya-kofe/tproduct/175386858-894238095365-filtri-chemex-belie-kvadratnie-100-sht",
+   "name": "Фильтры Chemex белые, квадратные, 100 шт.",
+   "description": "Квадратные бумажные фильтры белые для кемекса, 100 шт\nКоличество в упаковке: 100 шт.\nПодходит для всех кофеварок CHEMEX, за исключением CM-1, CM-1C, CM-1GH.",
+   "image": "https://static.tildacdn.com/tild6432-6461-4637-b061-653632616539/Filters-chemex-W.jpg",
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1500.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/aksessuary-dlya-kofe/tproduct/175386858-128618379641-filtri-chemex-belie-v-forme-polumesyatsa",
+   "name": "Фильтры Chemex белые в форме полумесяца, 100 шт.",
+   "description": "Развернутые бумажные фильтры в форме полумесяца для кемекса, 100 шт.\nРазвернутые бумажные фильтры в форме полумесяца для кемекса.\nКоличество в упаковке: 100 шт.\nПодходит для всех кофеварок CHEMEX моделей CM-1, CM-1C, CM-1GH.",
+   "image": "https://static.tildacdn.com/tild6365-3636-4661-b864-373234396531/chemex-filters-CM-1G.jpg",
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1500.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/aksessuary-dlya-kofe/tproduct/175386858-453835708635-kruzhka-keepcup-longplay-16oz",
+   "name": "Кружка KeepCup LongPlay (16oz)",
+   "description": "KeepCup LongPlay 16oz (454 мл), размер L\nОбъем: 454 мл\nЦвет: \nСерый-чёрный (Rosetta)\nСиний-бирюзовый (Harvest)",
+   "image": "https://static.tildacdn.com/tild3764-3063-4165-b836-356433623538/KeepCup-LongPlay-Ros.png",
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2800.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 2800.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/aksessuary-dlya-kofe/tproduct/175386858-319555244356-kofevarka-kemeks-cm-8a",
+   "name": "Кофеварка Кемекс CM-8A",
+   "description": "Классический кемекс на 8 чашек\nОбъем: 1200 мл\nВысота: 23 см\nДиаметр: 12 см",
+   "image": "https://static.tildacdn.com/tild3761-3737-4637-a435-323935343963/Chemex_8-com.jpg",
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 6200.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/aksessuary-dlya-kofe/tproduct/175386858-777594908510-kruzhka-keepcup-original",
+   "name": "Кружка KeepCup Original",
+   "description": "KeepCup Original 12oz, (340 мл), размер M\nKeepCup Original 16oz (454 мл), размер L\nОбъем: \nразмер M - 340 мл\nразмер L - 454 мл\nЦвет: \nСерый-бежевый-чёрный\nСиний-бирюзовый-жёлтый",
+   "image": "https://static.tildacdn.com/tild3462-3736-4664-b230-613130313731/KeepCup_Hydro_M.png",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1300.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 1400.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1400.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/aksessuary-dlya-kofe/tproduct/175386858-964356707359-kruzhka-keepcup-brew-cork-16oz",
+   "name": "Кружка KeepCup Brew Cork (16oz)",
+   "description": "KeepCup Brew Cork 16oz (454 мл), размер L\nОбъем: 454 мл\nЦвет: Бирюзовый-жёлтый (Turbine)",
+   "image": "https://static.tildacdn.com/tild3561-3138-4232-b866-316163313062/KeepCup_Cork_Ozone_L.png",
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2500.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/aksessuary-dlya-kofe/tproduct/175386858-181776935596-kofevarka-kemeks-cm-6a",
+   "name": "Кофеварка Кемекс CM-6A",
+   "description": "Классический кемекс на 6 чашек\nОбъем: 900 мл\nВысота: 22 см\nДиаметр: 12 см",
+   "image": "https://static.tildacdn.com/tild3761-3737-4637-a435-323935343963/Chemex_8-com.jpg",
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 5950.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/aksessuary-dlya-kofe/tproduct/175386858-435135650411-kofeinik-vipusk-5",
+   "name": "«Кофейник» выпуск №5",
+   "description": "Пятый выпуск журнала Кофейник — связь текстовых и визуальных историй о кофе из Санкт-Петербурга, Москвы, Ижевска, Сочи, Архангельска и далекой Эфиопии.\nПятый выпуск — связь текстовых и визуальных историй о кофе из Санкт-Петербурга, Москвы, Ижевска, Сочи, Архангельска и далекой Эфиопии.\nЧто такое кофе и в чем секрет успешной работы — в пятом «Кофейнике» встретились совершенно разные люди и их подходы к делу, объединенные интересом к продукту, многолетним опытом и знаниями индустрии, у которой большое будущее.\nВ выпуске:\n• Производство Tasty Coffee — Михаил Шаров о культуре спешелти в регионе и одном из самых автоматизированных кофейных производств;\n• Маття — больше чем чай: образовательное интервью с Дмитрием Соболевым;\n• человек индустрии Михаил Субботин — руководитель крупнейшей в России кофейной выставки PIR-COFFEE, автор идеи и организатор национального чемпионата среди команд кофеен;\n• Вдох и выдох, которые могут изменить жизнь: образовательная статья о восприятии аромата от Жанны Слюсарь;\n• кофейня Mad Espresso Team — лучшая кофейня России 2020;\n• Валерия Кан, Анастасия Филиппова и Артур Щербаков — команда-чемпион о победе и опыте участия в Russian Coffee Cup;\n• место Здесь начинается кофе — фото-рассказ об Эфиопии;\n• гость Андрей и Khosta Spot — о серфинге и кофе в Сочи;\n• фотопроект «кофе везде. кофе всегда» — хороший кофе доступен каждому;\n• рецепт кофейный торт с вишней.\nфевраль-март'21",
+   "image": "https://static.tildacdn.com/tild6338-6565-4137-b234-633738336334/2044080991.jpg",
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 950.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/aksessuary-dlya-kofe/tproduct/175386858-830096803541-kofeinik-vipusk-6",
+   "name": "«Кофейник» выпуск №6",
+   "description": "Шестой выпуск журнала Кофейник — Новый выпуск - новые герои и их истории.\nНовый выпуск — новые герои и их истории.\nВ выпуске:\n• проект \"Больше кофе\" Николай Готко и Николай Яланский о петербургских кофейнях, обжарочном производстве и социальной миссии по популяризации черного кофе;\n• кофейня BLOOM-N-BREW Команда-победитель отборочного Russian Coffee Cup о профессионализме, осознанности и любви;\n• Кофе в дрип-пакетах: от недоверия к поклонению Катя Лапина, автор блога \"Кофенация\" @coffeenation.rus о движении рынка дрип-пакетов в России;\n• производство Verle Директор по развитию Евгения Толмачева о крупнейшем производстве дрип-пакетов, главенстве человеческих отношений и работе с ритейлом;\n• рецепт \"Напитки, достойные победы\" Рецепты авторских напитков команд-чемпионов Russian Coffee Cup разных лет;\n• человек индустрии Анастасия Латова О преображении кофеен, сломе устоев и глобальных изменениях через чашку кофе;\n• не кофе \"Эволюция чайных пакетиков\" Образовательная статья от Полины Сагары, чемпиона России по приготовлению чая 2018;\n• для бизнеса Poster Облачная система автоматизации кофейни;\n• гость режиссер Артур Ан О режиссуре, смысле кино и российской ментальности;\n• место Махачкала Погружаемся в кофейную культуру Дагестана;\n• фотопроект COLOR BLOCK;\n• рецепт Датский завтрак;\nГотовим вместе с бистро \"ФУТУРА\"\nавгуст-сентябрь'21",
+   "image": "https://static.tildacdn.com/tild3135-6336-4839-b730-653063313034/2468449729.png",
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 950.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/aksessuary-dlya-kofe/tproduct/175386858-717869991517-filtri-chemex-naturalnie-kvadratnie-100",
+   "name": "Фильтры Chemex натуральные, квадратные, 100 шт.",
+   "description": "Квадратные бумажные фильтры натуральные для кемекса, 100 шт\nКоличество в упаковке: 100 шт.\nПодходит для всех кофеварок CHEMEX, за исключением CM-1, CM-1C, CM-1GH.",
+   "image": "https://static.tildacdn.com/tild6533-3133-4137-a531-326332363966/Filters-natural.jpg",
+   "available": false,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1200.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/zapchasti_dlya_kofemashin/tproduct/346283265-975579480731-poroshok-dlya-udaleniya-kofeinih-masel-d",
+   "name": "Порошок для удаления кофейных масел Dr. Purity Coffee Washer, 1000 г",
+   "description": "Купить Порошок для удаления кофейных масел Dr.Purity Coffee Washer, 1000 гр. Стоимость банки 1 кг -1000 руб. Эффективная очистка от кофейного налета и масел.\nПрофессиональное чистящее средство для очистки групп всех традиционных эспрессо-машин от российской компании Dr.Purity. Удаляет кофейный налет и посторонние запахи в рабочих узлах, кофейных системах традиционных рожковых и автоматических кофемашин. Высокая растворимость обеспечивает отличный результат по очистке и промывке кофейного оборудования. Гарантирует прекрасный чистый вкус кофейных напитков. Универсальное и эффективное решение для чистки кофейного оборудования.\nПорошок \nCoffee Washer\n эффективно очищает группу и холдеры профессиональных кофемашин.\nХарактеристики\nВес: 1 кг;\nСостав: карбонат натрия, перкарбонат натрия, триполифосфат натрия;\nПроизводитель: DrPurity;\nСтрана производства: Россия.",
+   "image": "https://static.tildacdn.com/tild3332-6231-4763-b465-383334393633/drpurity.jpg",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 1000,
+     "price": 1000.0,
+     "available": true
+    }
+   ]
+  },
   {
    "url": "https://caffeinelab.ru/svezheobzharennyy-kofe-arkhiv/tproduct/667994911-411098009771-kofe-meksika-iksuatlan-bam",
    "name": "Кофе Мексика Иксуатлан БАМ",
@@ -3029,25 +3282,6 @@
    ]
   },
   {
-   "url": "https://caffeinelab.ru/svezheobzharennyy-kofe-arkhiv/tproduct/667994911-726633056547-kofe-kosta-rika-tarrazu-shb-dlya-filtra",
-   "name": "Кофе Коста-Рика Тарразу SHB для фильтра",
-   "description": "Регион произрастания:\n Тарразу.\nВысота произрастания:\n 1500-1850 метров.\nРазновидности:\n катурра, катуаи.\nОбработка:\n мытая.\nУрожай:\n 2023-2024.\nОценка SCA:\n 83,75.\nВо вкусе:\nтемный шоколад, фундук, карамель, конфеты, кр. яблоко.\nРегион произрастания:\n Тарразу.\nВысота произрастания:\n 1500-1850 метров.\nРазновидности:\n катурра, катуаи.\nОбработка:\n мытая.\nУрожай:\n 2023-2024.\nОценка SCA:\n 83,75.\nВо вкусе:\nтемный шоколад, фундук, карамель, конфеты, кр. яблоко.",
-   "image": "https://static.tildacdn.com/stor3435-6230-4261-b534-633337336562/75116450.png",
-   "available": false,
-   "variants": [
-    {
-     "weight_g": 250,
-     "price": 735.0,
-     "available": false
-    },
-    {
-     "weight_g": 1000,
-     "price": 2940.0,
-     "available": false
-    }
-   ]
-  },
-  {
    "url": "https://caffeinelab.ru/svezheobzharennyy-kofe-arkhiv/tproduct/667994911-736454669962-kofe-uganda-nyabirongo-dlya-filtra",
    "name": "Кофе Уганда Ньябиронго для фильтра",
    "description": "Регион произрастания:\n Рувензори, ст. обр. Ньябиронго.\nВысота произрастания:\n 1600-2200 метров.\nРазновидности:\n SL14, SL28.\nОбработка:\n анаэробная.\nКлассификация:\n specialty.\nУрожай:\n 2024-2025.\nОбжарка:\n для фильтра.\nОценка SCA:\n 86,25.\nВо вкусе:\nмаракуйя, апельсин, портвейн, карамель.\nРегион произрастания:\n Рувензори, ст. обр. Ньябиронго.\nВысота произрастания:\n 1600-2200 метров.\nРазновидности:\n SL14, SL28.\nОбработка:\n анаэробная.\nКлассификация:\n specialty.\nУрожай:\n 2024-2025.\nОбжарка:\n для фильтра.\nОценка SCA:\n 86,25.\nВо вкусе:\nмаракуйя, апельсин, портвейн, карамель.\nНа южных склонах гор Рувензори, на западе Уганды, находится станция Ньябиронго - важный центр, соединяющий общину баконзо с рынками спешалти-кофе по всему миру. Построена в 2022 году. Здесь производят кофе мытой и натуральной обработки, что позволяет контролировать качество на всех этапах - от приёма ягод до готового зелёного кофе на экспорт. Удачное расположение позволяет эффективно собирать урожай у тысяч фермеров по всему региону.\nПосле ручной сортировки ягоды помещают в чистый герметичный резервуар, который накрывают полотном и добавляют холодную воду для создания эффекта «водяной подушки». Вода также помогает контролировать температуру во время брожения. Этот лот бродил 72 часа. После завершения ферментации кофе промывается водой и сушится на африканских кроватях.",
@@ -5529,259 +5763,6 @@
    ]
   },
   {
-   "url": "https://caffeinelab.ru/aksessuary-dlya-kofe/tproduct/175386858-399008228191-voronka-timemore-crystal-eye-02-plastik",
-   "name": "Воронка Timemore Crystal Eye 02, пластик",
-   "description": "Имеет прозрачную конструкцию для визуального контроля. Визуально разделена на три уровня, что облегчает процесс заваривания.\nВ комплект входит:\nворонка из пластика, размер 02;\nфильтры 10 шт.\nВоронка изготовлена из пластика. \nПрозрачная конструкция обеспечивает визуальный контроль над завариванием.\nКонструкция воронки обеспечивает плотное прилегание фильтра.\nРебра и канавки внутри воронки визуально делят её на три уровня, облегчающий процесс заваривания.\n1-й уровень (нижний) - уровень кофе\n2-й уровень (средний) - уровень воды;\n3-й уровень (верхний) - уровень закрытый для экстракции.\nВ комплект входит:\nворонка из пластика, размер 02;\nфильтры 10 шт.",
-   "image": "https://static.tildacdn.com/tild3831-6464-4737-a635-313131376266/timemore-crystal-eye.jpg",
-   "available": false,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 990.0,
-     "available": false
-    }
-   ]
-  },
-  {
-   "url": "https://caffeinelab.ru/aksessuary-dlya-kofe/tproduct/175386858-799007418901-filtri-bumazhnie-dlya-voronok-hario-vcf",
-   "name": "Фильтры бумажные для воронок HARIO VCF-02-100W-H",
-   "description": "Оригинальные бумажные фильтры Hario. Изготовлены из многослойной целлюлозы отбеленной кислородом.\nРазмер - 02, количество - 100 шт.\nОригинальные бумажные фильтры Hario. Изготовлены из многослойной целлюлозы отбеленной кислородом.\nРазмер - 02 (классификация Hario).\nКоличество в упаковке: 100 шт.",
-   "image": "https://static.tildacdn.com/tild3930-6363-4734-a230-313031616261/hario-v60-02-100-1.jpg",
-   "available": false,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 790.0,
-     "available": false
-    }
-   ]
-  },
-  {
-   "url": "https://caffeinelab.ru/aksessuary-dlya-kofe/tproduct/175386858-286377250741-kofemolka-ruchnaya-timemore-chestnut-c2",
-   "name": "Кофемолка ручная Timemore Chestnut C2 Titanium version",
-   "description": "",
-   "image": "https://static.tildacdn.com/tild6664-3365-4537-b962-363538666538/Titanium-Version-1.jpg",
-   "available": false,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 8950.0,
-     "available": false
-    }
-   ]
-  },
-  {
-   "url": "https://caffeinelab.ru/aksessuary-dlya-kofe/tproduct/175386858-447638099701-voronka-timemore-crystal-eye-02-steklo",
-   "name": "Воронка Timemore Crystal Eye 02, стекло",
-   "description": "Воронка изготовлена из боросиликатного стекла. Имеет прозрачную конструкцию для визуального контроля. Визуально разделена на три уровня, что облегчает процесс заваривания.\nВ комплект входит:\nворонка из стекла, размер 02;\nфильтры 10 шт.\nВоронка изготовлена из боросиликатного стекла. Прозрачная конструкция обеспечивает визуальный контроль над завариванием.\nКонструкция воронки обеспечивает плотное прилегание фильтра.\nРебра и канавки внутри воронки визуально делят её на три уровня, облегчающий процесс заваривания.\n1-й уровень (нижний) - уровень кофе\n2-й уровень (средний) - уровень воды;\n3-й уровень (верхний) - уровень закрытый для экстракции.\nВ комплект входит:\nворонка из стекла, размер 02;\nфильтры 10 шт.",
-   "image": "https://static.tildacdn.com/tild6464-6434-4534-b137-333732346436/timemore-crystal-eye.jpg",
-   "available": false,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 1490.0,
-     "available": false
-    }
-   ]
-  },
-  {
-   "url": "https://caffeinelab.ru/aksessuary-dlya-kofe/tproduct/175386858-122413118471-filtri-bumazhnie-dlya-voronok-hario-vcf",
-   "name": "Фильтры бумажные для воронок HARIO VCF-02-40W",
-   "description": "Оригинальные бумажные фильтры Hario. Изготовлены из многослойной целлюлозы отбеленной кислородом.\nРазмер - 02, количество - 40 шт.\nОригинальные бумажные фильтры Hario. Изготовлены из многослойной целлюлозы отбеленной кислородом.\nРазмер - 02 (классификация Hario).\nКоличество в упаковке: 40 шт.",
-   "image": "https://static.tildacdn.com/tild6130-3565-4239-b138-633364396138/hario-v60-02-40-1.jpg",
-   "available": false,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 790.0,
-     "available": false
-    }
-   ]
-  },
-  {
-   "url": "https://caffeinelab.ru/aksessuary-dlya-kofe/tproduct/175386858-216266868771-kofevarka-kemeks-cm-1gh-so-steklyannoi-r",
-   "name": "Кофеварка Кемекс CM-1GH со стеклянной ручкой",
-   "description": "Кофеварка кемекс CM-1GH на 3 чашки со стеклянной ручкой\nОбъем: 473 мл\nВысота: 21 см\nДиаметр: 7.5 см\nШирина: 14 см (с ручкой)",
-   "image": "https://static.tildacdn.com/tild3734-3664-4137-a662-363339306336/chemex-glasshandle-3.jpg",
-   "available": false,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 5400.0,
-     "available": false
-    }
-   ]
-  },
-  {
-   "url": "https://caffeinelab.ru/aksessuary-dlya-kofe/tproduct/175386858-894238095365-filtri-chemex-belie-kvadratnie-100-sht",
-   "name": "Фильтры Chemex белые, квадратные, 100 шт.",
-   "description": "Квадратные бумажные фильтры белые для кемекса, 100 шт\nКоличество в упаковке: 100 шт.\nПодходит для всех кофеварок CHEMEX, за исключением CM-1, CM-1C, CM-1GH.",
-   "image": "https://static.tildacdn.com/tild6432-6461-4637-b061-653632616539/Filters-chemex-W.jpg",
-   "available": false,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 1500.0,
-     "available": false
-    }
-   ]
-  },
-  {
-   "url": "https://caffeinelab.ru/aksessuary-dlya-kofe/tproduct/175386858-128618379641-filtri-chemex-belie-v-forme-polumesyatsa",
-   "name": "Фильтры Chemex белые в форме полумесяца, 100 шт.",
-   "description": "Развернутые бумажные фильтры в форме полумесяца для кемекса, 100 шт.\nРазвернутые бумажные фильтры в форме полумесяца для кемекса.\nКоличество в упаковке: 100 шт.\nПодходит для всех кофеварок CHEMEX моделей CM-1, CM-1C, CM-1GH.",
-   "image": "https://static.tildacdn.com/tild6365-3636-4661-b864-373234396531/chemex-filters-CM-1G.jpg",
-   "available": false,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 1500.0,
-     "available": false
-    }
-   ]
-  },
-  {
-   "url": "https://caffeinelab.ru/aksessuary-dlya-kofe/tproduct/175386858-453835708635-kruzhka-keepcup-longplay-16oz",
-   "name": "Кружка KeepCup LongPlay (16oz)",
-   "description": "KeepCup LongPlay 16oz (454 мл), размер L\nОбъем: 454 мл\nЦвет: \nСерый-чёрный (Rosetta)\nСиний-бирюзовый (Harvest)",
-   "image": "https://static.tildacdn.com/tild3764-3063-4165-b836-356433623538/KeepCup-LongPlay-Ros.png",
-   "available": false,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 2800.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
-     "price": 2800.0,
-     "available": false
-    }
-   ]
-  },
-  {
-   "url": "https://caffeinelab.ru/aksessuary-dlya-kofe/tproduct/175386858-319555244356-kofevarka-kemeks-cm-8a",
-   "name": "Кофеварка Кемекс CM-8A",
-   "description": "Классический кемекс на 8 чашек\nОбъем: 1200 мл\nВысота: 23 см\nДиаметр: 12 см",
-   "image": "https://static.tildacdn.com/tild3761-3737-4637-a435-323935343963/Chemex_8-com.jpg",
-   "available": false,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 6200.0,
-     "available": false
-    }
-   ]
-  },
-  {
-   "url": "https://caffeinelab.ru/aksessuary-dlya-kofe/tproduct/175386858-777594908510-kruzhka-keepcup-original",
-   "name": "Кружка KeepCup Original",
-   "description": "KeepCup Original 12oz, (340 мл), размер M\nKeepCup Original 16oz (454 мл), размер L\nОбъем: \nразмер M - 340 мл\nразмер L - 454 мл\nЦвет: \nСерый-бежевый-чёрный\nСиний-бирюзовый-жёлтый",
-   "image": "https://static.tildacdn.com/tild3462-3736-4664-b230-613130313731/KeepCup_Hydro_M.png",
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 1300.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
-     "price": 1400.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1400.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://caffeinelab.ru/aksessuary-dlya-kofe/tproduct/175386858-964356707359-kruzhka-keepcup-brew-cork-16oz",
-   "name": "Кружка KeepCup Brew Cork (16oz)",
-   "description": "KeepCup Brew Cork 16oz (454 мл), размер L\nОбъем: 454 мл\nЦвет: Бирюзовый-жёлтый (Turbine)",
-   "image": "https://static.tildacdn.com/tild3561-3138-4232-b866-316163313062/KeepCup_Cork_Ozone_L.png",
-   "available": false,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 2500.0,
-     "available": false
-    }
-   ]
-  },
-  {
-   "url": "https://caffeinelab.ru/aksessuary-dlya-kofe/tproduct/175386858-181776935596-kofevarka-kemeks-cm-6a",
-   "name": "Кофеварка Кемекс CM-6A",
-   "description": "Классический кемекс на 6 чашек\nОбъем: 900 мл\nВысота: 22 см\nДиаметр: 12 см",
-   "image": "https://static.tildacdn.com/tild3761-3737-4637-a435-323935343963/Chemex_8-com.jpg",
-   "available": false,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 5950.0,
-     "available": false
-    }
-   ]
-  },
-  {
-   "url": "https://caffeinelab.ru/aksessuary-dlya-kofe/tproduct/175386858-435135650411-kofeinik-vipusk-5",
-   "name": "«Кофейник» выпуск №5",
-   "description": "Пятый выпуск журнала Кофейник — связь текстовых и визуальных историй о кофе из Санкт-Петербурга, Москвы, Ижевска, Сочи, Архангельска и далекой Эфиопии.\nПятый выпуск — связь текстовых и визуальных историй о кофе из Санкт-Петербурга, Москвы, Ижевска, Сочи, Архангельска и далекой Эфиопии.\nЧто такое кофе и в чем секрет успешной работы — в пятом «Кофейнике» встретились совершенно разные люди и их подходы к делу, объединенные интересом к продукту, многолетним опытом и знаниями индустрии, у которой большое будущее.\nВ выпуске:\n• Производство Tasty Coffee — Михаил Шаров о культуре спешелти в регионе и одном из самых автоматизированных кофейных производств;\n• Маття — больше чем чай: образовательное интервью с Дмитрием Соболевым;\n• человек индустрии Михаил Субботин — руководитель крупнейшей в России кофейной выставки PIR-COFFEE, автор идеи и организатор национального чемпионата среди команд кофеен;\n• Вдох и выдох, которые могут изменить жизнь: образовательная статья о восприятии аромата от Жанны Слюсарь;\n• кофейня Mad Espresso Team — лучшая кофейня России 2020;\n• Валерия Кан, Анастасия Филиппова и Артур Щербаков — команда-чемпион о победе и опыте участия в Russian Coffee Cup;\n• место Здесь начинается кофе — фото-рассказ об Эфиопии;\n• гость Андрей и Khosta Spot — о серфинге и кофе в Сочи;\n• фотопроект «кофе везде. кофе всегда» — хороший кофе доступен каждому;\n• рецепт кофейный торт с вишней.\nфевраль-март'21",
-   "image": "https://static.tildacdn.com/tild6338-6565-4137-b234-633738336334/2044080991.jpg",
-   "available": false,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 950.0,
-     "available": false
-    }
-   ]
-  },
-  {
-   "url": "https://caffeinelab.ru/aksessuary-dlya-kofe/tproduct/175386858-830096803541-kofeinik-vipusk-6",
-   "name": "«Кофейник» выпуск №6",
-   "description": "Шестой выпуск журнала Кофейник — Новый выпуск - новые герои и их истории.\nНовый выпуск — новые герои и их истории.\nВ выпуске:\n• проект \"Больше кофе\" Николай Готко и Николай Яланский о петербургских кофейнях, обжарочном производстве и социальной миссии по популяризации черного кофе;\n• кофейня BLOOM-N-BREW Команда-победитель отборочного Russian Coffee Cup о профессионализме, осознанности и любви;\n• Кофе в дрип-пакетах: от недоверия к поклонению Катя Лапина, автор блога \"Кофенация\" @coffeenation.rus о движении рынка дрип-пакетов в России;\n• производство Verle Директор по развитию Евгения Толмачева о крупнейшем производстве дрип-пакетов, главенстве человеческих отношений и работе с ритейлом;\n• рецепт \"Напитки, достойные победы\" Рецепты авторских напитков команд-чемпионов Russian Coffee Cup разных лет;\n• человек индустрии Анастасия Латова О преображении кофеен, сломе устоев и глобальных изменениях через чашку кофе;\n• не кофе \"Эволюция чайных пакетиков\" Образовательная статья от Полины Сагары, чемпиона России по приготовлению чая 2018;\n• для бизнеса Poster Облачная система автоматизации кофейни;\n• гость режиссер Артур Ан О режиссуре, смысле кино и российской ментальности;\n• место Махачкала Погружаемся в кофейную культуру Дагестана;\n• фотопроект COLOR BLOCK;\n• рецепт Датский завтрак;\nГотовим вместе с бистро \"ФУТУРА\"\nавгуст-сентябрь'21",
-   "image": "https://static.tildacdn.com/tild3135-6336-4839-b730-653063313034/2468449729.png",
-   "available": false,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 950.0,
-     "available": false
-    }
-   ]
-  },
-  {
-   "url": "https://caffeinelab.ru/aksessuary-dlya-kofe/tproduct/175386858-717869991517-filtri-chemex-naturalnie-kvadratnie-100",
-   "name": "Фильтры Chemex натуральные, квадратные, 100 шт.",
-   "description": "Квадратные бумажные фильтры натуральные для кемекса, 100 шт\nКоличество в упаковке: 100 шт.\nПодходит для всех кофеварок CHEMEX, за исключением CM-1, CM-1C, CM-1GH.",
-   "image": "https://static.tildacdn.com/tild6533-3133-4137-a531-326332363966/Filters-natural.jpg",
-   "available": false,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 1200.0,
-     "available": false
-    }
-   ]
-  },
-  {
-   "url": "https://caffeinelab.ru/zapchasti_dlya_kofemashin/tproduct/346283265-975579480731-poroshok-dlya-udaleniya-kofeinih-masel-d",
-   "name": "Порошок для удаления кофейных масел Dr. Purity Coffee Washer, 1000 г",
-   "description": "Купить Порошок для удаления кофейных масел Dr.Purity Coffee Washer, 1000 гр. Стоимость банки 1 кг -1000 руб. Эффективная очистка от кофейного налета и масел.\nПрофессиональное чистящее средство для очистки групп всех традиционных эспрессо-машин от российской компании Dr.Purity. Удаляет кофейный налет и посторонние запахи в рабочих узлах, кофейных системах традиционных рожковых и автоматических кофемашин. Высокая растворимость обеспечивает отличный результат по очистке и промывке кофейного оборудования. Гарантирует прекрасный чистый вкус кофейных напитков. Универсальное и эффективное решение для чистки кофейного оборудования.\nПорошок \nCoffee Washer\n эффективно очищает группу и холдеры профессиональных кофемашин.\nХарактеристики\nВес: 1 кг;\nСостав: карбонат натрия, перкарбонат натрия, триполифосфат натрия;\nПроизводитель: DrPurity;\nСтрана производства: Россия.",
-   "image": "https://static.tildacdn.com/tild3332-6231-4763-b465-383334393633/drpurity.jpg",
-   "available": true,
-   "variants": [
-    {
-     "weight_g": 1000,
-     "price": 1000.0,
-     "available": true
-    }
-   ]
-  },
-  {
    "url": "https://caffeinelab.ru/svezheobzharennyy-kofe/tproduct/131134953-653127187311-kofe-efiopiya-irgacheff-sukke",
    "name": "Кофе Эфиопия Иргачефф Сукке",
    "description": "География: Африка\nУрожай: 2020/21\nОценка SCA: 86+\nОбработка: натуральная\nКлассификация: specialty\nОбжарка: для фильтра\nОбжарка: для эспрессо\nПриготовление: турка\nПриготовление: эспрессо\nПриготовление: гейзер\nПриготовление: пуровер\nПриготовление: капельная\nПриготовление: френч-пресс\nПриготовление: колд брю",
@@ -6012,6 +5993,44 @@
    ]
   },
   {
+   "url": "https://caffeinelab.ru/coffee/espresso/tproduct/834531917-726633056547-kosta-rika-la-pantera-dlya-espresso",
+   "name": "Коста-Рика Ла Пантера для эспрессо",
+   "description": "География: Америка\nУрожай: 2025/26\nОценка SCA: 84+\nОбработка: мытая\nОбжарка: для эспрессо\nПриготовление: гейзер\nПриготовление: эспрессо\nПриготовление: в чашке\nПриготовление: турка\nПриготовление: френч-пресс",
+   "image": "https://static.tildacdn.com/stor3864-3637-4264-a262-653562636535/9092f90cf41b22c65a7cb9446dd58c67.jpg",
+   "category": "",
+   "specs": {
+    "Урожай": "2025/26",
+    "Оценка SCA": "84+",
+    "Обработка": "мытая",
+    "Обжарка": "для эспрессо",
+    "Высота произрастания": "1400-1900 метров"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 820.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3280.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 820.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3280.0,
+     "available": true
+    }
+   ]
+  },
+  {
    "url": "https://caffeinelab.ru/coffee/espresso/tproduct/834531917-226683665781-braziliya-sul-di-minas-dlya-espresso",
    "name": "Бразилия Суль-ди-Минас для эспрессо",
    "description": "География: Америка\nУрожай: 2025/26\nОценка SCA: 82+\nОбработка: натуральная\nОбжарка: для эспрессо\nПриготовление: эспрессо\nПриготовление: гейзер\nПриготовление: френч-пресс",
@@ -6123,27 +6142,27 @@
     "Способ обработки": "мытая"
    },
    "gallery": [],
-   "available": true,
+   "available": false,
    "variants": [
     {
      "weight_g": null,
      "price": 885.0,
-     "available": true
+     "available": false
     },
     {
      "weight_g": null,
      "price": 3540.0,
-     "available": true
+     "available": false
     },
     {
      "weight_g": null,
      "price": 885.0,
-     "available": true
+     "available": false
     },
     {
      "weight_g": null,
      "price": 3540.0,
-     "available": true
+     "available": false
     }
    ]
   },
@@ -6239,27 +6258,27 @@
     "Высота произрастания": "1200-2000 метров"
    },
    "gallery": [],
-   "available": true,
+   "available": false,
    "variants": [
     {
      "weight_g": null,
      "price": 900.0,
-     "available": true
+     "available": false
     },
     {
      "weight_g": null,
      "price": 3600.0,
-     "available": true
+     "available": false
     },
     {
      "weight_g": null,
      "price": 900.0,
-     "available": true
+     "available": false
     },
     {
      "weight_g": null,
      "price": 3600.0,
-     "available": true
+     "available": false
     }
    ]
   },
@@ -6327,37 +6346,37 @@
     "Способ обработки": "натуральная"
    },
    "gallery": [],
-   "available": false,
+   "available": true,
    "variants": [
     {
      "weight_g": null,
      "price": 825.0,
-     "available": false
+     "available": true
     },
     {
      "weight_g": null,
      "price": 3300.0,
-     "available": false
+     "available": true
     },
     {
      "weight_g": null,
      "price": 11390.0,
-     "available": false
+     "available": true
     },
     {
      "weight_g": null,
      "price": 825.0,
-     "available": false
+     "available": true
     },
     {
      "weight_g": null,
      "price": 3300.0,
-     "available": false
+     "available": true
     },
     {
      "weight_g": null,
      "price": 11390.0,
-     "available": false
+     "available": true
     }
    ]
   },
@@ -6533,27 +6552,27 @@
     "Способ обработки": "мытая"
    },
    "gallery": [],
-   "available": true,
+   "available": false,
    "variants": [
     {
      "weight_g": null,
      "price": 860.0,
-     "available": true
+     "available": false
     },
     {
      "weight_g": null,
      "price": 3440.0,
-     "available": true
+     "available": false
     },
     {
      "weight_g": null,
      "price": 860.0,
-     "available": true
+     "available": false
     },
     {
      "weight_g": null,
      "price": 3440.0,
-     "available": true
+     "available": false
     }
    ]
   },
@@ -6612,27 +6631,27 @@
     "Способ обработки": "мытая"
    },
    "gallery": [],
-   "available": false,
+   "available": true,
    "variants": [
     {
      "weight_g": null,
-     "price": 740.0,
-     "available": false
+     "price": 765.0,
+     "available": true
     },
     {
      "weight_g": null,
-     "price": 2960.0,
-     "available": false
+     "price": 3060.0,
+     "available": true
     },
     {
      "weight_g": null,
-     "price": 740.0,
-     "available": false
+     "price": 765.0,
+     "available": true
     },
     {
      "weight_g": null,
-     "price": 2960.0,
-     "available": false
+     "price": 3060.0,
+     "available": true
     }
    ]
   },
@@ -6807,27 +6826,27 @@
     "Способ обработки": "мытая"
    },
    "gallery": [],
-   "available": true,
+   "available": false,
    "variants": [
     {
      "weight_g": null,
      "price": 885.0,
-     "available": true
+     "available": false
     },
     {
      "weight_g": null,
      "price": 3540.0,
-     "available": true
+     "available": false
     },
     {
      "weight_g": null,
      "price": 885.0,
-     "available": true
+     "available": false
     },
     {
      "weight_g": null,
      "price": 3540.0,
-     "available": true
+     "available": false
     }
    ]
   },
@@ -6923,27 +6942,27 @@
     "Высота произрастания": "1400 метров"
    },
    "gallery": [],
-   "available": false,
+   "available": true,
    "variants": [
     {
      "weight_g": null,
      "price": 790.0,
-     "available": false
+     "available": true
     },
     {
      "weight_g": null,
      "price": 3160.0,
-     "available": false
+     "available": true
     },
     {
      "weight_g": null,
      "price": 790.0,
-     "available": false
+     "available": true
     },
     {
      "weight_g": null,
      "price": 3160.0,
-     "available": false
+     "available": true
     }
    ]
   },
@@ -7029,7 +7048,7 @@
    "url": "https://caffeinelab.ru/coffee/espresso/tproduct/834531917-824247650983-meksika-ki-soya-dekaf-dlya-espresso",
    "name": "Мексика Ки-Соя Декаф для эспрессо",
    "description": "Гватемала Декаф обжарка для эспрессо, декофеинизированный кофе из Гватемалы. Идеально для гейзера или кофемашины. Оценка SCA: 84. Во вкусе: вишня, яблоко, шоколад, тростниковый сахар.",
-   "image": "https://static.tildacdn.com/stor3634-6663-4165-a662-663733386135/755afcca754d2a1d473dd156d67f1292.jpg",
+   "image": "https://static.tildacdn.com/stor3632-3736-4463-a336-623630353733/f4b00333a5b2a36153702d1cc53341ae.jpg",
    "category": "",
    "specs": {
     "Урожай": "2025/26",
@@ -7067,7 +7086,7 @@
    "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-269681479273-meksika-ki-soya-dekaf-dlya-filtra",
    "name": "Мексика Ки-Соя Декаф для фильтра",
    "description": "География: Америка\nУрожай: 2025/26\nОценка SCA: 86+\nОбработка: мытая\nОбжарка: для фильтра\nПриготовление: пуровер\nПриготовление: турка\nПриготовление: аэропресс\nПриготовление: капельная\nПриготовление: френч-пресс\nПриготовление: дрип-пакет\nПриготовление: в чашке",
-   "image": "https://static.tildacdn.com/stor3634-6663-4165-a662-663733386135/755afcca754d2a1d473dd156d67f1292.jpg",
+   "image": "https://static.tildacdn.com/stor3063-6131-4261-b536-626334663033/7b1e9c4de814bddb4d7d2e5c84524a77.jpg",
    "category": "",
    "specs": {
     "Урожай": "2025/26",
@@ -7105,7 +7124,7 @@
    "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-634568981873-gvatemala-l2-pampohila-dlya-filtra",
    "name": "Гватемала Л2 Пампохила для фильтра",
    "description": "География: Америка\nУрожай: 2025/26\nОценка SCA: 88+\nОбработка: анаэробная\nКлассификация: specialty\nОбжарка: для фильтра\nПриготовление: пуровер\nПриготовление: аэропресс\nПриготовление: турка\nПриготовление: капельная\nПриготовление: френч-пресс",
-   "image": "https://static.tildacdn.com/stor3737-3934-4030-b633-343034636133/9e8473e1b05b6b14150ec1ce5d3f8cf9.jpg",
+   "image": "https://static.tildacdn.com/stor3231-3563-4435-a332-343963376361/ca756e522a66f800f396c5e6b0d1d776.jpg",
    "category": "",
    "specs": {
     "Урожай": "2025/26",
@@ -7213,7 +7232,7 @@
    "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-332729255863-keniya-ab-karimikui-pod-filtr",
    "name": "Кения АБ Каримикуи под фильтр",
    "description": "География: Африка\nУрожай: 2025\nОценка SCA: 86+\nОбработка: мытая\nОбжарка: для фильтра\nПриготовление: пуровер\nПриготовление: аэропресс\nПриготовление: капельная\nПриготовление: френч-пресс\nПриготовление: турка\nПриготовление: колд брю",
-   "image": "https://static.tildacdn.com/stor3762-6163-4838-a534-613837396132/d9731678e128cb4462c665e035d866a1.jpg",
+   "image": "https://static.tildacdn.com/stor6362-6436-4465-a165-343832303431/1c9461d719d8906e6d46fd06da8480ad.jpg",
    "category": "",
    "specs": {
     "Урожай": "2025",
@@ -7244,6 +7263,83 @@
     {
      "weight_g": null,
      "price": 4280.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-686147581603-kosta-rika-la-pantera-pod-filtr",
+   "name": "Коста-Рика Ла Пантера под фильтр",
+   "description": "География: Америка\nУрожай: 2025/26\nОценка SCA: 84+\nОбработка: мытая\nОбжарка: для фильтра\nПриготовление: турка\nПриготовление: капельная\nПриготовление: френч-пресс\nПриготовление: в чашке\nПриготовление: пуровер",
+   "image": "https://static.tildacdn.com/stor3565-6636-4334-a365-353833646165/f3240efd3f73baefa4e6992e86175b27.jpg",
+   "category": "",
+   "specs": {
+    "Урожай": "2025/26",
+    "Оценка SCA": "84+",
+    "Обработка": "мытая",
+    "Обжарка": "для фильтра",
+    "Высота произрастания": "1400-1900 метров"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 820.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3280.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 820.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3280.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-284561885523-efiopiya-gedeb-agamos-dlya-filtra",
+   "name": "Эфиопия Гедеб Агамос для фильтра",
+   "description": "География: Африка\nУрожай: 2025/26\nОценка SCA: 90+\nОбработка: натуральная\nОбжарка: для фильтра\nПриготовление: пуровер\nПриготовление: капельная\nПриготовление: турка\nПриготовление: френч-пресс\nПриготовление: аэропресс\nПриготовление: кемекс",
+   "image": "https://static.tildacdn.com/stor3238-3232-4436-a430-336666353539/59ab28f327f5e4bf373a01895f109092.jpg",
+   "category": "",
+   "specs": {
+    "Урожай": "2025/26",
+    "Оценка SCA": "90+",
+    "Обработка": "натуральная",
+    "Обжарка": "для фильтра",
+    "Высота произрастания": "2153-2206 метров",
+    "Способ обработки": "натуральная"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1240.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 4960.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1240.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 4960.0,
      "available": true
     }
    ]
