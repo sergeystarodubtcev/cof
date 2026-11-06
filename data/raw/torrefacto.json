@@ -3,10 +3,10 @@
   "id": "torrefacto",
   "platform": "bitrix+generic",
   "items": 560,
-  "seconds": 2189.9,
+  "seconds": 1252.6,
   "ok": true,
   "error": null,
-  "at": "2026-11-05T07:27:00+00:00"
+  "at": "2026-11-06T07:11:14+00:00"
  },
  "items": [
   {
@@ -16312,12 +16312,12 @@
    "category": "Главная / Шоколад / Шоколадно-ореховые пасты",
    "specs": {},
    "gallery": [],
-   "available": true,
+   "available": false,
    "variants": [
     {
      "weight_g": 350,
      "price": 1264.0,
-     "available": true
+     "available": false
     }
    ]
   },

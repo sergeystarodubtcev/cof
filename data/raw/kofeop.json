@@ -3,10 +3,10 @@
   "id": "kofeop",
   "platform": "bitrix+generic",
   "items": 40,
-  "seconds": 1069.1,
+  "seconds": 546.8,
   "ok": true,
   "error": null,
-  "at": "2026-11-05T07:14:48+00:00"
+  "at": "2026-11-06T07:03:46+00:00"
  },
  "items": [
   {
@@ -129,23 +129,6 @@
    ]
   },
   {
-   "url": "https://kofeop.ru/catalog/coffee/lilu/",
-   "name": "Лилу",
-   "description": "",
-   "image": "https://kofeop.ru/upload/iblock/b58/6v7ynk9cs34tj2x5yh2gvpzjd3w9yf1e.png",
-   "category": "",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 2790.0,
-     "available": true
-    }
-   ]
-  },
-  {
    "url": "https://kofeop.ru/catalog/coffee/veludo/",
    "name": "Велудо",
    "description": "",
@@ -158,6 +141,23 @@
     {
      "weight_g": null,
      "price": 2620.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://kofeop.ru/catalog/coffee/lilu/",
+   "name": "Лилу",
+   "description": "",
+   "image": "https://kofeop.ru/upload/iblock/b58/6v7ynk9cs34tj2x5yh2gvpzjd3w9yf1e.png",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2790.0,
      "available": true
     }
    ]
@@ -344,7 +344,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 800.0,
+     "price": 790.0,
      "available": true
     }
    ]
@@ -378,7 +378,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 980.0,
+     "price": 1080.0,
      "available": true
     }
    ]
@@ -395,7 +395,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 800.0,
+     "price": 790.0,
      "available": true
     }
    ]
@@ -412,7 +412,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 830.0,
+     "price": 850.0,
      "available": true
     }
    ]
@@ -429,7 +429,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 980.0,
+     "price": 800.0,
      "available": true
     }
    ]
@@ -514,7 +514,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 800.0,
+     "price": 790.0,
      "available": true
     }
    ]
@@ -531,7 +531,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 830.0,
+     "price": 800.0,
      "available": true
     }
    ]
@@ -548,7 +548,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 800.0,
+     "price": 1070.0,
      "available": true
     }
    ]
@@ -582,7 +582,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 790.0,
+     "price": 800.0,
      "available": true
     }
    ]
@@ -616,7 +616,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 800.0,
+     "price": 1160.0,
      "available": true
     }
    ]
@@ -633,7 +633,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 1080.0,
+     "price": 790.0,
      "available": true
     }
    ]
@@ -684,7 +684,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 800.0,
+     "price": 790.0,
      "available": true
     }
    ]

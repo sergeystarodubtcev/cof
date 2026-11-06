@@ -2,11 +2,11 @@
  "status": {
   "id": "tasty",
   "platform": "generic",
-  "items": 460,
-  "seconds": 1250.5,
+  "items": 462,
+  "seconds": 912.2,
   "ok": true,
   "error": null,
-  "at": "2026-11-05T07:11:21+00:00"
+  "at": "2026-11-06T07:05:34+00:00"
  },
  "items": [
   {
@@ -1278,38 +1278,6 @@
    ]
   },
   {
-   "url": "https://shop.tastycoffee.ru/coffee/costa-rica-rafael-prado-2026",
-   "name": "Коста-Рика Рафаэль Прадо",
-   "description": "Коста-Рика Рафаэль Прадо, натуральный фанки — купить свежеобжаренный кофе для фильтра в пачках по 250 г и 1 кг. Официальный интернет-магазин кофе и чая Tasty Coffee. Более 150 сортов кофе и чая. Купить кофе в зёрнах, молотый, кофе без кофеина можно с бесплатной доставкой по России и Москве.",
-   "image": "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1788980136.5525-costa-rica-rafael-prado-2026-768.jpg",
-   "category": "",
-   "specs": {
-    "Степень обжарки": "фильтр",
-    "Регион": "Сан Исидро",
-    "Способ обработки": "натуральный фанки",
-    "Высота произрастания": "1700 м",
-    "Урожай": "2026",
-    "Разновидность": "катуаи"
-   },
-   "gallery": [
-    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1788980136.6609-costa-rica-rafael-prado-2026-1024.jpg",
-    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1788980136.4448-costa-rica-rafael-prado-2026-480.jpg"
-   ],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": 250,
-     "price": 1259.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4279.0,
-     "available": true
-    }
-   ]
-  },
-  {
    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-mukera-taco-2026",
    "name": "Эфиопия Мукера Тако",
    "description": "Эфиопия Мукера Тако, натуральный фанки — купить свежеобжаренный кофе для фильтра в пачках по 250 г и 1 кг. Официальный интернет-магазин кофе и чая Tasty Coffee. Более 150 сортов кофе и чая. Купить кофе в зёрнах, молотый, кофе без кофеина можно с бесплатной доставкой по России и Москве.",
@@ -1986,38 +1954,6 @@
    ]
   },
   {
-   "url": "https://shop.tastycoffee.ru/coffee/espresso-bolivia-samaipata",
-   "name": "Боливия Самайпата",
-   "description": "Боливия Самайпата, хани — купить свежеобжаренный кофе для эспрессо в пачках по 250 г и 1 кг. Официальный интернет-магазин кофе и чая Tasty Coffee. Более 150 сортов кофе и чая. Купить кофе в зёрнах, молотый, кофе без кофеина можно с бесплатной доставкой по России и Москве.",
-   "image": "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1783665485.2609-espresso-bolivia-samaipata-front-768.jpg",
-   "category": "",
-   "specs": {
-    "Степень обжарки": "эспрессо",
-    "Регион": "Самайпата",
-    "Способ обработки": "хани",
-    "Высота произрастания": "1600–1800 м",
-    "Урожай": "2025",
-    "Разновидность": "бурбон, катурра"
-   },
-   "gallery": [
-    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1783665485.3934-espresso-bolivia-samaipata-front-1024.jpg",
-    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1783665485.1817-espresso-bolivia-samaipata-front-480.jpg"
-   ],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": 250,
-     "price": 1189.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4039.0,
-     "available": true
-    }
-   ]
-  },
-  {
    "url": "https://shop.tastycoffee.ru/coffee/burundi-karambo",
    "name": "Бурунди Карамбо",
    "description": "Бурунди Карамбо, натуральный — купить свежеобжаренный кофе для фильтра в пачках по 250 г и 1 кг. Официальный интернет-магазин кофе и чая Tasty Coffee. Более 150 сортов кофе и чая. Купить кофе в зёрнах, молотый, кофе без кофеина можно с бесплатной доставкой по России и Москве.",
@@ -2346,33 +2282,6 @@
    ]
   },
   {
-   "url": "https://shop.tastycoffee.ru/coffee/colombia-geisha-monteverde-2026",
-   "name": "Колумбия Гейша Монтеверде",
-   "description": "Колумбия Гейша Монтеверде, натуральный — купить свежеобжаренный кофе для фильтра в пачках по 250 г и 1 кг. Официальный интернет-магазин кофе и чая Tasty Coffee. Более 150 сортов кофе и чая. Купить кофе в зёрнах, молотый, кофе без кофеина можно с бесплатной доставкой по России и Москве.",
-   "image": "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1792069629.7909-colombia-geisha-monteverde-2026-front-768.jpg",
-   "category": "",
-   "specs": {
-    "Степень обжарки": "фильтр",
-    "Регион": "Толима",
-    "Способ обработки": "натуральный",
-    "Высота произрастания": "1800–2100 м",
-    "Урожай": "2026",
-    "Разновидность": "гейша"
-   },
-   "gallery": [
-    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1792069629.9092-colombia-geisha-monteverde-2026-front-1024.jpg",
-    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1792069627.6264-colombia-geisha-monteverde-2026-front-480.jpg"
-   ],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": 100,
-     "price": 799.0,
-     "available": true
-    }
-   ]
-  },
-  {
    "url": "https://shop.tastycoffee.ru/coffee/colombia-geisha-joan-vergara",
    "name": "Колумбия Гейша Хоан Вергара",
    "description": "Колумбия Гейша Хоан Вергара, мытый — купить свежеобжаренный кофе для фильтра в пачках по 100 г. Официальный интернет-магазин кофе и чая Tasty Coffee. Более 150 сортов кофе и чая. Купить кофе в зёрнах, молотый, кофе без кофеина можно с бесплатной доставкой по России и Москве.",
@@ -2521,13 +2430,14 @@
    ]
   },
   {
-   "url": "https://shop.tastycoffee.ru/coffee/bright-espresso-microlot",
+   "url": "https://shop.tastycoffee.ru/coffee/v-zernah?page=8",
    "name": "Яркий микролот для эспрессо",
    "description": "Кофе случайный микролот для кофемашин. Акция! При покупке 6 пачек кофе 250 г - подарок! Оплата при получении. Случайный лот, Случайный сорт, Случайный кофе.",
    "image": "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/subscription/new_random-coffee.png",
    "category": "",
    "specs": {
-    "Степень обжарки": "эспрессо"
+    "Степень обжарки": "Светлая (для фильтра)",
+    "Способ обработки": "Мытый"
    },
    "gallery": [],
    "available": true,
@@ -2581,6 +2491,45 @@
     {
      "weight_g": null,
      "price": 1749.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://shop.tastycoffee.ru/coffee/bright-espresso-microlot",
+   "name": "Яркий микролот для эспрессо",
+   "description": "Кофе случайный микролот для кофемашин. Акция! При покупке 6 пачек кофе 250 г - подарок! Оплата при получении. Случайный лот, Случайный сорт, Случайный кофе.",
+   "image": "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/subscription/new_random-coffee.png",
+   "category": "",
+   "specs": {
+    "Степень обжарки": "эспрессо"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 899.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://shop.tastycoffee.ru/coffee/dlia-turki?page=8",
+   "name": "Яркий микролот для эспрессо",
+   "description": "Кофе случайный микролот для кофемашин. Акция! При покупке 6 пачек кофе 250 г - подарок! Оплата при получении. Случайный лот, Случайный сорт, Случайный кофе.",
+   "image": "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/subscription/new_random-coffee.png",
+   "category": "",
+   "specs": {
+    "Степень обжарки": "Светлая (для фильтра)",
+    "Способ обработки": "Мытый"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 899.0,
      "available": true
     }
    ]
@@ -14119,6 +14068,102 @@
     {
      "weight_g": 1000,
      "price": 4039.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://shop.tastycoffee.ru/coffee/costa-rica-don-eli-funky-2025",
+   "name": "Коста-Рика Дон Эли Фанки",
+   "description": "Кофе Коста-Рика Дон Эли Фанки в интернет-магазине \"Tasty Coffee\" в упаковках по 250гр, 1000 гр. При покупке 6 пачек кофе 250 г - подарок! Оплата при получении. Коста-Рика Дон Эли Фанки",
+   "image": "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product/1768116026.6321-costa-rica-don-eli-funky-2025-250-768.webp",
+   "category": "",
+   "specs": {
+    "Степень обжарки": "фильтр",
+    "Регион": "Ла Пастора",
+    "Способ обработки": "натуральный фанки",
+    "Высота произрастания": "1900 м",
+    "Урожай": "2025",
+    "Разновидность": "катуаи"
+   },
+   "gallery": [
+    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product/1768116028.594-costa-rica-don-eli-funky-2025-1000-768.webp",
+    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product/1768116030.1686-costa-rica-don-eli-funky-2025-beans-768.webp"
+   ],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1159.0,
+     "available": false
+    },
+    {
+     "weight_g": 1000,
+     "price": 3939.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://shop.tastycoffee.ru/coffee/espresso-ethiopia-chelchele-2025",
+   "name": "Эфиопия Челчеле",
+   "description": "Эфиопия Челчеле сладкий кофе с нотами вишни, кураги, листа смородины и какао. Кофе из Эфиопии свежеобжаренный в пачках по 250, 1000 гр.",
+   "image": "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product/1760091630.2189-espresso-ethiopia-chelchele-2025-250-768.webp",
+   "category": "",
+   "specs": {
+    "Степень обжарки": "эспрессо",
+    "Регион": "Гедео",
+    "Способ обработки": "натуральный",
+    "Высота произрастания": "1900 –2100 м",
+    "Урожай": "2024/2025",
+    "Разновидность": "местные"
+   },
+   "gallery": [
+    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product/1760091632.4532-espresso-ethiopia-chelchele-2025-1000-768.webp",
+    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product/1760091634.1971-espresso-ethiopia-chelchele-2025-beans-768.webp"
+   ],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 949.0,
+     "available": false
+    },
+    {
+     "weight_g": 1000,
+     "price": 3229.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://shop.tastycoffee.ru/coffee/espresso-costa-rica-ceres-encinos-2025",
+   "name": "Коста-Рика Церес Энсинос",
+   "description": "Кофе Коста-Рика Церес Энсинос в интернет-магазине \"Tasty Coffee\" в упаковках по 250гр, 1000 гр. При покупке 6 пачек кофе 250 г - подарок! Оплата при получении.",
+   "image": "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product/1759486582.1734-espresso-costa-rica-ceres-encinos-2025-250-768.webp",
+   "category": "",
+   "specs": {
+    "Степень обжарки": "эспрессо",
+    "Регион": "Тарразу",
+    "Способ обработки": "хани",
+    "Высота произрастания": "1400 м",
+    "Урожай": "2025",
+    "Разновидность": "катуаи"
+   },
+   "gallery": [
+    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product/1759486584.3208-espresso-costa-rica-ceres-encinos-2025-1000-768.webp",
+    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product/1759486585.9709-espresso-costa-rica-ceres-encinos-2025-beans-768.webp"
+   ],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1079.0,
+     "available": false
+    },
+    {
+     "weight_g": 1000,
+     "price": 3179.0,
      "available": false
     }
    ]

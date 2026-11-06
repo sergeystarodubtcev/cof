@@ -2,11 +2,11 @@
  "status": {
   "id": "neva",
   "platform": "bitrix+generic",
-  "items": 87,
-  "seconds": 2300.8,
+  "items": 105,
+  "seconds": 1367.0,
   "ok": true,
   "error": null,
-  "at": "2026-11-05T07:30:25+00:00"
+  "at": "2026-11-06T07:14:30+00:00"
  },
  "items": [
   {
@@ -1156,6 +1156,77 @@
     {
      "weight_g": 200,
      "price": 675.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/nikaragua-maragodzhip/",
+   "name": "Кофе Никарагуа Марагоджип",
+   "description": "Красные ягоды, цветочные нотки, фундук, какао. Сорт имеет округлое плотное тело и продолжительное насыщенное послевкусие.",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/CPremier/f48/0fy75qjiiqf7cdo59h4fq8zx2sao09o0.webp",
+   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Кофе Никарагуа Марагоджип",
+   "specs": {
+    "Высота произрастания": "1400–1800 м",
+    "Способ обработки": "Мытая",
+    "Степень обжарки": "Средняя"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1025.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1025.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 1025.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 1965.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 3800.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 1025.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 1965.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 3800.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 1025.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 1965.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 3800.0,
      "available": true
     }
    ]
@@ -3587,6 +3658,366 @@
    ]
   },
   {
+   "url": "https://nevacoffee.ru/catalog/coffee/molotyy-kofe/?display=list&PAGEN_2=4",
+   "name": "Набор дрипов в коробке",
+   "description": "Натуральный молотый кофе от обжарщика. Помол подбираем под вас: для кофемашины, турки, гейзера. Кофе Арабика. Обжариваем под заказ, отправляем по России.",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/CPremier/f48/0fy75qjiiqf7cdo59h4fq8zx2sao09o0.webp",
+   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Молотый кофе",
+   "specs": {
+    "Способ обработки": "Гилинг басах",
+    "Степень обжарки": "Темная"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 360,
+     "price": 1990.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/molotyy-kofe/filter/clear/apply/?display=list&PAGEN_2=4",
+   "name": "Набор дрипов в коробке",
+   "description": "Натуральный молотый кофе от обжарщика. Помол подбираем под вас: для кофемашины, турки, гейзера. Кофе Арабика. Обжариваем под заказ, отправляем по России.",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/CPremier/f48/0fy75qjiiqf7cdo59h4fq8zx2sao09o0.webp",
+   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Молотый кофе / Молотый кофе",
+   "specs": {
+    "Способ обработки": "Гилинг басах",
+    "Степень обжарки": "Темная"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 360,
+     "price": 1990.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/molotyy-kofe/filter/clear/apply/?display=table&PAGEN_2=4",
+   "name": "Набор дрипов в коробке",
+   "description": "Натуральный молотый кофе от обжарщика. Помол подбираем под вас: для кофемашины, турки, гейзера. Кофе Арабика. Обжариваем под заказ, отправляем по России.",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/CPremier/f48/0fy75qjiiqf7cdo59h4fq8zx2sao09o0.webp",
+   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Молотый кофе / Молотый кофе",
+   "specs": {
+    "Способ обработки": "Гилинг басах",
+    "Степень обжарки": "Темная"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": 360,
+     "price": 1990.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/molotyy-kofe/filter/clear/apply/?display=tile&PAGEN_2=4",
+   "name": "Набор дрипов в коробке",
+   "description": "Натуральный молотый кофе от обжарщика. Помол подбираем под вас: для кофемашины, турки, гейзера. Кофе Арабика. Обжариваем под заказ, отправляем по России.",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/CPremier/f48/0fy75qjiiqf7cdo59h4fq8zx2sao09o0.webp",
+   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Молотый кофе / Молотый кофе",
+   "specs": {
+    "Способ обработки": "Гилинг басах",
+    "Степень обжарки": "Темная"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": 360,
+     "price": 1990.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/molotyy-kofe/filter/clear/apply/?sort=CATALOG_PRICE_1&order=desc&PAGEN_2=4",
+   "name": "Набор дрипов в коробке",
+   "description": "Натуральный молотый кофе от обжарщика. Помол подбираем под вас: для кофемашины, турки, гейзера. Кофе Арабика. Обжариваем под заказ, отправляем по России.",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/CPremier/f48/0fy75qjiiqf7cdo59h4fq8zx2sao09o0.webp",
+   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Молотый кофе / Молотый кофе",
+   "specs": {
+    "Способ обработки": "Гилинг басах",
+    "Степень обжарки": "Темная"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": 360,
+     "price": 1990.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/molotyy-kofe/filter/clear/apply/?sort=CATALOG_PRICE_1&order=asc&PAGEN_2=4",
+   "name": "Колумбия Де Ла Тьеррита 250гр",
+   "description": "Натуральный молотый кофе от обжарщика. Помол подбираем под вас: для кофемашины, турки, гейзера. Кофе Арабика. Обжариваем под заказ, отправляем по России.",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/CPremier/f48/0fy75qjiiqf7cdo59h4fq8zx2sao09o0.webp",
+   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Молотый кофе / Молотый кофе",
+   "specs": {
+    "Способ обработки": "Гилинг басах",
+    "Степень обжарки": "Темная"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1075.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/molotyy-kofe/filter/clear/apply/?sort=SHOWS&order=desc&PAGEN_2=4",
+   "name": "Дрип К Симао Гр.1 Меллоу",
+   "description": "Натуральный молотый кофе от обжарщика. Помол подбираем под вас: для кофемашины, турки, гейзера. Кофе Арабика. Обжариваем под заказ, отправляем по России.",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/CPremier/f48/0fy75qjiiqf7cdo59h4fq8zx2sao09o0.webp",
+   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Молотый кофе / Молотый кофе",
+   "specs": {
+    "Способ обработки": "Гилинг басах",
+    "Степень обжарки": "Темная"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 72,
+     "price": 57.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/molotyy-kofe/filter/clear/apply/?sort=SHOWS&order=asc&PAGEN_2=4",
+   "name": "Суль де Минас 250 гр.",
+   "description": "Натуральный молотый кофе от обжарщика. Помол подбираем под вас: для кофемашины, турки, гейзера. Кофе Арабика. Обжариваем под заказ, отправляем по России.",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/CPremier/f48/0fy75qjiiqf7cdo59h4fq8zx2sao09o0.webp",
+   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Молотый кофе / Молотый кофе",
+   "specs": {
+    "Способ обработки": "Гилинг басах",
+    "Степень обжарки": "Темная"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 613.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/molotyy-kofe/filter/clear/apply/?display=price&PAGEN_2=4",
+   "name": "Суль де Минас 250 гр.",
+   "description": "Натуральный молотый кофе от обжарщика. Помол подбираем под вас: для кофемашины, турки, гейзера. Кофе Арабика. Обжариваем под заказ, отправляем по России.",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/CPremier/f48/0fy75qjiiqf7cdo59h4fq8zx2sao09o0.webp",
+   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Молотый кофе / Молотый кофе",
+   "specs": {
+    "Способ обработки": "Гилинг басах",
+    "Степень обжарки": "Темная"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 613.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/molotyy-kofe/filter/clear/apply/?PAGEN_2=4",
+   "name": "Суль де Минас 250 гр.",
+   "description": "Натуральный молотый кофе от обжарщика. Помол подбираем под вас: для кофемашины, турки, гейзера. Кофе Арабика. Обжариваем под заказ, отправляем по России.",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/CPremier/f48/0fy75qjiiqf7cdo59h4fq8zx2sao09o0.webp",
+   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Молотый кофе / Молотый кофе",
+   "specs": {
+    "Способ обработки": "Гилинг басах",
+    "Степень обжарки": "Темная"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 613.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/molotyy-kofe/?display=table&PAGEN_2=4",
+   "name": "Суль де Минас 250 гр.",
+   "description": "Натуральный молотый кофе от обжарщика. Помол подбираем под вас: для кофемашины, турки, гейзера. Кофе Арабика. Обжариваем под заказ, отправляем по России.",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/CPremier/f48/0fy75qjiiqf7cdo59h4fq8zx2sao09o0.webp",
+   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Молотый кофе",
+   "specs": {
+    "Способ обработки": "Гилинг басах",
+    "Степень обжарки": "Темная"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 613.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/molotyy-kofe/?display=tile&PAGEN_2=4",
+   "name": "Суль де Минас 250 гр.",
+   "description": "Натуральный молотый кофе от обжарщика. Помол подбираем под вас: для кофемашины, турки, гейзера. Кофе Арабика. Обжариваем под заказ, отправляем по России.",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/CPremier/f48/0fy75qjiiqf7cdo59h4fq8zx2sao09o0.webp",
+   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Молотый кофе",
+   "specs": {
+    "Способ обработки": "Гилинг басах",
+    "Степень обжарки": "Темная"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 613.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/molotyy-kofe/?sort=CATALOG_PRICE_1&order=desc&PAGEN_2=4",
+   "name": "Набор дрипов в коробке",
+   "description": "Натуральный молотый кофе от обжарщика. Помол подбираем под вас: для кофемашины, турки, гейзера. Кофе Арабика. Обжариваем под заказ, отправляем по России.",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/CPremier/f48/0fy75qjiiqf7cdo59h4fq8zx2sao09o0.webp",
+   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Молотый кофе",
+   "specs": {
+    "Способ обработки": "Гилинг басах",
+    "Степень обжарки": "Темная"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": 360,
+     "price": 1990.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/molotyy-kofe/?sort=CATALOG_PRICE_1&order=asc&PAGEN_2=4",
+   "name": "Колумбия Де Ла Тьеррита 250гр",
+   "description": "Натуральный молотый кофе от обжарщика. Помол подбираем под вас: для кофемашины, турки, гейзера. Кофе Арабика. Обжариваем под заказ, отправляем по России.",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/CPremier/f48/0fy75qjiiqf7cdo59h4fq8zx2sao09o0.webp",
+   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Молотый кофе",
+   "specs": {
+    "Способ обработки": "Гилинг басах",
+    "Степень обжарки": "Темная"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1075.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/molotyy-kofe/?sort=SHOWS&order=desc&PAGEN_2=4",
+   "name": "Дрип К Симао Гр.1 Меллоу",
+   "description": "Натуральный молотый кофе от обжарщика. Помол подбираем под вас: для кофемашины, турки, гейзера. Кофе Арабика. Обжариваем под заказ, отправляем по России.",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/CPremier/f48/0fy75qjiiqf7cdo59h4fq8zx2sao09o0.webp",
+   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Молотый кофе",
+   "specs": {
+    "Способ обработки": "Гилинг басах",
+    "Степень обжарки": "Темная"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 72,
+     "price": 57.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/molotyy-kofe/?sort=SHOWS&order=asc&PAGEN_2=4",
+   "name": "Суль де Минас 250 гр.",
+   "description": "Натуральный молотый кофе от обжарщика. Помол подбираем под вас: для кофемашины, турки, гейзера. Кофе Арабика. Обжариваем под заказ, отправляем по России.",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/CPremier/f48/0fy75qjiiqf7cdo59h4fq8zx2sao09o0.webp",
+   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Молотый кофе",
+   "specs": {
+    "Способ обработки": "Гилинг басах",
+    "Степень обжарки": "Темная"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 613.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/molotyy-kofe/?display=price&PAGEN_2=4",
+   "name": "Суль де Минас 250 гр.",
+   "description": "Натуральный молотый кофе от обжарщика. Помол подбираем под вас: для кофемашины, турки, гейзера. Кофе Арабика. Обжариваем под заказ, отправляем по России.",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/CPremier/f48/0fy75qjiiqf7cdo59h4fq8zx2sao09o0.webp",
+   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Молотый кофе",
+   "specs": {
+    "Способ обработки": "Гилинг басах",
+    "Степень обжарки": "Темная"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 613.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/molotyy-kofe/?PAGEN_2=4",
+   "name": "Суль де Минас 250 гр.",
+   "description": "Натуральный молотый кофе от обжарщика. Помол подбираем под вас: для кофемашины, турки, гейзера. Кофе Арабика. Обжариваем под заказ, отправляем по России.",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/CPremier/f48/0fy75qjiiqf7cdo59h4fq8zx2sao09o0.webp",
+   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Молотый кофе",
+   "specs": {
+    "Способ обработки": "Гилинг басах",
+    "Степень обжарки": "Темная"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 613.0,
+     "available": true
+    }
+   ]
+  },
+  {
    "url": "https://nevacoffee.ru/catalog/coffee/efiopiya-irgacheffe-aricha-gr-2-filtr/",
    "name": "Кофе Эфиопия Иргачеффе Арича (фильтр)",
    "description": "Во вкусе спелые жёлтые фрукты, чай с бергамотом, сочные цитрусовые фрукты и деликатные пряные ноты.",
@@ -3814,78 +4245,6 @@
     {
      "weight_g": 1000,
      "price": 2465.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://nevacoffee.ru/catalog/coffee/arabika/nikaragua-matagalpa-shb/",
-   "name": "Кофе Никарагуа Матагальпа СХБ",
-   "description": "Во вкусе приятная сладость с нотами карамели, орехов, яблочная свежесть. Чистый сбалансированный вкус. На послевкусие чёрный чай с цедрой апельсина.",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/CPremier/f48/0fy75qjiiqf7cdo59h4fq8zx2sao09o0.webp",
-   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Кофе в зёрнах 100% арабика / Кофе в зёрнах 100% арабика / Кофе Никарагуа Матагальпа СХБ",
-   "specs": {
-    "Высота произрастания": "1200 м",
-    "Способ обработки": "Мытая",
-    "Регион": "Матагальпа",
-    "Степень обжарки": "Средняя"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 638.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 638.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 638.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1190.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2250.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 638.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1190.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2250.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 638.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1190.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2250.0,
      "available": true
     }
    ]
@@ -4365,76 +4724,6 @@
    ]
   },
   {
-   "url": "https://nevacoffee.ru/catalog/coffee/nikaragua-maragodzhip/",
-   "name": "Кофе Никарагуа Марагоджип",
-   "description": "Красные ягоды, цветочные нотки, фундук, какао. Сорт имеет округлое плотное тело и продолжительное насыщенное послевкусие.",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/CPremier/f48/0fy75qjiiqf7cdo59h4fq8zx2sao09o0.webp",
-   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Кофе Никарагуа Марагоджип",
-   "specs": {
-    "Способ обработки": "Мытая",
-    "Степень обжарки": "Средняя"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 950.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 950.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 950.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1815.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 3500.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 950.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1815.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 3500.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 950.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1815.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 3500.0,
-     "available": true
-    }
-   ]
-  },
-  {
    "url": "https://nevacoffee.ru/catalog/coffee/brazil-zheltyy-burbon-fazenda-sertao/",
    "name": "Кофе Бразилия Желтый Бурбон",
    "description": "Ореховые ноты, сладость молочного шоколада, карамель и лёгкая фруктовая кислинка.",
@@ -4622,6 +4911,78 @@
     {
      "weight_g": 200,
      "price": 605.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/arabika/nikaragua-matagalpa-shb/",
+   "name": "Кофе Никарагуа Матагальпа СХБ",
+   "description": "Во вкусе приятная сладость с нотами карамели, орехов, яблочная свежесть. Чистый сбалансированный вкус. На послевкусие чёрный чай с цедрой апельсина.",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/CPremier/f48/0fy75qjiiqf7cdo59h4fq8zx2sao09o0.webp",
+   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Кофе в зёрнах 100% арабика / Кофе в зёрнах 100% арабика / Кофе Никарагуа Матагальпа СХБ",
+   "specs": {
+    "Высота произрастания": "1200 м",
+    "Способ обработки": "Мытая",
+    "Регион": "Матагальпа",
+    "Степень обжарки": "Средняя"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 638.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 638.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 638.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 1190.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 2250.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 638.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 1190.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 2250.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 638.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 1190.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 2250.0,
      "available": true
     }
    ]

@@ -2,13 +2,47 @@
  "status": {
   "id": "madheads",
   "platform": "generic",
-  "items": 236,
-  "seconds": 222.5,
+  "items": 237,
+  "seconds": 203.6,
   "ok": true,
   "error": null,
-  "at": "2026-11-05T07:01:59+00:00"
+  "at": "2026-11-06T06:58:45+00:00"
  },
  "items": [
+  {
+   "url": "https://madheadscoffee.com/p/wR1Vc1fUMnu-84c44a80",
+   "name": "Popayan DECAF *GUR COLLAB",
+   "description": "*GUR COLLAB - «Спецпідрозділ Тимура» ГУР МО України - це універсальний оперативно-бойовий підрозділ спеціального призначення, відомий завдяки своїм операціям по звільненню острова Зміїний, поверненню під контроль України «вишок Бойка», деокупації Вовчанського агрегатного заводу, рейдам в Крим та Енергодар, боям за Бахмут, Авдіївку, Купʼянськ, Покровськ та ін.\nКупуючи цю каву ви робите прямий внесок в\nпідтримку «Спецпідрозділу Тимура» ГУР МО України.",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/423040/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Popayan DECAF *GUR COLLAB / Popayan DECAF *GUR COLLAB",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 516.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/MtHWPAi9Ecw-dd976347",
+   "name": "Wilton Benitez DECAF",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/408120/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Wilton Benitez DECAF / Wilton Benitez DECAF",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 536.0,
+     "available": true
+    }
+   ]
+  },
   {
    "url": "https://madheadscoffee.com/p/jAHvBO0M6h6-5edae4b4",
    "name": "Guji Hambella Gr.2",
@@ -277,40 +311,6 @@
     {
      "weight_g": null,
      "price": 734.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://madheadscoffee.com/p/rp654CKjHEk-19c3cba3",
-   "name": "Nuevo Oriente",
-   "description": "Перейдіть до каталога щоб обрати товар",
-   "image": "https://api.madheadscoffee.com/cdn/s/1/p/287470/0/large.png",
-   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Nuevo Oriente / Nuevo Oriente",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 429.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://madheadscoffee.com/p/d7MBqv8QaRa-decb9081",
-   "name": "Ndogo Kirinyaga",
-   "description": "Перейдіть до каталога щоб обрати товар",
-   "image": "https://api.madheadscoffee.com/cdn/s/1/p/287469/0/large.png",
-   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Ndogo Kirinyaga / Ndogo Kirinyaga",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 386.0,
      "available": true
     }
    ]
@@ -1302,6 +1302,40 @@
    ]
   },
   {
+   "url": "https://madheadscoffee.com/p/d7MBqv8QaRa-decb9081",
+   "name": "Ndogo Kirinyaga",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/287469/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Ndogo Kirinyaga / Ndogo Kirinyaga",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 386.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/rp654CKjHEk-19c3cba3",
+   "name": "Nuevo Oriente",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/287470/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Nuevo Oriente / Nuevo Oriente",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 429.0,
+     "available": true
+    }
+   ]
+  },
+  {
    "url": "https://madheadscoffee.com/p/KkiuxjdqAr2-e846255a",
    "name": "Lalisaa Gr.1",
    "description": "Перейдіть до каталога щоб обрати товар",
@@ -1688,23 +1722,6 @@
     {
      "weight_g": null,
      "price": 531.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://madheadscoffee.com/p/YO4cisIUQEO",
-   "name": "Wilton Benitez Red Bourbon DECAF",
-   "description": "Перейдіть до каталога щоб обрати товар",
-   "image": "https://api.madheadscoffee.com/cdn/s/1/p/439/0/large.png",
-   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Wilton Benitez Red Bourbon DECAF / Wilton Benitez Red Bourbon DECAF",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 456.0,
      "available": true
     }
    ]
