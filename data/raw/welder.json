@@ -2,11 +2,11 @@
  "status": {
   "id": "welder",
   "platform": "bitrix+generic",
-  "items": 138,
-  "seconds": 928.6,
+  "items": 139,
+  "seconds": 1752.2,
   "ok": true,
   "error": null,
-  "at": "2026-11-06T07:07:10+00:00"
+  "at": "2026-11-07T06:31:02+00:00"
  },
  "items": [
   {
@@ -29,7 +29,7 @@
    "variants": [
     {
      "weight_g": 90,
-     "price": 2425.0,
+     "price": 1815.0,
      "available": true
     }
    ]
@@ -50,7 +50,7 @@
    "variants": [
     {
      "weight_g": 90,
-     "price": 3145.0,
+     "price": 2705.0,
      "available": true
     }
    ]
@@ -358,6 +358,46 @@
     {
      "weight_g": 1000,
      "price": 3517.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_filtra/keniya_kilombe/",
+   "name": "Кения Киломбе",
+   "description": "Кофе Кения Киломбе",
+   "image": "https://theweldercatherine.ru/upload/iblock/2b4/lkc8h9j2iicgi9q8waayl8srbsb8rct8/250g-_1_-_97_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для фильтра / Для фильтра",
+   "specs": {
+    "Разновидность": "Sl-28, 34, Руиру 11, Батиан",
+    "Регион": "Ронгаи",
+    "Сбор урожая": "Январь 2026",
+    "Способ обработки": "натуральный",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Киломбе",
+    "Обжарка": "фильтр, эспрессо"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1260.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 3781.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1260.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 3781.0,
      "available": true
     }
    ]
@@ -1589,11 +1629,6 @@
      "available": true
     },
     {
-     "weight_g": 250,
-     "price": 1640.0,
-     "available": true
-    },
-    {
      "weight_g": 1000,
      "price": 4921.0,
      "available": true
@@ -2299,7 +2334,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 3660.0,
+     "price": 3111.0,
      "available": true
     }
    ]
@@ -2316,7 +2351,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 3685.0,
+     "price": 3132.0,
      "available": true
     }
    ]
@@ -3533,6 +3568,46 @@
    ]
   },
   {
+   "url": "https://theweldercatherine.ru/catalog/dlya_espresso/keniya_kilombe/",
+   "name": "Кения Киломбе",
+   "description": "Кофе Кения Киломбе",
+   "image": "https://theweldercatherine.ru/upload/iblock/2b4/lkc8h9j2iicgi9q8waayl8srbsb8rct8/250g-_1_-_97_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для эспрессо / Для эспрессо",
+   "specs": {
+    "Разновидность": "Sl-28, 34, Руиру 11, Батиан",
+    "Регион": "Ронгаи",
+    "Сбор урожая": "Январь 2026",
+    "Способ обработки": "натуральный",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Киломбе",
+    "Обжарка": "фильтр, эспрессо"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1260.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 3781.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1260.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 3781.0,
+     "available": true
+    }
+   ]
+  },
+  {
    "url": "https://theweldercatherine.ru/catalog/dlya_espresso/efiopiya_reku_1/",
    "name": "Эфиопия Реку",
    "description": "Кофе Эфиопия Реку",
@@ -3767,27 +3842,6 @@
     {
      "weight_g": 1000,
      "price": 5174.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://theweldercatherine.ru/catalog/dlya_filtra/assorti_tsyganskaya_svadba_ekvador_1/",
-   "name": "Ассорти «Цыганская свадьба» Эквадор",
-   "description": "Ассорти «Цыганская свадьба» Эквадор",
-   "image": "https://theweldercatherine.ru/upload/iblock/24b/jgj06uvwrt9hni5hy2ryqgtntvxx3i1t/Assorti_TSyganskaya_svadba_Ekvador-_2_.png",
-   "category": "Главная страница / Главная страница / Каталог / Каталог / Для фильтра / Для фильтра",
-   "specs": {
-    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
-    "Ферма": "Finca Soledad",
-    "Обжарка": "фильтр"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": 90,
-     "price": 3145.0,
      "available": true
     }
    ]

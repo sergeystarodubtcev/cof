@@ -3,662 +3,22 @@
   "id": "camera",
   "platform": "tilda",
   "items": 15,
-  "seconds": 39.9,
+  "seconds": 71.1,
   "ok": true,
   "error": null,
-  "at": "2026-11-06T06:51:01+00:00"
+  "at": "2026-11-07T06:01:22+00:00"
  },
  "items": [
   {
-   "url": "https://camcoffee.ru/filter/mixtura",
-   "name": "Mixtura: Бразилия + Уганда",
-   "description": "Бразилия 50% + Уганда 40% + Бразилия 10%\nВо вкусе: жёлтое яблоко, курага, ореховая паста",
-   "image": "https://static.tildacdn.com/stor3963-3135-4335-b766-356432393733/18576112.jpg",
+   "url": "https://camcoffee.ru/accessories/cup",
+   "name": "Фирменная чашка",
+   "description": "Фирменная чашка для кофе от Камеры Обскуры",
+   "image": "https://static.tildacdn.com/stor6662-3266-4466-a261-306362373330/56874717.jpg",
    "available": true,
    "variants": [
     {
-     "weight_g": 250,
-     "price": 944.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 944.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 944.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 944.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 944.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 944.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 944.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 944.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 944.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 944.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 3524.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 3524.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 3524.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 3524.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 3524.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 3524.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 3524.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 3524.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 3524.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 3524.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://camcoffee.ru/filter/hellow",
-   "name": "Hellow",
-   "description": "Бразилия Андре Санчес\nВо вкусе: сливочная карамель, фундук, сухофрукты",
-   "image": "https://static.tildacdn.com/stor3161-6338-4634-a564-653161326662/28d358337de57b84c9d3f6517c68dbc9.jpg",
-   "available": true,
-   "variants": [
-    {
-     "weight_g": 250,
-     "price": 1138.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1138.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1138.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1138.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1138.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1138.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1138.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1138.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1138.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1138.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4255.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4255.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4255.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4255.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4255.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4255.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4255.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4255.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4255.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4255.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://camcoffee.ru/filter/papaya_jazz",
-   "name": "Papaya Jazz",
-   "description": "Эфиопия Айла Бомбе\nВо вкусе: жасмин, земляника, спелое зелёное яблоко",
-   "image": "https://static.tildacdn.com/stor3737-6162-4461-b938-373964623836/813230f8eb00ad8d75f457ef2f965b49.jpg",
-   "available": true,
-   "variants": [
-    {
-     "weight_g": 250,
-     "price": 1154.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1154.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1154.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1154.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1154.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1154.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1154.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1154.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1154.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1154.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4321.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4321.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4321.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4321.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4321.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4321.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4321.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4321.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4321.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4321.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://camcoffee.ru/filter/cowboy_bebop",
-   "name": "Cowboy Bebop",
-   "description": "Уганда Рувелгон\nВо вкусе: жёлтое яблоко, вишнёвый компот, грецкий орех",
-   "image": "https://static.tildacdn.com/stor3533-6438-4731-b539-633163353439/df492ffc73fc5615c922e34a1e19b6de.jpg",
-   "available": true,
-   "variants": [
-    {
-     "weight_g": 250,
-     "price": 1092.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1092.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1092.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1092.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1092.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1092.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1092.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1092.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1092.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1092.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4072.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4072.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4072.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4072.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4072.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4072.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4072.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4072.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4072.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4072.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://camcoffee.ru/filter/neon_jam",
-   "name": "Neon Jam",
-   "description": "Кения Рунгето АА\nВо вкусе: чёрный чай, лимонный джем, красная смородина",
-   "image": "https://static.tildacdn.com/stor6334-6132-4065-a363-616265623764/4b05cbdc3b78671ee9b2fca406cc6075.jpg",
-   "available": true,
-   "variants": [
-    {
-     "weight_g": 250,
-     "price": 1143.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1143.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1143.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1143.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1143.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1143.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1143.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1143.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1143.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1143.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4276.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4276.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4276.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4276.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4276.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4276.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4276.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4276.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4276.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4276.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://camcoffee.ru/filter/smashed_avo",
-   "name": "Smashed Avo",
-   "description": "Колумбия Уила Розовый Бурбон\nВо вкусе: красное яблоко, арбуз, ореховая нуга",
-   "image": "https://static.tildacdn.com/stor3163-6632-4063-a565-346631346265/a4ae348fc8fddc404a81f348e692f86b.jpg",
-   "available": true,
-   "variants": [
-    {
-     "weight_g": 250,
-     "price": 1055.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1055.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1055.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1055.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1055.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1055.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1055.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1055.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1055.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1055.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 3923.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 3923.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 3923.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 3923.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 3923.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 3923.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 3923.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 3923.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 3923.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 3923.0,
+     "weight_g": null,
+     "price": 1800.0,
      "available": true
     }
    ]
@@ -673,20 +33,6 @@
     {
      "weight_g": null,
      "price": 830.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://camcoffee.ru/accessories/cup",
-   "name": "Фирменная чашка",
-   "description": "Фирменная чашка для кофе от Камеры Обскуры",
-   "image": "https://static.tildacdn.com/stor6662-3266-4466-a261-306362373330/56874717.jpg",
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 1800.0,
      "available": true
     }
    ]
@@ -1341,6 +687,660 @@
     {
      "weight_g": 1000,
      "price": 3989.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://camcoffee.ru/filter/mixtura",
+   "name": "Mixtura: Бразилия + Уганда",
+   "description": "Бразилия 50% + Уганда 40% + Бразилия 10%\nВо вкусе: жёлтое яблоко, курага, ореховая паста",
+   "image": "https://static.tildacdn.com/stor3963-3135-4335-b766-356432393733/18576112.jpg",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 944.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 944.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 944.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 944.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 944.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 944.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 944.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 944.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 944.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 944.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 3524.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 3524.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 3524.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 3524.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 3524.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 3524.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 3524.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 3524.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 3524.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 3524.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://camcoffee.ru/filter/hellow",
+   "name": "Hellow",
+   "description": "Бразилия Андре Санчес\nВо вкусе: сливочная карамель, фундук, сухофрукты",
+   "image": "https://static.tildacdn.com/stor3161-6338-4634-a564-653161326662/28d358337de57b84c9d3f6517c68dbc9.jpg",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1138.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1138.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1138.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1138.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1138.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1138.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1138.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1138.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1138.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1138.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4255.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4255.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4255.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4255.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4255.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4255.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4255.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4255.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4255.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4255.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://camcoffee.ru/filter/papaya_jazz",
+   "name": "Papaya Jazz",
+   "description": "Эфиопия Айла Бомбе\nВо вкусе: жасмин, земляника, спелое зелёное яблоко",
+   "image": "https://static.tildacdn.com/stor3737-6162-4461-b938-373964623836/813230f8eb00ad8d75f457ef2f965b49.jpg",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1154.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1154.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1154.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1154.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1154.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1154.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1154.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1154.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1154.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1154.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4321.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4321.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4321.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4321.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4321.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4321.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4321.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4321.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4321.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4321.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://camcoffee.ru/filter/cowboy_bebop",
+   "name": "Cowboy Bebop",
+   "description": "Уганда Рувелгон\nВо вкусе: жёлтое яблоко, вишнёвый компот, грецкий орех",
+   "image": "https://static.tildacdn.com/stor3533-6438-4731-b539-633163353439/df492ffc73fc5615c922e34a1e19b6de.jpg",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1092.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1092.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1092.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1092.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1092.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1092.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1092.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1092.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1092.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1092.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4072.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4072.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4072.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4072.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4072.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4072.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4072.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4072.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4072.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4072.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://camcoffee.ru/filter/neon_jam",
+   "name": "Neon Jam",
+   "description": "Кения Рунгето АА\nВо вкусе: чёрный чай, лимонный джем, красная смородина",
+   "image": "https://static.tildacdn.com/stor6334-6132-4065-a363-616265623764/4b05cbdc3b78671ee9b2fca406cc6075.jpg",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1143.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1143.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1143.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1143.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1143.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1143.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1143.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1143.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1143.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1143.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4276.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4276.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4276.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4276.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4276.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4276.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4276.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4276.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4276.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4276.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://camcoffee.ru/filter/smashed_avo",
+   "name": "Smashed Avo",
+   "description": "Колумбия Уила Розовый Бурбон\nВо вкусе: красное яблоко, арбуз, ореховая нуга",
+   "image": "https://static.tildacdn.com/stor3163-6632-4063-a565-346631346265/a4ae348fc8fddc404a81f348e692f86b.jpg",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1055.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1055.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1055.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1055.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1055.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1055.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1055.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1055.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1055.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1055.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 3923.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 3923.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 3923.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 3923.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 3923.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 3923.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 3923.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 3923.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 3923.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 3923.0,
      "available": true
     }
    ]

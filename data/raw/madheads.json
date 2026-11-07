@@ -2,11 +2,11 @@
  "status": {
   "id": "madheads",
   "platform": "generic",
-  "items": 237,
-  "seconds": 203.6,
+  "items": 243,
+  "seconds": 277.5,
   "ok": true,
   "error": null,
-  "at": "2026-11-06T06:58:45+00:00"
+  "at": "2026-11-07T06:12:53+00:00"
  },
  "items": [
   {
@@ -27,6 +27,23 @@
    ]
   },
   {
+   "url": "https://madheadscoffee.com/p/60dZ84AV7NW-bde14b5a",
+   "name": "La Macarena DOUBLE",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/408121/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / La Macarena DOUBLE / La Macarena DOUBLE",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 521.0,
+     "available": true
+    }
+   ]
+  },
+  {
    "url": "https://madheadscoffee.com/p/MtHWPAi9Ecw-dd976347",
    "name": "Wilton Benitez DECAF",
    "description": "Перейдіть до каталога щоб обрати товар",
@@ -39,6 +56,91 @@
     {
      "weight_g": null,
      "price": 536.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/d8tPFNhtfoM-d6fa5d5b",
+   "name": "La Macarena",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/408119/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / La Macarena / La Macarena",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 464.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/FjP4rnd0E1K-02f66153",
+   "name": "Granja Paraiso Pink Bourbon *GUR COLLAB",
+   "description": "*GUR COLLAB - «Спецпідрозділ Тимура» ГУР МО України - це універсальний оперативно-бойовий підрозділ спеціального призначення, відомий завдяки своїм операціям по звільненню острова Зміїний, поверненню під контроль України «вишок Бойка», деокупації Вовчанського агрегатного заводу, рейдам в Крим та Енергодар, боям за Бахмут, Авдіївку, Купʼянськ, Покровськ та ін.\nКупуючи цю каву ви робите прямий внесок в\nпідтримку «Спецпідрозділу Тимура» ГУР МО України.",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/408118/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Granja Paraiso Pink Bourbon *GUR COLLAB / Granja Paraiso Pink Bourbon *GUR COLLAB",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 716.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/JKJgeCOt5Fu-ddb41351",
+   "name": "La Macarena Gesha *GUR COLLAB",
+   "description": "*GUR COLLAB - «Спецпідрозділ Тимура» ГУР МО України - це універсальний оперативно-бойовий підрозділ спеціального призначення, відомий завдяки своїм операціям по звільненню острова Зміїний, поверненню під контроль України «вишок Бойка», деокупації Вовчанського агрегатного заводу, рейдам в Крим та Енергодар, боям за Бахмут, Авдіївку, Купʼянськ, Покровськ та ін.\nКупуючи цю каву ви робите прямий внесок в\nпідтримку «Спецпідрозділу Тимура» ГУР МО України.",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/408117/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / La Macarena Gesha *GUR COLLAB / La Macarena Gesha *GUR COLLAB",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 716.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/r72Pv7z2dyQ-d4f434cf",
+   "name": "Granja Paraiso *GUR COLLAB",
+   "description": "*GUR COLLAB - «Спецпідрозділ Тимура» ГУР МО України - це універсальний оперативно-бойовий підрозділ спеціального призначення, відомий завдяки своїм операціям по звільненню острова Зміїний, поверненню під контроль України «вишок Бойка», деокупації Вовчанського агрегатного заводу, рейдам в Крим та Енергодар, боям за Бахмут, Авдіївку, Купʼянськ, Покровськ та ін.\nКупуючи цю каву ви робите прямий внесок в\nпідтримку «Спецпідрозділу Тимура» ГУР МО України.",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/408116/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Granja Paraiso *GUR COLLAB / Granja Paraiso *GUR COLLAB",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 956.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/adz6XOXNane-8ea1eaf8",
+   "name": "La Macarena SL28 *GUR COLLAB",
+   "description": "*GUR COLLAB - «Спецпідрозділ Тимура» ГУР МО України - це універсальний оперативно-бойовий підрозділ спеціального призначення, відомий завдяки своїм операціям по звільненню острова Зміїний, поверненню під контроль України «вишок Бойка», деокупації Вовчанського агрегатного заводу, рейдам в Крим та Енергодар, боям за Бахмут, Авдіївку, Купʼянськ, Покровськ та ін.\nКупуючи цю каву ви робите прямий внесок в\nпідтримку «Спецпідрозділу Тимура» ГУР МО України.",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/408115/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / La Macarena SL28 *GUR COLLAB / La Macarena SL28 *GUR COLLAB",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 956.0,
      "available": true
     }
    ]
@@ -209,108 +311,6 @@
     {
      "weight_g": null,
      "price": 959.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://madheadscoffee.com/p/TUceUm2alKw-d65d996e",
-   "name": "La Montana",
-   "description": "Перейдіть до каталога щоб обрати товар",
-   "image": "https://api.madheadscoffee.com/cdn/s/1/p/338617/0/large.png",
-   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / La Montana / La Montana",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 484.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://madheadscoffee.com/p/XZnVbXFg97S-929461dd",
-   "name": "Suke Werekata",
-   "description": "Перейдіть до каталога щоб обрати товар",
-   "image": "https://api.madheadscoffee.com/cdn/s/1/p/337734/0/large.png",
-   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Suke Werekata / Suke Werekata",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 534.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://madheadscoffee.com/p/Nd1NKt62Ma0-a8aab1fb",
-   "name": "Kochere Gr2",
-   "description": "Перейдіть до каталога щоб обрати товар",
-   "image": "https://api.madheadscoffee.com/cdn/s/1/p/337733/0/large.png",
-   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Kochere Gr2 / Kochere Gr2",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 446.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://madheadscoffee.com/p/uuUz3LMDKmc-2ca31651",
-   "name": "Santa Monica + Rose Tea *GUR COLLAB",
-   "description": "*GUR COLLAB - «Спецпідрозділ Тимура» ГУР МО України - це універсальний оперативно-бойовий підрозділ спеціального призначення, відомий завдяки своїм операціям по звільненню острова Зміїний, поверненню під контроль України «вишок Бойка», деокупації Вовчанського агрегатного заводу, рейдам в Крим та Енергодар, боям за Бахмут, Авдіївку, Купʼянськ, Покровськ та ін.\nКупуючи цю каву ви робите прямий внесок в\nпідтримку «Спецпідрозділу Тимура» ГУР МО України.",
-   "image": "https://api.madheadscoffee.com/cdn/s/1/p/337731/0/large.png",
-   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Santa Monica + Rose Tea *GUR COLLAB / Santa Monica + Rose Tea *GUR COLLAB",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 836.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://madheadscoffee.com/p/QqtdgChsrvC-c5d4fdef",
-   "name": "Santa Monica + Lychee *GUR COLLAB",
-   "description": "*GUR COLLAB - «Спецпідрозділ Тимура» ГУР МО України - це універсальний оперативно-бойовий підрозділ спеціального призначення, відомий завдяки своїм операціям по звільненню острова Зміїний, поверненню під контроль України «вишок Бойка», деокупації Вовчанського агрегатного заводу, рейдам в Крим та Енергодар, боям за Бахмут, Авдіївку, Купʼянськ, Покровськ та ін.\nКупуючи цю каву ви робите прямий внесок в\nпідтримку «Спецпідрозділу Тимура» ГУР МО України.",
-   "image": "https://api.madheadscoffee.com/cdn/s/1/p/337730/0/large.png",
-   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Santa Monica + Lychee *GUR COLLAB / Santa Monica + Lychee *GUR COLLAB",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 831.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://madheadscoffee.com/p/r73RdlRg0hC-9dfde0b7",
-   "name": "Santa Monica + Strawberry *GUR COLLAB",
-   "description": "*GUR COLLAB - «Спецпідрозділ Тимура» ГУР МО України - це універсальний оперативно-бойовий підрозділ спеціального призначення, відомий завдяки своїм операціям по звільненню острова Зміїний, поверненню під контроль України «вишок Бойка», деокупації Вовчанського агрегатного заводу, рейдам в Крим та Енергодар, боям за Бахмут, Авдіївку, Купʼянськ, Покровськ та ін.\nКупуючи цю каву ви робите прямий внесок в\nпідтримку «Спецпідрозділу Тимура» ГУР МО України.",
-   "image": "https://api.madheadscoffee.com/cdn/s/1/p/337729/0/large.png",
-   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Santa Monica + Strawberry *GUR COLLAB / Santa Monica + Strawberry *GUR COLLAB",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 734.0,
      "available": true
     }
    ]
@@ -1285,6 +1285,108 @@
    ]
   },
   {
+   "url": "https://madheadscoffee.com/p/Nd1NKt62Ma0-a8aab1fb",
+   "name": "Kochere Gr2",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/337733/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Kochere Gr2 / Kochere Gr2",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 446.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/TUceUm2alKw-d65d996e",
+   "name": "La Montana",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/338617/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / La Montana / La Montana",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 484.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/XZnVbXFg97S-929461dd",
+   "name": "Suke Werekata",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/337734/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Suke Werekata / Suke Werekata",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 534.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/r73RdlRg0hC-9dfde0b7",
+   "name": "Santa Monica + Strawberry *GUR COLLAB",
+   "description": "*GUR COLLAB - «Спецпідрозділ Тимура» ГУР МО України - це універсальний оперативно-бойовий підрозділ спеціального призначення, відомий завдяки своїм операціям по звільненню острова Зміїний, поверненню під контроль України «вишок Бойка», деокупації Вовчанського агрегатного заводу, рейдам в Крим та Енергодар, боям за Бахмут, Авдіївку, Купʼянськ, Покровськ та ін.\nКупуючи цю каву ви робите прямий внесок в\nпідтримку «Спецпідрозділу Тимура» ГУР МО України.",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/337729/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Santa Monica + Strawberry *GUR COLLAB / Santa Monica + Strawberry *GUR COLLAB",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 734.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/QqtdgChsrvC-c5d4fdef",
+   "name": "Santa Monica + Lychee *GUR COLLAB",
+   "description": "*GUR COLLAB - «Спецпідрозділ Тимура» ГУР МО України - це універсальний оперативно-бойовий підрозділ спеціального призначення, відомий завдяки своїм операціям по звільненню острова Зміїний, поверненню під контроль України «вишок Бойка», деокупації Вовчанського агрегатного заводу, рейдам в Крим та Енергодар, боям за Бахмут, Авдіївку, Купʼянськ, Покровськ та ін.\nКупуючи цю каву ви робите прямий внесок в\nпідтримку «Спецпідрозділу Тимура» ГУР МО України.",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/337730/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Santa Monica + Lychee *GUR COLLAB / Santa Monica + Lychee *GUR COLLAB",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 831.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/uuUz3LMDKmc-2ca31651",
+   "name": "Santa Monica + Rose Tea *GUR COLLAB",
+   "description": "*GUR COLLAB - «Спецпідрозділ Тимура» ГУР МО України - це універсальний оперативно-бойовий підрозділ спеціального призначення, відомий завдяки своїм операціям по звільненню острова Зміїний, поверненню під контроль України «вишок Бойка», деокупації Вовчанського агрегатного заводу, рейдам в Крим та Енергодар, боям за Бахмут, Авдіївку, Купʼянськ, Покровськ та ін.\nКупуючи цю каву ви робите прямий внесок в\nпідтримку «Спецпідрозділу Тимура» ГУР МО України.",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/337731/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Santa Monica + Rose Tea *GUR COLLAB / Santa Monica + Rose Tea *GUR COLLAB",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 836.0,
+     "available": true
+    }
+   ]
+  },
+  {
    "url": "https://madheadscoffee.com/p/EPmq5gj1ySU-5971e1bc",
    "name": "Kaffa Bono Gr.2",
    "description": "Перейдіть до каталога щоб обрати товар",
@@ -1540,7 +1642,7 @@
    ]
   },
   {
-   "url": "https://madheadscoffee.com/p/scAYWIdhUek-6d18286f",
+   "url": "https://madheadscoffee.com/p/jv8dGzB8gLG-37ff4fdf",
    "name": "Eje Cafetero",
    "description": "Перейдіть до каталога щоб обрати товар",
    "image": "https://api.madheadscoffee.com/cdn/s/1/p/205239/0/large.png",
@@ -1551,7 +1653,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 394.0,
+     "price": 1574.0,
      "available": true
     }
    ]
