@@ -2,11 +2,11 @@
  "status": {
   "id": "madheads",
   "platform": "generic",
-  "items": 243,
-  "seconds": 277.5,
+  "items": 242,
+  "seconds": 321.6,
   "ok": true,
   "error": null,
-  "at": "2026-11-07T06:12:53+00:00"
+  "at": "2026-11-08T06:14:52+00:00"
  },
  "items": [
   {
@@ -406,23 +406,6 @@
    "description": "Перейдіть до каталога щоб обрати товар",
    "image": "https://api.madheadscoffee.com/cdn/s/1/p/315924/0/large.png",
    "category": "Головна / Головна / Категорії / Категорії / Easydrip / Easydrip / Samwa Easy Drip / Samwa Easy Drip",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 450.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://madheadscoffee.com/p/NTKTxyguHgU-c8df9466",
-   "name": "Gaitania Easy Drip",
-   "description": "Перейдіть до каталога щоб обрати товар",
-   "image": "https://api.madheadscoffee.com/cdn/s/1/p/300384/0/large.png",
-   "category": "Головна / Головна / Категорії / Категорії / Easydrip / Easydrip / Gaitania Easy Drip / Gaitania Easy Drip",
    "specs": {},
    "gallery": [],
    "available": true,
@@ -2730,7 +2713,7 @@
    ]
   },
   {
-   "url": "https://madheadscoffee.com/p/OQUG4ncaHHi-4718f60d",
+   "url": "https://madheadscoffee.com/p/TAaNEujZwAY-0c192f0c",
    "name": "Футболка чорна «Спецпідрозділ Тимура» ГУР МОУ Х MH *GUR COLLAB",
    "description": "*GUR COLLAB - «Спецпідрозділ Тимура» ГУР МО України - це універсальний оперативно-бойовий підрозділ спеціального призначення, відомий завдяки своїм операціям по звільненню острова Зміїний, поверненню під контроль України «вишок Бойка», деокупації Вовчанського агрегатного заводу, рейдам в Крим та Енергодар, боям за Бахмут, Авдіївку, Купʼянськ, Покровськ та ін.\nКупуючи цей мерч ви робите прямий внесок в\nпідтримку «Спецпідрозділу Тимура» ГУР МО України.",
    "image": "https://api.madheadscoffee.com/cdn/s/1/p/44291/0/large.jpg",

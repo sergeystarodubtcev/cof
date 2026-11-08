@@ -3,10 +3,10 @@
   "id": "tasty",
   "platform": "generic",
   "items": 459,
-  "seconds": 1248.2,
+  "seconds": 971.9,
   "ok": true,
   "error": null,
-  "at": "2026-11-07T06:20:59+00:00"
+  "at": "2026-11-08T06:20:44+00:00"
  },
  "items": [
   {
@@ -2356,33 +2356,6 @@
     {
      "weight_g": 100,
      "price": 869.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://shop.tastycoffee.ru/coffee/colombia-geisha-joan-vergara",
-   "name": "Колумбия Гейша Хоан Вергара",
-   "description": "Колумбия Гейша Хоан Вергара, мытый — купить свежеобжаренный кофе для фильтра в пачках по 100 г. Официальный интернет-магазин кофе и чая Tasty Coffee. Более 150 сортов кофе и чая. Купить кофе в зёрнах, молотый, кофе без кофеина можно с бесплатной доставкой по России и Москве.",
-   "image": "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1783665308.4573-colombia-geisha-joan-vergara-front-768.jpg",
-   "category": "",
-   "specs": {
-    "Степень обжарки": "фильтр",
-    "Регион": "Уила",
-    "Способ обработки": "мытый",
-    "Высота произрастания": "1700 м",
-    "Урожай": "2025",
-    "Разновидность": "гейша"
-   },
-   "gallery": [
-    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1783665308.5261-colombia-geisha-joan-vergara-front-1024.jpg",
-    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1783665308.3928-colombia-geisha-joan-vergara-front-480.jpg"
-   ],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": 100,
-     "price": 929.0,
      "available": true
     }
    ]
@@ -13226,30 +13199,27 @@
    "url": "https://shop.tastycoffee.ru/coffee/espresso-guatemala-lapila",
    "name": "Гватемала Ла Пила",
    "description": "Кофе Гватемала Ла Пила при покупке 6 пачек кофе 250 г - подарок! Оплата при получении. Кофе Гватемала в зернах - Сладкий кофе со вкусом жёлтой груши, малины, изюма и молочного шоколада",
-   "image": "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product/1744363272.7391-espresso-guatemala-lapila-025-768.webp",
+   "image": "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/_newpack7/esp-micro/guatemala-la-pila-250-2.png",
    "category": "",
    "specs": {
     "Степень обжарки": "эспрессо",
     "Регион": "Фрайжанес",
-    "Способ обработки": "хани",
+    "Способ обработки": "натуральный фанки",
     "Высота произрастания": "1700 м",
-    "Урожай": "2023",
+    "Урожай": "2022",
     "Разновидность": "бурбон"
    },
-   "gallery": [
-    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product/1744363274.5734-espresso-guatemala-lapila-1-768.webp",
-    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product/1744363276.0311-beans-espresso-guatemala-lapila-768.webp"
-   ],
+   "gallery": [],
    "available": false,
    "variants": [
     {
      "weight_g": 250,
-     "price": 939.0,
+     "price": 769.0,
      "available": false
     },
     {
      "weight_g": 1000,
-     "price": 3189.0,
+     "price": 2609.0,
      "available": false
     }
    ]
@@ -14066,6 +14036,34 @@
     {
      "weight_g": 1000,
      "price": 3739.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://shop.tastycoffee.ru/coffee/colombia-marageisha-encanto",
+   "name": "Колумбия Марагейша Энканто",
+   "description": "Кофе Колумбия Марагейша Энканто. Лёгкий кофе с нотами личи, нектарина, зелёного чая и розового перца. При покупке 6 пачек кофе 250 г - подарок! Оплата при получении.",
+   "image": "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product/1761565555.4303-colombia-marageisha-encanto-768.webp",
+   "category": "",
+   "specs": {
+    "Степень обжарки": "фильтр",
+    "Регион": "Киндио",
+    "Способ обработки": "натуральный фанки",
+    "Высота произрастания": "1700 м",
+    "Урожай": "2025",
+    "Разновидность": "марагейша"
+   },
+   "gallery": [
+    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product/1761565557.0596-colombia-marageisha-encanto-beans-768.webp",
+    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1782289568.1584-colombia-marageisha-encanto-front-768.jpg",
+    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1782289568.2541-colombia-marageisha-encanto-front-1024.jpg"
+   ],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": 100,
+     "price": 1899.0,
      "available": false
     }
    ]

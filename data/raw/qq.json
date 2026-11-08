@@ -2,11 +2,11 @@
  "status": {
   "id": "qq",
   "platform": "generic",
-  "items": 26,
-  "seconds": 69.3,
+  "items": 25,
+  "seconds": 57.9,
   "ok": true,
   "error": null,
-  "at": "2026-11-07T06:05:33+00:00"
+  "at": "2026-11-08T06:08:02+00:00"
  },
  "items": [
   {
@@ -655,33 +655,6 @@
     {
      "weight_g": 1000,
      "price": 3420.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://qqcoffee.ru/products/gvatemala-blyu-ayarza",
-   "name": "Гватемала Блю Аярза",
-   "description": "Чернослив, варенье из темных ягод, апельсиновые чипсы, шоколад",
-   "image": "https://res.cloudinary.com/qq-website/image/upload/v1790880315/200_24e867b592.png",
-   "category": "",
-   "specs": {
-    "Дескрипторы": "чернослив, варенье из темных ягод, апельсиновые чипсы, шоколад",
-    "Страна": "Гватемала",
-    "Обработка": "Натуральная",
-    "Обжарка": "Эспрессо • средняя"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": 200,
-     "price": 810.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 3260.0,
      "available": true
     }
    ]
