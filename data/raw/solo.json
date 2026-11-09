@@ -3,10 +3,10 @@
   "id": "solo",
   "platform": "woocommerce",
   "items": 49,
-  "seconds": 3.2,
+  "seconds": 3.1,
   "ok": true,
   "error": null,
-  "at": "2026-11-08T06:09:30+00:00"
+  "at": "2026-11-09T06:41:33+00:00"
  },
  "items": [
   {
@@ -240,12 +240,12 @@
    "description": "Сладкий, чистый кофе с хорошей кислотностью, нотками тёмных ягод, тёмного шоколада и сухофруктов.",
    "category": "Свежеобжаренный кофе Кофе зерновой Кофе молотый",
    "image": "https://solocoffee.ru/wp-content/uploads/2025/02/supremo-1kg.png",
-   "available": true,
+   "available": false,
    "variants": [
     {
      "weight_g": null,
      "price": 1756.0,
-     "available": true
+     "available": false
     }
    ]
   },

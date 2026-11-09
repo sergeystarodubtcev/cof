@@ -2,11 +2,11 @@
  "status": {
   "id": "madheads",
   "platform": "generic",
-  "items": 242,
-  "seconds": 321.6,
+  "items": 241,
+  "seconds": 410.1,
   "ok": true,
   "error": null,
-  "at": "2026-11-08T06:14:52+00:00"
+  "at": "2026-11-09T06:48:23+00:00"
  },
  "items": [
   {
@@ -1297,23 +1297,6 @@
     {
      "weight_g": null,
      "price": 484.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://madheadscoffee.com/p/XZnVbXFg97S-929461dd",
-   "name": "Suke Werekata",
-   "description": "Перейдіть до каталога щоб обрати товар",
-   "image": "https://api.madheadscoffee.com/cdn/s/1/p/337734/0/large.png",
-   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Suke Werekata / Suke Werekata",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 534.0,
      "available": true
     }
    ]

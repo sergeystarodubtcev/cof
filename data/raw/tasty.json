@@ -3,10 +3,10 @@
   "id": "tasty",
   "platform": "generic",
   "items": 459,
-  "seconds": 971.9,
+  "seconds": 1148.4,
   "ok": true,
   "error": null,
-  "at": "2026-11-08T06:20:44+00:00"
+  "at": "2026-11-09T06:53:49+00:00"
  },
  "items": [
   {
@@ -13199,27 +13199,30 @@
    "url": "https://shop.tastycoffee.ru/coffee/espresso-guatemala-lapila",
    "name": "Гватемала Ла Пила",
    "description": "Кофе Гватемала Ла Пила при покупке 6 пачек кофе 250 г - подарок! Оплата при получении. Кофе Гватемала в зернах - Сладкий кофе со вкусом жёлтой груши, малины, изюма и молочного шоколада",
-   "image": "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/_newpack7/esp-micro/guatemala-la-pila-250-2.png",
+   "image": "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product/1744363272.7391-espresso-guatemala-lapila-025-768.webp",
    "category": "",
    "specs": {
     "Степень обжарки": "эспрессо",
     "Регион": "Фрайжанес",
-    "Способ обработки": "натуральный фанки",
+    "Способ обработки": "хани",
     "Высота произрастания": "1700 м",
-    "Урожай": "2022",
+    "Урожай": "2023",
     "Разновидность": "бурбон"
    },
-   "gallery": [],
+   "gallery": [
+    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product/1744363274.5734-espresso-guatemala-lapila-1-768.webp",
+    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product/1744363276.0311-beans-espresso-guatemala-lapila-768.webp"
+   ],
    "available": false,
    "variants": [
     {
      "weight_g": 250,
-     "price": 769.0,
+     "price": 939.0,
      "available": false
     },
     {
      "weight_g": 1000,
-     "price": 2609.0,
+     "price": 3189.0,
      "available": false
     }
    ]
