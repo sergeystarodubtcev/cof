@@ -2,11 +2,11 @@
  "status": {
   "id": "solo",
   "platform": "woocommerce",
-  "items": 49,
-  "seconds": 3.1,
+  "items": 55,
+  "seconds": 3.9,
   "ok": true,
   "error": null,
-  "at": "2026-11-09T06:41:33+00:00"
+  "at": "2026-11-10T07:27:56+00:00"
  },
  "items": [
   {
@@ -475,32 +475,122 @@
    ]
   },
   {
-   "url": "https://solocoffee.ru/product/drip-kofe-solo-coffee-blend001-molotyj-kofe-v-drip-paketah-6sht13gr-kopirovat-kopirovat/",
-   "name": "Дрип кофе Solo Coffee Бленд 001 (Молотый кофе в дрип-пакетах) 6шт*13гр",
-   "description": "Дрип кофе Solo Coffee  Бленд 001 (Молотый кофе в дрип-пакетах) 6шт*13гр",
-   "category": "Свежеобжаренный кофе",
-   "image": "https://solocoffee.ru/wp-content/uploads/2025/01/dripi_korobka.png",
+   "url": "https://solocoffee.ru/product/drip-kofe-solo-coffee-braziliya-santos-molotyj-kofe-v-drip-paketah-1sht13gr-kopirovat/",
+   "name": "Дрип кофе Solo Coffee Бразилия Сантос (Молотый кофе в дрип-пакетах) 1шт*13гр",
+   "description": "Дрип кофе Solo Coffee Бразилия Сантос (Молотый кофе в дрип-пакетах) 1шт*13гр",
+   "category": "Свежеобжаренный кофе Дрип-кофе",
+   "image": "https://solocoffee.ru/wp-content/uploads/2025/01/drip_otdelno.png",
    "available": true,
    "variants": [
     {
      "weight_g": null,
-     "price": 305.0,
+     "price": 40.0,
      "available": true
     }
    ]
   },
   {
-   "url": "https://solocoffee.ru/product/drip-kofe-solo-coffee-columbia-supremo-molotyj-kofe-v-drip-paketah-6sht13gr-kopirovat/",
-   "name": "Дрип кофе Solo Coffee Колумбия Супремо (Молотый кофе в дрип-пакетах) 6шт*13гр",
-   "description": "Дрип кофе Solo Coffee  Колумбия Супремо (Молотый кофе в дрип-пакетах) 6шт*13гр",
-   "category": "Свежеобжаренный кофе",
-   "image": "https://solocoffee.ru/wp-content/uploads/2025/01/dripi_korobka.png",
-   "available": false,
+   "url": "https://solocoffee.ru/product/drip-kofe-solo-coffee-blend-001-molotyj-kofe-v-drip-paketah-1sht13gr/",
+   "name": "Дрип кофе Solo Coffee Бленд 001 (Молотый кофе в дрип-пакетах) 1шт*13гр",
+   "description": "Дрип кофе Solo Coffee  Бленд 001 (Молотый кофе в дрип-пакетах) 1шт*13гр",
+   "category": "Свежеобжаренный кофе Дрип-кофе",
+   "image": "https://solocoffee.ru/wp-content/uploads/2025/01/drip_otdelno.png",
+   "available": true,
    "variants": [
     {
      "weight_g": null,
-     "price": 305.0,
-     "available": false
+     "price": 35.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://solocoffee.ru/product/drip-kofe-solo-coffee-efiopiya-irgachiff-molotyj-kofe-v-drip-paketah-1sht13gr/",
+   "name": "Дрип кофе Solo Coffee Эфиопия Иргачифф (Молотый кофе в дрип-пакетах) 1шт*13гр",
+   "description": "Дрип кофе Solo Coffee  Эфиопия Иргачифф (Молотый кофе в дрип-пакетах) 1шт*13гр",
+   "category": "Свежеобжаренный кофе Дрип-кофе",
+   "image": "https://solocoffee.ru/wp-content/uploads/2025/01/drip_otdelno.png",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 45.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://solocoffee.ru/product/drip-kofe-solo-coffee-kolumbiya-supremo-molotyj-kofe-v-drip-paketah-1sht13gr-kopirovat/",
+   "name": "Дрип кофе Solo Coffee Колумбия Супремо (Молотый кофе в дрип-пакетах) 1шт*13гр",
+   "description": "Дрип кофе Solo Coffee  Колумбия Супремо (Молотый кофе в дрип-пакетах) 1шт*13гр",
+   "category": "Свежеобжаренный кофе Дрип-кофе",
+   "image": "https://solocoffee.ru/wp-content/uploads/2025/01/drip_otdelno.png",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 45.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://solocoffee.ru/product/drip-kofe-solo-coffee-kolumbiya-supremo-molotyj-kofe-v-drip-paketah-6sht13gr/",
+   "name": "Дрип кофе Solo Coffee Колумбия Супремо (Молотый кофе в дрип-пакетах) 6шт*13гр",
+   "description": "Дрип кофе Solo Coffee  Колумбия Супремо (Молотый кофе в дрип-пакетах) 6шт*13гр",
+   "category": "Свежеобжаренный кофе Дрип-кофе",
+   "image": "https://solocoffee.ru/wp-content/uploads/2025/01/dripi_korobka.png",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 300.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://solocoffee.ru/product/drip-kofe-solo-coffee-efiopiya-irgachiff-molotyj-kofe-v-drip-paketah-6sht13gr/",
+   "name": "Дрип кофе Solo Coffee Эфиопия Иргачифф (Молотый кофе в дрип-пакетах) 6шт*13гр",
+   "description": "Дрип кофе Solo Coffee  Эфиопия Иргачифф (Молотый кофе в дрип-пакетах) 6шт*13гр",
+   "category": "Свежеобжаренный кофе Дрип-кофе",
+   "image": "https://solocoffee.ru/wp-content/uploads/2025/01/dripi_korobka.png",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 300.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://solocoffee.ru/product/drip-kofe-solo-coffee-blend001-molotyj-kofe-v-drip-paketah-6sht13gr-kopirovat-kopirovat/",
+   "name": "Дрип кофе Solo Coffee Бленд 001 (Молотый кофе в дрип-пакетах) 6шт*13гр",
+   "description": "Дрип кофе Solo Coffee  Бленд 001 (Молотый кофе в дрип-пакетах) 6шт*13гр",
+   "category": "Свежеобжаренный кофе Дрип-кофе",
+   "image": "https://solocoffee.ru/wp-content/uploads/2025/01/dripi_korobka.png",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 250.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://solocoffee.ru/product/drip-kofe-solo-coffee-braziliya-santos-molotyj-k/",
+   "name": "Дрип кофе Solo Coffee Бразилия Сантос (Молотый кофе в дрип-пакетах) 6шт*13гр",
+   "description": "Дрип кофе Solo Coffee Бразилия Сантос (Молотый кофе в дрип-пакетах) 6шт*13гр",
+   "category": "Свежеобжаренный кофе Дрип-кофе",
+   "image": "https://solocoffee.ru/wp-content/uploads/2025/01/dripi_korobka.png",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 260.0,
+     "available": true
     }
    ]
   },

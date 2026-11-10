@@ -11519,5 +11519,1888 @@
     "reason": "пропал с сайта"
    }
   ]
+ },
+ {
+  "at": "2026-11-10T07:57:29+00:00",
+  "added": [
+   {
+    "id": "116a0d6bce74",
+    "roaster": "tasty",
+    "name": "Колумбия Барракеро",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-barranquero",
+    "back": false
+   },
+   {
+    "id": "e7325804549a",
+    "roaster": "tasty",
+    "name": "Руанда Дахве",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-rwanda-dahve-2026",
+    "back": false
+   },
+   {
+    "id": "d43f67f594ac",
+    "roaster": "tasty",
+    "name": "Christmas Blend 2027",
+    "url": "https://shop.tastycoffee.ru/coffee/christmas-blend-2027",
+    "back": false
+   },
+   {
+    "id": "e51430b0f58c",
+    "roaster": "tasty",
+    "name": "Йемен Манаха Анаэробный",
+    "url": "https://shop.tastycoffee.ru/coffee/yemen-manaha-anaerobic",
+    "back": false
+   },
+   {
+    "id": "3ab8ef4c237d",
+    "roaster": "caffeinelab",
+    "name": "Коста-Рика Ла Пантера для эспрессо",
+    "url": "https://caffeinelab.ru/coffee/espresso/tproduct/834531917-726633056547-kosta-rika-la-pantera-dlya-espresso",
+    "back": false
+   },
+   {
+    "id": "d7e9384a2b86",
+    "roaster": "caffeinelab",
+    "name": "Уганда Мвези для эспрессо",
+    "url": "https://caffeinelab.ru/coffee/espresso/tproduct/834531917-385972012292-uganda-mvezi-dlya-espresso",
+    "back": true
+   },
+   {
+    "id": "af61e803e9b7",
+    "roaster": "caffeinelab",
+    "name": "Коста-Рика Ла Пантера под фильтр",
+    "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-686147581603-kosta-rika-la-pantera-pod-filtr",
+    "back": false
+   },
+   {
+    "id": "988347f4890b",
+    "roaster": "caffeinelab",
+    "name": "Эфиопия Гедеб Агамос для фильтра",
+    "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-284561885523-efiopiya-gedeb-agamos-dlya-filtra",
+    "back": false
+   },
+   {
+    "id": "c1232853fb5b",
+    "roaster": "yankeesierra",
+    "name": "Ethiopia Banco Gotete",
+    "url": "https://yankeesierra.ru/catalog/espresso/Ethiopia-Banco-Gotete",
+    "back": false
+   },
+   {
+    "id": "0c641b7ae584",
+    "roaster": "yankeesierra",
+    "name": "Colombia La Palma",
+    "url": "https://yankeesierra.ru/catalog/espresso/Colombia-La-Palma",
+    "back": false
+   },
+   {
+    "id": "1399020f1866",
+    "roaster": "kanga",
+    "name": "Эфиопия Буку Абель",
+    "url": "https://www.kanga.ru/catalog/filter/efiopiya-buku-abel-250g/",
+    "back": false
+   },
+   {
+    "id": "3972167b5ef4",
+    "roaster": "kanga",
+    "name": "Эфиопия Билоя эспрессо 250г",
+    "url": "https://www.kanga.ru/catalog/espresso/efiopiya-biloya-espresso-250g/",
+    "back": false
+   },
+   {
+    "id": "88a983879a91",
+    "roaster": "fauno",
+    "name": "Verona Espresso Blend",
+    "url": "https://fauno.coffee/catalog/verona-espresso-blend",
+    "back": true
+   },
+   {
+    "id": "a98675e6fa0f",
+    "roaster": "stereo",
+    "name": "Эфиопия Конга гр.1",
+    "url": "https://stereo.coffee/shop/tproduct/592281615-670562906173-efiopiya-konga-gr1",
+    "back": false
+   },
+   {
+    "id": "936a81cc8c58",
+    "roaster": "stereo",
+    "name": "Эфиопия Готити гр.1",
+    "url": "https://stereo.coffee/shop/tproduct/592281615-431046493643-efiopiya-gotiti-gr1",
+    "back": false
+   },
+   {
+    "id": "d40080be0404",
+    "roaster": "bolshe",
+    "name": "Бразилия амазонская робуста от Хуана Травейна",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512406604-678620487033-braziliya-amazonskaya-robusta-ot-huana-t",
+    "back": false
+   },
+   {
+    "id": "1e40a0a21f8e",
+    "roaster": "bolshe",
+    "name": "Уганда Кавери робуста",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512406604-167874966473-uganda-kaveri-robusta",
+    "back": false
+   },
+   {
+    "id": "537211dfa04a",
+    "roaster": "bolshe",
+    "name": "Кения Ичанги",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/721156284-615747917153-keniya-ichangi",
+    "back": false
+   },
+   {
+    "id": "0c9acc15127a",
+    "roaster": "bolshe",
+    "name": "Америка Микс",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512429115-440270454312-amerika-miks",
+    "back": true
+   },
+   {
+    "id": "ebe5b8c57a72",
+    "roaster": "bolshe",
+    "name": "Азия Микс",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512429115-373557395262-aziya-miks",
+    "back": true
+   },
+   {
+    "id": "c05c4b9c57b9",
+    "roaster": "bolshe",
+    "name": "Особый лот Перу Гейша",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/527451314-758848457042-osobii-lot-peru-geisha",
+    "back": false
+   },
+   {
+    "id": "db8e4b03905a",
+    "roaster": "welder",
+    "name": "Кения Киломбе",
+    "url": "https://theweldercatherine.ru/catalog/dlya_filtra/keniya_kilombe/",
+    "back": false
+   },
+   {
+    "id": "6fb00fc22d33",
+    "roaster": "welder",
+    "name": "Колумбия Эль Чиспа из бочки",
+    "url": "https://theweldercatherine.ru/catalog/dlya_espresso/kolumbiya_el_chispa_iz_bochki/",
+    "back": false
+   },
+   {
+    "id": "9ccea5138d95",
+    "roaster": "welder",
+    "name": "Галараствор Колумбия Рафаэль Айя",
+    "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_kolumbiya_rafael_ayya/",
+    "back": false
+   },
+   {
+    "id": "e1cb76202cc3",
+    "roaster": "welder",
+    "name": "Кения Киломбе",
+    "url": "https://theweldercatherine.ru/catalog/dlya_espresso/keniya_kilombe/",
+    "back": false
+   },
+   {
+    "id": "0dc5cab1c266",
+    "roaster": "neva",
+    "name": "Колумбия Де Ла Тьеррита 250гр",
+    "url": "https://nevacoffee.ru/catalog/coffee/molotyy-kofe/filter/clear/apply/?sort=CATALOG_PRICE_1&order=asc&PAGEN_2=4",
+    "back": false
+   },
+   {
+    "id": "68b2c8c43de4",
+    "roaster": "neva",
+    "name": "Суль де Минас 250 гр.",
+    "url": "https://nevacoffee.ru/catalog/coffee/molotyy-kofe/?display=table&PAGEN_2=4",
+    "back": true
+   },
+   {
+    "id": "16786bb28209",
+    "roaster": "neva",
+    "name": "Кофе Гватемала Марагоджип",
+    "url": "https://nevacoffee.ru/catalog/coffee/guatemala-maragojip/",
+    "back": true
+   },
+   {
+    "id": "64579c44941d",
+    "roaster": "choose",
+    "name": "Мексика / Марио Лопес",
+    "url": "https://www.choosecoffee.ru/main/tproduct/739043735-112985204873-meksika-mario-lopes",
+    "back": false
+   },
+   {
+    "id": "9564d605a17b",
+    "roaster": "west4",
+    "name": "Каталог",
+    "url": "https://west4.coffee/kofe/skidki/keniya-vakamata_1002",
+    "back": false
+   },
+   {
+    "id": "e3ac513571e9",
+    "roaster": "west4",
+    "name": "Каталог",
+    "url": "https://west4.coffee/kofe/espresso-blend/espresso-blend-hells-kitchen",
+    "back": false
+   },
+   {
+    "id": "96e360f0d6f2",
+    "roaster": "west4",
+    "name": "Каталог",
+    "url": "https://west4.coffee/kofe/espresso-blend/espresso-blend-brooklyn",
+    "back": false
+   },
+   {
+    "id": "ad5d21e2ff7a",
+    "roaster": "west4",
+    "name": "Каталог",
+    "url": "https://west4.coffee/kofe/espresso-blend/espresso-blend-west-village",
+    "back": false
+   },
+   {
+    "id": "88ea3ddfb49a",
+    "roaster": "west4",
+    "name": "Каталог",
+    "url": "https://west4.coffee/kofe/espresso-blend/sentral-park",
+    "back": false
+   },
+   {
+    "id": "408686cbd4d3",
+    "roaster": "west4",
+    "name": "Каталог",
+    "url": "https://west4.coffee/kofe/espresso-blend/espresso-blend-efiopiya-djin-infyuz",
+    "back": false
+   },
+   {
+    "id": "3dd596c5ee8e",
+    "roaster": "west4",
+    "name": "Каталог",
+    "url": "https://west4.coffee/kofe/dlya-espresso/espresso-braziliya-vila-boa-piberri",
+    "back": false
+   },
+   {
+    "id": "957d84d7f24f",
+    "roaster": "west4",
+    "name": "Каталог",
+    "url": "https://west4.coffee/kofe/dlya-espresso/espresso-efiopiya-gemadro",
+    "back": false
+   },
+   {
+    "id": "2063f0431d04",
+    "roaster": "west4",
+    "name": "Каталог",
+    "url": "https://west4.coffee/kofe/dlya-espresso/espresso-efiopiya-beloya",
+    "back": false
+   },
+   {
+    "id": "1f22368e3349",
+    "roaster": "west4",
+    "name": "Каталог",
+    "url": "https://west4.coffee/kofe/dlya-espresso/espresso-kolumbiya-hosve-valensiya-dekaf",
+    "back": false
+   },
+   {
+    "id": "b2e68a34cee6",
+    "roaster": "west4",
+    "name": "Каталог",
+    "url": "https://west4.coffee/kofe/dlya-espresso/espresso-efiopiya-gigesa",
+    "back": false
+   },
+   {
+    "id": "a52b5b5d38e7",
+    "roaster": "west4",
+    "name": "Каталог",
+    "url": "https://west4.coffee/kofe/dlya-espresso/espresso-ruanda-jan-bosko",
+    "back": false
+   },
+   {
+    "id": "b41a3368231b",
+    "roaster": "west4",
+    "name": "Каталог",
+    "url": "https://west4.coffee/kofe/dlya-espresso/espresso-kolumbiya-pachamama",
+    "back": false
+   },
+   {
+    "id": "8a64065750f8",
+    "roaster": "west4",
+    "name": "Каталог",
+    "url": "https://west4.coffee/kofe/batch-bryu/braziliya-emmanuel-ruiz-batch-bryu",
+    "back": false
+   },
+   {
+    "id": "e0761ec63c27",
+    "roaster": "west4",
+    "name": "Каталог",
+    "url": "https://west4.coffee/kofe/batch-bryu/ruanda-jan-bosko-batch-bryu",
+    "back": false
+   },
+   {
+    "id": "119f4afeaa1c",
+    "roaster": "west4",
+    "name": "Каталог",
+    "url": "https://west4.coffee/kofe/batch-bryu/kolumbiya-pachamama-batch-bryu",
+    "back": false
+   },
+   {
+    "id": "8dee2b59d323",
+    "roaster": "west4",
+    "name": "Каталог",
+    "url": "https://west4.coffee/kofe/mono-grade/keniya-ichamara",
+    "back": false
+   },
+   {
+    "id": "bfe616cba33e",
+    "roaster": "west4",
+    "name": "Каталог",
+    "url": "https://west4.coffee/kofe/mono-grade/kitay-huanguan",
+    "back": false
+   },
+   {
+    "id": "e6f8154299b9",
+    "roaster": "west4",
+    "name": "Каталог",
+    "url": "https://west4.coffee/kofe/mono-grade/efiopiya-arbegona-bensa",
+    "back": false
+   },
+   {
+    "id": "d007be7eb65f",
+    "roaster": "west4",
+    "name": "Каталог",
+    "url": "https://west4.coffee/kofe/mono-grade/efiopiya-chalalaktu",
+    "back": false
+   },
+   {
+    "id": "fcec422edad1",
+    "roaster": "west4",
+    "name": "Каталог",
+    "url": "https://west4.coffee/kofe/mono-grade/efiopiya-gin-infused",
+    "back": false
+   },
+   {
+    "id": "4266f2c0b234",
+    "roaster": "west4",
+    "name": "Каталог",
+    "url": "https://west4.coffee/kofe/mono-grade/efiopiya-gesha_896",
+    "back": false
+   },
+   {
+    "id": "7fcf80902e9a",
+    "roaster": "west4",
+    "name": "Каталог",
+    "url": "https://west4.coffee/kofe/mono-grade/efiopiya-hambela",
+    "back": false
+   },
+   {
+    "id": "49edbe0dca9e",
+    "roaster": "west4",
+    "name": "Каталог",
+    "url": "https://west4.coffee/kofe/mono-grade/africa-filter-blend_917",
+    "back": false
+   },
+   {
+    "id": "9a1a83e79ff2",
+    "roaster": "west4",
+    "name": "Каталог",
+    "url": "https://west4.coffee/kofe/mono-grade/keniya-kiruru-piberri",
+    "back": false
+   },
+   {
+    "id": "ef1fcb701eb6",
+    "roaster": "west4",
+    "name": "Каталог",
+    "url": "https://west4.coffee/kofe/mono-grade/keniya-rungeto",
+    "back": false
+   },
+   {
+    "id": "8a10fba2b8b6",
+    "roaster": "west4",
+    "name": "Каталог",
+    "url": "https://west4.coffee/kofe/mono-grade/ruanda-ngoma",
+    "back": false
+   },
+   {
+    "id": "ed752f8639ec",
+    "roaster": "west4",
+    "name": "Каталог",
+    "url": "https://west4.coffee/kofe/mono-grade/ruanda-nyamashike-hills",
+    "back": false
+   },
+   {
+    "id": "b162caa32708",
+    "roaster": "west4",
+    "name": "Каталог",
+    "url": "https://west4.coffee/kofe/mono-grade/efiopiya-rom-i-koritsa-infyuz",
+    "back": false
+   },
+   {
+    "id": "010b4869bd09",
+    "roaster": "west4",
+    "name": "Каталог",
+    "url": "https://west4.coffee/kofe/mono-grade/kolumbiya-gabriel-valensiya-i-rubi-bastidas",
+    "back": false
+   },
+   {
+    "id": "9c57ae17b561",
+    "roaster": "west4",
+    "name": "Каталог",
+    "url": "https://west4.coffee/kofe/mono-grade/kolumbiya-nuvio-gomez",
+    "back": false
+   },
+   {
+    "id": "3a127e3a6be8",
+    "roaster": "west4",
+    "name": "Каталог",
+    "url": "https://west4.coffee/kofe/mono-grade/kosta-rika-hasiendo-sonora",
+    "back": false
+   },
+   {
+    "id": "8ae2b3fb0673",
+    "roaster": "west4",
+    "name": "Каталог",
+    "url": "https://west4.coffee/kofe/sempl-boks/keniya-kofeynyy-boks",
+    "back": false
+   },
+   {
+    "id": "c8fc8eb71d71",
+    "roaster": "west4",
+    "name": "Каталог",
+    "url": "https://west4.coffee/kofe/sempl-boks/efiopiya-kofeynyy-boks",
+    "back": false
+   },
+   {
+    "id": "3a7943e7b6e5",
+    "roaster": "west4",
+    "name": "Каталог",
+    "url": "https://west4.coffee/kofe/sempl-boks/kofeynyy-boks-kolumbiya",
+    "back": false
+   },
+   {
+    "id": "a5325fb0e294",
+    "roaster": "west4",
+    "name": "Каталог",
+    "url": "https://west4.coffee/kofe/sempl-boks/kofeynyy-boks-ruanda",
+    "back": false
+   },
+   {
+    "id": "599109f7e858",
+    "roaster": "west4",
+    "name": "Каталог",
+    "url": "https://west4.coffee/kofe/sempl-boks/degustatsionnyy-nabor-pod-filtr",
+    "back": false
+   },
+   {
+    "id": "f7f485ce84b9",
+    "roaster": "west4",
+    "name": "Каталог",
+    "url": "https://west4.coffee/kofe/sempl-boks/espresso-box-4-lota-po-200-g_354",
+    "back": false
+   },
+   {
+    "id": "bfa3700e037b",
+    "roaster": "kofeop",
+    "name": "Кофе в зернах",
+    "url": "https://kofeop.ru/catalog/coffee/kofe-v-zernah-nikaragua/",
+    "back": true
+   },
+   {
+    "id": "36da6cffd097",
+    "roaster": "kofeop",
+    "name": "Кофе в зернах",
+    "url": "https://kofeop.ru/catalog/coffee/keniya/",
+    "back": true
+   }
+  ],
+  "removed": [
+   {
+    "id": "bdaa2ec42f0c",
+    "roaster": "bittersweet",
+    "name": "КОЛУМБИЯ АНТИОКЬЯ",
+    "url": "https://bittersweet.coffee/tproduct/524393802-967821132221-kolumbiya-antiokya",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "e0d8b508612b",
+    "roaster": "bolshe",
+    "name": "Бразилия Коликоли",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512406604-523254442371-braziliya-kolikoli",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "47c69ee37b75",
+    "roaster": "bolshe",
+    "name": "Бразилия Коликоли",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/721156284-320227243181-braziliya-kolikoli",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "e49b9f72d6b0",
+    "roaster": "bolshe",
+    "name": "Бразилия Суль де Минас",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/721156284-940058926032-braziliya-sul-de-minas",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "e36f24d8aa8e",
+    "roaster": "bolshe",
+    "name": "Бразилия Суль де Минас",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/721156284-743312358253-braziliya-sul-de-minas",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "41b218aed788",
+    "roaster": "bolshe",
+    "name": "Бразилия амазонская робуста от Хуана Травейна",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/721156284-663222788953-braziliya-amazonskaya-robusta-ot-huana-t",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "33f4053db43e",
+    "roaster": "bolshe",
+    "name": "Бразилия конилон от семьи Кёпп",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512406604-987120288442-braziliya-konilon-ot-semi-kyopp",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "0522c5d046c6",
+    "roaster": "bolshe",
+    "name": "Бразилия конилон от семьи Маликошь",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/721156284-231363143563-braziliya-konilon-ot-semi-malikosh",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "5b611090e44c",
+    "roaster": "bolshe",
+    "name": "Гватемала L&B декаф",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512384010-191094989232-gvatemala-lampb-dekaf",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "b1c4450e5f12",
+    "roaster": "bolshe",
+    "name": "Гватемала Эль Арко",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512406604-369049463183-gvatemala-el-arko",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "920a6d82e4b3",
+    "roaster": "bolshe",
+    "name": "Кения Кабингара",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512406604-194300439713-keniya-kabingara",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "63c6c6429844",
+    "roaster": "bolshe",
+    "name": "Китай ТяньЮй",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/721156284-988443472393-kitai-tyanyui",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "4f193760f945",
+    "roaster": "bolshe",
+    "name": "Колумбия Эль Дивизо Сидра",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512406604-812879725052-kolumbiya-el-divizo-sidra",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "a684a4ec43bf",
+    "roaster": "bolshe",
+    "name": "Колумбия декаф",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512406604-586907633853-kolumbiya-dekaf",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "9d95992af891",
+    "roaster": "bolshe",
+    "name": "Колумбия декаф",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/721156284-306302598893-kolumbiya-dekaf",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "d28f73893939",
+    "roaster": "bolshe",
+    "name": "Колумбия декаф",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/721156284-670789347283-kolumbiya-dekaf",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "5bba62175933",
+    "roaster": "bolshe",
+    "name": "Лаос Болавен",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512406604-282213515892-laos-bolaven",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "ca3867ed7e91",
+    "roaster": "bolshe",
+    "name": "Лаос Болавен",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/721156284-409065942692-laos-bolaven",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "d44969ffceaf",
+    "roaster": "bolshe",
+    "name": "Перу Андрес Торрес Гейша",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512406604-830992280682-peru-andres-torres-geisha",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "ef80cae6c94c",
+    "roaster": "bolshe",
+    "name": "Уганда Другар",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/721156284-890966462723-uganda-drugar",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "99c70619419f",
+    "roaster": "bolshe",
+    "name": "Эфиопия Дара",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512406604-910426725371-efiopiya-dara",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "a6acad94e54b",
+    "roaster": "botanica",
+    "name": "Вьетнам Блю Сон Ла",
+    "url": "https://botanicacoffee.ru/vietnamsonla",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "cb88ec6a8a8e",
+    "roaster": "botanica",
+    "name": "Колумбия Уайт Спайс",
+    "url": "https://botanicacoffee.ru/ladywhite",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "68219d1242c3",
+    "roaster": "caffeinelab",
+    "name": "Гватемала Эль Сокорро для фильтра",
+    "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-677435383003-gvatemala-el-sokorro-dlya-filtra",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "67a122dc4d54",
+    "roaster": "caffeinelab",
+    "name": "Кофе Гватемала Декаф для эспрессо",
+    "url": "https://caffeinelab.ru/coffee/espresso/tproduct/834531917-594571871032-kofe-gvatemala-dekaf-dlya-espresso",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "6dc001a09e94",
+    "roaster": "caffeinelab",
+    "name": "Эфиопия Лиму для фильтра",
+    "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-333396207571-efiopiya-limu-dlya-filtra",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "fe258f6a20b3",
+    "roaster": "caffeinelab",
+    "name": "Эфиопия Лиму для эспрессо",
+    "url": "https://caffeinelab.ru/coffee/espresso/tproduct/834531917-711575715603-efiopiya-limu-dlya-espresso",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "6e938aab4776",
+    "roaster": "h2o",
+    "name": "ALPURO A6 Порошок от кофейных масел, 1 кг",
+    "url": "https://h2ocompany.ru/catalog/alpuro_a6_poroshok_ot_kofeynykh_masel_1kg/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "1fb540506107",
+    "roaster": "h2o",
+    "name": "Alpuro A5 Средство для удаления кофейных масел, 100 таблеток",
+    "url": "https://h2ocompany.ru/catalog/alpuro_a5_sredstvo_dlya_udaleniya_kofeynykh_masel_tabletki_100_sht_/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "5e430b389f81",
+    "roaster": "h2o",
+    "name": "CLAVIS Special Bellini 0,75л",
+    "url": "https://h2ocompany.ru/catalog/napitok_negaz_clavis_special_bellini_0_75l/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "a8b5276c1481",
+    "roaster": "h2o",
+    "name": "CLAVIS Wildberry spritz 0,75л",
+    "url": "https://h2ocompany.ru/catalog/napitok_negaz_clavis_wildberry_spritz_0_75l/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "7b6c69bab940",
+    "roaster": "h2o",
+    "name": "CLAVIS арбуз, безалкогольный биттер 0,75л",
+    "url": "https://h2ocompany.ru/catalog/napitok_negaz_clavis_arbuz_bezalkogolnyy_bitter_0_75l/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "2ee539941874",
+    "roaster": "h2o",
+    "name": "CLAVIS базилик 0,75л",
+    "url": "https://h2ocompany.ru/catalog/napitok_negaz_clavis_bazilik_0_75l/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "45fdcd58fa3b",
+    "roaster": "h2o",
+    "name": "CLAVIS драгонфрут, личи, белый кардамон 0,75л",
+    "url": "https://h2ocompany.ru/catalog/napitok_negaz_clavis_dragonfrut_lichi_belyy_kardamon_0_75l/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "0789a9ab478b",
+    "roaster": "h2o",
+    "name": "CLAVIS жимолость, земляника, смородина 0,75л",
+    "url": "https://h2ocompany.ru/catalog/napitok_negaz_clavis_zhimolost_zemlyanika_smorodina_0_75l/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "cf8b8dbed95b",
+    "roaster": "h2o",
+    "name": "CLAVIS кастелла кейк, клубника, бобы тонка 0,75л",
+    "url": "https://h2ocompany.ru/catalog/napitok_negaz_clavis_kastella_keyk_klubnika_boby_tonka_0_75l/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "04d26e5bdc63",
+    "roaster": "h2o",
+    "name": "CLAVIS киви, крыжовник, эстрагон 0,75л",
+    "url": "https://h2ocompany.ru/catalog/napitok_negaz_clavis_kivi_kryzhovnik_estragon_0_75l/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "5c9a97501be3",
+    "roaster": "h2o",
+    "name": "CLAVIS лаванда, зизифора, кактус 0,75л",
+    "url": "https://h2ocompany.ru/catalog/napitok_negaz_clavis_lavanda_zizifora_kaktus_0_75l/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "569ca3ba16a8",
+    "roaster": "h2o",
+    "name": "CLAVIS лимонный тарт, сенча, ваниль 0,75л",
+    "url": "https://h2ocompany.ru/catalog/napitok_negaz_clavis_limonnyy_tart_sencha_vanil_0_75l/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "37577228fdcf",
+    "roaster": "h2o",
+    "name": "CLAVIS малина, маракуйя, лемонграсс 0,75л",
+    "url": "https://h2ocompany.ru/catalog/napitok_negaz_clavis_malina_marakuyya_lemongrass_0_75l/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "0d604588ecd2",
+    "roaster": "h2o",
+    "name": "CLAVIS малина, морошка, пихта 0,75л",
+    "url": "https://h2ocompany.ru/catalog/napitok_negaz_clavis_malina_moroshka_pikhta_0_75l/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "b05f45536e13",
+    "roaster": "h2o",
+    "name": "CLAVIS пандан, банан, безалкогольный вермут 0,75л",
+    "url": "https://h2ocompany.ru/catalog/napitok_negaz_clavis_pandan_banan_bezalkogolnyy_vermut_0_75l/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "cb556db79b92",
+    "roaster": "h2o",
+    "name": "CLAVIS персик, ханибуш, каффирский лайм 0,75л",
+    "url": "https://h2ocompany.ru/catalog/napitok_negaz_clavis_persik_khanibush_kaffirskiy_laym_0_75l/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "5cc4764cef34",
+    "roaster": "h2o",
+    "name": "CLAVIS роза, ревень, грейпфрут 0,75л",
+    "url": "https://h2ocompany.ru/catalog/napitok_negaz_clavis_roza_reven_greypfrut_0_75l/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "b43c8f80fe34",
+    "roaster": "h2o",
+    "name": "CLAVIS саган дайля, ваниль, зелёное яблоко 0,75л",
+    "url": "https://h2ocompany.ru/catalog/napitok_negaz_clavis_sagan_daylya_vanil_zelyenoe_yabloko_0_75l/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "042f148ca410",
+    "roaster": "h2o",
+    "name": "CLAVIS смородина, апельсин, масала 0,75л",
+    "url": "https://h2ocompany.ru/catalog/napitok_negaz_clavis_smorodina_apelsin_masala_0_75l/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "fdabda3b8c27",
+    "roaster": "h2o",
+    "name": "CLAVIS фейхоа, клубника, мята 0,75л",
+    "url": "https://h2ocompany.ru/catalog/sirop_na_rastit_syre_clavis_feykhoa_klubnika_myata_0_75l/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "bf16c3e16e68",
+    "roaster": "h2o",
+    "name": "Kioko Koto Harmony Китайский улун, 150 шт",
+    "url": "https://h2ocompany.ru/catalog/kioko_koto_harmony_kitayskiy_ulun_150sht_2gr_/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "3c0b62500d60",
+    "roaster": "h2o",
+    "name": "Kioko Nai Xiang Jin Xuan Молочный улун,150 шт",
+    "url": "https://h2ocompany.ru/catalog/kioko_nai_xiang_jin_xuan_molochnyy_ulun_150sht_2gr_/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "58d1aaee0824",
+    "roaster": "h2o",
+    "name": "Kioko Ren English Breakfast Английский завтрак, 150 шт",
+    "url": "https://h2ocompany.ru/catalog/kioko_ren_english_breakfast_angliyskiy_zavtrak_150sht_2_2gr_/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "3598467d61ec",
+    "roaster": "h2o",
+    "name": "Kioko Revita Chikara Черный травяной пряный, 150 шт",
+    "url": "https://h2ocompany.ru/catalog/kioko_revita_chikara_chernyy_travyanoy_pryanyy_150sht_2gr_/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "c5efe7980a78",
+    "roaster": "h2o",
+    "name": "Kioko Silver Sanshin Черный с бергамотом, 150 шт",
+    "url": "https://h2ocompany.ru/catalog/kioko_silver_sanshin_chernyy_s_bergamotom_150sht_2gr_/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "ecd7286be2bd",
+    "roaster": "h2o",
+    "name": "Антонио Кустодио де Фария фильтр, 250 гр",
+    "url": "https://h2ocompany.ru/catalog/kofe_v_zernakh_h2o_brazil_esmeril_antonio_custodio_de_faria_filter_svezheobzharennyy_250gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "3eb8bf920394",
+    "roaster": "h2o",
+    "name": "Аруша Эспрессо, 1 кг",
+    "url": "https://h2ocompany.ru/catalog/kofe_v_zernakh_h2o_tanzania_espresso_svezheobzharennyy_1kg/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "aa6d313e4b07",
+    "roaster": "h2o",
+    "name": "Аруша Эспрессо, 250 гр",
+    "url": "https://h2ocompany.ru/catalog/kofe_v_zernakh_h2o_tanzania_espresso_svezheobzharennyy_250gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "4b7ec628d11f",
+    "roaster": "h2o",
+    "name": "Бариста Лайн КМ-2 Порошок для очистки кофемолок, 1 кг",
+    "url": "https://h2ocompany.ru/catalog/barista_layn_km_2_poroshok_dlya_ochistki_kofemolok_1kg/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "1f8994e85fdc",
+    "roaster": "h2o",
+    "name": "Бегас Эспрессо, 1 кг",
+    "url": "https://h2ocompany.ru/catalog/kofe_v_zernakh_h2o_begas_svezheobzharennyy_1kg/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "0409a475c69f",
+    "roaster": "h2o",
+    "name": "Бегас Эспрессо, 250 гр",
+    "url": "https://h2ocompany.ru/catalog/kofe_v_zernakh_h2o_begas_svezheobzharennyy_250gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "6e226d249b30",
+    "roaster": "h2o",
+    "name": "Гуджи Эспрессо, 250 гр",
+    "url": "https://h2ocompany.ru/catalog/kofe_v_zernakh_h2o_ethiopia_gugi_espresso_svezheobzharennyy_250gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "b921b0a9b045",
+    "roaster": "h2o",
+    "name": "Гуджи фильтр, 250 гр",
+    "url": "https://h2ocompany.ru/catalog/kofe_v_zernakh_h2o_ethiopia_gugi_filter_svezheobzharennyy_250gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "288c3110abaa",
+    "roaster": "h2o",
+    "name": "Дарк Джул Эспрессо, 1 кг",
+    "url": "https://h2ocompany.ru/catalog/kofe_v_zernakh_h2o_dark_jul_espresso_svezheobzharennyy_1kg/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "775b8d3e1c14",
+    "roaster": "h2o",
+    "name": "Дарк Моро Эспрессо, 250 гр",
+    "url": "https://h2ocompany.ru/catalog/kofe_v_zernakh_h2o_dark_moro_espresso_svezheobzharennyy_250gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "000185548bf5",
+    "roaster": "h2o",
+    "name": "Декаф Эспрессо, 250 гр",
+    "url": "https://h2ocompany.ru/catalog/kofe_v_zernakh_h2o_guatemala_arabica_l_b_decaf_blend_espresso_svezheobzharennyy_250gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "a788dc7b7a33",
+    "roaster": "h2o",
+    "name": "Джамбо Эспрессо, 1 кг",
+    "url": "https://h2ocompany.ru/catalog/kofe_v_zernakh_h2o_jumbo_svezheobzharennyy_1kg/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "0d97efb9c6a2",
+    "roaster": "h2o",
+    "name": "Здоровый сон, 250 гр",
+    "url": "https://h2ocompany.ru/catalog/zdorovyy_son_premialnaya_travyanaya_smes_premialnyy_250gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "dfc22b99757b",
+    "roaster": "h2o",
+    "name": "Инкис Эспрессо, 1 кг",
+    "url": "https://h2ocompany.ru/catalog/kofe_v_zernakh_h2o_inki_s_blend_svezheobzharennyy_1kg/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "a6ca9ccd43af",
+    "roaster": "h2o",
+    "name": "Каркаде, 50 гр",
+    "url": "https://h2ocompany.ru/catalog/karkade_traditsionnyy_napitok_50gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "4685463ad52f",
+    "roaster": "h2o",
+    "name": "Колибри Эспрессо, 1 кг",
+    "url": "https://h2ocompany.ru/catalog/kofe_v_zernakh_h2o_colibri_svezheobzharennyy_1kg/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "1688bcc96d7d",
+    "roaster": "h2o",
+    "name": "Ложечка для Матчи",
+    "url": "https://h2ocompany.ru/catalog/lozhechka_dlya_matcha_sht/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "a2d8894a543c",
+    "roaster": "h2o",
+    "name": "Мате, 100 гр",
+    "url": "https://h2ocompany.ru/catalog/mate_pagiarito_traditional_tradits_y_yuzhnoamerikanskiy_napitok_100gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "afa815158923",
+    "roaster": "h2o",
+    "name": "Мате, 250 гр",
+    "url": "https://h2ocompany.ru/catalog/mate_organic_yerba_mate_tradits_y_yuzhnoamerikanskiy_napitok_250gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "6be51edca13f",
+    "roaster": "h2o",
+    "name": "Муремуре фильтр",
+    "url": "https://h2ocompany.ru/catalog/kofe_v_zernakh_h2o_ruanda_muremure_filtr_svezheobzharennyy_250gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "f88bb55d271d",
+    "roaster": "h2o",
+    "name": "Нео Эспрессо, 1 кг",
+    "url": "https://h2ocompany.ru/catalog/kofe_v_zernakh_h2o_neo_blend_svezheobzharennyy_1kg/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "7611ce36a1f1",
+    "roaster": "h2o",
+    "name": "Нео Эспрессо, 250 гр",
+    "url": "https://h2ocompany.ru/catalog/kofe_v_zernakh_h2o_neo_blend_svezheobzharennyy_250gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "9a83ada444b3",
+    "roaster": "h2o",
+    "name": "Нож для Пуэра, металл",
+    "url": "https://h2ocompany.ru/catalog/nozh_dlya_puera_metall/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "69985a1d28e5",
+    "roaster": "h2o",
+    "name": "Основа Berry Jam Брусничный глинтвейн",
+    "url": "https://h2ocompany.ru/catalog/vkusoaromaticheskaya_smes_berry_jam_brusnichnyy_glintveyn_0_5kg/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "87d6f1bf1518",
+    "roaster": "h2o",
+    "name": "Основа Chai Latte Азиатский мотив",
+    "url": "https://h2ocompany.ru/catalog/vkusoaromaticheskaya_smes_chai_latte_aziatskiy_motiv_0_5kg/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "0e845fd7ddee",
+    "roaster": "h2o",
+    "name": "Основа Cream Latte Арахисовая халва",
+    "url": "https://h2ocompany.ru/catalog/vkusoaromaticheskaya_smes_cream_latte_arakhisovaya_khalva_0_5kg/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "8d8688e495c7",
+    "roaster": "h2o",
+    "name": "Основа Cream Latte Банановое мороженое с соленой карамелью",
+    "url": "https://h2ocompany.ru/catalog/vkusoaromaticheskaya_smes_cream_latte_bananovoe_morozhenoe_s_solenoy_karamelyu_0_5kg/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "3a8e1c339f9e",
+    "roaster": "h2o",
+    "name": "Основа Cream Latte Вишневая панакота",
+    "url": "https://h2ocompany.ru/catalog/vkusoaromaticheskaya_smes_cream_latte_vishnevaya_panakota_0_5kg/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "e0067980d1cc",
+    "roaster": "h2o",
+    "name": "Основа Cream Latte Грушевый вупи-пай",
+    "url": "https://h2ocompany.ru/catalog/vkusoaromaticheskaya_smes_cream_latte_grushevyy_vupi_pay_0_5kg/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "831d10b24755",
+    "roaster": "h2o",
+    "name": "Основа Cream Latte Земляничный штрудель с инжиром",
+    "url": "https://h2ocompany.ru/catalog/vkusoaromaticheskaya_smes_cream_latte_zemlyanichnyy_shtrudel_s_inzhirom_0_5kg/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "74b682d2c6cd",
+    "roaster": "h2o",
+    "name": "Основа Cream Latte Канноли с персиком",
+    "url": "https://h2ocompany.ru/catalog/vkusoaromaticheskaya_smes_cream_latte_kannoli_s_persikom_0_5kg/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "207e4612eafa",
+    "roaster": "h2o",
+    "name": "Основа Cream Latte Кокос-малина",
+    "url": "https://h2ocompany.ru/catalog/vkusoaromaticheskaya_smes_cream_latte_kokos_malina_0_5kg/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "eb3516120082",
+    "roaster": "h2o",
+    "name": "Основа Cream Latte Крекер с солью",
+    "url": "https://h2ocompany.ru/catalog/vkusoaromaticheskaya_smes_cream_latte_kreker_s_solyu_0_5kg/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "d1e0f965ffc9",
+    "roaster": "h2o",
+    "name": "Основа Cream Latte Лавандовый раф",
+    "url": "https://h2ocompany.ru/catalog/vkusoaromaticheskaya_smes_cream_latte_lavandovyy_raf_0_5kg/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "7c09ec5c6ccb",
+    "roaster": "h2o",
+    "name": "Основа Cream Latte Малиново-яблочный моти",
+    "url": "https://h2ocompany.ru/catalog/vkusoaromaticheskaya_smes_cream_latte_malinovo_yablochnyy_moti_0_5kg/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "d449af32efe9",
+    "roaster": "h2o",
+    "name": "Основа Cream Latte Тыквенный кранч с арахисом",
+    "url": "https://h2ocompany.ru/catalog/vkusoaromaticheskaya_smes_cream_latte_tykvennyy_kranch_s_arakhisom_0_5kg/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "f8060c10fa40",
+    "roaster": "h2o",
+    "name": "Основа Cream Latte Убе, персик, груша",
+    "url": "https://h2ocompany.ru/catalog/vkusoaromaticheskaya_smes_cream_latte_ube_persik_grusha_0_5kg/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "2ffdc0def086",
+    "roaster": "h2o",
+    "name": "Основа Cream Latte Цитрусовый раф",
+    "url": "https://h2ocompany.ru/catalog/vkusoaromaticheskaya_smes_cream_latte_tsitrusovyy_raf_0_5kg/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "f5238b39fc8b",
+    "roaster": "h2o",
+    "name": "Основа Cream Latte Черничный пломбир",
+    "url": "https://h2ocompany.ru/catalog/vkusoaromaticheskaya_smes_cream_latte_chernichnyy_plombir_0_5kg_/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "9a47328ad354",
+    "roaster": "h2o",
+    "name": "Основа Cream Latte с лимонной меренгой",
+    "url": "https://h2ocompany.ru/catalog/vkusoaromaticheskaya_smes_cream_latte_tart_s_limonnoy_merengoy_0_5kg/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "be0e46bf0d26",
+    "roaster": "h2o",
+    "name": "Основа Matcha Latte Жёлтая груша-манго",
+    "url": "https://h2ocompany.ru/catalog/vkusoaromaticheskaya_smes_matcha_latte_zhyeltaya_grusha_mango_500_gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "6724cb20645e",
+    "roaster": "h2o",
+    "name": "Основа Matcha Latte Зеленая инжирно-яблочная",
+    "url": "https://h2ocompany.ru/catalog/vkusoaromaticheskaya_smes_matcha_latte_zelenaya_inzhirno_yablochnaya_0_5kg/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "9bcfb63c7d5a",
+    "roaster": "h2o",
+    "name": "Основа Matcha Latte Зеленая солёная фисташка",
+    "url": "https://h2ocompany.ru/catalog/vkusoaromaticheskaya_smes_matcha_latte_zelenaya_solyenaya_fistashka_0_5kg/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "1948a550f707",
+    "roaster": "h2o",
+    "name": "Основа Matcha Latte Розовая сакура-миндаль",
+    "url": "https://h2ocompany.ru/catalog/vkusoaromaticheskaya_smes_matcha_latte_rozovaya_sakura_mindal_0_5kg/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "d6e48fd743d2",
+    "roaster": "h2o",
+    "name": "Основа Matcha Latte Фиолетовая дынно-лавандовая",
+    "url": "https://h2ocompany.ru/catalog/vkusoaromaticheskaya_smes_matcha_latte_fioletovaya_dynno_lavandovaya_0_5kg/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "ddf7b80d6dc7",
+    "roaster": "h2o",
+    "name": "Основа Milk Shake Банановая гранола",
+    "url": "https://h2ocompany.ru/catalog/vkusoaromaticheskaya_smes_milk_shake_bananovaya_granola_500gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "b60e4bf4742c",
+    "roaster": "h2o",
+    "name": "Основа Milk Shake Ванильный пломбир",
+    "url": "https://h2ocompany.ru/catalog/vkusoaromaticheskaya_smes_milk_shake_vanilnyy_plombir_0_5kg_/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "53a9ad2561be",
+    "roaster": "h2o",
+    "name": "Пена Ваниль-зеленая мята",
+    "url": "https://h2ocompany.ru/catalog/vkusoaromaticheskaya_smes_foamer_pena_vanil_zelenaya_myata_0_25kg/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "a5d15c8f412b",
+    "roaster": "h2o",
+    "name": "Пена зеленый виноград-лимон",
+    "url": "https://h2ocompany.ru/catalog/vkusoaromaticheskaya_smes_foamer_pena_zelenyy_vinograd_limon_0_25kg/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "eb36733e7614",
+    "roaster": "h2o",
+    "name": "Пена кокосовая",
+    "url": "https://h2ocompany.ru/catalog/vkusoaromaticheskaya_smes_foamer_pena_kokosovaya_0_25kg/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "630bacbe67d8",
+    "roaster": "h2o",
+    "name": "Подставка-подогреватель Тама, 150 мм",
+    "url": "https://h2ocompany.ru/catalog/podstavka_podogrevatel_tama_iz_zharoprochnogo_stekla_150mm_bolshaya/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "4731c82e337f",
+    "roaster": "h2o",
+    "name": "Подставка–подогреватель Лилия, 120 мм",
+    "url": "https://h2ocompany.ru/catalog/podstavka_podogrevatel_liliya_podium_iz_zharoproch_stekla_120mm/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "02761c29a9bf",
+    "roaster": "h2o",
+    "name": "Посыпка Grainy Glaze Банан-марципан",
+    "url": "https://h2ocompany.ru/catalog/vkusoaromaticheskaya_smes_grainy_glaze_banan_martsipan_0_1kg/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "ec37d4b57801",
+    "roaster": "h2o",
+    "name": "Посыпка Grainy Glaze Взрывная карамель",
+    "url": "https://h2ocompany.ru/catalog/vkusoaromaticheskaya_smes_grainy_glaze_vzryvnaya_karamel_0_1kg/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "6be127099d9e",
+    "roaster": "h2o",
+    "name": "Посыпка Grainy Glaze Взрывной золотой",
+    "url": "https://h2ocompany.ru/catalog/vkusoaromaticheskaya_smes_grainy_glaze_vzryvnoy_zolotoy_0_1kg/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "51f3f147c690",
+    "roaster": "h2o",
+    "name": "Посыпка Grainy Glaze Взрывной попкорн",
+    "url": "https://h2ocompany.ru/catalog/vkusoaromaticheskaya_smes_grainy_glaze_vzryvnoy_popkorn_0_1kg/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "8028fab7b715",
+    "roaster": "h2o",
+    "name": "Посыпка Grainy Glaze Вишня-кешью",
+    "url": "https://h2ocompany.ru/catalog/vkusoaromaticheskaya_smes_grainy_glaze_vishnya_keshyu_0_1kg/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "157bdff2f1ab",
+    "roaster": "h2o",
+    "name": "Пуэр Тулинь \"701\", 400 гр",
+    "url": "https://h2ocompany.ru/catalog/puer_tulin_701_400_gr_chernyy_v_forme_blina/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "231c36605ac8",
+    "roaster": "h2o",
+    "name": "Пуэр Тулинь \"Фэнхуан 803\" То Ча, 100 гр",
+    "url": "https://h2ocompany.ru/catalog/puer_tulin_fenkhuan_803_100_gr_chernyy_v_forme_chashi_to_cha/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "1e0b775fb857",
+    "roaster": "h2o",
+    "name": "Пуэр Шен Сягуань «Тецзи», 100 гр",
+    "url": "https://h2ocompany.ru/catalog/puer_syaguan_tetszi_100_gr_zelenyy_v_forme_chashi_to_cha/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "8565b8fcf8b7",
+    "roaster": "h2o",
+    "name": "Разравниватель для кофе, 58 мм",
+    "url": "https://h2ocompany.ru/catalog/razravnivatel_d_kofe_58_mm/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "4bdbc5263b5b",
+    "roaster": "h2o",
+    "name": "Рувензори фильтр",
+    "url": "https://h2ocompany.ru/catalog/kofe_v_zernakh_h2o_uganda_ruvenzori_filtr_svezheobzharennyy_250gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "960b32954ef8",
+    "roaster": "h2o",
+    "name": "Сан Игнасио фильтр, 250 гр",
+    "url": "https://h2ocompany.ru/catalog/kofe_v_zernakh_n2o_san_ignacio_filter_svezheobzharennyy_250gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "04a320ec7989",
+    "roaster": "h2o",
+    "name": "Сидамо Эспрессо, 1 кг",
+    "url": "https://h2ocompany.ru/catalog/kofe_v_zernakh_h2o_ethiopia_sidamo_espresso_svezheobzharennyy_1kg/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "9b087dabde92",
+    "roaster": "h2o",
+    "name": "Сидамо Эспрессо, 250 гр",
+    "url": "https://h2ocompany.ru/catalog/kofe_v_zernakh_h2o_ethiopia_sidamo_espresso_svezheobzharennyy_250gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "ca70d56a5d0b",
+    "roaster": "h2o",
+    "name": "Симао Эспрессо, 1 кг",
+    "url": "https://h2ocompany.ru/catalog/kofe_v_zernakh_h2o_china_simao_mellow_espresso_svezheobzharennyy_1kg/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "fe98990c0472",
+    "roaster": "h2o",
+    "name": "Сок IL PRIMO апельсиновый, 1 л",
+    "url": "https://h2ocompany.ru/catalog/sok_il_primo_apelsinovyy_vostanovlennyy_1_l/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "e4745ed975cd",
+    "roaster": "h2o",
+    "name": "Термометр цифровой",
+    "url": "https://h2ocompany.ru/catalog/termometr_tsifrovoy/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "53f7d2a29374",
+    "roaster": "h2o",
+    "name": "Топпинг Банан, 1кг",
+    "url": "https://h2ocompany.ru/catalog/royal_cane_topping_banan_1kg/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "55c53ff3bb24",
+    "roaster": "h2o",
+    "name": "Топпинг Ваниль, 1кг",
+    "url": "https://h2ocompany.ru/catalog/royal_cane_topping_vanil_1kg/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "8f6258c27906",
+    "roaster": "h2o",
+    "name": "Топпинг Вишня, 1кг",
+    "url": "https://h2ocompany.ru/catalog/royal_cane_topping_vishnya_1kg/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "dd51e4ecfe9d",
+    "roaster": "h2o",
+    "name": "Топпинг Карамель, 1кг",
+    "url": "https://h2ocompany.ru/catalog/royal_cane_topping_karamel_1kg/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "b9ce58afab14",
+    "roaster": "h2o",
+    "name": "Топпинг Клубника, 1кг",
+    "url": "https://h2ocompany.ru/catalog/royal_cane_topping_klubnika_1kg/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "afc05e38df25",
+    "roaster": "h2o",
+    "name": "Топпинг Малина, 1кг",
+    "url": "https://h2ocompany.ru/catalog/royal_cane_topping_malina_1kg/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "9a8d07eb46da",
+    "roaster": "h2o",
+    "name": "Топпинг Соленая карамель, 1кг",
+    "url": "https://h2ocompany.ru/catalog/royal_cane_topping_solenaya_karamel_1kg/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "8573427cf289",
+    "roaster": "h2o",
+    "name": "Топпинг Халва, 1кг",
+    "url": "https://h2ocompany.ru/catalog/royal_cane_topping_khalva_1kg/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "f94ae54ae12c",
+    "roaster": "h2o",
+    "name": "Трубочка Бомбилья разборная, серебро",
+    "url": "https://h2ocompany.ru/catalog/trubochka_bombilya_razbornaya_serebro_h_19_5sm/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "c0fc20503178",
+    "roaster": "h2o",
+    "name": "Тубра Эспрессо, 1 кг",
+    "url": "https://h2ocompany.ru/catalog/kofe_v_zernakh_h2o_tubra_svezheobzharennyy_1kg/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "c6885e3c2091",
+    "roaster": "h2o",
+    "name": "Тубра Эспрессо, 250 гр",
+    "url": "https://h2ocompany.ru/catalog/kofe_v_zernakh_h2o_tubra_svezheobzharennyy_250gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "3c16d6bffa03",
+    "roaster": "h2o",
+    "name": "Феникс Эспрессо, 1 кг",
+    "url": "https://h2ocompany.ru/catalog/kofe_v_zernakh_h2o_brazil_fenix_espresso_svezheobzharennyy_1kg/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "9c401c28c9de",
+    "roaster": "h2o",
+    "name": "Феникс Эспрессо, 250 гр",
+    "url": "https://h2ocompany.ru/catalog/kofe_v_zernakh_h2o_brazil_fenix_espresso_svezheobzharennyy_250gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "d828b19a8cf5",
+    "roaster": "h2o",
+    "name": "Фэнси Эспрессо, 1 кг",
+    "url": "https://h2ocompany.ru/catalog/kofe_v_zernakh_h2o_brazil_fancy_espresso_svezheobzharennyy_1kg/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "ecd3b78db407",
+    "roaster": "h2o",
+    "name": "Фэнси Эспрессо, 250 гр",
+    "url": "https://h2ocompany.ru/catalog/kofe_v_zernakh_h2o_brazil_fancy_espresso_svezheobzharennyy_250gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "e9415496e898",
+    "roaster": "h2o",
+    "name": "Чаша для Матчи, Малая",
+    "url": "https://h2ocompany.ru/catalog/chasha_dlya_matcha_malaya_keramika/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "272e6fe20f8e",
+    "roaster": "h2o",
+    "name": "Щетка для чистки",
+    "url": "https://h2ocompany.ru/catalog/shchetka_dlya_chistki/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "d2a3919e734f",
+    "roaster": "h2o",
+    "name": "Эрнандо Арсилья фильтр, 250 гр",
+    "url": "https://h2ocompany.ru/catalog/kofe_v_zernakh_h2o_colombia_hernando_arcila_filter_svezheobzharennyy_250gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "b97a4e2b96fd",
+    "roaster": "kanga",
+    "name": "Руанда Гашару",
+    "url": "https://www.kanga.ru/catalog/filter/ruanda-gasharu-250g/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "78d0dcd03939",
+    "roaster": "qq",
+    "name": "Гватемала Блю Аярза",
+    "url": "https://qqcoffee.ru/products/gvatemala-blyu-ayarza",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "3cd337535673",
+    "roaster": "silkydrum",
+    "name": "Панама Котова, ферма Лас Брухас, гейша мытая",
+    "url": "https://www.silkydrum.ru/catalog/kotowa-las-brujas-geisha-washed",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "2df076f68312",
+    "roaster": "silkydrum",
+    "name": "Панама Финка Дебора, Умбра, гейша",
+    "url": "https://www.silkydrum.ru/catalog/finca-deborah-umbra-geisha",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "4cc06ce90519",
+    "roaster": "silkydrum",
+    "name": "Тайвань Роял Бин Гейша Эстейт, гейша мытая",
+    "url": "https://www.silkydrum.ru/catalog/taiwan-royal-bean-geisha-estate-washed",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "a5e44810c03f",
+    "roaster": "sok",
+    "name": "БРАЗИЛИЯ ВИРЖИЛИО КУГО",
+    "url": "https://sok.coffee/catalog/kofe/kofe_dlya_filtra/braziliya_virzhilio_kugo/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "5511d533ebd4",
+    "roaster": "sok",
+    "name": "БРАЗИЛИЯ ХОРХЕ НАЙМЕГ",
+    "url": "https://sok.coffee/catalog/kofe/kofe_dlya_espresso/braziliya_khorkhe_naymeg/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "d8d0d0d1af73",
+    "roaster": "solo",
+    "name": "Колумбия Супремо",
+    "url": "https://solocoffee.ru/product/kolumbiya-supremo/",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "cd01460438ca",
+    "roaster": "specialtyru",
+    "name": "Kof Бразилия Моджиана Мока Амора, эспрессо 250 гр.",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-kof-braziliya-modzhiana-moka-amora-espresso-250-gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "402b141d8ca1",
+    "roaster": "specialtyru",
+    "name": "Kof Индонезия Суматра Айван Пак, фильтр 250 гр.",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-kof-indoneziya-sumatra-ayvan-pak-filtr-250-gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "66c36f7ee027",
+    "roaster": "specialtyru",
+    "name": "Kof Индонезия Суматра Линтонг Ибу Румани, фильтр 250 гр.",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-kof-indoneziya-sumatra-lintong-ibu-rumani-filtr-250-gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "88cd5559ee78",
+    "roaster": "specialtyru",
+    "name": "Kof Мексика Чьяпас Декаф, фильтр 250 гр.",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-kof-meksika-chyapas-dekaf-filtr-250-gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "c80a6e0ff601",
+    "roaster": "specialtyru",
+    "name": "Kof Эфиопия Гуджи Белионахи, эспрессо 250 гр.",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-kof-efiopiya-gudzhi-belionakhi-espresso-250-gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "e79e68ce69b3",
+    "roaster": "specialtyru",
+    "name": "Ингрессо Бразилия Минас-Жерайс Твист, фильтр, 250 гр",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-ingresso-braziliya-minas-zherays-tvist-filtr-250-gr/",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "cd0cf431647a",
+    "roaster": "specialtyru",
+    "name": "Ингрессо Бурунди Муйинга Бутихинда, фильтр, 250 гр",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-ingresso-burundi-muyinga-butikhinda-filtr-250-gr/",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "3ca288f5c9e0",
+    "roaster": "specialtyru",
+    "name": "Ингрессо Уганда Рувензори Мвези, фильтр, 250 гр",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-ingresso-uganda-ruvenzori-mvezi-filtr-250-gr/",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "6fc60f77f822",
+    "roaster": "specialtyru",
+    "name": "Ингрессо, Колумбия Толима Эль Вергель Розовый Бурбон, фильтр, 250 гр",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-ingresso-kolumbiya-tolima-el-vergel-rozovyy-burbon-filtr-250-gr/",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "a32f186fca06",
+    "roaster": "specialtyru",
+    "name": "Канга Ростерс, Перу Кахамарка Бурбон 216, фильтр, 250 гр",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-kanga-rosters-peru-kakhamarka-burbon-216-filtr-250-gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "ba781adbf9b4",
+    "roaster": "specialtyru",
+    "name": "Канга Ростерс, Руанда Гицумби Хани Нова лот 3, фильтр, 250 гр",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-kanga-rosters-ruanda-gitsumbi-khani-nova-lot-3-filtr-250-gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "3f417e58a527",
+    "roaster": "specialtyru",
+    "name": "Коджо, Колумбия Уила Вилла Бетулия, фильтр, 250 гр",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-kodzho-kolumbiya-uila-villa-betuliya-filtr-250-gr/",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "9c15144c6ca0",
+    "roaster": "specialtyru",
+    "name": "Микале Бразилия Минас-Жерайс с кардамоном и малиной, фильтр, 200 гр",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-mikale-braziliya-minas-zherays-s-kardamonom-i-malinoy-filtr-200-gr/",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "cbbccb980f05",
+    "roaster": "specialtyru",
+    "name": "Микале Бразилия Минас-Жерайс с кардамоном и малиной, эспрессо, 200 гр",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-mikale-braziliya-minas-zherays-s-kardamonom-i-malinoy-espresso-200-gr/",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "943ad97a1529",
+    "roaster": "specialtyru",
+    "name": "Микале Кения Кириньяга Кабингара AB, фильтр, 200 гр",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-mikale-keniya-kirinyaga-kabingara-ab-filtr-200-gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "9f03d9a4b785",
+    "roaster": "specialtyru",
+    "name": "Микале Колумбия Уила Диего Вергара, фильтр, 100 гр",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-mikale-kolumbiya-uila-diego-vergara-filtr-100-gr/",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "1bd5fc7564ba",
+    "roaster": "specialtyru",
+    "name": "Микале Панама Чирики Джозеф Бродски Термолик, фильтр, 100 гр",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-mikale-panama-chiriki-dzhozef-brodski-termolik-filtr-100-gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "085f51f02e0a",
+    "roaster": "specialtyru",
+    "name": "Микале Эфиопия Лиму Спайси черри, фильтр, 200 гр",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-mikale-efiopiya-limu-spaysi-cherri-filtr-200-gr/",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "d9730566195a",
+    "roaster": "specialtyru",
+    "name": "Микале Эфиопия Лиму с мятой, эспрессо, 200 гр",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-mikale-efiopiya-limu-s-myatoy-espresso-200-gr/",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "57949a58a247",
+    "roaster": "specialtyru",
+    "name": "Субмарина Гватемала Перископ Пампожила, фильтр, 200 гр.",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-submarina-gvatemala-periskop-pampozhila-filtr-200-gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "4580af03359a",
+    "roaster": "specialtyru",
+    "name": "Субмарина Колумбия Перископ Элиас Байтер. фильтр, 100 гр.",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-submarina-kolumbiya-periskop-elias-bayter-filtr-100-gr/",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "619987c9fd76",
+    "roaster": "specialtyru",
+    "name": "Субмарина Эфиопия Иргачеффе Идидо, фильтр, 200 гр.",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-submarina-efiopiya-irgacheffe-idido-filtr-200-gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "a8878076a5bc",
+    "roaster": "specialtyru",
+    "name": "Субмарина, Milk Руанда Восточная провинция, эспрессо, 200 гр",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-submarina-milk-ruanda-vostochnaya-provintsiya-espresso-200-gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "0fe247c42d23",
+    "roaster": "specialtyru",
+    "name": "Тэйсти Кофе Коста Рика Тарразу Репосадо, эспрессо, 250 гр.",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-teysti-kofe-kosta-rika-tarrazu-reposado-espresso-250-gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "6e1ff38a658c",
+    "roaster": "specialtyru",
+    "name": "Тэйсти Кофе Руанда Ньямашеке Кигали, эспрессо 250 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-teysti-kofe-ruanda-nyamasheke-kigali-espresso-250-g/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "ab042b64d1b7",
+    "roaster": "specialtyru",
+    "name": "Тэйсти Кофе Эфиопия Гедео Идидо, эспрессо 250 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-teysti-kofe-efiopiya-gedeo-idido-espresso-250-g/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "59c0fac9fd30",
+    "roaster": "specialtyru",
+    "name": "Юнат Ангола Кибала, эспрессо 250 гр.",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-yunat-angola-kibala-espresso-250-gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "0e76bb4901a9",
+    "roaster": "specialtyru",
+    "name": "Юнат Гватемала Уеуетенанго, эспрессо 250 гр.",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-yunat-gvatemala-ueuetenango-espresso-250-gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "3f7ab2837345",
+    "roaster": "specialtyru",
+    "name": "Юнат Индонезия Керинчи, эспрессо 250 гр.",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-yunat-indoneziya-kerinchi-espresso-250-gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "d9b9df389df6",
+    "roaster": "specialtyru",
+    "name": "Юнат Кения Руби Слоупс, эспрессо 250 гр.",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-yunat-keniya-rubi-sloups-espresso-250-gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "ae76136fe4ac",
+    "roaster": "specialtyru",
+    "name": "Юнат Китай Юньнань Синган, фильтр 250 гр.",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-yunat-kitay-yunnan-singan-filtr-250-gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "201ed58c3283",
+    "roaster": "specialtyru",
+    "name": "Юнат Руанда Мутетеле, фильтр 250 гр.",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-yunat-ruanda-mutetele-filtr-250-gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "a0919931997f",
+    "roaster": "specialtyru",
+    "name": "Юнат Руанда Южная провинция Симби, фильтр 250 гр.",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-yunat-ruanda-yuzhnaya-provintsiya-simbi-filtr-250-gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "84d872316645",
+    "roaster": "specialtyru",
+    "name": "Юнат Эфиопия Гедео Банко Готити, фильтр 250 гр.",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-yunat-efiopiya-gedeo-banko-gotiti-filtr-250-gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "c81c96a7a1c4",
+    "roaster": "specialtyru",
+    "name": "Юнат Эфиопия Иргачефф, эспрессо 250 гр.",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-yunat-efiopiya-irgacheff-espresso-250-gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "24d4f25a4d3f",
+    "roaster": "specialtyru",
+    "name": "Янки Сиерра Гватемала Уеуетенанго Декаф, эспрессо 200 гр",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-yanki-sierra-gvatemala-ueuetenango-dekaf-espresso-200-gr/",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "ec7cf367656d",
+    "roaster": "tasty",
+    "name": "Боливия Самайпата",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-bolivia-samaipata",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "5f73d4564f74",
+    "roaster": "tasty",
+    "name": "Бурунди Кайяве",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-burundi-kaiyave",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "5aeb90f0c938",
+    "roaster": "tasty",
+    "name": "Бурунди Карамбо",
+    "url": "https://shop.tastycoffee.ru/coffee/burundi-karambo",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "cb8f291753c1",
+    "roaster": "tasty",
+    "name": "Кения Гачата",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-kenya-gachata-2026",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "f618845e75af",
+    "roaster": "tasty",
+    "name": "Колумбия Гейша Монтеверде",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-geisha-monteverde-2026",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "f96d20763d60",
+    "roaster": "tasty",
+    "name": "Колумбия Гейша Хоан Вергара",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-geisha-joan-vergara",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "d70d4e5254e4",
+    "roaster": "tasty",
+    "name": "Колумбия Сидра Лас-Флорес",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-las-flores-sidra",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "2e0164f4afe7",
+    "roaster": "tasty",
+    "name": "Коста-Рика Рафаэль Прадо",
+    "url": "https://shop.tastycoffee.ru/coffee/costa-rica-rafael-prado-2026",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "a07ba79f948c",
+    "roaster": "tasty",
+    "name": "Перу Уаман",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-peru-huaman",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "9caa18bd578e",
+    "roaster": "tasty",
+    "name": "Перу Эльвер Руис",
+    "url": "https://shop.tastycoffee.ru/coffee/peru-elver-ruiz",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "119c7954a873",
+    "roaster": "tasty",
+    "name": "Уганда Букуяба",
+    "url": "https://shop.tastycoffee.ru/coffee/uganda-bukuyaba",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "2d7a0b5b0831",
+    "roaster": "tasty",
+    "name": "Уганда Каньямпала",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-uganda-kanyampala",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "f4fb87390770",
+    "roaster": "tasty",
+    "name": "Уганда Руакинги",
+    "url": "https://shop.tastycoffee.ru/coffee/uganda-rwakingi",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "400f930c967a",
+    "roaster": "tasty",
+    "name": "Уганда Сиронко",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-uganda-sironko",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "d6fb0973be86",
+    "roaster": "tasty",
+    "name": "Эфиопия Гету",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-ethiopia-getu",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "54d337d39fc2",
+    "roaster": "welder",
+    "name": "Перу Valle Sagrado из бочки",
+    "url": "https://theweldercatherine.ru/catalog/dlya_espresso/peru_valle_sagrado_iz_bochki/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "35889353bca1",
+    "roaster": "welder",
+    "name": "Руанда Сову",
+    "url": "https://theweldercatherine.ru/catalog/dlya_filtra/ruanda_sovu/",
+    "reason": "пропал с сайта"
+   }
+  ]
  }
 ]

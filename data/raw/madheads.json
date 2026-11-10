@@ -3,10 +3,10 @@
   "id": "madheads",
   "platform": "generic",
   "items": 241,
-  "seconds": 410.1,
+  "seconds": 778.7,
   "ok": true,
   "error": null,
-  "at": "2026-11-09T06:48:23+00:00"
+  "at": "2026-11-10T07:40:55+00:00"
  },
  "items": [
   {
@@ -894,6 +894,23 @@
    ]
   },
   {
+   "url": "https://madheadscoffee.com/p/YrygZDHVqTW-2f0c27aa",
+   "name": "Пуровер HARIO V60 Dripper NEO 02",
+   "description": "Пуровер HARIO V60 Dripper NEO 02|Pourover HARIO V60 Dripper NEO 02",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/431446/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Аксесуари / Аксесуари / Пуровер HARIO V60 Dripper NEO 02 / Пуровер HARIO V60 Dripper NEO 02",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1272.0,
+     "available": true
+    }
+   ]
+  },
+  {
    "url": "https://madheadscoffee.com/p/OcPgO7xyKNS-fcd8b419",
    "name": "Дрипер для пуроверу HARIO V60 Dripper NEO",
    "description": "Дрипер для пуроверу HARIO V60 Dripper NEO|Dripper for pourover HARIO V60 Dripper NEO",
@@ -1178,23 +1195,6 @@
     {
      "weight_g": null,
      "price": 5120.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://madheadscoffee.com/p/ogEIwKWg4Gu",
-   "name": "Паперові фільтри Hario для пуровера 01, 100 шт",
-   "description": "Паперові фільтри Hario для пуровера 01, 100 шт|Hario paper filters for pourover 01, 100 pcs",
-   "image": "https://api.madheadscoffee.com/cdn/s/1/p/486/0/large.webp",
-   "category": "Головна / Головна / Категорії / Категорії / Аксесуари / Аксесуари / Паперові фільтри Hario для пуровера 01, 100 шт / Паперові фільтри Hario для пуровера 01, 100 шт",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 293.0,
      "available": true
     }
    ]
@@ -1603,23 +1603,6 @@
     {
      "weight_g": null,
      "price": 626.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://madheadscoffee.com/p/jv8dGzB8gLG-37ff4fdf",
-   "name": "Eje Cafetero",
-   "description": "Перейдіть до каталога щоб обрати товар",
-   "image": "https://api.madheadscoffee.com/cdn/s/1/p/205239/0/large.png",
-   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Eje Cafetero / Eje Cafetero",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 1574.0,
      "available": true
     }
    ]
@@ -3983,6 +3966,23 @@
     {
      "weight_g": null,
      "price": 1328.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/ogEIwKWg4Gu",
+   "name": "Паперові фільтри Hario для пуровера 01, 100 шт",
+   "description": "Паперові фільтри Hario для пуровера 01, 100 шт|Hario paper filters for pourover 01, 100 pcs",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/486/0/large.webp",
+   "category": "Головна / Головна / Категорії / Категорії / Аксесуари / Аксесуари / Паперові фільтри Hario для пуровера 01, 100 шт / Паперові фільтри Hario для пуровера 01, 100 шт",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 293.0,
      "available": true
     }
    ]

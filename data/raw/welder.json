@@ -3,10 +3,10 @@
   "id": "welder",
   "platform": "bitrix+generic",
   "items": 139,
-  "seconds": 1510.3,
+  "seconds": 1504.0,
   "ok": true,
   "error": null,
-  "at": "2026-11-09T07:01:10+00:00"
+  "at": "2026-11-10T07:48:12+00:00"
  },
  "items": [
   {
@@ -515,7 +515,7 @@
    "url": "https://theweldercatherine.ru/catalog/dlya_espresso/ruanda_gishavu/",
    "name": "Руанда Гишаву",
    "description": "Кофе Руанда Гишаву",
-   "image": "https://theweldercatherine.ru/upload/iblock/2c1/ya2q4v2xfmgeugf0swe1mkzx0p6t7bc8/250g-_1_-_28_.png",
+   "image": "https://theweldercatherine.ru/upload/iblock/6af/3d03nskva6amxr4nbyt1l5bkzvue7r44/250g_1_28_.png",
    "category": "Главная страница / Главная страница / Каталог / Каталог / Для эспрессо / Для эспрессо",
    "specs": {
     "Разновидность": "Красный бурбон",
@@ -1547,36 +1547,6 @@
    ]
   },
   {
-   "url": "https://theweldercatherine.ru/catalog/dlya_filtra/ruanda_sovu/",
-   "name": "Руанда Сову",
-   "description": "Кофе Руанда Сову",
-   "image": "https://theweldercatherine.ru/upload/iblock/7a4/ewvj4llcjdw07670r0vti05h07z235d1/250g-_1_-_1_.png",
-   "category": "Главная страница / Главная страница / Каталог / Каталог / Для фильтра / Для фильтра",
-   "specs": {
-    "Разновидность": "красный бурбон",
-    "Регион": "Уйе",
-    "Сбор урожая": "Март 2025",
-    "Способ обработки": "мытый",
-    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
-    "Ферма": "Станция обработки Сову",
-    "Обжарка": "фильтр"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": 250,
-     "price": 1172.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 3517.0,
-     "available": true
-    }
-   ]
-  },
-  {
    "url": "https://theweldercatherine.ru/catalog/dlya_filtra/kolumbiya_vecinos_leonel_guterres/",
    "name": "Колумбия Vecinos: Леонель Гутьеррес",
    "description": "Кофе Колумбия Vecinos: Леонель Гутьеррес",
@@ -1654,12 +1624,12 @@
    "variants": [
     {
      "weight_g": 250,
-     "price": 1395.0,
+     "price": 1349.0,
      "available": true
     },
     {
      "weight_g": 1000,
-     "price": 4185.0,
+     "price": 4046.0,
      "available": true
     }
    ]
@@ -1900,6 +1870,28 @@
     {
      "weight_g": 1000,
      "price": 5370.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_kolumbiya_rafael_ayya/",
+   "name": "Галараствор Колумбия Рафаэль Айя",
+   "description": "Кофе растворимый порошкообразный \"Галараствор Колумбия Рафаэль Айя\", 5x3,2 г",
+   "image": "https://theweldercatherine.ru/upload/iblock/a84/1j3xeu5r63c9l92sey0aicxv4yygcn18/Mokap-korobka-gala1-_-kopiya-_18_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Галараствор / Галараствор",
+   "specs": {
+    "Разновидность": "катурра",
+    "Регион": "Уила, Ла Флорида",
+    "Сбор урожая": "Март 2025",
+    "Способ обработки": "натуральный"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 710.0,
      "available": true
     }
    ]
