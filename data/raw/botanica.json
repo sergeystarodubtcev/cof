@@ -2,11 +2,11 @@
  "status": {
   "id": "botanica",
   "platform": "tilda",
-  "items": 104,
-  "seconds": 247.3,
+  "items": 101,
+  "seconds": 219.6,
   "ok": true,
   "error": null,
-  "at": "2026-11-10T07:29:59+00:00"
+  "at": "2026-11-11T06:33:39+00:00"
  },
  "items": [
   {
@@ -319,20 +319,6 @@
    ]
   },
   {
-   "url": "https://botanicacoffee.ru/cupping",
-   "name": "Каппинг-набор фильтр-лотов",
-   "description": "9 баночек с фильтр-лотами по 30 грамм для полноценного каппинга и погружения в мир кофе с разными обработками",
-   "image": "https://static.tildacdn.com/stor3133-6464-4565-a362-646637313533/d38e1ca6aa7574b9c7e989e830a34822.jpg",
-   "available": true,
-   "variants": [
-    {
-     "weight_g": 270,
-     "price": 1790.0,
-     "available": true
-    }
-   ]
-  },
-  {
    "url": "https://botanicacoffee.ru/cuppingbagesp",
    "name": "Каппинг-набор эспрессо лотов",
    "description": "3 вида эспрессо-лотов по 130 грамм для полноценного каппинга и погружения в мир кофе с разными обработками",
@@ -513,25 +499,6 @@
     {
      "weight_g": 1000,
      "price": 4190.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://botanicacoffee.ru/bankogotiti",
-   "name": "Эфиопия Банко Готити",
-   "description": "Сладкий, цитрусово-цветочный кофе с нотами косточковых фруктов, преимущественно абрикоса",
-   "image": "https://static.tildacdn.com/stor3563-6130-4735-b933-666538373132/4efaa650c100713b262ec37dd0c7fbee.webp",
-   "available": true,
-   "variants": [
-    {
-     "weight_g": 200,
-     "price": 1110.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4500.0,
      "available": true
     }
    ]
@@ -722,25 +689,6 @@
     {
      "weight_g": 1000,
      "price": 4740.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://botanicacoffee.ru/",
-   "name": "Эфиопия Килленсо",
-   "description": "Кофе с нотами красной смородины, зелёного чая, грейпфрута",
-   "image": "https://static.tildacdn.com/stor6564-3331-4639-b963-336164313634/1a555a30981450cbf4f66bd705f1eb61.jpg",
-   "available": true,
-   "variants": [
-    {
-     "weight_g": 200,
-     "price": 1010.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4095.0,
      "available": true
     }
    ]
@@ -1050,104 +998,6 @@
    ]
   },
   {
-   "url": "https://botanicacoffee.ru/instantuganda",
-   "name": "Растворимый кофе Уганда Мвези",
-   "description": "6 пакетиков с натуральным кофе внутри, который можно заварить за 10 секунд",
-   "image": "https://static.tildacdn.com/stor6465-3762-4837-b530-356432323638/323672474cb94e29273974826b1882f0.png",
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 730.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://botanicacoffee.ru/unicdripset/tproduct/4283152801-651433003663-drip-efiopiya-sidamo-1-sht",
-   "name": "Дрип Эфиопия Сидамо — 1 шт",
-   "description": "Спокойный кофе с нотами чёрного чая, цветов и лайма. Один дрип-пакет — удобно добавить к заказу и заварить прямо в чашке.",
-   "image": "https://static.tildacdn.com/stor6165-3662-4462-b832-303865333337/0b31b3d18efdcaa6f293691480b62f44.jpg",
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 85.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://botanicacoffee.ru/unicdripset/tproduct/4283152801-716464180353-drip-ruanda-muteteli-1-sht",
-   "name": "Дрип Руанда Мутетели — 1 шт",
-   "description": "Чайный ягодный лот с нотами чёрного чая, цитрусов, смородины и карамели. Один дрип-пакет — удобно добавить к заказу и заварить прямо в чашке.",
-   "image": "https://static.tildacdn.com/stor6165-3662-4462-b832-303865333337/0b31b3d18efdcaa6f293691480b62f44.jpg",
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 87.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://botanicacoffee.ru/tproduct/3111555201-826420116922-futbolka-esli-bi-ne-eta-kozochka",
-   "name": "Футболка \"Если бы не эта козочка...\"",
-   "description": "Та самая козочка, с которой началась история кофе. Яркая зелёная футболка для тех, кто любит кофе не только в чашке.\nСостав — 100% хлопок, размер один — оверсайз L.\nМодель представлена в изумрудно-зелёном цвете.",
-   "image": "https://static.tildacdn.com/stor6465-3933-4639-b335-613365323636/d37789b69faa753852f6fdd8bd202f98.jpg",
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 3000.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://botanicacoffee.ru/tproduct/3111555201-779162489383-sumka-dlya-termokruzhki",
-   "name": "Сумка для термокружки",
-   "description": "Освобождает руки и держит термокружку рядом — в дороге, на прогулке или по пути за кофе. Яркий и удобный аксессуар на каждый день.\nИстория\nСумка создана для удобной переноски термокружки в дороге, на прогулке или по пути на работу. Она освобождает руки и помогает держать любимый напиток рядом, дополняя повседневный образ фирменным аксессуаром Botanica.",
-   "image": "https://static.tildacdn.com/stor6462-6662-4231-b462-646632353661/37105178.png",
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 1900.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://botanicacoffee.ru/tproduct/3111555301-213061486162-bananovii-chai",
-   "name": "Банановый чай",
-   "description": "Яркий фруктовый напиток, созданный на основе чёрного индийского чая, высокая сладость, фруктовый аромат, кусочки натуральных фруктов, 100 грамм",
-   "image": "https://static.tildacdn.com/stor3363-3562-4230-a362-613938383139/76033707.webp",
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 310.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://botanicacoffee.ru/tproduct/3111555301-547526547032-klubnichnii-ulun",
-   "name": "Клубничный улун",
-   "description": "Аромат свежей зелени и спелой клубники, травянистые ноты\nс клубничными оттенками. В составе: светлый улун с кусочками клубники и натуральные аромамасла, 150 грамм",
-   "image": "https://static.tildacdn.com/stor3663-6265-4533-a630-666138613261/25215862.webp",
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 320.0,
-     "available": true
-    }
-   ]
-  },
-  {
    "url": "https://botanicacoffee.ru/tproduct/3111555201-215351527122-bloknot-barista",
    "name": "Блокнот бариста",
    "description": "Рецепты, настройки и кофейные заметки — всё в одном месте. Внутри уже есть теоретические блоки, поэтому блокнот пригодится и в работе, и для домашних экспериментов.\nИстория\nБлокнот создан как практичный помощник для бариста и любителей кофе. Внутри можно записывать рецепты, параметры приготовления и наблюдения, а готовые теоретические блоки помогают систематизировать знания и отслеживать результаты экспериментов.",
@@ -1190,6 +1040,20 @@
    ]
   },
   {
+   "url": "https://botanicacoffee.ru/tproduct/3111555201-826420116922-futbolka-esli-bi-ne-eta-kozochka",
+   "name": "Футболка \"Если бы не эта козочка...\"",
+   "description": "Та самая козочка, с которой началась история кофе. Яркая зелёная футболка для тех, кто любит кофе не только в чашке.\nСостав — 100% хлопок, размер один — оверсайз L.\nМодель представлена в изумрудно-зелёном цвете.",
+   "image": "https://static.tildacdn.com/stor6465-3933-4639-b335-613365323636/d37789b69faa753852f6fdd8bd202f98.jpg",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 3000.0,
+     "available": true
+    }
+   ]
+  },
+  {
    "url": "https://botanicacoffee.ru/tproduct/3111555201-935852907383-futbolka-kofeinaya-ferma",
    "name": "Футболка \"Кофейная Ферма\"",
    "description": "Белая футболка с принтом кофейной фермы. Спокойный дизайн, который легко носить каждый день.\nСостав — 100% хлопок, размер один — оверсайз\nМодель представлена в белом цвете.",
@@ -1223,6 +1087,20 @@
    ]
   },
   {
+   "url": "https://botanicacoffee.ru/tproduct/3111555201-779162489383-sumka-dlya-termokruzhki",
+   "name": "Сумка для термокружки",
+   "description": "Освобождает руки и держит термокружку рядом — в дороге, на прогулке или по пути за кофе. Яркий и удобный аксессуар на каждый день.\nИстория\nСумка создана для удобной переноски термокружки в дороге, на прогулке или по пути на работу. Она освобождает руки и помогает держать любимый напиток рядом, дополняя повседневный образ фирменным аксессуаром Botanica.",
+   "image": "https://static.tildacdn.com/stor6462-6662-4231-b462-646632353661/37105178.png",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1900.0,
+     "available": true
+    }
+   ]
+  },
+  {
    "url": "https://botanicacoffee.ru/tproduct/3111555201-153508864635-noski-fak-shugar",
    "name": "Носки \"Фак Шугар\"",
    "description": "Фирменные носки Botanica — практичный повседневный мерч для тех, кто любит кофе и детали с характером.\nБелые носки с красными акцентами и надписью «Фак Шугар». Небольшой дерзкий штрих к повседневному образу. Размеры: 23–25 и 25–27.",
@@ -1237,6 +1115,132 @@
     {
      "weight_g": null,
      "price": 250.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://botanicacoffee.ru/instantephiopia",
+   "name": "Растворимый кофе Эфиопия Килленсо",
+   "description": "6 пакетиков с мытым кофе внутри, который можно заварить за 10 секунд",
+   "image": "https://static.tildacdn.com/stor6465-3762-4837-b530-356432323638/323672474cb94e29273974826b1882f0.png",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 730.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://botanicacoffee.ru/instantuganda",
+   "name": "Растворимый кофе Уганда Мвези",
+   "description": "6 пакетиков с натуральным кофе внутри, который можно заварить за 10 секунд",
+   "image": "https://static.tildacdn.com/stor6465-3762-4837-b530-356432323638/323672474cb94e29273974826b1882f0.png",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 730.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://botanicacoffee.ru/instantkenia",
+   "name": "Растворимый кофе Кения Маакиоу",
+   "description": "6 пакетиков с натуральным кофе внутри, который можно заварить за 10 секунд",
+   "image": "https://static.tildacdn.com/stor6465-3762-4837-b530-356432323638/323672474cb94e29273974826b1882f0.png",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 770.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://botanicacoffee.ru/instantchina",
+   "name": "Растворимый кофе Китай",
+   "description": "6 пакетиков с натуральным кофе внутри, который можно заварить за 10 секунд",
+   "image": "https://static.tildacdn.com/stor6465-3762-4837-b530-356432323638/323672474cb94e29273974826b1882f0.png",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 810.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://botanicacoffee.ru/3in1raspberry-pistachio",
+   "name": "Кофе 3в1: фисташка-малина",
+   "description": "Новый формат — авторский спешелти кофе 3в1.\nСливочный вкус фисташки с ярким малиновым вкусом",
+   "image": "https://static.tildacdn.com/stor6435-6634-4134-a561-643636333439/7422d977ec1023fd16decf3c330a015c.jpg",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 630.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://botanicacoffee.ru/3in1pecans",
+   "name": "Кофе 3в1: кленовый пекан",
+   "description": "Новый формат — авторский спешелти кофе 3в1.\nОреховый, кофейный вкус с нотами жареного пекана и характерной сладостью кленового сиропа",
+   "image": "https://static.tildacdn.com/stor3237-3261-4963-a166-663165346130/d86a8c712b525e0a2029473192389d07.jpg",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 630.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://botanicacoffee.ru/3in1banana-caramel",
+   "name": "Кофе 3в1: банан - солёная карамель",
+   "description": "Новый формат — авторский спешелти кофе 3в1.\nСливочный кофе с мягкими нотами спелого банана и слегка солёной карамели.",
+   "image": "https://static.tildacdn.com/stor3461-3830-4462-b338-633539343034/11a26fb62bfbb85837aa0faf682bc4d9.jpg",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 630.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://botanicacoffee.ru/tproduct/3111555301-213061486162-bananovii-chai",
+   "name": "Банановый чай",
+   "description": "Яркий фруктовый напиток, созданный на основе чёрного индийского чая, высокая сладость, фруктовый аромат, кусочки натуральных фруктов, 100 грамм",
+   "image": "https://static.tildacdn.com/stor3363-3562-4230-a362-613938383139/76033707.webp",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 310.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://botanicacoffee.ru/tproduct/3111555301-547526547032-klubnichnii-ulun",
+   "name": "Клубничный улун",
+   "description": "Аромат свежей зелени и спелой клубники, травянистые ноты\nс клубничными оттенками. В составе: светлый улун с кусочками клубники и натуральные аромамасла, 150 грамм",
+   "image": "https://static.tildacdn.com/stor3663-6265-4533-a630-666138613261/25215862.webp",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 320.0,
      "available": true
     }
    ]
@@ -1410,85 +1414,29 @@
    ]
   },
   {
-   "url": "https://botanicacoffee.ru/instantephiopia",
-   "name": "Растворимый кофе Эфиопия Килленсо",
-   "description": "6 пакетиков с мытым кофе внутри, который можно заварить за 10 секунд",
-   "image": "https://static.tildacdn.com/stor6465-3762-4837-b530-356432323638/323672474cb94e29273974826b1882f0.png",
+   "url": "https://botanicacoffee.ru/cupping/tproduct/4283152801-651433003663-drip-efiopiya-sidamo-1-sht",
+   "name": "Дрип Эфиопия Сидамо — 1 шт",
+   "description": "Спокойный кофе с нотами чёрного чая, цветов и лайма. Один дрип-пакет — удобно добавить к заказу и заварить прямо в чашке.",
+   "image": "https://static.tildacdn.com/stor6165-3662-4462-b832-303865333337/0b31b3d18efdcaa6f293691480b62f44.jpg",
    "available": true,
    "variants": [
     {
      "weight_g": null,
-     "price": 730.0,
+     "price": 85.0,
      "available": true
     }
    ]
   },
   {
-   "url": "https://botanicacoffee.ru/instantkenia",
-   "name": "Растворимый кофе Кения Маакиоу",
-   "description": "6 пакетиков с натуральным кофе внутри, который можно заварить за 10 секунд",
-   "image": "https://static.tildacdn.com/stor6465-3762-4837-b530-356432323638/323672474cb94e29273974826b1882f0.png",
+   "url": "https://botanicacoffee.ru/cupping/tproduct/4283152801-716464180353-drip-ruanda-muteteli-1-sht",
+   "name": "Дрип Руанда Мутетели — 1 шт",
+   "description": "Чайный ягодный лот с нотами чёрного чая, цитрусов, смородины и карамели. Один дрип-пакет — удобно добавить к заказу и заварить прямо в чашке.",
+   "image": "https://static.tildacdn.com/stor6165-3662-4462-b832-303865333337/0b31b3d18efdcaa6f293691480b62f44.jpg",
    "available": true,
    "variants": [
     {
      "weight_g": null,
-     "price": 770.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://botanicacoffee.ru/instantchina",
-   "name": "Растворимый кофе Китай",
-   "description": "6 пакетиков с натуральным кофе внутри, который можно заварить за 10 секунд",
-   "image": "https://static.tildacdn.com/stor6465-3762-4837-b530-356432323638/323672474cb94e29273974826b1882f0.png",
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 810.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://botanicacoffee.ru/3in1raspberry-pistachio",
-   "name": "Кофе 3в1: фисташка-малина",
-   "description": "Новый формат — авторский спешелти кофе 3в1.\nСливочный вкус фисташки с ярким малиновым вкусом",
-   "image": "https://static.tildacdn.com/stor6435-6634-4134-a561-643636333439/7422d977ec1023fd16decf3c330a015c.jpg",
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 630.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://botanicacoffee.ru/3in1pecans",
-   "name": "Кофе 3в1: кленовый пекан",
-   "description": "Новый формат — авторский спешелти кофе 3в1.\nОреховый, кофейный вкус с нотами жареного пекана и характерной сладостью кленового сиропа",
-   "image": "https://static.tildacdn.com/stor3237-3261-4963-a166-663165346130/d86a8c712b525e0a2029473192389d07.jpg",
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 630.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://botanicacoffee.ru/3in1banana-caramel",
-   "name": "Кофе 3в1: банан - солёная карамель",
-   "description": "Новый формат — авторский спешелти кофе 3в1.\nСливочный кофе с мягкими нотами спелого банана и слегка солёной карамели.",
-   "image": "https://static.tildacdn.com/stor3461-3830-4462-b338-633539343034/11a26fb62bfbb85837aa0faf682bc4d9.jpg",
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 630.0,
+     "price": 87.0,
      "available": true
     }
    ]

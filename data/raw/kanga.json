@@ -3,10 +3,10 @@
   "id": "kanga",
   "platform": "generic",
   "items": 40,
-  "seconds": 265.5,
+  "seconds": 257.2,
   "ok": true,
   "error": null,
-  "at": "2026-11-10T07:26:17+00:00"
+  "at": "2026-11-11T06:30:33+00:00"
  },
  "items": [
   {
@@ -371,7 +371,7 @@
    "variants": [
     {
      "weight_g": 250,
-     "price": 1023.0,
+     "price": 767.0,
      "available": true
     }
    ]

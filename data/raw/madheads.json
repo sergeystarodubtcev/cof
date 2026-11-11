@@ -2,11 +2,11 @@
  "status": {
   "id": "madheads",
   "platform": "generic",
-  "items": 241,
-  "seconds": 778.7,
+  "items": 243,
+  "seconds": 226.9,
   "ok": true,
   "error": null,
-  "at": "2026-11-10T07:40:55+00:00"
+  "at": "2026-11-11T06:36:03+00:00"
  },
  "items": [
   {
@@ -744,7 +744,7 @@
    "url": "https://madheadscoffee.com/p/AMnIA0gYD2g-08f4a92b",
    "name": "Лонгслів жіночий рожевий з ефектом виварювання «Two Rules»",
    "description": "Перейдіть до каталога щоб обрати товар",
-   "image": "https://api.madheadscoffee.com/cdn/s/1/p/362741/0/large.лонгслів жіночий рожевий з ефектом виварювання «two rules» 3",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/362741/0/large.лонгслів жіночий рожевий з ефектом виварювання «two rules» 2",
    "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Лонгслів жіночий рожевий з ефектом виварювання «Two Rules» / Лонгслів жіночий рожевий з ефектом виварювання «Two Rules»",
    "specs": {},
    "gallery": [],
@@ -912,10 +912,10 @@
   },
   {
    "url": "https://madheadscoffee.com/p/OcPgO7xyKNS-fcd8b419",
-   "name": "Дрипер для пуроверу HARIO V60 Dripper NEO",
-   "description": "Дрипер для пуроверу HARIO V60 Dripper NEO|Dripper for pourover HARIO V60 Dripper NEO",
+   "name": "Пуровер HARIO V60 Dripper NEO",
+   "description": "Пуровер HARIO V60 Dripper NEO|Pourover HARIO V60 Dripper NEO 02",
    "image": "https://api.madheadscoffee.com/cdn/s/1/p/385150/0/large.дрипер для пуроверу hario v60 dripper neo 1",
-   "category": "Головна / Головна / Категорії / Категорії / Аксесуари / Аксесуари / Дрипер для пуроверу HARIO V60 Dripper NEO / Дрипер для пуроверу HARIO V60 Dripper NEO",
+   "category": "Головна / Головна / Категорії / Категорії / Аксесуари / Аксесуари / Пуровер HARIO V60 Dripper NEO / Пуровер HARIO V60 Dripper NEO",
    "specs": {},
    "gallery": [],
    "available": true,
@@ -1047,6 +1047,23 @@
    ]
   },
   {
+   "url": "https://madheadscoffee.com/p/kG04UWseiOC",
+   "name": "Паперові фільтри Hario для пуровера 02, в коробці",
+   "description": "Паперові фільтри Hario для пуровера 02, в коробці|Hario paper filters for pourover 02, 100 pcs in a box",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/660/0/large.webp",
+   "category": "Головна / Головна / Категорії / Категорії / Аксесуари / Аксесуари / Паперові фільтри Hario для пуровера 02, в коробці / Паперові фільтри Hario для пуровера 02, в коробці",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 316.0,
+     "available": true
+    }
+   ]
+  },
+  {
    "url": "https://madheadscoffee.com/p/uMwGcMMq6o",
    "name": "Ручна кавомолка Hario Mini Black PRO",
    "description": "Ручна кавомолка Hario Mini Black PRO|Hario Mini Black PRO manual coffee grinder",
@@ -1093,6 +1110,23 @@
     {
      "weight_g": null,
      "price": 368.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/E8oMQKCeE8g",
+   "name": "Скляний сервірувальний чайник Hario BARISTA V60, Об'єм - 600 мл",
+   "description": "Скляний сервірувальний чайник Hario BARISTA V60, Об'єм - 600 мл|Glass serving kettle Hario BARISTA V60, Volume - 600 ml",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/545/0/large.webp",
+   "category": "Головна / Головна / Категорії / Категорії / Аксесуари / Аксесуари / Скляний сервірувальний чайник Hario BARISTA V60, Об'єм - 600 мл / Скляний сервірувальний чайник Hario BARISTA V60, Об'єм - 600 мл",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1053.0,
      "available": true
     }
    ]
@@ -1161,40 +1195,6 @@
     {
      "weight_g": null,
      "price": 447.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://madheadscoffee.com/p/QWQKuKMOIe",
-   "name": "Пуровер з харчового пластику Hario PEGASUS 01",
-   "description": "Пуровер з харчового пластику Hario PEGASUS 01|Hario PEGASUS 01 plastic pourover",
-   "image": "https://api.madheadscoffee.com/cdn/s/1/p/534/0/large.webp",
-   "category": "Головна / Головна / Категорії / Категорії / Аксесуари / Аксесуари / Пуровер з харчового пластику Hario PEGASUS 01 / Пуровер з харчового пластику Hario PEGASUS 01",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 349.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://madheadscoffee.com/p/mY2c2ikweGs",
-   "name": "Електронні ваги Hario Polaris",
-   "description": "Електронні ваги Hario Polaris|Hario Polaris electronic scales",
-   "image": "https://api.madheadscoffee.com/cdn/s/1/p/525/0/large.webp",
-   "category": "Головна / Головна / Категорії / Категорії / Аксесуари / Аксесуари / Електронні ваги Hario Polaris / Електронні ваги Hario Polaris",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 5120.0,
      "available": true
     }
    ]
@@ -1693,7 +1693,7 @@
    ]
   },
   {
-   "url": "https://madheadscoffee.com/p/2eNrpfDQt80-a332c7f8",
+   "url": "https://madheadscoffee.com/p/33AFE71puda-d7208286",
    "name": "Utengule",
    "description": "Перейдіть до каталога щоб обрати товар",
    "image": "https://api.madheadscoffee.com/cdn/s/1/p/28027/0/large.png",
@@ -1704,7 +1704,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 414.0,
+     "price": 1654.0,
      "available": true
     }
    ]
@@ -3920,7 +3920,7 @@
    ]
   },
   {
-   "url": "https://madheadscoffee.com/p/YaaeyWsCCSw",
+   "url": "https://madheadscoffee.com/p/cWy8Yq6YWMG",
    "name": "Керамічний пуровер Hario V60-02",
    "description": "Керамічний пуровер Hario V60-02|Ceramic purover Hario V60-02",
    "image": "https://api.madheadscoffee.com/cdn/s/1/p/131/0/large.webp",
@@ -4005,6 +4005,23 @@
    ]
   },
   {
+   "url": "https://madheadscoffee.com/p/mY2c2ikweGs",
+   "name": "Електронні ваги Hario Polaris",
+   "description": "Електронні ваги Hario Polaris|Hario Polaris electronic scales",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/525/0/large.webp",
+   "category": "Головна / Головна / Категорії / Категорії / Аксесуари / Аксесуари / Електронні ваги Hario Polaris / Електронні ваги Hario Polaris",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 5120.0,
+     "available": true
+    }
+   ]
+  },
+  {
    "url": "https://madheadscoffee.com/p/y26I6jzitxu-8d63ac0e",
    "name": "Пуровер з харчового пластику Hario V60-02",
    "description": "Пуровер з харчового пластику Hario V60-02|Hario V60-02 plastic pourover",
@@ -4017,6 +4034,23 @@
     {
      "weight_g": null,
      "price": 421.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/QWQKuKMOIe",
+   "name": "Пуровер з харчового пластику Hario PEGASUS 01",
+   "description": "Пуровер з харчового пластику Hario PEGASUS 01|Hario PEGASUS 01 plastic pourover",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/534/0/large.webp",
+   "category": "Головна / Головна / Категорії / Категорії / Аксесуари / Аксесуари / Пуровер з харчового пластику Hario PEGASUS 01 / Пуровер з харчового пластику Hario PEGASUS 01",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 349.0,
      "available": true
     }
    ]

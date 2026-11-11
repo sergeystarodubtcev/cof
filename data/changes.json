@@ -13402,5 +13402,278 @@
     "reason": "пропал с сайта"
    }
   ]
+ },
+ {
+  "at": "2026-11-11T06:59:20+00:00",
+  "added": [
+   {
+    "id": "7c2f8084364c",
+    "roaster": "yankeesierra",
+    "name": "Yemen Haraz",
+    "url": "https://yankeesierra.ru/catalog/espresso/Yemen-Haraz",
+    "back": false
+   },
+   {
+    "id": "38a5ed7f47b6",
+    "roaster": "yankeesierra",
+    "name": "Yemen Haraz",
+    "url": "https://yankeesierra.ru/catalog/filter/Yemen-Haraz",
+    "back": false
+   },
+   {
+    "id": "e694c7d705b0",
+    "roaster": "fauno",
+    "name": "Colombia Lulo Bourbon",
+    "url": "https://fauno.coffee/catalog/colombia-lulo-bourbon",
+    "back": false
+   },
+   {
+    "id": "899e19fe3665",
+    "roaster": "stereo",
+    "name": "Бразилия Санта Иннес",
+    "url": "https://stereo.coffee/shop/tproduct/586174496-369157346602-braziliya-santa-innes",
+    "back": false
+   },
+   {
+    "id": "4d4a9d69abb4",
+    "roaster": "stereo",
+    "name": "Гватемала Марагоджип",
+    "url": "https://stereo.coffee/shop/tproduct/586174496-197456770532-gvatemala-maragodzhip",
+    "back": false
+   },
+   {
+    "id": "0ce094b30c05",
+    "roaster": "stereo",
+    "name": "Индонезия Суматра Керинчи Нат",
+    "url": "https://stereo.coffee/shop/tproduct/586174496-659366385841-indoneziya-sumatra-kerinchi-nat",
+    "back": false
+   },
+   {
+    "id": "0b4f38dec0fa",
+    "roaster": "stereo",
+    "name": "Какао Бобы 100гр",
+    "url": "https://stereo.coffee/shop/tproduct/575354283-592875163533-kakao-bobi-100gr",
+    "back": false
+   },
+   {
+    "id": "71e65b0c62ad",
+    "roaster": "stereo",
+    "name": "Какао Бобы 100гр",
+    "url": "https://stereo.coffee/shop/tproduct/575354283-317726320713-kakao-bobi-100gr",
+    "back": false
+   },
+   {
+    "id": "930bc9e4a071",
+    "roaster": "bolshe",
+    "name": "Ангола Кибала",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/721156284-950726619373-angola-kibala",
+    "back": false
+   },
+   {
+    "id": "91c8de66820b",
+    "roaster": "bolshe",
+    "name": "Эфиопия от Нафкот Амасу и женщин Гедичо",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/721156284-838573685973-efiopiya-ot-nafkot-amasu-i-zhenschin-ged",
+    "back": false
+   },
+   {
+    "id": "9b86c5dd4455",
+    "roaster": "bolshe",
+    "name": "Эфиопия от Нафкот Амасу и женщин Гедичо",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/721156284-868743992763-efiopiya-ot-nafkot-amasu-i-zhenschin-ged",
+    "back": false
+   },
+   {
+    "id": "75a795494908",
+    "roaster": "bolshe",
+    "name": "Ангола Кибала",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/721156284-683641696853-angola-kibala",
+    "back": false
+   },
+   {
+    "id": "b1c4450e5f12",
+    "roaster": "bolshe",
+    "name": "Гватемала Эль Арко",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512406604-369049463183-gvatemala-el-arko",
+    "back": true
+   },
+   {
+    "id": "920a6d82e4b3",
+    "roaster": "bolshe",
+    "name": "Кения Кабингара",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512406604-194300439713-keniya-kabingara",
+    "back": true
+   },
+   {
+    "id": "8ff19eb99df9",
+    "roaster": "bolshe",
+    "name": "Эфиопия Дара",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512406604-772097246601-efiopiya-dara",
+    "back": false
+   },
+   {
+    "id": "99c70619419f",
+    "roaster": "bolshe",
+    "name": "Эфиопия Дара",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512406604-910426725371-efiopiya-dara",
+    "back": true
+   },
+   {
+    "id": "6695e655cce9",
+    "roaster": "bolshe",
+    "name": "Лаос Сомсай типика",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512406604-487156190743-laos-somsai-tipika",
+    "back": false
+   },
+   {
+    "id": "3337c9674a22",
+    "roaster": "choose",
+    "name": "Колумбия / Перископ Эль Вергель",
+    "url": "https://www.choosecoffee.ru/main/tproduct/739043735-741872490853-kolumbiya-periskop-el-vergel",
+    "back": false
+   }
+  ],
+  "removed": [
+   {
+    "id": "67ea42797bf2",
+    "roaster": "bolshe",
+    "name": "Бразилия конилон от семьи Пессин",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/721156284-287282228962-braziliya-konilon-ot-semi-pessin",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "bd08dfdb0343",
+    "roaster": "bolshe",
+    "name": "Венесуэла Брисас Дель Хиль",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/721156284-312824080743-venesuela-brisas-del-hil",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "b23fef600de2",
+    "roaster": "bolshe",
+    "name": "Гватемала Эль Арко",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/721156284-557587575973-gvatemala-el-arko",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "e24f4f96e653",
+    "roaster": "bolshe",
+    "name": "Кения Ичанги",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/721156284-933899376513-keniya-ichangi",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "6efd9ac4841a",
+    "roaster": "bolshe",
+    "name": "Китай ТяньЮй",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512406604-633279278763-kitai-tyanyui",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "a8b1e3238f9e",
+    "roaster": "bolshe",
+    "name": "Китай ТяньЮй",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/721156284-902427588033-kitai-tyanyui",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "1195c92ee05a",
+    "roaster": "bolshe",
+    "name": "Лаос Болавен",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/721156284-245043213622-laos-bolaven",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "7b41878fb4a0",
+    "roaster": "bolshe",
+    "name": "Млечный Уть",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/721156284-203993096293-mlechnii-ut",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "7962d06e8c19",
+    "roaster": "bolshe",
+    "name": "Перу Андрес Торрес Гейша",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512406604-163676242793-peru-andres-torres-geisha",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "16006ead859b",
+    "roaster": "bolshe",
+    "name": "Эфиопия Демби",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512406604-293922762883-efiopiya-dembi",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "e75dc01c98e9",
+    "roaster": "botanica",
+    "name": "Каппинг-набор фильтр-лотов",
+    "url": "https://botanicacoffee.ru/cupping",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "9dc04b8c8a8d",
+    "roaster": "botanica",
+    "name": "Эфиопия Банко Готити",
+    "url": "https://botanicacoffee.ru/bankogotiti",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "9aaba69b7024",
+    "roaster": "botanica",
+    "name": "Эфиопия Килленсо",
+    "url": "https://botanicacoffee.ru/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "3ea0ddddb61d",
+    "roaster": "specialtyru",
+    "name": "Канга Ростерс Колумбия Уила Санта Мария, эспрессо 250 гр.",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-kanga-rosters-kolumbiya-uila-santa-mariya-espresso-250-gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "29479ae7fdf5",
+    "roaster": "specialtyru",
+    "name": "Микале Бразилия Минас-Жерайс андалиман, эспрессо, 200 гр",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-mikale-braziliya-minas-zherays-andaliman-espresso-200-gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "13f6dbdda46f",
+    "roaster": "specialtyru",
+    "name": "Юнат Кения Киамбу Мтаро, фильтр 250 гр.",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-yunat-keniya-kiambu-mtaro-filtr-250-gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "79cd8e08b77d",
+    "roaster": "specialtyru",
+    "name": "Юнат Руанда Русизи Ньендзи, эспрессо 250 гр.",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-yunat-ruanda-rusizi-nendzi-espresso-250-gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "c83a7f251770",
+    "roaster": "stereo",
+    "name": "Колумбия Розовый бурбон",
+    "url": "https://stereo.coffee/shop/tproduct/592281615-963880614763-kolumbiya-rozovii-burbon",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "149e7c13af0a",
+    "roaster": "stereo",
+    "name": "Смесь \"2 Арабики Легкая\"",
+    "url": "https://stereo.coffee/shop/tproduct/592281615-499629278143-smes-2-arabiki-legkaya",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "75bdb4b97c02",
+    "roaster": "stereo",
+    "name": "Эфиопия Готити гр.1",
+    "url": "https://stereo.coffee/shop/tproduct/592281615-465395219862-efiopiya-gotiti-gr1",
+    "reason": "нет в наличии"
+   }
+  ]
  }
 ]

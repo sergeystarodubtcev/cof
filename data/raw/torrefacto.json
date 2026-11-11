@@ -3,10 +3,10 @@
   "id": "torrefacto",
   "platform": "bitrix+generic",
   "items": 560,
-  "seconds": 1882.2,
+  "seconds": 1692.4,
   "ok": true,
   "error": null,
-  "at": "2026-11-10T07:53:10+00:00"
+  "at": "2026-11-11T06:54:24+00:00"
  },
  "items": [
   {
@@ -15592,7 +15592,7 @@
     {
      "weight_g": null,
      "price": 211.0,
-     "available": true
+     "available": false
     },
     {
      "weight_g": 40,
@@ -15602,7 +15602,7 @@
     {
      "weight_g": null,
      "price": 211.0,
-     "available": true
+     "available": false
     },
     {
      "weight_g": null,
@@ -16283,12 +16283,12 @@
    "category": "Главная / Шоколад / Драже",
    "specs": {},
    "gallery": [],
-   "available": true,
+   "available": false,
    "variants": [
     {
      "weight_g": null,
      "price": 1105.0,
-     "available": true
+     "available": false
     },
     {
      "weight_g": 175,
@@ -16298,7 +16298,7 @@
     {
      "weight_g": null,
      "price": 1105.0,
-     "available": true
+     "available": false
     },
     {
      "weight_g": null,

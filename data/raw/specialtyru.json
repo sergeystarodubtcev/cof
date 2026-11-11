@@ -3,10 +3,10 @@
   "id": "specialtyru",
   "platform": "bitrix+generic",
   "items": 430,
-  "seconds": 1830.8,
+  "seconds": 1626.8,
   "ok": true,
   "error": null,
-  "at": "2026-11-10T07:52:44+00:00"
+  "at": "2026-11-11T06:53:43+00:00"
  },
  "items": [
   {
@@ -24,7 +24,7 @@
    "variants": [
     {
      "weight_g": 100,
-     "price": 1860.0,
+     "price": 1864.0,
      "available": true
     }
    ]
@@ -44,7 +44,7 @@
    "variants": [
     {
      "weight_g": 200,
-     "price": 1120.0,
+     "price": 1121.0,
      "available": true
     }
    ]
@@ -64,7 +64,7 @@
    "variants": [
     {
      "weight_g": 200,
-     "price": 875.0,
+     "price": 878.0,
      "available": true
     }
    ]
@@ -124,7 +124,7 @@
    "variants": [
     {
      "weight_g": 200,
-     "price": 810.0,
+     "price": 814.0,
      "available": true
     }
    ]
@@ -165,26 +165,6 @@
     {
      "weight_g": 250,
      "price": 990.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-yunat-ruanda-rusizi-nendzi-espresso-250-gr/",
-   "name": "Юнат Руанда Русизи Ньендзи, эспрессо 250 гр.",
-   "description": "Описание\n Ньендзи приходит со станции в регионе Русизи на западе Руанды. Местные фермеры собирают спелую ягоду красного бурбона, а на станции её сушат целиком на африканских кроватях четыре–шесть недель. Эта долгая натуральная обработка даёт насыщенную фруктовую сторону: импортёр отмечает ежевику и ассоциацию с красным вином. Карамель и шоколад добавляют сладкую опору, поэтому эспрессо звучит ягодно, но сохраняет десертный финал. «Красное вино» здесь именно вкусовой образ, алкоголь в кофе не добавляют.",
-   "image": null,
-   "category": "Specialty / Кофе обжаренный / Кофе в зёрнах и молотый",
-   "specs": {
-    "Обжарка": "Оборудование",
-    "Способ обработки": "натуральный"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": 250,
-     "price": 790.0,
      "available": true
     }
    ]
@@ -244,7 +224,7 @@
    "variants": [
     {
      "weight_g": 250,
-     "price": 1265.0,
+     "price": 1269.0,
      "available": true
     }
    ]
@@ -264,7 +244,7 @@
    "variants": [
     {
      "weight_g": 250,
-     "price": 1265.0,
+     "price": 1269.0,
      "available": true
     }
    ]
@@ -284,7 +264,7 @@
    "variants": [
     {
      "weight_g": 250,
-     "price": 1265.0,
+     "price": 1269.0,
      "available": true
     }
    ]
@@ -304,7 +284,7 @@
    "variants": [
     {
      "weight_g": 250,
-     "price": 1265.0,
+     "price": 1269.0,
      "available": true
     }
    ]
@@ -364,7 +344,7 @@
    "variants": [
     {
      "weight_g": 250,
-     "price": 965.0,
+     "price": 910.0,
      "available": true
     }
    ]
@@ -384,7 +364,7 @@
    "variants": [
     {
      "weight_g": 250,
-     "price": 805.0,
+     "price": 760.0,
      "available": true
     }
    ]
@@ -404,7 +384,7 @@
    "variants": [
     {
      "weight_g": 250,
-     "price": 995.0,
+     "price": 999.0,
      "available": true
     }
    ]
@@ -545,7 +525,7 @@
    "variants": [
     {
      "weight_g": 200,
-     "price": 950.0,
+     "price": 960.0,
      "available": true
     }
    ]
@@ -745,7 +725,7 @@
    "variants": [
     {
      "weight_g": 250,
-     "price": 1370.0,
+     "price": 1372.0,
      "available": true
     }
    ]
@@ -785,7 +765,7 @@
    "variants": [
     {
      "weight_g": 250,
-     "price": 1080.0,
+     "price": 1083.0,
      "available": true
     }
    ]
@@ -805,27 +785,7 @@
    "variants": [
     {
      "weight_g": 250,
-     "price": 940.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-kanga-rosters-kolumbiya-uila-santa-mariya-espresso-250-gr/",
-   "name": "Канга Ростерс Колумбия Уила Санта Мария, эспрессо 250 гр.",
-   "description": "Описание\n Фермы региона Уила известны своим постоянным стремлением к производству кофе высокого качества. Зерна из этого региона постоянно проходят оценку и сертификацию, чтобы гарантировать соответствие стандартам качества. Фермеры в Уиле используют органические и устойчивые методы выращивания кофе, что способствует производству экологически чистого и качественного кофе.\nЭта партия состоит из кофе с ферм Ла Эсмеральда, Порвенир, Эль Ринкон, Виста Эрмоса и Лас Делисиас. Размер ферм варьируется от 1 до 10 га. Фермы расположены на высотах от 1500 до 1750 метров над уровнем моря. Климатические условия и высота произрастания способствуют медленному созреванию кофейных ягод и развитию уникального вкуса кофе.\nЛот мытой обработки. Сначала кофе депульпировали, затем погрузили в танки с чистой водой на 12 - 30 часов. Ферментационные процессы разрушили клейковину и остатки мякоти на поверхности, что позволило легко их удалить. После этого кофе сушили 15 - 20 дней.\nКатурра - это сорт, который вывели в Минас-Жерайсе, Бразилия. Является естественной мутацией Красного Бурбона. Катурра дает больший урожай кофе и обладает большей устойчивостью к растительным болезням, чем Бурбон.",
-   "image": "https://specialty.ru/upload/resize_cache/iblock/762/468_525_1b37355811610f28f30cfc4926a116440/suheegi40qwfjww48lbfcx08qm23v2kw.png",
-   "category": "Specialty / Кофе обжаренный / Кофе в зёрнах и молотый",
-   "specs": {
-    "Обжарка": "Оборудование",
-    "Способ обработки": "хани"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": 250,
-     "price": 880.0,
+     "price": 942.0,
      "available": true
     }
    ]
@@ -865,7 +825,7 @@
    "variants": [
     {
      "weight_g": 200,
-     "price": 775.0,
+     "price": 776.0,
      "available": true
     }
    ]
@@ -1045,7 +1005,7 @@
    "variants": [
     {
      "weight_g": 200,
-     "price": 835.0,
+     "price": 839.0,
      "available": true
     }
    ]
@@ -1105,7 +1065,7 @@
    "variants": [
     {
      "weight_g": 100,
-     "price": 2380.0,
+     "price": 2290.0,
      "available": true
     }
    ]
@@ -1225,7 +1185,7 @@
    "variants": [
     {
      "weight_g": 200,
-     "price": 870.0,
+     "price": 871.0,
      "available": true
     }
    ]
@@ -1285,7 +1245,7 @@
    "variants": [
     {
      "weight_g": 200,
-     "price": 1585.0,
+     "price": 1586.0,
      "available": true
     }
    ]
@@ -1345,7 +1305,7 @@
    "variants": [
     {
      "weight_g": 250,
-     "price": 945.0,
+     "price": 949.0,
      "available": true
     }
    ]
@@ -1365,7 +1325,7 @@
    "variants": [
     {
      "weight_g": 100,
-     "price": 2645.0,
+     "price": 2649.0,
      "available": true
     }
    ]
@@ -1384,8 +1344,8 @@
    "available": true,
    "variants": [
     {
-     "weight_g": 200,
-     "price": 2330.0,
+     "weight_g": 100,
+     "price": 2331.0,
      "available": true
     }
    ]
@@ -1404,8 +1364,8 @@
    "available": true,
    "variants": [
     {
-     "weight_g": 100,
-     "price": 1955.0,
+     "weight_g": 200,
+     "price": 1958.0,
      "available": true
     }
    ]
@@ -1425,7 +1385,7 @@
    "variants": [
     {
      "weight_g": 100,
-     "price": 2535.0,
+     "price": 2538.0,
      "available": true
     }
    ]
@@ -1464,7 +1424,7 @@
    "available": true,
    "variants": [
     {
-     "weight_g": 100,
+     "weight_g": 200,
      "price": 1580.0,
      "available": true
     }
@@ -1524,7 +1484,7 @@
    "available": true,
    "variants": [
     {
-     "weight_g": 100,
+     "weight_g": 200,
      "price": 1350.0,
      "available": true
     }
@@ -1585,7 +1545,7 @@
    "variants": [
     {
      "weight_g": 100,
-     "price": 1120.0,
+     "price": 1124.0,
      "available": true
     }
    ]
@@ -1604,7 +1564,7 @@
    "available": true,
    "variants": [
     {
-     "weight_g": 200,
+     "weight_g": 100,
      "price": 1455.0,
      "available": true
     }
@@ -1705,7 +1665,7 @@
    "variants": [
     {
      "weight_g": 200,
-     "price": 1295.0,
+     "price": 1298.0,
      "available": true
     }
    ]
@@ -1744,7 +1704,7 @@
    "available": true,
    "variants": [
     {
-     "weight_g": 100,
+     "weight_g": 200,
      "price": 1405.0,
      "available": true
     }
@@ -1754,7 +1714,7 @@
    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-kolumbiya-uila-excelso/",
    "name": "Колумбия Уила Excelso",
    "description": "Описание\n Штат Уила расположен в южной части Колумбии, место, где Анды образуют «узел». Здесь три кордильеры разделены между западными, центральными и восточными Андами, которые поднимаются до северной Колумбии. Между восточной и центральной кордильерами протекает река Магдалена, поднимающаяся к Карибскому побережью. Между центральными и западными горными цепями Анд находится река Каука, впадающая в реку Магдалена на Карибских равнинах. Почва в этом районе вулканическая и поэтому идеально подходит для выращивания высококачественного кофе. Из-за географического положения вблизи экватора в Колумбии мало различий между разными сезонами.",
-   "image": "https://specialty.ru/upload/resize_cache/iblock/475/828_1104_1b37355811610f28f30cfc4926a116440/a30jiz95p06jxb1dlmy0tfm5ep8wq9vp.png",
+   "image": "https://specialty.ru/upload/resize_cache/iblock/9d7/828_1104_1b37355811610f28f30cfc4926a116440/wtcy3gwvlfwbq0e8ypkidpu1r00xuj1o.png",
    "category": "Specialty / Кофе обжаренный / Кофе в зёрнах и молотый",
    "specs": {
     "Обжарка": "Оборудование",
@@ -1764,7 +1724,7 @@
    "available": true,
    "variants": [
     {
-     "weight_g": 100,
+     "weight_g": 200,
      "price": 730.0,
      "available": true
     }
@@ -1785,7 +1745,7 @@
    "variants": [
     {
      "weight_g": 200,
-     "price": 850.0,
+     "price": 854.0,
      "available": true
     }
    ]
@@ -1825,7 +1785,7 @@
    "variants": [
     {
      "weight_g": 250,
-     "price": 905.0,
+     "price": 909.0,
      "available": true
     }
    ]
@@ -1985,7 +1945,7 @@
    "variants": [
     {
      "weight_g": 250,
-     "price": 885.0,
+     "price": 888.0,
      "available": true
     }
    ]
@@ -2004,8 +1964,8 @@
    "available": true,
    "variants": [
     {
-     "weight_g": 200,
-     "price": 1275.0,
+     "weight_g": 100,
+     "price": 1279.0,
      "available": true
     }
    ]
@@ -2014,7 +1974,7 @@
    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-braziliya-karmu-di-minas-mantikeyra/",
    "name": "Бразилия Карму-ди-Минас Мантикейра",
    "description": "Описание\n Владелец фазенды Риналдо ди Кастро родом из семьи, занимающейся производством кофе вот уже несколько поколений. Все началось с его прадедушки, который работал служащим на ферме, затем уже к деду Риналдо перешли владения землей, которая после его смерти была поделена между его детьми. \nОтец Риналдо получил хороший участок земли в муниципалитете Жезуания, соседнем с Кармо-ди-Минас, где они жили. Эта земля была его основным источником дохода на протяжении десятилетий, но когда он узнал о возможностях производства кофе высококачественного сегмента, у него появились более высокие цели, которые его ферма не могла удовлетворить. В 2003 году у семьи появилась возможность приобрести еще одну недвижимость, расположенную в Педралве. Эта земля была кофейной фермой под названием Фазенда Фурнас, имеющей столетнюю историю. Риналдо и его отец решили продать свой участок и инвестировать в фазенду Фурнас — это было правильным решением. \nВ ранние годы Риналдо не чувствовал себя комфортно, идя по стопам своих предков. Его мечтой было стать инженером, и он воплотил ее в жизнь в 1986 году. Но после почти 5 лет работы в этой области его отец сильно заболел и обратился к нему за помощью. Затем Риналдо вернулся в Кармо и присоединился к кофейному бизнесу в начале 90-х. \nРиналдо никак не мог ожидать, что он влюбится в производство кофе. Вскоре его репутация среди производителей региона повысилась, и он был избран президентом местной кооперативной ассоциации производителей кофе. Именно в то время, когда он работал здесь, метод обработки pulped natural начал использоваться на нескольких фермах региона и затем распространился на другие фермы, что стало началом нового этапа в местном кофейном бизнесе.",
-   "image": "https://specialty.ru/upload/resize_cache/iblock/df1/828_1104_1b37355811610f28f30cfc4926a116440/tr2z7aevoz8unjb1u976xr1j5kqj0zx6.png",
+   "image": "https://specialty.ru/upload/resize_cache/iblock/93d/828_1104_1b37355811610f28f30cfc4926a116440/plrjofjgtotxiiof4fllypukmdl1k6uy.png",
    "category": "Specialty / Кофе обжаренный / Кофе в зёрнах и молотый",
    "specs": {
     "Обжарка": "Оборудование",
@@ -2034,7 +1994,7 @@
    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/rise-brazil-cerrado-gtfc-kofe-v-banke-200-gr/",
    "name": "Rise Brazil Cerrado GTFC кофе в банке, 200 гр",
    "description": "Описание\n Коошупе — кооператив производителей кофе, включающий 14 000 членов, базируется в городе Гуашупе штата Минас-Жерайс. Из ≈ 5 млн мешков, производимых членами кооператива, ≈ 4 млн мешков уходит на экспорт: каждый час 365/24/7 кооператив отгружает ≈ 1,5 контейнера зеленого кофе, состоящего на 95% из сухих и на 5% из мытых арабик. GTFC это кофе высшая категория качества данного кооператива, благодаря этому вы сможете прочувствовать всю прелесть классического Бразильского кофе.  Как и любой кофе из Бразилии имеет сбалансированный вкус, с минимальной кислотностью. В этом лоте можно почувствовать орехово-шоколадный вкусоаромат с нотками ванили и апельсина. Напиток получается плотным кремовым с приятным послевкусием.",
-   "image": "https://specialty.ru/upload/resize_cache/iblock/422/828_1104_1b37355811610f28f30cfc4926a116440/87cxz8edosdocdutj7vwicm0kpkv9zi2.png",
+   "image": "https://specialty.ru/upload/resize_cache/iblock/6d3/828_1104_1b37355811610f28f30cfc4926a116440/amtnn63ysli835nuhl02v6t3w023xkvq.png",
    "category": "Specialty / Кофе обжаренный / Кофе в зёрнах и молотый",
    "specs": {
     "Обжарка": "Оборудование",
@@ -2065,7 +2025,7 @@
    "variants": [
     {
      "weight_g": 100,
-     "price": 1280.0,
+     "price": 1284.0,
      "available": true
     }
    ]
@@ -2085,7 +2045,7 @@
    "variants": [
     {
      "weight_g": 250,
-     "price": 1715.0,
+     "price": 1719.0,
      "available": true
     }
    ]
@@ -2124,28 +2084,8 @@
    "available": true,
    "variants": [
     {
-     "weight_g": 100,
+     "weight_g": 200,
      "price": 690.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-yunat-keniya-kiambu-mtaro-filtr-250-gr/",
-   "name": "Юнат Кения Киамбу Мтаро, фильтр 250 гр.",
-   "description": "Описание\n Мтаро пришёл к нам как региональный высокогорный лот, без имени одной фермы на мешке. Для Кении это нормальная история: урожай небольших семейных участков собирают вокруг локальной станции и уже там превращают в единую партию. Название лота фиксирует не выдуманного героя, а конкретный отбор урожая. Здесь особенно интересно наблюдать за SL28, кенийской разновидностью, которую ценят за выразительность и устойчивый характер даже после долгого пути от склона до обжарки.",
-   "image": "https://specialty.ru/upload/resize_cache/iblock/62e/828_1104_1b37355811610f28f30cfc4926a116440/68na221s6pnna6mp0bu5vdidxdm7ql7h.png",
-   "category": "Specialty / Кофе обжаренный / Кофе в зёрнах и молотый",
-   "specs": {
-    "Обжарка": "Оборудование",
-    "Способ обработки": "натуральный"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": 250,
-     "price": 1170.0,
      "available": true
     }
    ]
@@ -2185,7 +2125,7 @@
    "variants": [
     {
      "weight_g": 250,
-     "price": 825.0,
+     "price": 829.0,
      "available": true
     }
    ]
@@ -2205,7 +2145,7 @@
    "variants": [
     {
      "weight_g": 200,
-     "price": 920.0,
+     "price": 930.0,
      "available": true
     }
    ]
@@ -2245,7 +2185,7 @@
    "variants": [
     {
      "weight_g": 250,
-     "price": 990.0,
+     "price": 1030.0,
      "available": true
     }
    ]
@@ -2354,7 +2294,7 @@
    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/rise-kofe-ethiopia-shamola-banka-200-gr/",
    "name": "Rise кофе Ethiopia Shamola, банка 200 гр",
    "description": "Описание\n Кофе с легким, воздушным ароматом интенсивности выше средней, имеет в букете ноты косточковых в обрамлении спелого лимона, белого винограда и крыжовника. Кислотность легкая, понятная, с оттенками полевых цветов. Послевкусие долгое, стойкое и чистое. Тело среднее, плавное, скользящее. Кофе однородный согласованный и стабильный. Хорошо подойдет для мягких и плавных обжарок, направленных на сохранение энзимов. Раскроется в иммерсионных методах заваривания, аэропрессе, кемексе. Для эспрессо рекомендуются другие сорта.",
-   "image": "https://specialty.ru/upload/resize_cache/iblock/5fa/828_1104_1b37355811610f28f30cfc4926a116440/cuwifwa658xtuc6qfrlb72ekpw3kf5rj.png",
+   "image": "https://specialty.ru/upload/resize_cache/iblock/519/828_1104_1b37355811610f28f30cfc4926a116440/uhl2qawk28t7uhn20we5x4qqg51gdhu2.png",
    "category": "Specialty / Кофе обжаренный / Кофе в зёрнах и молотый",
    "specs": {
     "Обжарка": "Оборудование",
@@ -2385,7 +2325,7 @@
    "variants": [
     {
      "weight_g": 200,
-     "price": 1305.0,
+     "price": 1307.0,
      "available": true
     }
    ]
@@ -2414,7 +2354,7 @@
    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-efiopiya-gudzhi-shamola-gr-2/",
    "name": "Эфиопия Гуджи Шамола Гр. 2",
    "description": "Описание\n Кофе с легким, воздушным ароматом интенсивности выше средней, имеет в букете ноты косточковых в обрамлении спелого лимона, белого винограда и крыжовника. Кислотность легкая, понятная, с оттенками полевых цветов. Послевкусие долгое, стойкое и чистое. Тело среднее, плавное, скользящее. Кофе однородный согласованный и стабильный. Хорошо подойдет для мягких и плавных обжарок, направленных на сохранение энзимов. Раскроется в иммерсионных методах заваривания, аэропрессе, кемексе. Для эспрессо рекомендуются другие сорта.",
-   "image": "https://specialty.ru/upload/resize_cache/iblock/0ed/828_1104_1b37355811610f28f30cfc4926a116440/tmerv8z66sygegpzl82yy5d3eb50ghmz.png",
+   "image": "https://specialty.ru/upload/resize_cache/iblock/533/828_1104_1b37355811610f28f30cfc4926a116440/thkn55isbbfbgfshtx8nrenh4oey5cq2.png",
    "category": "Specialty / Кофе обжаренный / Кофе в зёрнах и молотый",
    "specs": {
     "Обжарка": "Оборудование",
@@ -2426,26 +2366,6 @@
     {
      "weight_g": 100,
      "price": 795.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-mikale-braziliya-minas-zherays-andaliman-espresso-200-gr/",
-   "name": "Микале Бразилия Минас-Жерайс андалиман, эспрессо, 200 гр",
-   "description": "Описание\n Андалиман — разновидность сычуаньского перца. Мы добавили его к классической Бразилии и получилась настоящая лимонная вафля! Неожиданно яркий вкус и аромат свежего лимона через пару мгновений сменяется остринкой на языке.",
-   "image": "https://specialty.ru/upload/resize_cache/iblock/f61/828_1104_1b37355811610f28f30cfc4926a116440/g7gystpjc90lv0sg0s0150orjlc3lznp.png",
-   "category": "Specialty / Кофе обжаренный / Кофе в зёрнах и молотый",
-   "specs": {
-    "Обжарка": "Оборудование",
-    "Способ обработки": "сокинг"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": 200,
-     "price": 820.0,
      "available": true
     }
    ]
@@ -2545,7 +2465,7 @@
    "variants": [
     {
      "weight_g": 100,
-     "price": 1950.0,
+     "price": 1700.0,
      "available": true
     }
    ]
@@ -2804,7 +2724,7 @@
    "available": true,
    "variants": [
     {
-     "weight_g": 100,
+     "weight_g": 200,
      "price": 1470.0,
      "available": true
     }
@@ -2824,7 +2744,7 @@
    "available": true,
    "variants": [
     {
-     "weight_g": 100,
+     "weight_g": 200,
      "price": 970.0,
      "available": true
     }
@@ -2845,7 +2765,7 @@
    "variants": [
     {
      "weight_g": 250,
-     "price": 1305.0,
+     "price": 1309.0,
      "available": true
     }
    ]
@@ -2865,7 +2785,7 @@
    "variants": [
     {
      "weight_g": 200,
-     "price": 920.0,
+     "price": 910.0,
      "available": true
     }
    ]
@@ -2885,7 +2805,7 @@
    "variants": [
     {
      "weight_g": 200,
-     "price": 905.0,
+     "price": 908.0,
      "available": true
     }
    ]
@@ -3005,7 +2925,7 @@
    "variants": [
     {
      "weight_g": 250,
-     "price": 870.0,
+     "price": 872.0,
      "available": true
     }
    ]
@@ -3025,7 +2945,7 @@
    "variants": [
     {
      "weight_g": 200,
-     "price": 870.0,
+     "price": 871.0,
      "available": true
     }
    ]
@@ -3085,7 +3005,7 @@
    "variants": [
     {
      "weight_g": 100,
-     "price": 330.0,
+     "price": 332.0,
      "available": false
     }
    ]
@@ -3104,8 +3024,8 @@
    "available": false,
    "variants": [
     {
-     "weight_g": 100,
-     "price": 565.0,
+     "weight_g": 200,
+     "price": 569.0,
      "available": false
     }
    ]
@@ -3124,8 +3044,8 @@
    "available": false,
    "variants": [
     {
-     "weight_g": 200,
-     "price": 810.0,
+     "weight_g": 250,
+     "price": 811.5,
      "available": false
     }
    ]
@@ -3145,7 +3065,7 @@
    "variants": [
     {
      "weight_g": 200,
-     "price": 1225.0,
+     "price": 1229.0,
      "available": false
     }
    ]
@@ -3164,8 +3084,8 @@
    "available": false,
    "variants": [
     {
-     "weight_g": 200,
-     "price": 1135.0,
+     "weight_g": 100,
+     "price": 1139.0,
      "available": false
     }
    ]
@@ -3245,7 +3165,7 @@
    "variants": [
     {
      "weight_g": 100,
-     "price": 1430.0,
+     "price": 1432.0,
      "available": false
     }
    ]
@@ -3324,7 +3244,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": 200,
+     "weight_g": 100,
      "price": 1130.0,
      "available": false
     }
@@ -3424,8 +3344,8 @@
    "available": false,
    "variants": [
     {
-     "weight_g": 200,
-     "price": 990.0,
+     "weight_g": 100,
+     "price": 993.0,
      "available": false
     }
    ]
@@ -3464,7 +3384,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": 100,
+     "weight_g": 200,
      "price": 1510.0,
      "available": false
     }
@@ -3484,7 +3404,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": 100,
+     "weight_g": 200,
      "price": 1450.0,
      "available": false
     }
@@ -3545,7 +3465,7 @@
    "variants": [
     {
      "weight_g": 100,
-     "price": 650.0,
+     "price": 652.0,
      "available": false
     }
    ]
@@ -3564,8 +3484,8 @@
    "available": false,
    "variants": [
     {
-     "weight_g": 200,
-     "price": 925.0,
+     "weight_g": 100,
+     "price": 929.0,
      "available": false
     }
    ]
@@ -3585,8 +3505,8 @@
    "available": false,
    "variants": [
     {
-     "weight_g": 100,
-     "price": 1255.0,
+     "weight_g": 200,
+     "price": 1259.0,
      "available": false
     }
    ]
@@ -3607,7 +3527,7 @@
    "variants": [
     {
      "weight_g": 200,
-     "price": 1475.0,
+     "price": 1479.0,
      "available": false
     }
    ]
@@ -3627,7 +3547,7 @@
    "variants": [
     {
      "weight_g": 100,
-     "price": 745.0,
+     "price": 749.0,
      "available": false
     }
    ]
@@ -3647,7 +3567,7 @@
    "variants": [
     {
      "weight_g": 100,
-     "price": 885.0,
+     "price": 889.0,
      "available": false
     }
    ]
@@ -3726,7 +3646,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": 100,
+     "weight_g": 200,
      "price": 890.0,
      "available": false
     }
@@ -3767,7 +3687,7 @@
    "variants": [
     {
      "weight_g": 100,
-     "price": 925.0,
+     "price": 927.0,
      "available": false
     }
    ]
@@ -3787,7 +3707,7 @@
    "variants": [
     {
      "weight_g": 250,
-     "price": 745.0,
+     "price": 748.0,
      "available": false
     }
    ]
@@ -3826,7 +3746,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": 100,
+     "weight_g": 200,
      "price": 760.0,
      "available": false
     }
@@ -3846,7 +3766,7 @@
    "available": false,
    "variants": [
     {
-     "weight_g": 200,
+     "weight_g": 100,
      "price": 845.0,
      "available": false
     }
@@ -4027,7 +3947,7 @@
    "variants": [
     {
      "weight_g": 200,
-     "price": 1080.0,
+     "price": 1020.0,
      "available": false
     }
    ]
@@ -4227,7 +4147,7 @@
    "variants": [
     {
      "weight_g": 250,
-     "price": 1445.0,
+     "price": 1449.0,
      "available": false
     }
    ]
@@ -4627,7 +4547,7 @@
    "variants": [
     {
      "weight_g": 100,
-     "price": 2300.0,
+     "price": 2540.0,
      "available": false
     }
    ]
@@ -4647,7 +4567,7 @@
    "variants": [
     {
      "weight_g": 100,
-     "price": 1850.0,
+     "price": 1810.0,
      "available": false
     }
    ]
@@ -4767,7 +4687,7 @@
    "variants": [
     {
      "weight_g": 200,
-     "price": 670.0,
+     "price": 840.0,
      "available": false
     }
    ]
@@ -5007,7 +4927,7 @@
    "variants": [
     {
      "weight_g": 250,
-     "price": 1495.0,
+     "price": 1499.0,
      "available": false
     }
    ]
@@ -5067,7 +4987,7 @@
    "variants": [
     {
      "weight_g": 100,
-     "price": 995.0,
+     "price": 999.0,
      "available": false
     }
    ]
@@ -5167,7 +5087,7 @@
    "variants": [
     {
      "weight_g": 100,
-     "price": 1260.0,
+     "price": 1261.0,
      "available": false
     }
    ]
@@ -5466,7 +5386,7 @@
    "variants": [
     {
      "weight_g": 200,
-     "price": 1095.0,
+     "price": 1099.0,
      "available": false
     }
    ]
@@ -5826,7 +5746,7 @@
    "variants": [
     {
      "weight_g": 250,
-     "price": 1225.0,
+     "price": 1229.0,
      "available": false
     }
    ]
@@ -6066,7 +5986,7 @@
    "variants": [
     {
      "weight_g": 250,
-     "price": 915.0,
+     "price": 916.0,
      "available": false
     }
    ]
@@ -6166,7 +6086,7 @@
    "variants": [
     {
      "weight_g": 250,
-     "price": 1035.0,
+     "price": 1039.0,
      "available": false
     }
    ]
@@ -6175,7 +6095,7 @@
    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-svarshchitsa-ekaterina-ruanda-nyamasheke-susa-espresso-250-g/",
    "name": "Сварщица Екатерина Руанда Ньямашеке Суса, эспрессо, 250 г",
    "description": "Кофе Сварщица Екатерина Руанда Ньямашеке Суса, эспрессо, 250 г",
-   "image": "https://specialty.ru/upload/resize_cache/iblock/425/435_332_1b37355811610f28f30cfc4926a116440/2vc13t4v60ciazk791vijfhgfys7boeu.png",
+   "image": "https://specialty.ru/upload/resize_cache/iblock/b7e/435_332_1b37355811610f28f30cfc4926a116440/66yswjdj8udacleuqdn5113pl2hg5ion.png",
    "category": "Specialty / Кофе обжаренный / Кофе в зёрнах и молотый",
    "specs": {
     "Обжарка": "Оборудование",
@@ -7046,7 +6966,7 @@
    "variants": [
     {
      "weight_g": 250,
-     "price": 825.0,
+     "price": 780.0,
      "available": false
     }
    ]
@@ -7266,7 +7186,7 @@
    "variants": [
     {
      "weight_g": 250,
-     "price": 585.0,
+     "price": 840.0,
      "available": false
     }
    ]
@@ -7366,7 +7286,7 @@
    "variants": [
     {
      "weight_g": 200,
-     "price": 920.0,
+     "price": 910.0,
      "available": false
     }
    ]
@@ -7426,7 +7346,7 @@
    "variants": [
     {
      "weight_g": 250,
-     "price": 945.0,
+     "price": 949.0,
      "available": false
     }
    ]
@@ -7606,7 +7526,7 @@
    "variants": [
     {
      "weight_g": 250,
-     "price": 870.0,
+     "price": 890.0,
      "available": false
     }
    ]
@@ -7626,7 +7546,7 @@
    "variants": [
     {
      "weight_g": 250,
-     "price": 1020.0,
+     "price": 1040.0,
      "available": false
     }
    ]
@@ -7646,7 +7566,7 @@
    "variants": [
     {
      "weight_g": 250,
-     "price": 720.0,
+     "price": 750.0,
      "available": false
     }
    ]
@@ -7666,7 +7586,7 @@
    "variants": [
     {
      "weight_g": 250,
-     "price": 830.0,
+     "price": 860.0,
      "available": false
     }
    ]
@@ -7686,7 +7606,7 @@
    "variants": [
     {
      "weight_g": 250,
-     "price": 1040.0,
+     "price": 1100.0,
      "available": false
     }
    ]
@@ -7706,7 +7626,7 @@
    "variants": [
     {
      "weight_g": 250,
-     "price": 905.0,
+     "price": 909.0,
      "available": false
     }
    ]
@@ -7766,7 +7686,7 @@
    "variants": [
     {
      "weight_g": 250,
-     "price": 910.0,
+     "price": 960.0,
      "available": false
     }
    ]
@@ -7806,7 +7726,7 @@
    "variants": [
     {
      "weight_g": 200,
-     "price": 1180.0,
+     "price": 1230.0,
      "available": false
     }
    ]
@@ -7846,7 +7766,7 @@
    "variants": [
     {
      "weight_g": 250,
-     "price": 895.0,
+     "price": 899.0,
      "available": false
     }
    ]
@@ -7866,7 +7786,7 @@
    "variants": [
     {
      "weight_g": 250,
-     "price": 980.0,
+     "price": 1040.0,
      "available": false
     }
    ]
@@ -7966,7 +7886,7 @@
    "variants": [
     {
      "weight_g": 250,
-     "price": 695.0,
+     "price": 698.0,
      "available": false
     }
    ]
@@ -8006,7 +7926,7 @@
    "variants": [
     {
      "weight_g": 250,
-     "price": 610.0,
+     "price": 613.0,
      "available": false
     }
    ]
@@ -8026,7 +7946,7 @@
    "variants": [
     {
      "weight_g": 250,
-     "price": 670.0,
+     "price": 673.0,
      "available": false
     }
    ]
@@ -8195,7 +8115,7 @@
    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-svarshchitsa-ekaterina-sladkiy-yagodnyy-espresso-250-g/",
    "name": "Сварщица Екатерина Сладкий Ягодный, эспрессо, 250 г",
    "description": "Описание\n Сладкий сбалансированный кофе с сочной кислотностью, которая подчеркивает ягодно-ореховый профиль бленда.",
-   "image": "https://specialty.ru/upload/resize_cache/iblock/a0a/361_307_1b37355811610f28f30cfc4926a116440/og3aqq22p1eu6uo1w1qupmpwse9ye9kf.png",
+   "image": "https://specialty.ru/upload/resize_cache/iblock/c33/361_307_1b37355811610f28f30cfc4926a116440/50plpod7jqi4jt968nyjy1rb6sok8905.png",
    "category": "Specialty / Кофе обжаренный / Кофе в зёрнах и молотый",
    "specs": {
     "Обжарка": "Оборудование",
@@ -8226,7 +8146,7 @@
    "variants": [
     {
      "weight_g": 250,
-     "price": 995.0,
+     "price": 998.0,
      "available": false
     }
    ]
@@ -8346,7 +8266,7 @@
    "variants": [
     {
      "weight_g": 200,
-     "price": 1115.0,
+     "price": 1130.0,
      "available": false
     }
    ]
@@ -8366,7 +8286,7 @@
    "variants": [
     {
      "weight_g": 200,
-     "price": 1375.0,
+     "price": 1390.0,
      "available": false
     }
    ]
@@ -8607,6 +8527,86 @@
     {
      "weight_g": 200,
      "price": 590.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-sok-braziliya-minas-zherays-da-lagoa-espresso-200-gr/",
+   "name": "Сок Бразилия Минас-Жерайс Да Лагоа, эспрессо 200 гр",
+   "description": "Описание\n Кофе из Бразилии с плотным телом, и обволакивающей текстурой. Сладость в этом кофе настолько отчетливая, что создается ощущение будто пьешь жидкий молочный шоколад.",
+   "image": "https://specialty.ru/upload/resize_cache/iblock/b4d/783_757_1b37355811610f28f30cfc4926a116440/5b2oc8dmndcmlqyaoxb3av3l9ipulw4e.png",
+   "category": "Specialty / Кофе обжаренный / Кофе в зёрнах и молотый",
+   "specs": {
+    "Обжарка": "Оборудование",
+    "Способ обработки": "натуральный"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": 200,
+     "price": 590.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-kanga-rosters-nikaragua-khinotega-maragodzhip-espresso-250-gr/",
+   "name": "Канга Ростерс, Никарагуа Хинотега Марагоджип, эспрессо, 250 гр",
+   "description": "Описание\n Яркий и сладкий кофе с нотами ванили, сочного цитруса, ягод и тёмного шоколада.. Марагоджип - это разновидность арабики, которая отличается крупным размером зерен, из-за чего иногда её называют \"слоновье зерно\". Деревья марагоджипа также крупнее других и имеют большие расстояния между ветвями, что влияет на урожайность и защиту от болезней. Эта разновидность возникла в результате перекрестного скрещивания нескольких разновидностей кофейных деревьев в Бразилии.\nЭтот марагоджип происходит из регионов Хинотега и Матагальпа с высот 1000–1200 метров над уровнем моря. Кофе растет на вулканических почвах под тенью таких деревьев, как инга, банановое дерево и некоторые местные деревья. Среднегодовая температура составляет 20 °C. Ежегодно производится около 6–7 тысяч мешков марагоджипа.\nКофе собирают вручную, всего за год к дереву подходят до 8 раз, собирают только спелые ягоды. Кофе депульпируется, ферментируется в течение 24 часов и сушится на солнце. После халлинга зерна сортируют при помощи специального оборудования и вручную.",
+   "image": "https://specialty.ru/upload/resize_cache/iblock/4f5/473_561_1b37355811610f28f30cfc4926a116440/l0f3fqapndbsz50x7nhbycrvyqouy24g.png",
+   "category": "Specialty / Кофе обжаренный / Кофе в зёрнах и молотый",
+   "specs": {
+    "Обжарка": "Оборудование",
+    "Способ обработки": "мытый"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 900.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-kanga-rosters-peru-amazonas-monteverde-espresso-250-gr/",
+   "name": "Канга Ростерс Перу Амазонас Монтеверде, эспрессо 250 гр.",
+   "description": "Описание\n Происхождение и уникальность\nЭтот лот – результат работы 250 фермеров, объединённых в Café Monteverde, в регионе Амазонас. Кофе обработан натуральным методом, что подчёркивает его насыщенную сладость и многослойность вкуса. В профиле выделяются спелые красные фрукты, виноград, апельсин, молочный шоколад и лёгкие алкогольные ноты.\nРегион и условия выращивания\nПеру – одна из самых разнообразных кофейных стран Южной Америки. Здесь встречаются тропики, горные склоны и сухие пустынные районы, создавая уникальные условия для выращивания арабики.\nКофе Monte Verde растёт в провинции Амазонас, на восточных склонах Анд. Высокогорное расположение замедляет созревание ягод, что делает вкус кофе более насыщенным, глубоким и сбалансированным.\nПроизводители и обработка\nCafé Monteverde – это группа фермеров из Родригез-де-Мендоса, работающая с различными разновидностями арабики: Typica, Bourbon, Pache, Catiomor, Catuai. Они делают ставку на устойчивое производство и непрерывное развитие качества.",
+   "image": "https://specialty.ru/upload/resize_cache/iblock/615/478_558_1b37355811610f28f30cfc4926a116440/xbdbzt17gl0ptnw8ssxnv7coi6jjcyf2.png",
+   "category": "Specialty / Кофе обжаренный / Кофе в зёрнах и молотый",
+   "specs": {
+    "Обжарка": "Оборудование",
+    "Способ обработки": "натуральный"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1060.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-kanga-rosters-gonduras-kopan-maragodzhip-espresso-250-gr/",
+   "name": "Канга Ростерс, Гондурас Копан Марагоджип, эспрессо, 250 гр",
+   "description": "Описание\n Кофе с Hacienda Montecristo в Копане. Ферма принадлежит семье Медина больше ста лет и работает в окружении тропического леса: кофейные деревья растут под сенью махагони, кедра и лавра, что поддерживает и терруар, и биоразнообразие.\nКаждую ягоду собирают вручную, сортируют и обрабатывают методом хани. Сочетание климата, высоты 1250 метров и опыта фермеров даёт чистый и сбалансированный профиль.\nПри ферме с 1991 года работает образовательный центр Ramón Medina Cueva, позже переоборудованный в кофейную лабораторию: там учат детей из окрестных деревень и ведут программы устойчивого развития.\nРазновидность Марагоджип, оценка Q 85. Во вкусе грейпфрут, молочный шоколад и чёрная смородина.",
+   "image": "https://specialty.ru/upload/resize_cache/iblock/56a/429_538_1b37355811610f28f30cfc4926a116440/q2o9rbexeziytuakah19onuvycpmzyb4.png",
+   "category": "Specialty / Кофе обжаренный / Кофе в зёрнах и молотый",
+   "specs": {
+    "Обжарка": "Оборудование",
+    "Способ обработки": "хани"
+   },
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 810.0,
      "available": false
     }
    ]

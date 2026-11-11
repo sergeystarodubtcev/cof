@@ -3,12 +3,40 @@
   "id": "camera",
   "platform": "tilda",
   "items": 15,
-  "seconds": 34.7,
+  "seconds": 38.8,
   "ok": true,
   "error": null,
-  "at": "2026-11-10T07:22:22+00:00"
+  "at": "2026-11-11T06:26:50+00:00"
  },
  "items": [
+  {
+   "url": "https://camcoffee.ru/accessories/cup",
+   "name": "Фирменная чашка",
+   "description": "Фирменная чашка для кофе от Камеры Обскуры",
+   "image": "https://static.tildacdn.com/stor6662-3266-4466-a261-306362373330/56874717.jpg",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1800.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://camcoffee.ru/accessories/cafec_filters02",
+   "name": "Фильтры CAFEC V60-02 T83, 100 шт",
+   "description": "Фильтры CAFEC для воронки",
+   "image": "https://static.tildacdn.com/stor3839-6565-4335-b535-366538373561/44016072.jpg",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 830.0,
+     "available": true
+    }
+   ]
+  },
   {
    "url": "https://camcoffee.ru/espresso/ptica",
    "name": "Голубь",
@@ -1422,34 +1450,6 @@
     {
      "weight_g": 1000,
      "price": 3923.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://camcoffee.ru/accessories/cup",
-   "name": "Фирменная чашка",
-   "description": "Фирменная чашка для кофе от Камеры Обскуры",
-   "image": "https://static.tildacdn.com/stor6662-3266-4466-a261-306362373330/56874717.jpg",
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 1800.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://camcoffee.ru/accessories/cafec_filters02",
-   "name": "Фильтры CAFEC V60-02 T83, 100 шт",
-   "description": "Фильтры CAFEC для воронки",
-   "image": "https://static.tildacdn.com/stor3839-6565-4335-b535-366538373561/44016072.jpg",
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 830.0,
      "available": true
     }
    ]
