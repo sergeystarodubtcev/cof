@@ -3,10 +3,10 @@
   "id": "torrefacto",
   "platform": "bitrix+generic",
   "items": 560,
-  "seconds": 1692.4,
+  "seconds": 1483.0,
   "ok": true,
   "error": null,
-  "at": "2026-11-11T06:54:24+00:00"
+  "at": "2026-11-12T07:39:12+00:00"
  },
  "items": [
   {
@@ -15727,17 +15727,17 @@
    "category": "Главная / Шоколад / Шоколад для напитков",
    "specs": {},
    "gallery": [],
-   "available": true,
+   "available": false,
    "variants": [
     {
      "weight_g": null,
      "price": 505.0,
-     "available": true
+     "available": false
     },
     {
      "weight_g": null,
      "price": 505.0,
-     "available": true
+     "available": false
     }
    ]
   },

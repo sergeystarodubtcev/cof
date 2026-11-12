@@ -3,10 +3,10 @@
   "id": "welder",
   "platform": "bitrix+generic",
   "items": 139,
-  "seconds": 1379.8,
+  "seconds": 1172.8,
   "ok": true,
   "error": null,
-  "at": "2026-11-11T06:50:36+00:00"
+  "at": "2026-11-12T07:35:13+00:00"
  },
  "items": [
   {
@@ -75,12 +75,12 @@
    "variants": [
     {
      "weight_g": 250,
-     "price": 1124.0,
+     "price": 1146.0,
      "available": true
     },
     {
      "weight_g": 1000,
-     "price": 3371.0,
+     "price": 3437.0,
      "available": true
     }
    ]
@@ -934,12 +934,12 @@
    "variants": [
     {
      "weight_g": 250,
-     "price": 1124.0,
+     "price": 1146.0,
      "available": true
     },
     {
      "weight_g": 1000,
-     "price": 3371.0,
+     "price": 3437.0,
      "available": true
     }
    ]
@@ -3480,6 +3480,126 @@
    ]
   },
   {
+   "url": "https://theweldercatherine.ru/catalog/dlya_espresso/kolumbiya_martines_katurra/",
+   "name": "Колумбия Мартинес катурра",
+   "description": "Кофе Колумбия Мартинес катурра",
+   "image": "https://theweldercatherine.ru/upload/iblock/4a0/mebdmgr5523rjofk8mb4qhlucaqixt6m/250g-_1_-_90_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для эспрессо / Для эспрессо",
+   "specs": {
+    "Разновидность": "катурра",
+    "Регион": "Уила",
+    "Сбор урожая": "Март 2026",
+    "Способ обработки": "натуральный, анаэробный",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Ла Виргинья",
+    "Обжарка": "фильтр, эспрессо"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1393.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4179.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1393.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4179.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_espresso/efiopiya_reku_1/",
+   "name": "Эфиопия Реку",
+   "description": "Кофе Эфиопия Реку",
+   "image": "https://theweldercatherine.ru/upload/iblock/b6c/cwfiwwg6eyg1zu0jby7igczolh4chdre/250g-_1_-_81_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для эспрессо / Для эспрессо",
+   "specs": {
+    "Разновидность": "местные разновидности бурбона",
+    "Регион": "Иргачифф",
+    "Сбор урожая": "Январь 2026",
+    "Способ обработки": "мытый",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Реку",
+    "Обжарка": "фильтр, эспрессо"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1349.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4046.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1349.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4046.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_espresso/kolumbiya_rafael_ayya_3/",
+   "name": "Колумбия Рафаэль Айя",
+   "description": "Кофе Колумбия Рафаэль Айя",
+   "image": "https://theweldercatherine.ru/upload/iblock/903/qelv68orl0vvvu5hl6lnnt92ndb6rnux/250g-_1_-_39_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для эспрессо / Для эспрессо",
+   "specs": {
+    "Разновидность": "катурра",
+    "Регион": "Уила, Ла Флорида",
+    "Сбор урожая": "Март 2025",
+    "Способ обработки": "натуральный",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Ла Виргиния",
+    "Обжарка": "фильтр, эспрессо"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1725.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 5174.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1725.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 5174.0,
+     "available": true
+    }
+   ]
+  },
+  {
    "url": "https://theweldercatherine.ru/catalog/dlya_espresso/ruanda_kabue_/",
    "name": "Руанда Кабуе",
    "description": "Кофе Руанда Кабуе",
@@ -3515,6 +3635,86 @@
     {
      "weight_g": 1000,
      "price": 3583.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_espresso/kolumbiya_martines_rozovyy_burbon/",
+   "name": "Колумбия Мартинес розовый бурбон",
+   "description": "Кофе Колумбия Мартинес розовый бурбон",
+   "image": "https://theweldercatherine.ru/upload/iblock/112/m5m2yhzpfngu0h52nbz7s3ajjckt0qfj/250g-_1_-_4_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для эспрессо / Для эспрессо",
+   "specs": {
+    "Разновидность": "розовый бурбон",
+    "Регион": "Уила",
+    "Сбор урожая": "Март 2025",
+    "Способ обработки": "мытый, анаэробный",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Ла Виргинья",
+    "Обжарка": "фильтр, эспрессо"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1459.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4377.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1459.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4377.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://theweldercatherine.ru/catalog/dlya_espresso/ruanda_susa/",
+   "name": "Руанда Суса",
+   "description": "Кофе Руанда Суса",
+   "image": "https://theweldercatherine.ru/upload/iblock/464/el1895ivha1h3ub9npyhnlxxjhqbop0g/250g-_1_-_48_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для эспрессо / Для эспрессо",
+   "specs": {
+    "Разновидность": "красный бурбон",
+    "Регион": "Ньямашеке",
+    "Сбор урожая": "Апрель 2025",
+    "Способ обработки": "мытый, анаэробный",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Станция Сьято",
+    "Обжарка": "фильтр, эспрессо"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1437.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4311.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1437.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4311.0,
      "available": true
     }
    ]
@@ -3600,46 +3800,6 @@
    ]
   },
   {
-   "url": "https://theweldercatherine.ru/catalog/dlya_espresso/efiopiya_reku_1/",
-   "name": "Эфиопия Реку",
-   "description": "Кофе Эфиопия Реку",
-   "image": "https://theweldercatherine.ru/upload/iblock/b6c/cwfiwwg6eyg1zu0jby7igczolh4chdre/250g-_1_-_81_.png",
-   "category": "Главная страница / Главная страница / Каталог / Каталог / Для эспрессо / Для эспрессо",
-   "specs": {
-    "Разновидность": "местные разновидности бурбона",
-    "Регион": "Иргачифф",
-    "Сбор урожая": "Январь 2026",
-    "Способ обработки": "мытый",
-    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
-    "Ферма": "Реку",
-    "Обжарка": "фильтр, эспрессо"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": 250,
-     "price": 1349.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4046.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1349.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4046.0,
-     "available": true
-    }
-   ]
-  },
-  {
    "url": "https://theweldercatherine.ru/catalog/dlya_espresso/kolumbiya_reynbou_dekaf/",
    "name": "Колумбия Рэйнбоу декаф",
    "description": "Кофе Колумбия Рэйнбоу декаф",
@@ -3674,166 +3834,6 @@
     {
      "weight_g": 1000,
      "price": 4112.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://theweldercatherine.ru/catalog/dlya_espresso/kolumbiya_martines_katurra/",
-   "name": "Колумбия Мартинес катурра",
-   "description": "Кофе Колумбия Мартинес катурра",
-   "image": "https://theweldercatherine.ru/upload/iblock/4a0/mebdmgr5523rjofk8mb4qhlucaqixt6m/250g-_1_-_90_.png",
-   "category": "Главная страница / Главная страница / Каталог / Каталог / Для эспрессо / Для эспрессо",
-   "specs": {
-    "Разновидность": "катурра",
-    "Регион": "Уила",
-    "Сбор урожая": "Март 2026",
-    "Способ обработки": "натуральный, анаэробный",
-    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
-    "Ферма": "Ла Виргинья",
-    "Обжарка": "фильтр, эспрессо"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": 250,
-     "price": 1393.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4179.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1393.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4179.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://theweldercatherine.ru/catalog/dlya_espresso/ruanda_susa/",
-   "name": "Руанда Суса",
-   "description": "Кофе Руанда Суса",
-   "image": "https://theweldercatherine.ru/upload/iblock/464/el1895ivha1h3ub9npyhnlxxjhqbop0g/250g-_1_-_48_.png",
-   "category": "Главная страница / Главная страница / Каталог / Каталог / Для эспрессо / Для эспрессо",
-   "specs": {
-    "Разновидность": "красный бурбон",
-    "Регион": "Ньямашеке",
-    "Сбор урожая": "Апрель 2025",
-    "Способ обработки": "мытый, анаэробный",
-    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
-    "Ферма": "Станция Сьято",
-    "Обжарка": "фильтр, эспрессо"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": 250,
-     "price": 1437.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4311.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1437.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4311.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://theweldercatherine.ru/catalog/dlya_espresso/kolumbiya_martines_rozovyy_burbon/",
-   "name": "Колумбия Мартинес розовый бурбон",
-   "description": "Кофе Колумбия Мартинес розовый бурбон",
-   "image": "https://theweldercatherine.ru/upload/iblock/112/m5m2yhzpfngu0h52nbz7s3ajjckt0qfj/250g-_1_-_4_.png",
-   "category": "Главная страница / Главная страница / Каталог / Каталог / Для эспрессо / Для эспрессо",
-   "specs": {
-    "Разновидность": "розовый бурбон",
-    "Регион": "Уила",
-    "Сбор урожая": "Март 2025",
-    "Способ обработки": "мытый, анаэробный",
-    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
-    "Ферма": "Ла Виргинья",
-    "Обжарка": "фильтр, эспрессо"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": 250,
-     "price": 1459.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4377.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1459.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4377.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://theweldercatherine.ru/catalog/dlya_espresso/kolumbiya_rafael_ayya_3/",
-   "name": "Колумбия Рафаэль Айя",
-   "description": "Кофе Колумбия Рафаэль Айя",
-   "image": "https://theweldercatherine.ru/upload/iblock/903/qelv68orl0vvvu5hl6lnnt92ndb6rnux/250g-_1_-_39_.png",
-   "category": "Главная страница / Главная страница / Каталог / Каталог / Для эспрессо / Для эспрессо",
-   "specs": {
-    "Разновидность": "катурра",
-    "Регион": "Уила, Ла Флорида",
-    "Сбор урожая": "Март 2025",
-    "Способ обработки": "натуральный",
-    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
-    "Ферма": "Ла Виргиния",
-    "Обжарка": "фильтр, эспрессо"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": 250,
-     "price": 1725.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 5174.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1725.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 5174.0,
      "available": true
     }
    ]

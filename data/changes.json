@@ -13675,5 +13675,740 @@
     "reason": "нет в наличии"
    }
   ]
+ },
+ {
+  "at": "2026-11-12T07:43:47+00:00",
+  "added": [
+   {
+    "id": "1ec1dea37812",
+    "roaster": "specialtyru",
+    "name": "Neva Coffee Roasters, Эфиопия Иргачеффе Арича, фильтр, 200 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-neva-coffee-roasters-efiopiya-irgacheffe-aricha-filtr-200-g/",
+    "back": false
+   },
+   {
+    "id": "28ad24272ce1",
+    "roaster": "specialtyru",
+    "name": "Neva Coffee Roasters, Эфиопия Гуджи Гр. 2, фильтр, 200 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-neva-coffee-roasters-efiopiya-gudzhi-gr-2-filtr-200-g/",
+    "back": false
+   },
+   {
+    "id": "c9d141f78efb",
+    "roaster": "specialtyru",
+    "name": "Neva Coffee Roasters, Коста-Рика Тарразу Ла Пастора, эспрессо, 250 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-neva-coffee-roasters-kosta-rika-tarrazu-la-pastora-espresso-250-g/",
+    "back": false
+   },
+   {
+    "id": "b8cf1ef58149",
+    "roaster": "specialtyru",
+    "name": "Neva Coffee Roasters, Мексика Чьяпас, эспрессо, 250 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-neva-coffee-roasters-meksika-chyapas-espresso-250-g/",
+    "back": false
+   },
+   {
+    "id": "5074de32bdf6",
+    "roaster": "specialtyru",
+    "name": "Neva Coffee Roasters, Лаос Болавен Гр.1, эспрессо, 250 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-neva-coffee-roasters-laos-bolaven-gr-1-espresso-250-g/",
+    "back": false
+   },
+   {
+    "id": "629c9f55c4c1",
+    "roaster": "specialtyru",
+    "name": "Нева Кофе Ростерс Бразилия Ранчо Гранде Перископ, фильтр, 200 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-neva-kofe-rosters-braziliya-rancho-grande-periskop-filtr-200-g/",
+    "back": false
+   },
+   {
+    "id": "1db51869853c",
+    "roaster": "specialtyru",
+    "name": "Нева Кофе Ростерс Китай Симао Меллоу, эспрессо, 250 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-neva-kofe-rosters-kitay-simao-mellou-espresso-250-g/",
+    "back": true
+   },
+   {
+    "id": "cd500d7ee2b9",
+    "roaster": "specialtyru",
+    "name": "Neva Coffee Roasters, Колумбия Дулима, фильтр, 200 гр",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-neva-coffee-roasters-kolumbiya-dulima-filtr-200-g/",
+    "back": true
+   },
+   {
+    "id": "1ae460a06fbe",
+    "roaster": "specialtyru",
+    "name": "Нева Кофе Ростерс Руанда Мутетели фильтр 200 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-neva-kofe-rosters-ruanda-muteteli-filtr-200-g/",
+    "back": true
+   },
+   {
+    "id": "87968a2cb643",
+    "roaster": "specialtyru",
+    "name": "Neva Coffee Roasters, Бурунди Бурасира, эспрессо, 250 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-neva-coffee-roasters-burundi-burasira-espresso-250-g/",
+    "back": false
+   },
+   {
+    "id": "97ff64806881",
+    "roaster": "specialtyru",
+    "name": "Нева Кофе Ростерс Кения Маунт АБ фильтр 200 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-neva-kofe-rosters-keniya-maunt-ab-filtr-200-g/",
+    "back": true
+   },
+   {
+    "id": "321116cba549",
+    "roaster": "specialtyru",
+    "name": "Нева Кофе Ростерс Колумбия Уила Омблигон, фильтр, 200 гр.",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-neva-kofe-rosters-kolumbiya-uila-ombligon-filtr-200-gr/",
+    "back": true
+   },
+   {
+    "id": "3d4e9c34c6f0",
+    "roaster": "specialtyru",
+    "name": "Neva Coffee Roasters, Гватемала Санта-Роса Аяраза, эспрессо, 250 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-neva-coffee-roasters-gvatemala-santa-rosa-ayaraza-espresso-250-g/",
+    "back": false
+   },
+   {
+    "id": "0ac0a2c8a00f",
+    "roaster": "specialtyru",
+    "name": "Нева Кофе Ростерс Руанда Мутетели эспрессо, 250 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-neva-kofe-rosters-ruanda-muteteli-espresso-250-g/",
+    "back": true
+   },
+   {
+    "id": "c9e7ef545de6",
+    "roaster": "specialtyru",
+    "name": "Neva Coffee Roasters, Колумбия Дулима, эспрессо, 250 гр",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-neva-coffee-roasters-kolumbiya-dulima-espresso-250-g/",
+    "back": true
+   },
+   {
+    "id": "7c9680942efb",
+    "roaster": "specialtyru",
+    "name": "Нева Кофе Ростерс Кения Маунт АБ, эспрессо, 250 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-neva-kofe-rosters-keniya-maunt-ab-espresso-250-g/",
+    "back": true
+   },
+   {
+    "id": "895d81bdf11c",
+    "roaster": "specialtyru",
+    "name": "Нева Кофе Ростерс Перу Амазонас эспрессо, 250 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-neva-kofe-rosters-peru-amazonas-espresso-250-g/",
+    "back": true
+   },
+   {
+    "id": "63cd9e0ada62",
+    "roaster": "bolshe",
+    "name": "Вы любите макаронные изделия?",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512406604-955584191793-vi-lyubite-makaronnie-izdeliya",
+    "back": true
+   },
+   {
+    "id": "e0d8b508612b",
+    "roaster": "bolshe",
+    "name": "Бразилия Коликоли",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512406604-523254442371-braziliya-kolikoli",
+    "back": true
+   },
+   {
+    "id": "5bba62175933",
+    "roaster": "bolshe",
+    "name": "Лаос Болавен",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512406604-282213515892-laos-bolaven",
+    "back": true
+   },
+   {
+    "id": "963ea37d6745",
+    "roaster": "bolshe",
+    "name": "Эфиопия Эфтах Лалиса",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512406604-414526530413-efiopiya-eftah-lalisa",
+    "back": false
+   },
+   {
+    "id": "47c69ee37b75",
+    "roaster": "bolshe",
+    "name": "Бразилия Коликоли",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/721156284-320227243181-braziliya-kolikoli",
+    "back": true
+   },
+   {
+    "id": "bd08dfdb0343",
+    "roaster": "bolshe",
+    "name": "Венесуэла Брисас Дель Хиль",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/721156284-312824080743-venesuela-brisas-del-hil",
+    "back": true
+   },
+   {
+    "id": "e258ec151024",
+    "roaster": "bolshe",
+    "name": "Венесуэла Брисас Дель Хиль",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/721156284-978860778503-venesuela-brisas-del-hil",
+    "back": false
+   },
+   {
+    "id": "7b41878fb4a0",
+    "roaster": "bolshe",
+    "name": "Млечный Уть",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/721156284-203993096293-mlechnii-ut",
+    "back": true
+   },
+   {
+    "id": "abfa0cdda63f",
+    "roaster": "bolshe",
+    "name": "Эфиопия Дара",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/721156284-352802187712-efiopiya-dara",
+    "back": false
+   },
+   {
+    "id": "1eacf72f19af",
+    "roaster": "botanica",
+    "name": "Блокнот бариста",
+    "url": "https://botanicacoffee.ru/shop/tproduct/625737830-215351527122-bloknot-barista",
+    "back": false
+   },
+   {
+    "id": "e5755a8b0b1d",
+    "roaster": "botanica",
+    "name": "Молочный улун",
+    "url": "https://botanicacoffee.ru/shop/tproduct/625737880-851133616931-molochnii-ulun",
+    "back": false
+   },
+   {
+    "id": "417054c398bf",
+    "roaster": "botanica",
+    "name": "Те Гуань Инь",
+    "url": "https://botanicacoffee.ru/shop/tproduct/625737880-380343669361-te-guan-in",
+    "back": false
+   },
+   {
+    "id": "a42bb1139c75",
+    "roaster": "botanica",
+    "name": "Сенча",
+    "url": "https://botanicacoffee.ru/shop/tproduct/625737880-965628693541-sencha",
+    "back": false
+   },
+   {
+    "id": "6b73b225fa5b",
+    "roaster": "botanica",
+    "name": "Чёрный с чабрецом",
+    "url": "https://botanicacoffee.ru/shop/tproduct/625737880-872986038321-chyornii-s-chabretsom",
+    "back": false
+   }
+  ],
+  "removed": [
+   {
+    "id": "ebe5b8c57a72",
+    "roaster": "bolshe",
+    "name": "Азия Микс",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512429115-373557395262-aziya-miks",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "0c9acc15127a",
+    "roaster": "bolshe",
+    "name": "Америка Микс",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512429115-440270454312-amerika-miks",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "75a795494908",
+    "roaster": "bolshe",
+    "name": "Ангола Кибала",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/721156284-683641696853-angola-kibala",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "ec86047b7b38",
+    "roaster": "bolshe",
+    "name": "Атлантик Микс",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512429115-821201303972-atlantik-miks",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "79172c86eea0",
+    "roaster": "bolshe",
+    "name": "Кения Кабингара",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/721156284-148687803013-keniya-kabingara",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "dd6a7aa4f942",
+    "roaster": "bolshe",
+    "name": "Кения Кабингара",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/721156284-297591188943-keniya-kabingara",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "c05c4b9c57b9",
+    "roaster": "bolshe",
+    "name": "Особый лот Перу Гейша",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/527451314-758848457042-osobii-lot-peru-geisha",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "992d81e9188c",
+    "roaster": "bolshe",
+    "name": "Особый лот Эфиопия Демби",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512384010-386826541173-osobii-lot-efiopiya-dembi",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "616f7d6016b0",
+    "roaster": "bolshe",
+    "name": "Папуа-Новая Гвинея Долина Вагхи",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/721156284-220242430673-papua-novaya-gvineya-dolina-vaghi",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "5a0738b92aee",
+    "roaster": "bolshe",
+    "name": "Перу Андрес Торрес Гейша",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/721156284-249914106453-peru-andres-torres-geisha",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "69679dd34f7b",
+    "roaster": "bolshe",
+    "name": "Уганда Кавери робуста",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/721156284-715762879083-uganda-kaveri-robusta",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "a8b8109e84ac",
+    "roaster": "bolshe",
+    "name": "Эфиопия Демби",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512406604-596076188903-efiopiya-dembi",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "91c8de66820b",
+    "roaster": "bolshe",
+    "name": "Эфиопия от Нафкот Амасу и женщин Гедичо",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/721156284-838573685973-efiopiya-ot-nafkot-amasu-i-zhenschin-ged",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "9b86c5dd4455",
+    "roaster": "bolshe",
+    "name": "Эфиопия от Нафкот Амасу и женщин Гедичо",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/721156284-868743992763-efiopiya-ot-nafkot-amasu-i-zhenschin-ged",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "14eb21331eb5",
+    "roaster": "botanica",
+    "name": "Блокнот бариста",
+    "url": "https://botanicacoffee.ru/tproduct/3111555201-215351527122-bloknot-barista",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "89a13a698089",
+    "roaster": "botanica",
+    "name": "Кения Нгаи",
+    "url": "https://botanicacoffee.ru/keniangai",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "b37c7a0a1ef9",
+    "roaster": "botanica",
+    "name": "Молочный улун",
+    "url": "https://botanicacoffee.ru/tproduct/3111555301-851133616931-molochnii-ulun",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "f576dba3d02e",
+    "roaster": "botanica",
+    "name": "Сенча",
+    "url": "https://botanicacoffee.ru/tproduct/3111555301-965628693541-sencha",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "00dc6058ca9d",
+    "roaster": "botanica",
+    "name": "Те Гуань Инь",
+    "url": "https://botanicacoffee.ru/tproduct/3111555301-380343669361-te-guan-in",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "3242d8070408",
+    "roaster": "botanica",
+    "name": "Чёрный с чабрецом",
+    "url": "https://botanicacoffee.ru/tproduct/3111555301-872986038321-chyornii-s-chabretsom",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "04744b6ab26a",
+    "roaster": "choose",
+    "name": "Эфиопия / Конга",
+    "url": "https://www.choosecoffee.ru/main/tproduct/739043735-284433607493-efiopiya-konga",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "978a99d82869",
+    "roaster": "silkydrum",
+    "name": "Колумбия Гранха Ла Эсперанца, ферма Серро Асуль, гейша натуральная",
+    "url": "https://www.silkydrum.ru/catalog/colombia-cgle-farm-cerro-azul-geisha-natural",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "6bf77fda2538",
+    "roaster": "specialtyru",
+    "name": "Юнат Руанда Мутетели, эспрессо 250 гр.",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-yunat-ruanda-muteteli-espresso-250-gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "17f4fdb0eea2",
+    "roaster": "tab",
+    "name": "Бразилия Андре Луис Педросо",
+    "url": "https://letstab.ru/catalog/kofe/dlya_espresso/mikroloty/braziliya_andre_luis_pedroso/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "4322c9ecec3c",
+    "roaster": "tab",
+    "name": "Бразилия Бурбон Сауэр 2.0",
+    "url": "https://letstab.ru/catalog/kofe/dlya_filtra/mikroloty/braziliya_burbon_sauer_2_0/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "313479a71403",
+    "roaster": "tab",
+    "name": "Бразилия Габриэль Нунес Мытый",
+    "url": "https://letstab.ru/catalog/kofe/dlya_espresso/mikroloty/braziliya_gabriel_nunes_mytyy/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "9cafffd4108c",
+    "roaster": "tab",
+    "name": "Бразилия Данило Барбоса Нат.",
+    "url": "https://letstab.ru/catalog/kofe/dlya_filtra/mikroloty/braziliya_danilo_barbosa_nat_/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "8960a4fad18e",
+    "roaster": "tab",
+    "name": "Бразилия Кайша Де Фрутта",
+    "url": "https://letstab.ru/catalog/kofe/dlya_espresso/monosorta/braziliya_kaysha_de_frutta/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "cd4e9ab56d51",
+    "roaster": "tab",
+    "name": "Бразилия Луис Фернандо Барбоса",
+    "url": "https://letstab.ru/catalog/kofe/dlya_filtra/mikroloty/braziliya_luis_fernando_barbosa/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "19aedec07299",
+    "roaster": "tab",
+    "name": "Бразилия Пиберри",
+    "url": "https://letstab.ru/catalog/kofe/dlya_filtra/monosorta_1/braziliya_piberri/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "9779ebf677d0",
+    "roaster": "tab",
+    "name": "Бразилия Сантос",
+    "url": "https://letstab.ru/catalog/kofe/dlya_moloka/monosorta_2/braziliya_santos/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "0e6be874cdc8",
+    "roaster": "tab",
+    "name": "Вега",
+    "url": "https://letstab.ru/catalog/kofe/dlya_moloka/blendy_1/vega_1/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "1150de5d75d0",
+    "roaster": "tab",
+    "name": "Венесуэла Мерида",
+    "url": "https://letstab.ru/catalog/kofe/dlya_espresso/monosorta/venesuela_merida/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "54456003f6d2",
+    "roaster": "tab",
+    "name": "Вьетнам Далат",
+    "url": "https://letstab.ru/catalog/kofe/dlya_espresso/monosorta/vetnam_dalat_/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "a760f3803db0",
+    "roaster": "tab",
+    "name": "Вьетнам Робуста",
+    "url": "https://letstab.ru/catalog/kofe/dlya_moloka/monosorta_2/vetnam_robusta/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "ae26c9f72f96",
+    "roaster": "tab",
+    "name": "Галактика",
+    "url": "https://letstab.ru/catalog/kofe/dlya_moloka/blendy_1/galaktika/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "deb5b2ef5aa4",
+    "roaster": "tab",
+    "name": "Гватемала Декаф",
+    "url": "https://letstab.ru/catalog/kofe/dlya_espresso/monosorta/gvatemala_dekaf/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "f566a8476260",
+    "roaster": "tab",
+    "name": "Гватемала Ла Лагуна",
+    "url": "https://letstab.ru/catalog/kofe/dlya_filtra/mikroloty/gvatemala_la_laguna/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "bf279a7e0b2a",
+    "roaster": "tab",
+    "name": "Генезис",
+    "url": "https://letstab.ru/catalog/kofe/dlya_espresso/blendy/genezis/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "b22fd8d0340b",
+    "roaster": "tab",
+    "name": "Гондурас Копан",
+    "url": "https://letstab.ru/catalog/kofe/dlya_espresso/monosorta/gonduras_kopan/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "6bfa6c2d5cde",
+    "roaster": "tab",
+    "name": "Индонезия Суматра Гайо Беланги",
+    "url": "https://letstab.ru/catalog/kofe/dlya_filtra/mikroloty/indoneziya_sumatra_gayo_belangi/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "73eed944c2ea",
+    "roaster": "tab",
+    "name": "Индонезия Ява Перископ",
+    "url": "https://letstab.ru/catalog/kofe/dlya_filtra/mikroloty/indoneziya_yava_periskop/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "cd3548bbf627",
+    "roaster": "tab",
+    "name": "Капелла",
+    "url": "https://letstab.ru/catalog/kofe/dlya_moloka/blendy_1/kapella/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "56efc8654f11",
+    "roaster": "tab",
+    "name": "Кения Кагумо",
+    "url": "https://letstab.ru/catalog/kofe/dlya_filtra/mikroloty/keniya_kagumo/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "6d19efb787f7",
+    "roaster": "tab",
+    "name": "Кения Киамбу",
+    "url": "https://letstab.ru/catalog/kofe/dlya_espresso/monosorta/keniya_kiambu_/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "e01d6cae5e3c",
+    "roaster": "tab",
+    "name": "Кения Тату Перископ",
+    "url": "https://letstab.ru/catalog/kofe/dlya_filtra/mikroloty/keniya_tatu_periskop/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "a8f49eb9bd41",
+    "roaster": "tab",
+    "name": "Китай Симао",
+    "url": "https://letstab.ru/catalog/kofe/dlya_espresso/monosorta/kitay_simao/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "1715c1073bd5",
+    "roaster": "tab",
+    "name": "Колумбия Ла Эсмеральда",
+    "url": "https://letstab.ru/catalog/kofe/dlya_filtra/mikroloty/kolumbiya_la_esmeralda/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "3ee93e12db9f",
+    "roaster": "tab",
+    "name": "Колумбия Луи Кальдерон",
+    "url": "https://letstab.ru/catalog/kofe/dlya_filtra/mikroloty/kolumbiya_lui_kalderon/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "49644edaed77",
+    "roaster": "tab",
+    "name": "Колумбия Супремо",
+    "url": "https://letstab.ru/catalog/kofe/dlya_espresso/monosorta/kolumbiya_supremo/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "8f1f4030297a",
+    "roaster": "tab",
+    "name": "Колумбия Хайро Арсила Хани",
+    "url": "https://letstab.ru/catalog/kofe/dlya_espresso/mikroloty/kolumbiya_khayro_arsila_khani/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "b6bad93556a0",
+    "roaster": "tab",
+    "name": "Колумбия Элиас Байтер Декаф",
+    "url": "https://letstab.ru/catalog/kofe/dlya_espresso/mikroloty/kolumbiya_elias_bayter_dekaf/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "dbd0389302b9",
+    "roaster": "tab",
+    "name": "Колумбия Эль Индио Нариньо",
+    "url": "https://letstab.ru/catalog/kofe/dlya_filtra/mikroloty/kolumbiya_el_indio_narino/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "ec2cc9301cc3",
+    "roaster": "tab",
+    "name": "Коста-Рика Тарразу Колибри",
+    "url": "https://letstab.ru/catalog/kofe/dlya_filtra/monosorta_1/kosta_rika_tarrazu_kolibri_skhb/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "5c0a8eca8ac3",
+    "roaster": "tab",
+    "name": "Мексика Чапас",
+    "url": "https://letstab.ru/catalog/kofe/dlya_espresso/monosorta/meksika_chapas/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "a1d9120bd3b5",
+    "roaster": "tab",
+    "name": "Никарагуа Матагальпа",
+    "url": "https://letstab.ru/catalog/kofe/dlya_espresso/monosorta/nikaragua_matagalpa_/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "395c78941f7a",
+    "roaster": "tab",
+    "name": "Перу Техада-Араоз",
+    "url": "https://letstab.ru/catalog/kofe/dlya_espresso/mikroloty/peru_tekhada_araoz/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "d4d8c024cdc1",
+    "roaster": "tab",
+    "name": "Руанда Мутетели",
+    "url": "https://letstab.ru/catalog/kofe/dlya_filtra/monosorta_1/ruanda_muteteli/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "7941e495cc74",
+    "roaster": "tab",
+    "name": "Руанда Ньямашеке",
+    "url": "https://letstab.ru/catalog/kofe/dlya_filtra/mikroloty/ruanda_nyamasheke/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "c1e260dda6c7",
+    "roaster": "tab",
+    "name": "Уганда Бугису",
+    "url": "https://letstab.ru/catalog/kofe/dlya_espresso/monosorta/uganda_bugisu/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "6588c0320a1f",
+    "roaster": "tab",
+    "name": "Уганда Другар",
+    "url": "https://letstab.ru/catalog/kofe/dlya_espresso/monosorta/uganda_drugar_/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "5a7842941977",
+    "roaster": "tab",
+    "name": "Феникс",
+    "url": "https://letstab.ru/catalog/kofe/dlya_espresso/blendy/feniks/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "644f39c90918",
+    "roaster": "tab",
+    "name": "Эфиопия Вест Арси",
+    "url": "https://letstab.ru/catalog/kofe/dlya_filtra/monosorta_1/efiopiya_vest_arsi_/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "23166cf1d4ca",
+    "roaster": "tab",
+    "name": "Эфиопия Гедео Арича",
+    "url": "https://letstab.ru/catalog/kofe/dlya_filtra/mikroloty/efiopiya_gedeo_aricha/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "5916e3c22b50",
+    "roaster": "tab",
+    "name": "Эфиопия Гуджи",
+    "url": "https://letstab.ru/catalog/kofe/dlya_filtra/monosorta_1/efiopiya_gudzhi/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "e7a449c01b57",
+    "roaster": "tab",
+    "name": "Эфиопия Гуджи Урага",
+    "url": "https://letstab.ru/catalog/kofe/dlya_filtra/mikroloty/efiopiya_gudzhi_uraga/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "3682a9f61a61",
+    "roaster": "tab",
+    "name": "Эфиопия Гуджи Шаро",
+    "url": "https://letstab.ru/catalog/kofe/dlya_filtra/mikroloty/efiopiya_gudzhi_sharo/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "0766707593db",
+    "roaster": "tab",
+    "name": "Эфиопия Джимма",
+    "url": "https://letstab.ru/catalog/kofe/dlya_moloka/monosorta_2/efiopiya_dzhimma/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "5249beba0b29",
+    "roaster": "tab",
+    "name": "Эфиопия Киленсо Мокониса",
+    "url": "https://letstab.ru/catalog/kofe/dlya_filtra/mikroloty/efiopiya_kilenso_mokonisa/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "ac247f6fcb4e",
+    "roaster": "tab",
+    "name": "Эфиопия Ненсебо",
+    "url": "https://letstab.ru/catalog/kofe/dlya_espresso/monosorta/efiopiya_nensebo/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "d5f40c2b5905",
+    "roaster": "tab",
+    "name": "Эфиопия Оромия",
+    "url": "https://letstab.ru/catalog/kofe/dlya_espresso/monosorta/efiopiya_oromiya/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "8a49c3fbb7bc",
+    "roaster": "tab",
+    "name": "Эфиопия Порто Ронко",
+    "url": "https://letstab.ru/catalog/kofe/dlya_espresso/mikroloty/efiopiya_porto_ronko/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "9a9d3da5aeae",
+    "roaster": "tab",
+    "name": "Эфиопия Сидамо",
+    "url": "https://letstab.ru/catalog/kofe/dlya_espresso/monosorta/efiopiya_sidamo/",
+    "reason": "пропал с сайта"
+   }
+  ]
  }
 ]

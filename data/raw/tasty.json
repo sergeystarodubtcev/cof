@@ -3,10 +3,10 @@
   "id": "tasty",
   "platform": "generic",
   "items": 462,
-  "seconds": 1146.9,
+  "seconds": 1123.3,
   "ok": true,
   "error": null,
-  "at": "2026-11-11T06:45:18+00:00"
+  "at": "2026-11-12T07:33:13+00:00"
  },
  "items": [
   {
@@ -1946,7 +1946,7 @@
    "url": "https://shop.tastycoffee.ru/coffee/christmas-blend-2027",
    "name": "Christmas Blend 2027",
    "description": "Christmas Blend 2027, омни — купить свежеобжаренный кофе. Официальный интернет-магазин кофе и чая Tasty Coffee. Более 150 сортов кофе и чая. Купить кофе в зёрнах, молотый, кофе без кофеина можно с бесплатной доставкой по России и Москве.",
-   "image": "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/_newpack12/christmas/x-mas-2027.png",
+   "image": "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/_newpack12/christmas/christmas-blend-2026-1.png",
    "category": "",
    "specs": {
     "Степень обжарки": "омни",
@@ -2225,6 +2225,26 @@
     {
      "weight_g": null,
      "price": 1749.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://shop.tastycoffee.ru/coffee/dlia-caski?page=9",
+   "name": "Яркий микролот в дрип-пакетах",
+   "description": "Кофе для фильтра. Акция! При покупке 6 пачек кофе 250 г - подарок! Оплата при получении. Случайный лот, Случайный сорт, Случайный кофе.",
+   "image": "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/subscription/new_random-drip.png",
+   "category": "",
+   "specs": {
+    "Степень обжарки": "Светлая (для фильтра)",
+    "Способ обработки": "Мытый"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 699.0,
      "available": true
     }
    ]
@@ -6402,9 +6422,9 @@
   },
   {
    "url": "https://shop.tastycoffee.ru/coffee/cold_coffee_negroni",
-   "name": "COFFEE NEGRONI",
-   "description": "Кофе в банках COFFEE NEGRONI, негрони",
-   "image": "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/_newpack7/jars/coffee_negroni-4.png",
+   "name": "Кофейный негрони",
+   "description": "Кофе в банках Кофейный негрони Tasty Coffee, банки кофе",
+   "image": "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/_newpack7/jars/Coffee_negroni.png",
    "category": "",
    "specs": {},
    "gallery": [],
@@ -6412,7 +6432,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 1099.0,
+     "price": 1.0,
      "available": false
     }
    ]
@@ -14152,39 +14172,6 @@
     {
      "weight_g": 1000,
      "price": 3399.0,
-     "available": false
-    }
-   ]
-  },
-  {
-   "url": "https://shop.tastycoffee.ru/coffee/espresso-ethiopia-uraga",
-   "name": "Эфиопия Урага",
-   "description": "Эфиопия Урага. Сладкий кофе с нотами апельсина, абрикоса, красного яблока и тёмного шоколада. Кофе из Эфиопии свежеобжаренный в пачках по 250, 1000 г",
-   "image": "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product/1779699483.4252-espresso-ethiopia-uraga-250-768.webp",
-   "category": "",
-   "specs": {
-    "Степень обжарки": "эспрессо",
-    "Регион": "Гуджи",
-    "Способ обработки": "натуральный",
-    "Высота произрастания": "2000–2200 м",
-    "Урожай": "2024/2025",
-    "Разновидность": "местные"
-   },
-   "gallery": [
-    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product/1779699485.4464-espresso-ethiopia-uraga-1000-768.webp",
-    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product/1779699487.0025-beans-espresso-ethiopia-uraga-768.webp",
-    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1782289618.0276-espresso-ethiopia-uraga-front-768.jpg"
-   ],
-   "available": false,
-   "variants": [
-    {
-     "weight_g": 250,
-     "price": 899.0,
-     "available": false
-    },
-    {
-     "weight_g": 1000,
-     "price": 3059.0,
      "available": false
     }
    ]

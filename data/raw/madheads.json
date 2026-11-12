@@ -3,10 +3,10 @@
   "id": "madheads",
   "platform": "generic",
   "items": 243,
-  "seconds": 226.9,
+  "seconds": 372.7,
   "ok": true,
   "error": null,
-  "at": "2026-11-11T06:36:03+00:00"
+  "at": "2026-11-12T07:26:06+00:00"
  },
  "items": [
   {
@@ -2758,7 +2758,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 4050.0,
+     "price": 4250.0,
      "available": true
     }
    ]
@@ -2775,7 +2775,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 4050.0,
+     "price": 4250.0,
      "available": true
     }
    ]
@@ -2792,7 +2792,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 4050.0,
+     "price": 4250.0,
      "available": true
     }
    ]
@@ -2911,7 +2911,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 3700.0,
+     "price": 3900.0,
      "available": true
     }
    ]
@@ -2928,7 +2928,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 3700.0,
+     "price": 3900.0,
      "available": true
     }
    ]
@@ -2945,7 +2945,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 3700.0,
+     "price": 3900.0,
      "available": true
     }
    ]
@@ -3013,7 +3013,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 3700.0,
+     "price": 3900.0,
      "available": true
     }
    ]
@@ -3030,7 +3030,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 3700.0,
+     "price": 3900.0,
      "available": true
     }
    ]
@@ -3047,7 +3047,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 4050.0,
+     "price": 4250.0,
      "available": true
     }
    ]
@@ -3778,7 +3778,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 3700.0,
+     "price": 3900.0,
      "available": true
     }
    ]
@@ -3829,7 +3829,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 3700.0,
+     "price": 3900.0,
      "available": true
     }
    ]
