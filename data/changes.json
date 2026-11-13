@@ -14410,5 +14410,124 @@
     "reason": "пропал с сайта"
    }
   ]
+ },
+ {
+  "at": "2026-11-13T07:10:46+00:00",
+  "added": [
+   {
+    "id": "3a2f01dd2008",
+    "roaster": "caffeinelab",
+    "name": "Бразилия Санта Эдвирхес для фильтра",
+    "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-904428596713-braziliya-santa-edvirhes-dlya-filtra",
+    "back": false
+   },
+   {
+    "id": "6276f090e0e1",
+    "roaster": "caffeinelab",
+    "name": "Колумбия Рохо для фильтра",
+    "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-456384826103-kolumbiya-roho-dlya-filtra",
+    "back": false
+   },
+   {
+    "id": "8c57585e4809",
+    "roaster": "fauno",
+    "name": "Peru Selva Alta",
+    "url": "https://fauno.coffee/catalog/peru-selva-alta",
+    "back": false
+   },
+   {
+    "id": "de1a507c8709",
+    "roaster": "stereo",
+    "name": "Смесь \"Африка Натуральная\"",
+    "url": "https://stereo.coffee/shop/tproduct/592281615-193432452743-smes-afrika-naturalnaya",
+    "back": false
+   },
+   {
+    "id": "dd6a7aa4f942",
+    "roaster": "bolshe",
+    "name": "Кения Кабингара",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/721156284-297591188943-keniya-kabingara",
+    "back": true
+   },
+   {
+    "id": "9b86c5dd4455",
+    "roaster": "bolshe",
+    "name": "Эфиопия от Нафкот Амасу и женщин Гедичо",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/721156284-868743992763-efiopiya-ot-nafkot-amasu-i-zhenschin-ged",
+    "back": true
+   },
+   {
+    "id": "a684a4ec43bf",
+    "roaster": "bolshe",
+    "name": "Колумбия декаф",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512406604-586907633853-kolumbiya-dekaf",
+    "back": true
+   },
+   {
+    "id": "40f312d982bb",
+    "roaster": "welder",
+    "name": "Коста-Рика Уильям Мора",
+    "url": "https://theweldercatherine.ru/catalog/dlya_espresso/kosta_rika_uilyam_mora_2/",
+    "back": false
+   },
+   {
+    "id": "b1c91def680b",
+    "roaster": "madheads",
+    "name": "Huila Timana",
+    "url": "https://madheadscoffee.com/p/NO4Vxj2X1M8-d33b4ef5",
+    "back": false
+   }
+  ],
+  "removed": [
+   {
+    "id": "ab4281e2b880",
+    "roaster": "bolshe",
+    "name": "Бразилия конилон Сидней да Сильва",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512406604-939425281222-braziliya-konilon-sidnei-da-silva",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "7a9a5ccbe209",
+    "roaster": "bolshe",
+    "name": "Купи Слона",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512384010-144936497873-kupi-slona",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "d355cd59e33b",
+    "roaster": "qq",
+    "name": "Кения Кисии",
+    "url": "https://qqcoffee.ru/products/keniya-kisii",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "5d934d2852f0",
+    "roaster": "specialtyru",
+    "name": "Канга Ростерс, Бурунди Бугесера Бурасира 1753, фильтр, 250 гр",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-kanga-rosters-burundi-bugesera-burasira-1753-filtr-250-gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "4837084ea292",
+    "roaster": "specialtyru",
+    "name": "Микале Руанда Южная провинция Симби, эспрессо, 200 гр",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-mikale-ruanda-yuzhnaya-provintsiya-simbi-espresso-200-gr/",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "d19fe6cdcb2a",
+    "roaster": "specialtyru",
+    "name": "Микале Эфиопия Лиму с мятой, фильтр 200 гр",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-mikale-efiopiya-limu-s-myatoy-filtr-200-gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "2cdd8866f504",
+    "roaster": "specialtyru",
+    "name": "Микале, Бразилия Бобы тонка, эспрессо, 200 гр",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-mikale-braziliya-boby-tonka-espresso-200-gr/",
+    "reason": "нет в наличии"
+   }
+  ]
  }
 ]

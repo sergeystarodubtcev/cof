@@ -1,46 +1,46 @@
 Обхожу 40 обжарщиков…
-  rockets        generic                 0 товаров  4.0s 
-  roastberry     generic                 0 товаров  4.1s 
-  kof            unreachable             0 товаров  7.1s 
-  submarine      unreachable             0 товаров  7.3s 
-  atlas          unreachable             0 товаров  12.8s 
-  doubleb        tilda+generic           0 товаров  20.8s 
-  camera         tilda                  16 товаров  37.4s 
-  sibaristica    unreachable             0 товаров  46.0s 
-  hq             woocommerce+generic     0 товаров  60.5s 
-  triptych       tilda                  43 товаров  71.0s 
-  stereo         tilda                  60 товаров  74.6s 
-  h2o            unreachable             0 товаров  106.6s 
-  zerno          tilda                  41 товаров  70.8s 
-  choose         tilda                  33 товаров  55.8s 
-  caffeinelab    tilda                 377 товаров  186.0s 
-  west4          generic                38 товаров  85.2s 
-  fauno          tilda                  46 товаров  205.8s 
-  kanga          generic                40 товаров  249.6s 
-  qq             generic                25 товаров  76.2s 
-  bernin         generic                 0 товаров  28.1s 
-  znak           generic                 0 товаров  79.3s 
-  bolshe         tilda                  97 товаров  282.4s 
-  solo           woocommerce            55 товаров  3.7s 
-  manufactory    bitrix+generic          0 товаров  279.9s 
-  sova           unreachable             0 товаров  6.6s 
-  bittersweet    tilda                  71 товаров  112.1s 
-  botanica       tilda                 103 товаров  209.9s 
-  lebo           tilda                  90 товаров  330.6s 
-  yankeesierra   tilda                 293 товаров  535.3s 
-  notik          bitrix+generic          0 товаров  311.8s 
-  madheads       generic               243 товаров  372.7s 
-  silkydrum      tilda                  83 товаров  719.3s 
-  tab            bitrix+generic          0 товаров  729.1s 
-  kofeop         bitrix+generic         39 товаров  680.1s 
-  tasty          generic               462 товаров  1123.3s 
-  welder         bitrix+generic        139 товаров  1172.8s 
-  torrefacto     bitrix+generic        560 товаров  1483.0s 
-  specialtyru    bitrix+generic        428 товаров  1472.7s 
-  neva           bitrix+generic        105 товаров  1586.0s 
-  sok            bitrix+generic         42 товаров  1757.5s 
+  roastberry     generic                 0 товаров  3.5s 
+  rockets        generic                 0 товаров  4.1s 
+  kof            unreachable             0 товаров  6.5s 
+  submarine      unreachable             0 товаров  6.8s 
+  atlas          unreachable             0 товаров  11.2s 
+  doubleb        tilda+generic           0 товаров  20.1s 
+  camera         tilda                  16 товаров  40.5s 
+  sibaristica    unreachable             0 товаров  43.9s 
+  hq             woocommerce+generic     0 товаров  51.1s 
+  triptych       tilda                  43 товаров  84.3s 
+  stereo         tilda                  61 товаров  75.6s 
+  zerno          tilda                  41 товаров  68.0s 
+  h2o            unreachable             0 товаров  106.5s 
+  caffeinelab    tilda                 379 товаров  155.1s 
+  fauno          tilda                  47 товаров  152.7s 
+  choose         tilda                  33 товаров  51.5s 
+  west4          generic                38 товаров  62.4s 
+  qq             generic                24 товаров  60.4s 
+  znak           generic                 0 товаров  70.2s 
+  manufactory    bitrix+generic          0 товаров  194.7s 
+  bernin         generic                 0 товаров  28.4s 
+  kanga          generic                40 товаров  248.3s 
+  solo           woocommerce            55 товаров  4.4s 
+  bolshe         tilda                 100 товаров  227.7s 
+  sova           unreachable             0 товаров  6.9s 
+  bittersweet    tilda                  71 товаров  100.8s 
+  botanica       tilda                 102 товаров  189.5s 
+  yankeesierra   tilda                 292 товаров  419.6s 
+  lebo           tilda                  90 товаров  265.1s 
+  notik          bitrix+generic          0 товаров  249.1s 
+  silkydrum      tilda                  81 товаров  580.6s 
+  madheads       generic               245 товаров  363.2s 
+  tab            bitrix+generic          0 товаров  663.0s 
+  kofeop         bitrix+generic         39 товаров  491.4s 
+  tasty          generic               461 товаров  861.7s 
+  welder         bitrix+generic        141 товаров  906.8s 
+  torrefacto     bitrix+generic        560 товаров  1155.8s 
+  specialtyru    bitrix+generic        428 товаров  1159.8s 
+  sok            bitrix+generic         42 товаров  1259.9s 
+  neva           bitrix+generic        105 товаров  1277.9s 
   tab: данные старше 3 дн. — наличие не подтверждено, позиции скрыты
   h2o: данные старше 3 дн. — наличие не подтверждено, позиции скрыты
-Кофейных товаров в продаже: 1592 (нет в наличии, скрыто: 859); скачиваю картинки…
-Изменения: +31 добавлено, −73 удалено
-Готово: 1592 товаров, 121 лотов есть у нескольких обжарщиков → /home/runner/work/cof/cof/site/data/catalog.json
+Кофейных товаров в продаже: 1594 (нет в наличии, скрыто: 866); скачиваю картинки…
+Изменения: +9 добавлено, −7 удалено
+Готово: 1594 товаров, 119 лотов есть у нескольких обжарщиков → /home/runner/work/cof/cof/site/data/catalog.json

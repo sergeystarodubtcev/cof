@@ -2,11 +2,11 @@
  "status": {
   "id": "qq",
   "platform": "generic",
-  "items": 25,
-  "seconds": 76.2,
+  "items": 24,
+  "seconds": 60.4,
   "ok": true,
   "error": null,
-  "at": "2026-11-12T07:18:52+00:00"
+  "at": "2026-11-13T06:51:41+00:00"
  },
  "items": [
   {
@@ -412,33 +412,6 @@
     {
      "weight_g": 1000,
      "price": 2850.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://qqcoffee.ru/products/keniya-kisii",
-   "name": "Кения Кисии",
-   "description": "Тропики, ягодные леденцы, апельсин",
-   "image": "https://res.cloudinary.com/qq-website/image/upload/v1776105929/200_fd603b7dfc.png",
-   "category": "",
-   "specs": {
-    "Дескрипторы": "тропики, ягодные леденцы, апельсин",
-    "Страна": "Кения",
-    "Обработка": "Натуральная/анаэробная",
-    "Обжарка": "Фильтр • светлая"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": 200,
-     "price": 955.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4045.0,
      "available": true
     }
    ]

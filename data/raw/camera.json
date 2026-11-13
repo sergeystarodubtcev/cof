@@ -3,22 +3,36 @@
   "id": "camera",
   "platform": "tilda",
   "items": 16,
-  "seconds": 37.4,
+  "seconds": 40.5,
   "ok": true,
   "error": null,
-  "at": "2026-11-12T07:15:07+00:00"
+  "at": "2026-11-13T06:48:41+00:00"
  },
  "items": [
   {
-   "url": "https://camcoffee.ru/drip_mix_12",
-   "name": "Ассорти дрип-пакетов, 12 шт.",
-   "description": "12 дрип-пакетов с фильтр-кофе Camera Obscura",
-   "image": "https://static.tildacdn.com/stor3461-6537-4636-a337-663632633662/19057023.jpg",
+   "url": "https://camcoffee.ru/accessories/cup",
+   "name": "Фирменная чашка",
+   "description": "Фирменная чашка для кофе от Камеры Обскуры",
+   "image": "https://static.tildacdn.com/stor6662-3266-4466-a261-306362373330/56874717.jpg",
    "available": true,
    "variants": [
     {
      "weight_g": null,
-     "price": 1395.0,
+     "price": 1800.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://camcoffee.ru/accessories/cafec_filters02",
+   "name": "Фильтры CAFEC V60-02 T83, 100 шт",
+   "description": "Фильтры CAFEC для воронки",
+   "image": "https://static.tildacdn.com/stor3839-6565-4335-b535-366538373561/44016072.jpg",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 830.0,
      "available": true
     }
    ]
@@ -678,6 +692,129 @@
    ]
   },
   {
+   "url": "https://camcoffee.ru/espresso/decaf_colombia",
+   "name": "Кофе без кофеина Sleepover",
+   "description": "Декаф Колумбия Кальдас\nВо вкусе: жёлтое яблоко, сливочная ириска, миндаль",
+   "image": "https://static.tildacdn.com/stor3730-3236-4462-b438-623333303336/93575dcd9ff080ce656afc0ed5bc11c1.jpg",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1129.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1129.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1129.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1129.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1129.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1129.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1129.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1129.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1129.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1129.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4220.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4220.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4220.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4220.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4220.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4220.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4220.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4220.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4220.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4220.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://camcoffee.ru/drip_mix_12",
+   "name": "Ассорти дрип-пакетов, 12 шт.",
+   "description": "12 дрип-пакетов с фильтр-кофе Camera Obscura",
+   "image": "https://static.tildacdn.com/stor3461-6537-4636-a337-663632633662/19057023.jpg",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1395.0,
+     "available": true
+    }
+   ]
+  },
+  {
    "url": "https://camcoffee.ru/filter/mixtura",
    "name": "Mixtura: Бразилия + Уганда",
    "description": "Бразилия 50% + Уганда 40% + Бразилия 10%\nВо вкусе: жёлтое яблоко, курага, ореховая паста",
@@ -1327,143 +1464,6 @@
     {
      "weight_g": 1000,
      "price": 3923.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://camcoffee.ru/espresso/decaf_colombia",
-   "name": "Кофе без кофеина Sleepover",
-   "description": "Декаф Колумбия Кальдас\nВо вкусе: жёлтое яблоко, сливочная ириска, миндаль",
-   "image": "https://static.tildacdn.com/stor3730-3236-4462-b438-623333303336/93575dcd9ff080ce656afc0ed5bc11c1.jpg",
-   "available": true,
-   "variants": [
-    {
-     "weight_g": 250,
-     "price": 1129.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1129.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1129.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1129.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1129.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1129.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1129.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1129.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1129.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1129.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4220.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4220.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4220.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4220.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4220.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4220.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4220.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4220.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4220.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4220.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://camcoffee.ru/accessories/cup",
-   "name": "Фирменная чашка",
-   "description": "Фирменная чашка для кофе от Камеры Обскуры",
-   "image": "https://static.tildacdn.com/stor6662-3266-4466-a261-306362373330/56874717.jpg",
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 1800.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://camcoffee.ru/accessories/cafec_filters02",
-   "name": "Фильтры CAFEC V60-02 T83, 100 шт",
-   "description": "Фильтры CAFEC для воронки",
-   "image": "https://static.tildacdn.com/stor3839-6565-4335-b535-366538373561/44016072.jpg",
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 830.0,
      "available": true
     }
    ]

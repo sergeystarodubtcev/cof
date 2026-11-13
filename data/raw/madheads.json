@@ -2,13 +2,30 @@
  "status": {
   "id": "madheads",
   "platform": "generic",
-  "items": 243,
-  "seconds": 372.7,
+  "items": 245,
+  "seconds": 363.2,
   "ok": true,
   "error": null,
-  "at": "2026-11-12T07:26:06+00:00"
+  "at": "2026-11-13T06:58:21+00:00"
  },
  "items": [
+  {
+   "url": "https://madheadscoffee.com/p/NO4Vxj2X1M8-d33b4ef5",
+   "name": "Huila Timana",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/437076/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Huila Timana / Huila Timana",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 416.0,
+     "available": true
+    }
+   ]
+  },
   {
    "url": "https://madheadscoffee.com/p/wR1Vc1fUMnu-84c44a80",
    "name": "Popayan DECAF *GUR COLLAB",
@@ -299,23 +316,6 @@
    ]
   },
   {
-   "url": "https://madheadscoffee.com/p/IOXp5kwDwty-ded6fbea",
-   "name": "Bonito Sidra *GUR COLLAB",
-   "description": "*GUR COLLAB - «Спецпідрозділ Тимура» ГУР МО України - це універсальний оперативно-бойовий підрозділ спеціального призначення, відомий завдяки своїм операціям по звільненню острова Зміїний, поверненню під контроль України «вишок Бойка», деокупації Вовчанського агрегатного заводу, рейдам в Крим та Енергодар, боям за Бахмут, Авдіївку, Купʼянськ, Покровськ та ін.\nКупуючи цю каву ви робите прямий внесок в\nпідтримку «Спецпідрозділу Тимура» ГУР МО України.",
-   "image": "https://api.madheadscoffee.com/cdn/s/1/p/338618/0/large.png",
-   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Bonito Sidra *GUR COLLAB / Bonito Sidra *GUR COLLAB",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 959.0,
-     "available": true
-    }
-   ]
-  },
-  {
    "url": "https://madheadscoffee.com/p/FyEgIywLMis-93c8a3c8",
    "name": "Banko Chelchele Easy Drip",
    "description": "Перейдіть до каталога щоб обрати товар",
@@ -588,6 +588,74 @@
    ]
   },
   {
+   "url": "https://madheadscoffee.com/p/2KOPAIYFoW0-7ace58bf",
+   "name": "Худі жіночий чорний «Eagle»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/435197/0/large.худі жіночий чорний «eagle» shu x mh добавить мокапи 7",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Худі жіночий чорний «Eagle» / Худі жіночий чорний «Eagle»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 3800.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/4KuQsMWH4Wk-1013e03c",
+   "name": "Худі жіночий чорний «Two Rules»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/435196/0/large.худі жіночий чорний «two rules» shu x mh 1",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Худі жіночий чорний «Two Rules» / Худі жіночий чорний «Two Rules»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 3800.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/Kt96RnEFEvW-b4e3a172",
+   "name": "Худі жіночий чорний «Worldwide»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/435195/0/large.худі жіночий чорний «worldwide» shu x mh 1",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Худі жіночий чорний «Worldwide» / Худі жіночий чорний «Worldwide»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 3800.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/VBXJLRTvzSA-c6550d3f",
+   "name": "Худі жіночий чорний «Who Satan vol.3»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/435194/0/large.3» shu x mh 1",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Худі жіночий чорний «Who Satan vol.3» / Худі жіночий чорний «Who Satan vol.3»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 3800.0,
+     "available": true
+    }
+   ]
+  },
+  {
    "url": "https://madheadscoffee.com/p/9FuANgcTXVm-2ccd2298",
    "name": "Лонгслів жіночий сірий з ефектом виварювання «Who Satan vol.3»",
    "description": "Перейдіть до каталога щоб обрати товар",
@@ -826,74 +894,6 @@
    ]
   },
   {
-   "url": "https://madheadscoffee.com/p/1WARs5uAAXu-5eaa1687",
-   "name": "Лонгслів жіночий білий «Worldwide»",
-   "description": "Перейдіть до каталога щоб обрати товар",
-   "image": "https://api.madheadscoffee.com/cdn/s/1/p/362735/0/large.лонгслів жіночий білий «worldwide» 1",
-   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Лонгслів жіночий білий «Worldwide» / Лонгслів жіночий білий «Worldwide»",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 2350.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://madheadscoffee.com/p/2PzqH5V5AcQ-bd51256d",
-   "name": "Футболка жіноча сіра з ефектом виварювання «Who Satan vol.3»",
-   "description": "Перейдіть до каталога щоб обрати товар",
-   "image": "https://api.madheadscoffee.com/cdn/s/1/p/328052/0/large.jpg",
-   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка жіноча сіра з ефектом виварювання «Who Satan vol.3» / Футболка жіноча сіра з ефектом виварювання «Who Satan vol.3»",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 2150.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://madheadscoffee.com/p/8jfVwkJG1Pq-8b696498",
-   "name": "Футболка жіноча чорна «Who Satan vol.3»",
-   "description": "Перейдіть до каталога щоб обрати товар",
-   "image": "https://api.madheadscoffee.com/cdn/s/1/p/328051/0/large.jpg",
-   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка жіноча чорна «Who Satan vol.3» / Футболка жіноча чорна «Who Satan vol.3»",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 1750.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://madheadscoffee.com/p/BRuMt3ACBCw-517ecbd5",
-   "name": "Футболка жіноча біла «Who Satan vol.3»",
-   "description": "Перейдіть до каталога щоб обрати товар",
-   "image": "https://api.madheadscoffee.com/cdn/s/1/p/328050/0/large.jpg",
-   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка жіноча біла «Who Satan vol.3» / Футболка жіноча біла «Who Satan vol.3»",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 1750.0,
-     "available": true
-    }
-   ]
-  },
-  {
    "url": "https://madheadscoffee.com/p/YrygZDHVqTW-2f0c27aa",
    "name": "Пуровер HARIO V60 Dripper NEO 02",
    "description": "Пуровер HARIO V60 Dripper NEO 02|Pourover HARIO V60 Dripper NEO 02",
@@ -1115,23 +1115,6 @@
    ]
   },
   {
-   "url": "https://madheadscoffee.com/p/E8oMQKCeE8g",
-   "name": "Скляний сервірувальний чайник Hario BARISTA V60, Об'єм - 600 мл",
-   "description": "Скляний сервірувальний чайник Hario BARISTA V60, Об'єм - 600 мл|Glass serving kettle Hario BARISTA V60, Volume - 600 ml",
-   "image": "https://api.madheadscoffee.com/cdn/s/1/p/545/0/large.webp",
-   "category": "Головна / Головна / Категорії / Категорії / Аксесуари / Аксесуари / Скляний сервірувальний чайник Hario BARISTA V60, Об'єм - 600 мл / Скляний сервірувальний чайник Hario BARISTA V60, Об'єм - 600 мл",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 1053.0,
-     "available": true
-    }
-   ]
-  },
-  {
    "url": "https://madheadscoffee.com/p/O068koi28S4",
    "name": "Скляний сервірувальний чайник Hario BARISTA V60, Об'єм - 360 мл",
    "description": "Скляний сервірувальний чайник Hario BARISTA V60, Об'єм - 360 мл|Glass serving kettle Hario BARISTA V60, Volume - 360 ml",
@@ -1195,6 +1178,23 @@
     {
      "weight_g": null,
      "price": 447.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/QWQKuKMOIe",
+   "name": "Пуровер з харчового пластику Hario PEGASUS 01",
+   "description": "Пуровер з харчового пластику Hario PEGASUS 01|Hario PEGASUS 01 plastic pourover",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/534/0/large.webp",
+   "category": "Головна / Головна / Категорії / Категорії / Аксесуари / Аксесуари / Пуровер з харчового пластику Hario PEGASUS 01 / Пуровер з харчового пластику Hario PEGASUS 01",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 349.0,
      "available": true
     }
    ]
@@ -1348,6 +1348,23 @@
     {
      "weight_g": null,
      "price": 836.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/IOXp5kwDwty-ded6fbea",
+   "name": "Bonito Sidra *GUR COLLAB",
+   "description": "*GUR COLLAB - «Спецпідрозділ Тимура» ГУР МО України - це універсальний оперативно-бойовий підрозділ спеціального призначення, відомий завдяки своїм операціям по звільненню острова Зміїний, поверненню під контроль України «вишок Бойка», деокупації Вовчанського агрегатного заводу, рейдам в Крим та Енергодар, боям за Бахмут, Авдіївку, Купʼянськ, Покровськ та ін.\nКупуючи цю каву ви робите прямий внесок в\nпідтримку «Спецпідрозділу Тимура» ГУР МО України.",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/338618/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Bonito Sidra *GUR COLLAB / Bonito Sidra *GUR COLLAB",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 959.0,
      "available": true
     }
    ]
@@ -1676,40 +1693,6 @@
    ]
   },
   {
-   "url": "https://madheadscoffee.com/p/FSSwZVjt58s",
-   "name": "Las Botijas",
-   "description": "Перейдіть до каталога щоб обрати товар",
-   "image": "https://api.madheadscoffee.com/cdn/s/1/p/699/0/large.png",
-   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Las Botijas / Las Botijas",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 404.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://madheadscoffee.com/p/33AFE71puda-d7208286",
-   "name": "Utengule",
-   "description": "Перейдіть до каталога щоб обрати товар",
-   "image": "https://api.madheadscoffee.com/cdn/s/1/p/28027/0/large.png",
-   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Utengule / Utengule",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 1654.0,
-     "available": true
-    }
-   ]
-  },
-  {
    "url": "https://madheadscoffee.com/p/Qn1Zn5arpYk-59918faf",
    "name": "El Mirador Catiope Cold Fermented *GUR COLLAB",
    "description": "*GUR COLLAB - «Спецпідрозділ Тимура» ГУР МО України - це універсальний оперативно-бойовий підрозділ спеціального призначення, відомий завдяки своїм операціям по звільненню острова Зміїний, поверненню під контроль України «вишок Бойка», деокупації Вовчанського агрегатного заводу, рейдам в Крим та Енергодар, боям за Бахмут, Авдіївку, Купʼянськ, Покровськ та ін.\nКупуючи цю каву ви робите прямий внесок в\nпідтримку «Спецпідрозділу Тимура» ГУР МО України.",
@@ -1812,6 +1795,23 @@
    ]
   },
   {
+   "url": "https://madheadscoffee.com/p/1WARs5uAAXu-5eaa1687",
+   "name": "Лонгслів жіночий білий «Worldwide»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/362735/0/large.лонгслів жіночий білий «worldwide» 1",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Лонгслів жіночий білий «Worldwide» / Лонгслів жіночий білий «Worldwide»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2350.0,
+     "available": true
+    }
+   ]
+  },
+  {
    "url": "https://madheadscoffee.com/p/Wc0YMaSkkIK",
    "name": "Футболка сіра виварена «Cupid»",
    "description": "Перейдіть до каталога щоб обрати товар",
@@ -1824,6 +1824,57 @@
     {
      "weight_g": null,
      "price": 2150.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/2PzqH5V5AcQ-bd51256d",
+   "name": "Футболка жіноча сіра з ефектом виварювання «Who Satan vol.3»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/328052/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка жіноча сіра з ефектом виварювання «Who Satan vol.3» / Футболка жіноча сіра з ефектом виварювання «Who Satan vol.3»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2150.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/8jfVwkJG1Pq-8b696498",
+   "name": "Футболка жіноча чорна «Who Satan vol.3»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/328051/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка жіноча чорна «Who Satan vol.3» / Футболка жіноча чорна «Who Satan vol.3»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1750.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/BRuMt3ACBCw-517ecbd5",
+   "name": "Футболка жіноча біла «Who Satan vol.3»",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/328050/0/large.jpg",
+   "category": "Головна / Головна / Категорії / Категорії / Мерч / Мерч / Футболка жіноча біла «Who Satan vol.3» / Футболка жіноча біла «Who Satan vol.3»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1750.0,
      "available": true
     }
    ]
@@ -4034,23 +4085,6 @@
     {
      "weight_g": null,
      "price": 421.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://madheadscoffee.com/p/QWQKuKMOIe",
-   "name": "Пуровер з харчового пластику Hario PEGASUS 01",
-   "description": "Пуровер з харчового пластику Hario PEGASUS 01|Hario PEGASUS 01 plastic pourover",
-   "image": "https://api.madheadscoffee.com/cdn/s/1/p/534/0/large.webp",
-   "category": "Головна / Головна / Категорії / Категорії / Аксесуари / Аксесуари / Пуровер з харчового пластику Hario PEGASUS 01 / Пуровер з харчового пластику Hario PEGASUS 01",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 349.0,
      "available": true
     }
    ]
