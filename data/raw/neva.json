@@ -2,11 +2,11 @@
  "status": {
   "id": "neva",
   "platform": "bitrix+generic",
-  "items": 105,
-  "seconds": 1277.9,
+  "items": 107,
+  "seconds": 1384.1,
   "ok": true,
   "error": null,
-  "at": "2026-11-13T07:10:46+00:00"
+  "at": "2026-11-14T06:51:18+00:00"
  },
  "items": [
   {
@@ -424,12 +424,17 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 595.0,
+     "price": 506.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 595.0,
+     "price": 506.0,
+     "available": false
+    },
+    {
+     "weight_g": 1000,
+     "price": 506.0,
      "available": true
     },
     {
@@ -449,6 +454,11 @@
     },
     {
      "weight_g": 1000,
+     "price": 506.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
      "price": 595.0,
      "available": true
     },
@@ -460,6 +470,11 @@
     {
      "weight_g": 1000,
      "price": 2080.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 506.0,
      "available": true
     },
     {
@@ -851,12 +866,17 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 673.0,
+     "price": 568.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 673.0,
+     "price": 568.0,
+     "available": false
+    },
+    {
+     "weight_g": 1000,
+     "price": 568.0,
      "available": true
     },
     {
@@ -876,6 +896,11 @@
     },
     {
      "weight_g": 1000,
+     "price": 568.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
      "price": 673.0,
      "available": true
     },
@@ -887,6 +912,11 @@
     {
      "weight_g": 1000,
      "price": 2390.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 568.0,
      "available": true
     },
     {
@@ -994,12 +1024,17 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 613.0,
+     "price": 520.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 613.0,
+     "price": 520.0,
+     "available": false
+    },
+    {
+     "weight_g": 1000,
+     "price": 520.0,
      "available": true
     },
     {
@@ -1019,6 +1054,11 @@
     },
     {
      "weight_g": 1000,
+     "price": 520.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
      "price": 613.0,
      "available": true
     },
@@ -1030,6 +1070,11 @@
     {
      "weight_g": 1000,
      "price": 1140.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 520.0,
      "available": true
     },
     {
@@ -1607,102 +1652,17 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 603.0,
+     "price": 528.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 603.0,
+     "price": 528.0,
      "available": false
     },
     {
      "weight_g": 1000,
-     "price": 603.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2190.0,
-     "available": true
-    },
-    {
-     "weight_g": 500,
-     "price": 2190.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 2190.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 2190.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 2190.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 2190.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1140.0,
-     "available": true
-    },
-    {
-     "weight_g": 500,
-     "price": 1140.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1140.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1140.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1140.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1140.0,
-     "available": true
-    },
-    {
-     "weight_g": 500,
-     "price": 603.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 603.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 603.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 603.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 603.0,
+     "price": 528.0,
      "available": true
     },
     {
@@ -1793,6 +1753,106 @@
     {
      "weight_g": 250,
      "price": 603.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 528.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 603.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 2190.0,
+     "available": true
+    },
+    {
+     "weight_g": 500,
+     "price": 2190.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 2190.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 2190.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 2190.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 2190.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 1140.0,
+     "available": true
+    },
+    {
+     "weight_g": 500,
+     "price": 1140.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1140.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1140.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1140.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1140.0,
+     "available": true
+    },
+    {
+     "weight_g": 500,
+     "price": 603.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 603.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 603.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 603.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 603.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 528.0,
      "available": true
     },
     {
@@ -1903,102 +1963,17 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 603.0,
+     "price": 528.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 603.0,
+     "price": 528.0,
      "available": false
     },
     {
      "weight_g": 1000,
-     "price": 603.0,
-     "available": true
-    },
-    {
-     "weight_g": 500,
-     "price": 603.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 603.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 603.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 603.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 603.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1140.0,
-     "available": true
-    },
-    {
-     "weight_g": 500,
-     "price": 1140.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1140.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1140.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1140.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1140.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2190.0,
-     "available": true
-    },
-    {
-     "weight_g": 500,
-     "price": 2190.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 2190.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 2190.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 2190.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 2190.0,
+     "price": 528.0,
      "available": true
     },
     {
@@ -2089,6 +2064,106 @@
     {
      "weight_g": 250,
      "price": 2190.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 528.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 603.0,
+     "available": true
+    },
+    {
+     "weight_g": 500,
+     "price": 603.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 603.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 603.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 603.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 603.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 1140.0,
+     "available": true
+    },
+    {
+     "weight_g": 500,
+     "price": 1140.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1140.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1140.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1140.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 1140.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 2190.0,
+     "available": true
+    },
+    {
+     "weight_g": 500,
+     "price": 2190.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 2190.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 2190.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 2190.0,
+     "available": true
+    },
+    {
+     "weight_g": 250,
+     "price": 2190.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 528.0,
      "available": true
     },
     {
@@ -2200,12 +2275,17 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 748.0,
+     "price": 628.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 748.0,
+     "price": 628.0,
+     "available": false
+    },
+    {
+     "weight_g": 1000,
+     "price": 628.0,
      "available": true
     },
     {
@@ -2225,6 +2305,11 @@
     },
     {
      "weight_g": 1000,
+     "price": 628.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
      "price": 748.0,
      "available": true
     },
@@ -2236,6 +2321,11 @@
     {
      "weight_g": 1000,
      "price": 2690.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 628.0,
      "available": true
     },
     {
@@ -2385,12 +2475,17 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 630.0,
+     "price": 534.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 630.0,
+     "price": 534.0,
+     "available": false
+    },
+    {
+     "weight_g": 1000,
+     "price": 534.0,
      "available": true
     },
     {
@@ -2410,6 +2505,11 @@
     },
     {
      "weight_g": 1000,
+     "price": 534.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
      "price": 630.0,
      "available": true
     },
@@ -2421,6 +2521,11 @@
     {
      "weight_g": 1000,
      "price": 2220.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 534.0,
      "available": true
     },
     {
@@ -2890,12 +2995,17 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 613.0,
+     "price": 520.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 613.0,
+     "price": 520.0,
+     "available": false
+    },
+    {
+     "weight_g": 1000,
+     "price": 520.0,
      "available": true
     },
     {
@@ -2925,6 +3035,11 @@
     },
     {
      "weight_g": 1000,
+     "price": 520.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
      "price": 613.0,
      "available": true
     },
@@ -2946,6 +3061,11 @@
     {
      "weight_g": 1000,
      "price": 410.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 520.0,
      "available": true
     },
     {
@@ -3035,12 +3155,17 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 673.0,
+     "price": 568.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 673.0,
+     "price": 568.0,
+     "available": false
+    },
+    {
+     "weight_g": 1000,
+     "price": 568.0,
      "available": true
     },
     {
@@ -3060,6 +3185,11 @@
     },
     {
      "weight_g": 1000,
+     "price": 568.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
      "price": 673.0,
      "available": true
     },
@@ -3071,6 +3201,11 @@
     {
      "weight_g": 1000,
      "price": 2390.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 568.0,
      "available": true
     },
     {
@@ -3303,12 +3438,17 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 713.0,
+     "price": 600.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 713.0,
+     "price": 600.0,
+     "available": false
+    },
+    {
+     "weight_g": 1000,
+     "price": 600.0,
      "available": true
     },
     {
@@ -3333,6 +3473,11 @@
     },
     {
      "weight_g": 1000,
+     "price": 600.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
      "price": 713.0,
      "available": true
     },
@@ -3349,6 +3494,11 @@
     {
      "weight_g": 250,
      "price": 2550.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 600.0,
      "available": true
     },
     {
@@ -3505,12 +3655,17 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 708.0,
+     "price": 596.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 708.0,
+     "price": 596.0,
+     "available": false
+    },
+    {
+     "weight_g": 1000,
+     "price": 596.0,
      "available": true
     },
     {
@@ -3530,6 +3685,11 @@
     },
     {
      "weight_g": 1000,
+     "price": 596.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
      "price": 708.0,
      "available": true
     },
@@ -3541,6 +3701,11 @@
     {
      "weight_g": 1000,
      "price": 2530.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 596.0,
      "available": true
     },
     {
@@ -3799,7 +3964,7 @@
   },
   {
    "url": "https://nevacoffee.ru/catalog/coffee/molotyy-kofe/filter/clear/apply/?sort=SHOWS&order=asc&PAGEN_2=4",
-   "name": "Суль де Минас 250 гр.",
+   "name": "Суль де Минас 200 гр.",
    "description": "Натуральный молотый кофе от обжарщика. Помол подбираем под вас: для кофемашины, турки, гейзера. Кофе Арабика. Обжариваем под заказ, отправляем по России.",
    "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/CPremier/f48/0fy75qjiiqf7cdo59h4fq8zx2sao09o0.webp",
    "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Молотый кофе / Молотый кофе",
@@ -3811,15 +3976,15 @@
    "available": true,
    "variants": [
     {
-     "weight_g": 250,
-     "price": 613.0,
+     "weight_g": 200,
+     "price": 520.0,
      "available": true
     }
    ]
   },
   {
    "url": "https://nevacoffee.ru/catalog/coffee/molotyy-kofe/filter/clear/apply/?display=price&PAGEN_2=4",
-   "name": "Суль де Минас 250 гр.",
+   "name": "Суль де Минас 200 гр.",
    "description": "Натуральный молотый кофе от обжарщика. Помол подбираем под вас: для кофемашины, турки, гейзера. Кофе Арабика. Обжариваем под заказ, отправляем по России.",
    "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/CPremier/f48/0fy75qjiiqf7cdo59h4fq8zx2sao09o0.webp",
    "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Молотый кофе / Молотый кофе",
@@ -3831,15 +3996,15 @@
    "available": true,
    "variants": [
     {
-     "weight_g": 250,
-     "price": 613.0,
+     "weight_g": 200,
+     "price": 520.0,
      "available": true
     }
    ]
   },
   {
    "url": "https://nevacoffee.ru/catalog/coffee/molotyy-kofe/filter/clear/apply/?PAGEN_2=4",
-   "name": "Суль де Минас 250 гр.",
+   "name": "Суль де Минас 200 гр.",
    "description": "Натуральный молотый кофе от обжарщика. Помол подбираем под вас: для кофемашины, турки, гейзера. Кофе Арабика. Обжариваем под заказ, отправляем по России.",
    "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/CPremier/f48/0fy75qjiiqf7cdo59h4fq8zx2sao09o0.webp",
    "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Молотый кофе / Молотый кофе",
@@ -3851,15 +4016,15 @@
    "available": true,
    "variants": [
     {
-     "weight_g": 250,
-     "price": 613.0,
+     "weight_g": 200,
+     "price": 520.0,
      "available": true
     }
    ]
   },
   {
    "url": "https://nevacoffee.ru/catalog/coffee/molotyy-kofe/?display=table&PAGEN_2=4",
-   "name": "Суль де Минас 250 гр.",
+   "name": "Суль де Минас 200 гр.",
    "description": "Натуральный молотый кофе от обжарщика. Помол подбираем под вас: для кофемашины, турки, гейзера. Кофе Арабика. Обжариваем под заказ, отправляем по России.",
    "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/CPremier/f48/0fy75qjiiqf7cdo59h4fq8zx2sao09o0.webp",
    "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Молотый кофе",
@@ -3871,15 +4036,15 @@
    "available": true,
    "variants": [
     {
-     "weight_g": 250,
-     "price": 613.0,
+     "weight_g": 200,
+     "price": 520.0,
      "available": true
     }
    ]
   },
   {
    "url": "https://nevacoffee.ru/catalog/coffee/molotyy-kofe/?display=tile&PAGEN_2=4",
-   "name": "Суль де Минас 250 гр.",
+   "name": "Суль де Минас 200 гр.",
    "description": "Натуральный молотый кофе от обжарщика. Помол подбираем под вас: для кофемашины, турки, гейзера. Кофе Арабика. Обжариваем под заказ, отправляем по России.",
    "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/CPremier/f48/0fy75qjiiqf7cdo59h4fq8zx2sao09o0.webp",
    "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Молотый кофе",
@@ -3891,8 +4056,8 @@
    "available": true,
    "variants": [
     {
-     "weight_g": 250,
-     "price": 613.0,
+     "weight_g": 200,
+     "price": 520.0,
      "available": true
     }
    ]
@@ -3959,7 +4124,7 @@
   },
   {
    "url": "https://nevacoffee.ru/catalog/coffee/molotyy-kofe/?sort=SHOWS&order=asc&PAGEN_2=4",
-   "name": "Суль де Минас 250 гр.",
+   "name": "Суль де Минас 200 гр.",
    "description": "Натуральный молотый кофе от обжарщика. Помол подбираем под вас: для кофемашины, турки, гейзера. Кофе Арабика. Обжариваем под заказ, отправляем по России.",
    "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/CPremier/f48/0fy75qjiiqf7cdo59h4fq8zx2sao09o0.webp",
    "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Молотый кофе",
@@ -3971,15 +4136,15 @@
    "available": true,
    "variants": [
     {
-     "weight_g": 250,
-     "price": 613.0,
+     "weight_g": 200,
+     "price": 520.0,
      "available": true
     }
    ]
   },
   {
    "url": "https://nevacoffee.ru/catalog/coffee/molotyy-kofe/?display=price&PAGEN_2=4",
-   "name": "Суль де Минас 250 гр.",
+   "name": "Суль де Минас 200 гр.",
    "description": "Натуральный молотый кофе от обжарщика. Помол подбираем под вас: для кофемашины, турки, гейзера. Кофе Арабика. Обжариваем под заказ, отправляем по России.",
    "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/CPremier/f48/0fy75qjiiqf7cdo59h4fq8zx2sao09o0.webp",
    "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Молотый кофе",
@@ -3991,15 +4156,15 @@
    "available": true,
    "variants": [
     {
-     "weight_g": 250,
-     "price": 613.0,
+     "weight_g": 200,
+     "price": 520.0,
      "available": true
     }
    ]
   },
   {
    "url": "https://nevacoffee.ru/catalog/coffee/molotyy-kofe/?PAGEN_2=4",
-   "name": "Суль де Минас 250 гр.",
+   "name": "Суль де Минас 200 гр.",
    "description": "Натуральный молотый кофе от обжарщика. Помол подбираем под вас: для кофемашины, турки, гейзера. Кофе Арабика. Обжариваем под заказ, отправляем по России.",
    "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/CPremier/f48/0fy75qjiiqf7cdo59h4fq8zx2sao09o0.webp",
    "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Молотый кофе",
@@ -4011,8 +4176,8 @@
    "available": true,
    "variants": [
     {
-     "weight_g": 250,
-     "price": 613.0,
+     "weight_g": 200,
+     "price": 520.0,
      "available": true
     }
    ]
@@ -4502,7 +4667,7 @@
     },
     {
      "weight_g": null,
-     "price": 748.0,
+     "price": 628.0,
      "available": true
     }
    ]
@@ -4869,7 +5034,7 @@
     },
     {
      "weight_g": null,
-     "price": 613.0,
+     "price": 520.0,
      "available": true
     }
    ]
@@ -5216,7 +5381,7 @@
     },
     {
      "weight_g": null,
-     "price": 713.0,
+     "price": 600.0,
      "available": true
     }
    ]
@@ -5242,8 +5407,33 @@
    ]
   },
   {
+   "url": "https://nevacoffee.ru/catalog/coffee/srednyaya/?PAGEN_2=2",
+   "name": "Дрип Декаф (Гватемала) 1 шт 12 гр",
+   "description": "Кофе со средней кислотностью — отличный выбор для тех, кто ищет ровный, сбалансированный вкус без резкой кислинки. Подходит как кофе в зернах и для помола дома: для эспрессо, фильтра, френч-пресса и турки.",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/CPremier/f48/0fy75qjiiqf7cdo59h4fq8zx2sao09o0.webp",
+   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Кофе средней кислотности",
+   "specs": {
+    "Способ обработки": "Гилинг басах",
+    "Степень обжарки": "Темная"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 67.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 617.0,
+     "available": true
+    }
+   ]
+  },
+  {
    "url": "https://nevacoffee.ru/catalog/coffee/yarkaya/?PAGEN_2=2",
-   "name": "Дрип Колумбия Супремо",
+   "name": "Кения АБ 200 гр",
    "description": "Кофе с яркой кислотностью и выразительным вкусом: фруктовые и ягодные оттенки, свежий аромат и чистое, долгое послевкусие. Подходит для фильтра, пуровера и эспрессо.",
    "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/CPremier/f48/0fy75qjiiqf7cdo59h4fq8zx2sao09o0.webp",
    "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Кофе с яркой кислотностью",
@@ -5255,13 +5445,8 @@
    "available": true,
    "variants": [
     {
-     "weight_g": null,
-     "price": 62.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 713.0,
+     "weight_g": 200,
+     "price": 600.0,
      "available": true
     }
    ]
@@ -5300,15 +5485,20 @@
    "available": true,
    "variants": [
     {
-     "weight_g": 250,
+     "weight_g": null,
      "price": 613.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 506.0,
      "available": true
     }
    ]
   },
   {
    "url": "https://nevacoffee.ru/catalog/coffee/sorta-s-gorchinkoy/yarkaya/",
-   "name": "Regular 250 гр.",
+   "name": "Espresso Classic 250 гр.",
    "description": "Ароматный кофе горчинкой Яркая - идеальный выбор для ценителей насыщенного вкуса. Большой выбор кофе в зёрнах по доступной цене. Магазины кофе в Санкт-Петербурге, проверенные производители, свежая обжарка и выгодные предложения.",
    "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/CPremier/f48/0fy75qjiiqf7cdo59h4fq8zx2sao09o0.webp",
    "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Кофе в зернах с горчинкой / Кофе в зернах с горчинкой / Кофе горчинка Яркая",
@@ -5320,7 +5510,37 @@
    "available": true,
    "variants": [
     {
-     "weight_g": 250,
+     "weight_g": null,
+     "price": 648.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 573.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/smesi-s-robustoy-i-robusta/srednyaya/",
+   "name": "№ 12 City 250 гр.",
+   "description": "Кофе с Средняя кислинкой купить в Санкт-Петербурге. Большой выбор зернового и молотого кофе с мягким, сбалансированным вкусом. Быстрая доставка по СПб, свежая обжарка, выгодные цены.",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/CPremier/f48/0fy75qjiiqf7cdo59h4fq8zx2sao09o0.webp",
+   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Смеси с робустой и кофе Робуста / Смеси с робустой и кофе Робуста / Кофе с Средняя",
+   "specs": {
+    "Способ обработки": "Вет-полиш / Wet-polished",
+    "Степень обжарки": "Темная"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 613.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
      "price": 573.0,
      "available": true
     }
@@ -5391,7 +5611,7 @@
     },
     {
      "weight_g": null,
-     "price": 595.0,
+     "price": 506.0,
      "available": true
     }
    ]

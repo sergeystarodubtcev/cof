@@ -2,11 +2,11 @@
  "status": {
   "id": "madheads",
   "platform": "generic",
-  "items": 245,
-  "seconds": 363.2,
+  "items": 242,
+  "seconds": 459.3,
   "ok": true,
   "error": null,
-  "at": "2026-11-13T06:58:21+00:00"
+  "at": "2026-11-14T06:39:40+00:00"
  },
  "items": [
   {
@@ -316,6 +316,23 @@
    ]
   },
   {
+   "url": "https://madheadscoffee.com/p/OPooj7EsZJu-f1875ea4",
+   "name": "Santa Monica Decaf Easy Drip",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/407190/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Easydrip / Easydrip / Santa Monica Decaf Easy Drip / Santa Monica Decaf Easy Drip",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 450.0,
+     "available": true
+    }
+   ]
+  },
+  {
    "url": "https://madheadscoffee.com/p/FyEgIywLMis-93c8a3c8",
    "name": "Banko Chelchele Easy Drip",
    "description": "Перейдіть до каталога щоб обрати товар",
@@ -474,23 +491,6 @@
    "description": "Перейдіть до каталога щоб обрати товар",
    "image": "https://api.madheadscoffee.com/cdn/s/1/p/210255/0/large.png",
    "category": "Головна / Головна / Категорії / Категорії / Easydrip / Easydrip / El Rosal Easy Drip / El Rosal Easy Drip",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 450.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://madheadscoffee.com/p/68C6QOm2GS",
-   "name": "Wilton Benitez Red Bourbon DECAF Easy Drip",
-   "description": "Перейдіть до каталога щоб обрати товар",
-   "image": "https://api.madheadscoffee.com/cdn/s/1/p/455/0/large.png",
-   "category": "Головна / Головна / Категорії / Категорії / Easydrip / Easydrip / Wilton Benitez Red Bourbon DECAF Easy Drip / Wilton Benitez Red Bourbon DECAF Easy Drip",
    "specs": {},
    "gallery": [],
    "available": true,
@@ -1047,23 +1047,6 @@
    ]
   },
   {
-   "url": "https://madheadscoffee.com/p/kG04UWseiOC",
-   "name": "Паперові фільтри Hario для пуровера 02, в коробці",
-   "description": "Паперові фільтри Hario для пуровера 02, в коробці|Hario paper filters for pourover 02, 100 pcs in a box",
-   "image": "https://api.madheadscoffee.com/cdn/s/1/p/660/0/large.webp",
-   "category": "Головна / Головна / Категорії / Категорії / Аксесуари / Аксесуари / Паперові фільтри Hario для пуровера 02, в коробці / Паперові фільтри Hario для пуровера 02, в коробці",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 316.0,
-     "available": true
-    }
-   ]
-  },
-  {
    "url": "https://madheadscoffee.com/p/uMwGcMMq6o",
    "name": "Ручна кавомолка Hario Mini Black PRO",
    "description": "Ручна кавомолка Hario Mini Black PRO|Hario Mini Black PRO manual coffee grinder",
@@ -1195,6 +1178,23 @@
     {
      "weight_g": null,
      "price": 349.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/mY2c2ikweGs",
+   "name": "Електронні ваги Hario Polaris",
+   "description": "Електронні ваги Hario Polaris|Hario Polaris electronic scales",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/525/0/large.webp",
+   "category": "Головна / Головна / Категорії / Категорії / Аксесуари / Аксесуари / Електронні ваги Hario Polaris / Електронні ваги Hario Polaris",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 5120.0,
      "available": true
     }
    ]
@@ -1659,7 +1659,7 @@
    ]
   },
   {
-   "url": "https://madheadscoffee.com/p/WhuPA8790WU-b1271139",
+   "url": "https://madheadscoffee.com/p/YHq5zhicCCc-41ff1235",
    "name": "La Cedrela",
    "description": "Перейдіть до каталога щоб обрати товар",
    "image": "https://api.madheadscoffee.com/cdn/s/1/p/115511/0/large.png",
@@ -1710,23 +1710,6 @@
    ]
   },
   {
-   "url": "https://madheadscoffee.com/p/8kg9FtSCfaI-78a4dd9f",
-   "name": "El Mirador Dark Fermentation *GUR COLLAB",
-   "description": "*GUR COLLAB - «Спецпідрозділ Тимура» ГУР МО України - це універсальний оперативно-бойовий підрозділ спеціального призначення, відомий завдяки своїм операціям по звільненню острова Зміїний, поверненню під контроль України «вишок Бойка», деокупації Вовчанського агрегатного заводу, рейдам в Крим та Енергодар, боям за Бахмут, Авдіївку, Купʼянськ, Покровськ та ін.\nКупуючи цю каву ви робите прямий внесок в\nпідтримку «Спецпідрозділу Тимура» ГУР МО України.",
-   "image": "https://api.madheadscoffee.com/cdn/s/1/p/18833/0/large.png",
-   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / El Mirador Dark Fermentation *GUR COLLAB / El Mirador Dark Fermentation *GUR COLLAB",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 719.0,
-     "available": true
-    }
-   ]
-  },
-  {
    "url": "https://madheadscoffee.com/p/H1CKenoxuPO-cadda201",
    "name": "Leste *GUR COLLAB",
    "description": "*GUR COLLAB - «Спецпідрозділ Тимура» ГУР МО України - це універсальний оперативно-бойовий підрозділ спеціального призначення, відомий завдяки своїм операціям по звільненню острова Зміїний, поверненню під контроль України «вишок Бойка», деокупації Вовчанського агрегатного заводу, рейдам в Крим та Енергодар, боям за Бахмут, Авдіївку, Купʼянськ, Покровськ та ін.\nКупуючи цю каву ви робите прямий внесок в\nпідтримку «Спецпідрозділу Тимура» ГУР МО України.",
@@ -1756,23 +1739,6 @@
     {
      "weight_g": null,
      "price": 531.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://madheadscoffee.com/p/MAWMm0imES8",
-   "name": "Butegana Cima Yeast WASHED",
-   "description": "Перейдіть до каталога щоб обрати товар",
-   "image": "https://api.madheadscoffee.com/cdn/s/1/p/580/0/large.png",
-   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Butegana Cima Yeast WASHED / Butegana Cima Yeast WASHED",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 424.0,
      "available": true
     }
    ]
@@ -4051,23 +4017,6 @@
     {
      "weight_g": null,
      "price": 339.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://madheadscoffee.com/p/mY2c2ikweGs",
-   "name": "Електронні ваги Hario Polaris",
-   "description": "Електронні ваги Hario Polaris|Hario Polaris electronic scales",
-   "image": "https://api.madheadscoffee.com/cdn/s/1/p/525/0/large.webp",
-   "category": "Головна / Головна / Категорії / Категорії / Аксесуари / Аксесуари / Електронні ваги Hario Polaris / Електронні ваги Hario Polaris",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 5120.0,
      "available": true
     }
    ]
