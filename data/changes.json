@@ -15628,5 +15628,68 @@
     "reason": "пропал с сайта"
    }
   ]
+ },
+ {
+  "at": "2026-11-15T06:57:42+00:00",
+  "added": [
+   {
+    "id": "d449af32efe9",
+    "roaster": "h2o",
+    "name": "Основа Cream Latte Тыквенный кранч с арахисом",
+    "url": "https://h2ocompany.ru/catalog/vkusoaromaticheskaya_smes_cream_latte_tykvennyy_kranch_s_arakhisom_0_5kg/",
+    "back": true
+   }
+  ],
+  "removed": [
+   {
+    "id": "9b86c5dd4455",
+    "roaster": "bolshe",
+    "name": "Эфиопия от Нафкот Амасу и женщин Гедичо",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/721156284-868743992763-efiopiya-ot-nafkot-amasu-i-zhenschin-ged",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "36a386af604f",
+    "roaster": "specialtyru",
+    "name": "Kof Гватемала Акатенанго Пакамара Ла Эрмоса натуральная, фильтр 250 гр.",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-kof-gvatemala-akatenango-pakamara-la-ermosa-naturalnaya-filtr-250-gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "e7f92af757c4",
+    "roaster": "specialtyru",
+    "name": "Канга Ростерс Коста-Рика Тарразу Ла Пастора, эспрессо 250 гр.",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-kanga-rosters-kosta-rika-tarrazu-la-pastora-espresso-250-gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "19f461f114d5",
+    "roaster": "specialtyru",
+    "name": "Микале Эфиопия Лиму Спайси черри, эспрессо, 200 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-mikale-efiopiya-limu-spaysi-cherri-espresso-200-gr/",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "4c57d44d1f80",
+    "roaster": "specialtyru",
+    "name": "Субмарина Эфиопия Сидамо Айла Бомбе, эспрессо, 200 гр",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-submarina-efiopiya-sidamo-ayla-bombe-espresso-200-gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "6e7c03918732",
+    "roaster": "tasty",
+    "name": "Эфиопия Ябиту Туме",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-yabitu-tume",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "dbe3dbcffa2c",
+    "roaster": "welder",
+    "name": "Галараствор Колумбия Рафаэль Айя анаэроб",
+    "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_kolumbiya_rafael_ayya_anaerob/",
+    "reason": "пропал с сайта"
+   }
+  ]
  }
 ]

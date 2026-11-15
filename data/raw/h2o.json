@@ -2,11 +2,11 @@
  "status": {
   "id": "h2o",
   "platform": "bitrix+generic",
-  "items": 479,
-  "seconds": 1113.5,
+  "items": 480,
+  "seconds": 1008.0,
   "ok": true,
   "error": null,
-  "at": "2026-11-14T06:45:26+00:00"
+  "at": "2026-11-15T06:52:55+00:00"
  },
  "items": [
   {
@@ -1058,7 +1058,7 @@
    "url": "https://h2ocompany.ru/catalog/puer_tulin_fenkhuan_tocha_100_gr_zelenyy_v_forme_chashi_to_cha_2017g/",
    "name": "Пуэр Тулинь \"Фэнхуан Точа\" зеленый, 100 гр",
    "description": "Пуэр Тулинь, \"Фэнхуан Точа\" по приятной цене. Древесно-цветочные ноты зеленого чая, выдержка с 2017 года и заряд энергии. Оформите доставку в интернет-магазине ...",
-   "image": "https://h2ocompany.ru/upload/resize_cache/iblock/582/430_558_1/xd07292k1i979e4truxhrb7bf7y8lcfni.jpg.pagespeed.ic.7XvNMZxivE.jpg",
+   "image": "https://h2ocompany.ru/upload/resize_cache/iblock/582/430_558_1/d07292k1i979e4truxhrb7bf7y8lcfni.jpg",
    "category": "Главная / Главная / Каталог / Каталог / Чай / Чай / Зеленый чай / Зеленый чай / Зеленый (классический) / Зеленый (классический) / Пуэр Тулинь \"Фэнхуан Точа\" зеленый, 100 гр",
    "specs": {
     "Страна": "Китай"
@@ -1419,7 +1419,7 @@
    "url": "https://h2ocompany.ru/catalog/zdorovyy_son_premialnaya_travyanaya_smes_premialnyy_250gr/",
    "name": "Здоровый сон (премиальная травяная смесь, премиальный), 250гр купить в интернет магазине H2O☕",
    "description": "Широкий выбор травяного чая. Популярные купажы, в основе которого используются натуральные травы, с душистым ароматом.В наличие Здоровый сон (премиальная травян...",
-   "image": "https://h2ocompany.ru/upload/resize_cache/iblock/8c2/430_558_1/xdjnsy2zx8n0n87ef0wdpffm33fbok0wm.jpg.pagespeed.ic.038i5Wn9pb.jpg",
+   "image": "https://h2ocompany.ru/upload/resize_cache/iblock/8c2/430_558_1/djnsy2zx8n0n87ef0wdpffm33fbok0wm.jpg",
    "category": "Главная / Главная / Каталог / Каталог / Чай / Чай / Тизаны / Тизаны / Травяные / Травяные / Здоровый сон, 250 гр",
    "specs": {
     "Страна": "Россия"
@@ -1609,7 +1609,7 @@
    "url": "https://h2ocompany.ru/catalog/dp_grechishnyy_kokos_i_vanil_kutsyao_250gr/",
    "name": "Гречишный Кокос и Ваниль, 250 гр",
    "description": "Предлагаем купить чайный напиток. Широкий ассортимент, натуральные компоненты, быстрая доставка по РФ. В наличие ДП Гречишный Кокос и Ваниль (Куцяо), 250гр",
-   "image": "https://h2ocompany.ru/upload/resize_cache/iblock/500/430_558_1/xflni1a0yz5wpgxp6jpy52wcx1ryb6y3z.jpg.pagespeed.ic.lpIFaO6Xsx.jpg",
+   "image": "https://h2ocompany.ru/upload/resize_cache/iblock/500/430_558_1/flni1a0yz5wpgxp6jpy52wcx1ryb6y3z.jpg",
    "category": "Главная / Главная / Каталог / Каталог / Чай / Чай / Тизаны / Тизаны / Чайные напитки / Чайные напитки / Гречишный Кокос и Ваниль, 250 гр",
    "specs": {
     "Страна": "Китай"
@@ -2450,7 +2450,7 @@
    "url": "https://h2ocompany.ru/catalog/royal_cane_pyure_yudzu_1kg/",
    "name": "Пюре Юдзу, 1кг",
    "description": "Пюре фруктово-ягодные для для десертов, коктейлей, чайных напитков. Придает яркий узнаваемый аромат и не менее яркий внешний вид. В наличии ROYAL CANE Пюре Юдзу...",
-   "image": "https://h2ocompany.ru/upload/resize_cache/iblock/186/430_558_1/x6xx3vcq1wk26v09wamhroibiondyhnyt.png.pagespeed.ic.bypLGLqP4T.png",
+   "image": "https://h2ocompany.ru/upload/resize_cache/iblock/186/430_558_1/6xx3vcq1wk26v09wamhroibiondyhnyt.png",
    "category": "Главная / Главная / Каталог / Каталог / Сиропы / Сиропы / Пюре / Пюре / Пюре Юдзу, 1кг",
    "specs": {},
    "gallery": [],
@@ -3861,7 +3861,7 @@
    "url": "https://h2ocompany.ru/catalog/sirop_dabl_byern_karamel_chernaya_karamel_0_7l/",
    "name": "Сироп Дабл Бёрн Карамель (черная карамель), 0,7л",
    "description": "Сиропы на любой вкус и цвет. Бесплатная доставка при заказе от 1500 руб по Москве и России⚡В наличии Сироп Дабл Бёрн Карамель (черная карамель), 0,7л.",
-   "image": "https://h2ocompany.ru/upload/resize_cache/iblock/17d/430_558_1/xk11ofyfns9tbjybymb2gchjc0ql6f7b4.png.pagespeed.ic.wOY08TS-1z.png",
+   "image": "https://h2ocompany.ru/upload/resize_cache/iblock/17d/430_558_1/k11ofyfns9tbjybymb2gchjc0ql6f7b4.png",
    "category": "Главная / Главная / Каталог / Каталог / Сиропы / Сиропы / Сиропы / Сиропы / Сироп Дабл Бёрн Карамель (черная карамель), 0,7л",
    "specs": {},
    "gallery": [],
@@ -4286,7 +4286,7 @@
    "url": "https://h2ocompany.ru/catalog/sirop_ayrish_krim_irlandskiy_krem_0_7l/",
    "name": "Сироп Айриш Крим (ирландский крем), 0,7л",
    "description": "Сиропы на любой вкус и цвет. Бесплатная доставка при заказе от 1500 руб по Москве и России⚡В наличии Сироп Айриш Крим (ирландский крем), 0,7л.",
-   "image": "https://h2ocompany.ru/upload/resize_cache/iblock/46a/430_558_1/xje2k6fjpjk1puf2jjbs1w6yvr2c3a659.png.pagespeed.ic.igurZau0u_.png",
+   "image": "https://h2ocompany.ru/upload/resize_cache/iblock/46a/430_558_1/je2k6fjpjk1puf2jjbs1w6yvr2c3a659.png",
    "category": "Главная / Главная / Каталог / Каталог / Сиропы / Сиропы / Сиропы / Сиропы / Сироп Айриш Крим (ирландский крем), 0,7л",
    "specs": {},
    "gallery": [],
@@ -4796,7 +4796,7 @@
    "url": "https://h2ocompany.ru/catalog/royal_cane_sirop_babl_gam_1l/",
    "name": "Сироп Бабл Гам, 1л",
    "description": "Сиропы на любой вкус и цвет. Бесплатная доставка при заказе от 1500 руб по Москве и России⚡В наличии ROYAL CANE Сироп Бабл Гам, 1л.",
-   "image": "https://h2ocompany.ru/upload/resize_cache/iblock/ccc/430_558_1/6txaz1pcdaqxtp5ai8hepqhelfdc3fmf.jpg",
+   "image": "https://h2ocompany.ru/upload/resize_cache/iblock/ccc/430_558_1/x6txaz1pcdaqxtp5ai8hepqhelfdc3fmf.jpg.pagespeed.ic.nHeI9nKUA_.jpg",
    "category": "Главная / Главная / Каталог / Каталог / Сиропы / Сиропы / Сиропы / Сиропы / Сироп Бабл Гам, 1л",
    "specs": {},
    "gallery": [],
@@ -5068,7 +5068,7 @@
    "url": "https://h2ocompany.ru/catalog/royal_cane_sirop_irlandskiy_krem_1l/",
    "name": "Сироп Ирландский крем, 1л",
    "description": "Сиропы на любой вкус и цвет. Бесплатная доставка при заказе от 1500 руб по Москве и России⚡В наличии ROYAL CANE Сироп Ирландский крем, 1л.",
-   "image": "https://h2ocompany.ru/upload/resize_cache/iblock/812/430_558_1/5jq8lwzo9s2xg2od7y33k2ivjnsotysz.jpg",
+   "image": "https://h2ocompany.ru/upload/resize_cache/iblock/812/430_558_1/x5jq8lwzo9s2xg2od7y33k2ivjnsotysz.jpg.pagespeed.ic.JuvOSQWkcM.jpg",
    "category": "Главная / Главная / Каталог / Каталог / Сиропы / Сиропы / Сиропы / Сиропы / Сироп Ирландский крем, 1л",
    "specs": {},
    "gallery": [],
@@ -5272,7 +5272,7 @@
    "url": "https://h2ocompany.ru/catalog/royal_cane_sirop_sakharnyy_trostnik_1l/",
    "name": "Сироп Сахарный тростник, 1л",
    "description": "Сиропы на любой вкус и цвет. Бесплатная доставка при заказе от 1500 руб по Москве и России⚡В наличии ROYAL CANE Сироп Сахарный тростник, 1л.",
-   "image": "https://h2ocompany.ru/upload/resize_cache/iblock/8f6/430_558_1/hy67o2bmsizsqfh78ekwjcbb32lzf9ma.jpg",
+   "image": "https://h2ocompany.ru/upload/resize_cache/iblock/8f6/430_558_1/xhy67o2bmsizsqfh78ekwjcbb32lzf9ma.jpg.pagespeed.ic.A_JzN49NyI.jpg",
    "category": "Главная / Главная / Каталог / Каталог / Сиропы / Сиропы / Сиропы / Сиропы / Сироп Сахарный тростник, 1л",
    "specs": {},
    "gallery": [],
@@ -5697,7 +5697,7 @@
    "url": "https://h2ocompany.ru/catalog/royal_cane_sirop_zimnie_spetsii_1l/",
    "name": "ROYAL CANE Сироп Зимние специи, 1л купить в интернет магазине H2O☕",
    "description": "Сиропы на любой вкус и цвет. Бесплатная доставка при заказе от 1500 руб по Москве и России⚡В наличии ROYAL CANE Сироп Зимние специи, 1л.",
-   "image": "https://h2ocompany.ru/upload/resize_cache/iblock/5cc/430_558_1/0ey3poirpd42fhtztqxz4l8tq1g3zwy8.jpg",
+   "image": "https://h2ocompany.ru/upload/resize_cache/iblock/5cc/430_558_1/x0ey3poirpd42fhtztqxz4l8tq1g3zwy8.jpg.pagespeed.ic.EzpKw38kbZ.jpg",
    "category": "Главная / Главная / Каталог / Каталог / Сиропы / Сиропы / Сиропы / Сиропы / Сироп ROYAL CANE Зимние специи, 1л",
    "specs": {},
    "gallery": [],
@@ -5731,7 +5731,7 @@
    "url": "https://h2ocompany.ru/catalog/royal_cane_sirop_mokhito_1l/",
    "name": "Сироп Мохито, 1л",
    "description": "Сиропы на любой вкус и цвет. Бесплатная доставка при заказе от 1500 руб по Москве и России⚡В наличии ROYAL CANE Сироп Мохито, 1л.",
-   "image": "https://h2ocompany.ru/upload/resize_cache/iblock/e0c/430_558_1/xvn9ef5r4ht4cm442bkpjk9lau5uke7lu.jpg.pagespeed.ic.qZ5lpO6NaR.jpg",
+   "image": "https://h2ocompany.ru/upload/resize_cache/iblock/e0c/430_558_1/vn9ef5r4ht4cm442bkpjk9lau5uke7lu.jpg",
    "category": "Главная / Главная / Каталог / Каталог / Сиропы / Сиропы / Сиропы / Сиропы / Сироп Мохито, 1л",
    "specs": {},
    "gallery": [],
@@ -5901,7 +5901,7 @@
    "url": "https://h2ocompany.ru/catalog/royal_cane_sirop_popkorn_1l/",
    "name": "Сироп Попкорн, 1л",
    "description": "Сиропы на любой вкус и цвет. Бесплатная доставка при заказе от 1500 руб по Москве и России⚡В наличии ROYAL CANE Сироп Попкорн, 1л.",
-   "image": "https://h2ocompany.ru/upload/resize_cache/iblock/3f5/430_558_1/7aff44gvmn2pjyygy95poonoj6w2w4mc.png",
+   "image": "https://h2ocompany.ru/upload/resize_cache/iblock/3f5/430_558_1/x7aff44gvmn2pjyygy95poonoj6w2w4mc.png.pagespeed.ic.2NMUeHnNGu.png",
    "category": "Главная / Главная / Каталог / Каталог / Сиропы / Сиропы / Сиропы / Сиропы / Сироп Попкорн, 1л",
    "specs": {},
    "gallery": [],
@@ -5918,7 +5918,7 @@
    "url": "https://h2ocompany.ru/catalog/vyvod_sirop_pampkin_khed_tykva_0_7l/",
    "name": "Сироп Пампкин Хэд (Тыква), 700 мл",
    "description": "Сиропы на любой вкус и цвет. Бесплатная доставка при заказе от 1500 руб по Москве и России⚡В наличии !Вывод! Сироп Пампкин Хэд (Тыква), 0,7л.",
-   "image": "https://h2ocompany.ru/upload/resize_cache/iblock/067/430_558_1/inderfys80a9xxprd57um7c87ar6wj2h.jpg",
+   "image": "https://h2ocompany.ru/upload/resize_cache/iblock/067/430_558_1/xinderfys80a9xxprd57um7c87ar6wj2h.jpg.pagespeed.ic.1FVPL6m0Mo.jpg",
    "category": "Главная / Главная / Каталог / Каталог / Сиропы / Сиропы / Сиропы / Сиропы / Сироп Пампкин Хэд (Тыква), 700 мл",
    "specs": {},
    "gallery": [],
@@ -6224,7 +6224,7 @@
    "url": "https://h2ocompany.ru/catalog/napitok_negaz_clavis_malina_moroshka_pikhta_0_75l/",
    "name": "CLAVIS малина, морошка, пихта 0,75л",
    "description": "Купить премиальный кофе и чай с доставкой по России ☕ Откройте для себя уникальные сорта чая и свежеобжаренного кофе от H2O для настоящих ценителей вкуса",
-   "image": "https://h2ocompany.ru/upload/resize_cache/iblock/300/430_558_1/d5dy59a1pjzm9pvzl5vyxxf0bstbqcym.jpg",
+   "image": "https://h2ocompany.ru/upload/resize_cache/iblock/300/430_558_1/xd5dy59a1pjzm9pvzl5vyxxf0bstbqcym.jpg.pagespeed.ic.B_0L1Iitws.jpg",
    "category": "Главная / Главная / Каталог / Каталог / Сиропы / Сиропы / Кордиалы / Кордиалы / CLAVIS малина, морошка, пихта 0,75л",
    "specs": {},
    "gallery": [],
@@ -6258,7 +6258,7 @@
    "url": "https://h2ocompany.ru/catalog/napitok_negaz_clavis_grusha_zhasmin_vinograd_0_75l/",
    "name": "CLAVIS груша, жасмин, виноград 0,75л",
    "description": "CLAVIS груша, жасмин, виноград - изысканное сочетание фруктовых и цветочных оттенков. Подходит к джину, текиле, игристому вину и содовой. Закажите в H2O",
-   "image": "https://h2ocompany.ru/upload/resize_cache/iblock/e75/430_558_1/sjvjfefjg36mgzwzife40gwumghz8gcp.jpg",
+   "image": "https://h2ocompany.ru/upload/resize_cache/iblock/e75/430_558_1/xsjvjfefjg36mgzwzife40gwumghz8gcp.jpg.pagespeed.ic.VfIOubXYXi.jpg",
    "category": "Главная / Главная / Каталог / Каталог / Сиропы / Сиропы / Кордиалы / Кордиалы / CLAVIS груша, жасмин, виноград 0,75л",
    "specs": {},
    "gallery": [],
@@ -6598,7 +6598,7 @@
    "url": "https://h2ocompany.ru/catalog/royal_cane_pompa_dlya_siropa_sht/",
    "name": "Помпа для сиропа",
    "description": "Купить премиальный кофе и чай с доставкой по России ☕ Откройте для себя уникальные сорта чая и свежеобжаренного кофе от H2O для настоящих ценителей вкуса",
-   "image": "https://h2ocompany.ru/upload/resize_cache/iblock/481/430_558_1/1mtmwzmysmahoos31zeryllxsl238t52.jpg",
+   "image": "https://h2ocompany.ru/upload/resize_cache/iblock/481/430_558_1/x1mtmwzmysmahoos31zeryllxsl238t52.jpg.pagespeed.ic.XNyJEREzoS.jpg",
    "category": "Главная / Главная / Каталог / Каталог / Аксессуары / Аксессуары / Помпа для сиропа",
    "specs": {},
    "gallery": [],
@@ -6615,7 +6615,7 @@
    "url": "https://h2ocompany.ru/catalog/royal_cane_lineyka_barnaya_sht/",
    "name": "Линейка барная ROYAL CANE. Заказать с доставкой в магазине H2O",
    "description": "Линейка барная ROYAL CANE по приятной стоимости. Быстрый учет остатков сиропа с точностью до 1-2 мл. Удобный ламинированный пластик. Закажите на сайте H2O с дос...",
-   "image": "https://h2ocompany.ru/upload/resize_cache/iblock/07b/430_558_1/xcn7mnqnk7hou8hd46kc6w4l22h8xtf9b.jpeg.pagespeed.ic.1stDR2zBPF.jpg",
+   "image": "https://h2ocompany.ru/upload/resize_cache/iblock/07b/430_558_1/cn7mnqnk7hou8hd46kc6w4l22h8xtf9b.jpeg",
    "category": "Главная / Главная / Каталог / Каталог / Аксессуары / Аксессуары / Линейка барная ROYAL CANE",
    "specs": {},
    "gallery": [],
@@ -7998,6 +7998,23 @@
      "weight_g": null,
      "price": 860.0,
      "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://h2ocompany.ru/catalog/vkusoaromaticheskaya_smes_cream_latte_tykvennyy_kranch_s_arakhisom_0_5kg/",
+   "name": "Основа Cream Latte Тыквенный кранч с арахисом",
+   "description": "Основа Cream Latte, со вкусом тыквенного кранча с арахисом по честной цене. Густая текстура для авторского латте в пачке 500 г. Закажите доставкой в интернет-ма...",
+   "image": "https://h2ocompany.ru/upload/iblock/ff0/y7ab32onmu50kccj392p2jd8xgsccugq.jpg",
+   "category": "Главная / Главная / Каталог / Каталог / Основы / Основы / Для кофейно-молочных напитков / Для кофейно-молочных напитков / Основа Cream Latte Тыквенный кранч с арахисом",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 860.0,
+     "available": true
     }
    ]
   },

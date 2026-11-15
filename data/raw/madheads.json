@@ -2,11 +2,11 @@
  "status": {
   "id": "madheads",
   "platform": "generic",
-  "items": 242,
-  "seconds": 459.3,
+  "items": 241,
+  "seconds": 180.7,
   "ok": true,
   "error": null,
-  "at": "2026-11-14T06:39:40+00:00"
+  "at": "2026-11-15T06:44:07+00:00"
  },
  "items": [
   {
@@ -1654,23 +1654,6 @@
     {
      "weight_g": null,
      "price": 426.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://madheadscoffee.com/p/YHq5zhicCCc-41ff1235",
-   "name": "La Cedrela",
-   "description": "Перейдіть до каталога щоб обрати товар",
-   "image": "https://api.madheadscoffee.com/cdn/s/1/p/115511/0/large.png",
-   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / La Cedrela / La Cedrela",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 439.0,
      "available": true
     }
    ]
