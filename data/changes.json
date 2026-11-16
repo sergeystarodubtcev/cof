@@ -15691,5 +15691,166 @@
     "reason": "пропал с сайта"
    }
   ]
+ },
+ {
+  "at": "2026-11-16T06:55:50+00:00",
+  "added": [
+   {
+    "id": "0637b8da1fa3",
+    "roaster": "triptych",
+    "name": "Кения Гичерори",
+    "url": "https://triptychcoffee.com/filtr/tproduct/382868022-565888589243-keniya-gicherori",
+    "back": false
+   },
+   {
+    "id": "2d1a82063811",
+    "roaster": "caffeinelab",
+    "name": "Гватемала Блю Аярза для эспрессо",
+    "url": "https://caffeinelab.ru/coffee/espresso/tproduct/834531917-687928832941-gvatemala-blyu-ayarza-dlya-espresso",
+    "back": false
+   },
+   {
+    "id": "d728fa6df491",
+    "roaster": "caffeinelab",
+    "name": "Гватемала Блю Аярза для фильтра",
+    "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-101929441382-gvatemala-blyu-ayarza-dlya-filtra",
+    "back": false
+   }
+  ],
+  "removed": [
+   {
+    "id": "e258ec151024",
+    "roaster": "bolshe",
+    "name": "Венесуэла Брисас Дель Хиль",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/721156284-978860778503-venesuela-brisas-del-hil",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "80f1b8a1e332",
+    "roaster": "qq",
+    "name": "Бразилия Санта Мария",
+    "url": "https://qqcoffee.ru/products/braziliya-santa-mariya",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "7786b1c2d978",
+    "roaster": "qq",
+    "name": "Гватемала Моренте Рейес",
+    "url": "https://qqcoffee.ru/products/gvatemala-morente-rejes",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "9f7fb822a6bc",
+    "roaster": "qq",
+    "name": "Индонезия Мерури",
+    "url": "https://qqcoffee.ru/products/indoneziya-meruri",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "fe0bf19740c0",
+    "roaster": "qq",
+    "name": "Каскара",
+    "url": "https://qqcoffee.ru/products/kaskara",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "764a5d0c617a",
+    "roaster": "qq",
+    "name": "Кения Найваша ПБ",
+    "url": "https://qqcoffee.ru/products/keniya-najvasha-pb",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "7b775e8b5e89",
+    "roaster": "qq",
+    "name": "Колумбия Анда Лусия",
+    "url": "https://qqcoffee.ru/products/kolumbiya-anda-lusiya",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "7d73ea93951c",
+    "roaster": "qq",
+    "name": "Колумбия Антиокия",
+    "url": "https://qqcoffee.ru/products/kolumbiya-antiokiya",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "1a25fa83e5f0",
+    "roaster": "qq",
+    "name": "Колумбия Вуш-Вуш",
+    "url": "https://qqcoffee.ru/products/kolumbiya-vush-vush",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "4a5f89218e3f",
+    "roaster": "qq",
+    "name": "Колумбия Декаф",
+    "url": "https://qqcoffee.ru/products/kolumbiya-dekaf-1",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "f2936d21ef21",
+    "roaster": "qq",
+    "name": "Колумбия Катуррон",
+    "url": "https://qqcoffee.ru/products/kolumbiya-katurron",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "8961f7882f9a",
+    "roaster": "qq",
+    "name": "Колумбия Ла Кордильера",
+    "url": "https://qqcoffee.ru/products/kolumbiya-la-kordilera",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "3a6567e1f1da",
+    "roaster": "qq",
+    "name": "Коста-Рика Ла Пантера",
+    "url": "https://qqcoffee.ru/products/kosta-rika-la-pantera",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "969c8b893d5f",
+    "roaster": "qq",
+    "name": "Руанда Дивайн",
+    "url": "https://qqcoffee.ru/products/ruanda-divajn",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "df56552ddba5",
+    "roaster": "qq",
+    "name": "Уганда Луна",
+    "url": "https://qqcoffee.ru/products/uganda-luna",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "2820f6c673b4",
+    "roaster": "qq",
+    "name": "Эфиопия Лалибела",
+    "url": "https://qqcoffee.ru/products/efiopiya-lalibela",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "664b3c52351e",
+    "roaster": "specialtyru",
+    "name": "Kof Эфиопия Гедеб Ворка Вури, фильтр 250 гр.",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-kof-efiopiya-gedeb-vorka-vuri-filtr-250-gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "71f893ff4864",
+    "roaster": "specialtyru",
+    "name": "Ботаника Гондурас Сигуатепеке Тукан Верде, эспрессо, 200 гр.",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-botanika-gonduras-siguatepeke-tukan-verde-espresso-200-gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "14608d9a1577",
+    "roaster": "specialtyru",
+    "name": "Ботаника Колумбия Рисаральда Габриэль Валенсия, эспрессо, 200 гр.",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-botanika-kolumbiya-risaralda-gabriel-valensiya-espresso-200-gr/",
+    "reason": "нет в наличии"
+   }
+  ]
  }
 ]

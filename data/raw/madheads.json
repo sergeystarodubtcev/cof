@@ -2,11 +2,11 @@
  "status": {
   "id": "madheads",
   "platform": "generic",
-  "items": 241,
-  "seconds": 180.7,
+  "items": 240,
+  "seconds": 201.5,
   "ok": true,
   "error": null,
-  "at": "2026-11-15T06:44:07+00:00"
+  "at": "2026-11-16T06:41:03+00:00"
  },
  "items": [
   {
@@ -1654,23 +1654,6 @@
     {
      "weight_g": null,
      "price": 426.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://madheadscoffee.com/p/hMKBbYkHNzq-a5e769bf",
-   "name": "Quebraditas Sidra Bourbon TS *GUR COLLAB",
-   "description": "*GUR COLLAB - «Спецпідрозділ Тимура» ГУР МО України - це універсальний оперативно-бойовий підрозділ спеціального призначення, відомий завдяки своїм операціям по звільненню острова Зміїний, поверненню під контроль України «вишок Бойка», деокупації Вовчанського агрегатного заводу, рейдам в Крим та Енергодар, боям за Бахмут, Авдіївку, Купʼянськ, Покровськ та ін.\nКупуючи цю каву ви робите прямий внесок в\nпідтримку «Спецпідрозділу Тимура» ГУР МО України.",
-   "image": "https://api.madheadscoffee.com/cdn/s/1/p/110003/0/large.png",
-   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Quebraditas Sidra Bourbon TS *GUR COLLAB / Quebraditas Sidra Bourbon TS *GUR COLLAB",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 766.0,
      "available": true
     }
    ]
