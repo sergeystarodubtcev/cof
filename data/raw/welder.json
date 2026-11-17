@@ -3,10 +3,10 @@
   "id": "welder",
   "platform": "bitrix+generic",
   "items": 139,
-  "seconds": 944.8,
+  "seconds": 784.2,
   "ok": true,
   "error": null,
-  "at": "2026-11-16T06:49:44+00:00"
+  "at": "2026-11-17T08:11:16+00:00"
  },
  "items": [
   {
@@ -1880,23 +1880,23 @@
    ]
   },
   {
-   "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_kolumbiya_rafael_ayya/",
-   "name": "Галараствор Колумбия Рафаэль Айя",
-   "description": "Кофе растворимый порошкообразный \"Галараствор Колумбия Рафаэль Айя\", 5x3,2 г",
-   "image": "https://theweldercatherine.ru/upload/iblock/a84/1j3xeu5r63c9l92sey0aicxv4yygcn18/Mokap-korobka-gala1-_-kopiya-_18_.png",
+   "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_kolumbiya_rafael_ayya_anaerob_2/",
+   "name": "Галараствор Колумбия Рафаэль Айя анаэроб",
+   "description": "Кофе растворимый порошкообразный \"Галараствор Колумбия Рафаэль Айя анаэроб\", 5x3,2 г",
+   "image": "https://theweldercatherine.ru/upload/iblock/069/k53swv4hn7gq7hlzy4engmriub2qrh6p/mokap_IM_Kolumbiya_Rafael_Ayya_anaerob.png",
    "category": "Главная страница / Главная страница / Каталог / Каталог / Галараствор / Галараствор",
    "specs": {
     "Разновидность": "катурра",
     "Регион": "Уила, Ла Флорида",
-    "Сбор урожая": "Март 2025",
-    "Способ обработки": "натуральный"
+    "Сбор урожая": "Октябрь 2025",
+    "Способ обработки": "натуральный, анаэробный"
    },
    "gallery": [],
    "available": true,
    "variants": [
     {
      "weight_g": null,
-     "price": 710.0,
+     "price": 760.0,
      "available": true
     }
    ]

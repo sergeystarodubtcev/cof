@@ -3,10 +3,10 @@
   "id": "tasty",
   "platform": "generic",
   "items": 461,
-  "seconds": 885.7,
+  "seconds": 754.8,
   "ok": true,
   "error": null,
-  "at": "2026-11-16T06:47:38+00:00"
+  "at": "2026-11-17T08:09:38+00:00"
  },
  "items": [
   {
@@ -1216,38 +1216,6 @@
    ]
   },
   {
-   "url": "https://shop.tastycoffee.ru/coffee/espresso-indonesia-sumatra-caro-funky",
-   "name": "Индонезия Суматра Каро Фанки",
-   "description": "Индонезия Суматра Каро Фанки, натуральный фанки — купить свежеобжаренный кофе для эспрессо в пачках по 250 г и 1 кг. Официальный интернет-магазин кофе и чая Tasty Coffee. Более 150 сортов кофе и чая. Купить кофе в зёрнах, молотый, кофе без кофеина можно с бесплатной доставкой по России и Москве.",
-   "image": "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1790326741.3769-espresso-indonesia-sumatra-caro-funky-front-768.jpg",
-   "category": "",
-   "specs": {
-    "Степень обжарки": "эспрессо",
-    "Регион": "Северная Суматра",
-    "Способ обработки": "натуральный фанки",
-    "Высота произрастания": "1400–1500 м",
-    "Урожай": "2026",
-    "Разновидность": "сигарар утанг"
-   },
-   "gallery": [
-    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1790326741.5753-espresso-indonesia-sumatra-caro-funky-front-1024.jpg",
-    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1790326741.1578-espresso-indonesia-sumatra-caro-funky-front-480.jpg"
-   ],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": 250,
-     "price": 1159.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 3939.0,
-     "available": true
-    }
-   ]
-  },
-  {
    "url": "https://shop.tastycoffee.ru/coffee/costa-rica-vista-al-santo-2026",
    "name": "Коста-Рика Виста Аль Санто",
    "description": "Коста-Рика Виста Аль Санто, натуральный — купить свежеобжаренный кофе для фильтра в пачках по 250 г и 1 кг. Официальный интернет-магазин кофе и чая Tasty Coffee. Более 150 сортов кофе и чая. Купить кофе в зёрнах, молотый, кофе без кофеина можно с бесплатной доставкой по России и Москве.",
@@ -2306,26 +2274,6 @@
    ]
   },
   {
-   "url": "https://shop.tastycoffee.ru/coffee/fermentirovannyi-kofe?page=3",
-   "name": "Эфиопия Мукера 200 часов",
-   "description": "Эфиопия Мукера 200 часов, 10 дрип-пакетов — купить свежеобжаренный кофе в дрип-пакетах. Официальный интернет-магазин кофе и чая Tasty Coffee. Более 150 сортов кофе и чая. Купить кофе в зёрнах, молотый, кофе без кофеина можно с бесплатной доставкой по России и Москве.",
-   "image": "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/_newpack11/drip/drip-coffee-ethiopia-mukera-200.png",
-   "category": "",
-   "specs": {
-    "Степень обжарки": "Светлая (для фильтра)",
-    "Способ обработки": "Мытый"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 829.0,
-     "available": true
-    }
-   ]
-  },
-  {
    "url": "https://shop.tastycoffee.ru/coffee/coffee-concentrate-berri",
    "name": "Бэрри",
    "description": "Кофе концентрат Бэрри 3л. Акция! При покупке 6 пачек кофе 250 г - подарок! Оплата при получении. Кофе темная обжарка. Кофе для эспрессо, кофе бэрри, кофе для кофемашины, эспрессо-смеси, кофе для эспрессо машины, лучший кофе для эспрессо, кофе для капуччино, кофе для эспрессо купить, кофе для эспрессо заказать, кофе для эспрессо в интернет магазине, кофе темная обжарка, lavazza, paulig, лавацца, лаваца, паулиг, milk coffee",
@@ -2440,7 +2388,7 @@
    "url": "https://shop.tastycoffee.ru/coffee/christmas-blend-2026",
    "name": "Christmas Blend 2026",
    "description": "Купить Christmas Blend 2026 с бесплатной доставкой по всей России",
-   "image": "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product/1768567460.1119-christmas-blend-2026-768.webp",
+   "image": "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/_newpack11/christmas-advent/christmas-blend-2026.png",
    "category": "",
    "specs": {
     "Степень обжарки": "омни",
@@ -13068,27 +13016,30 @@
    "url": "https://shop.tastycoffee.ru/coffee/espresso-guatemala-lapila",
    "name": "Гватемала Ла Пила",
    "description": "Кофе Гватемала Ла Пила при покупке 6 пачек кофе 250 г - подарок! Оплата при получении. Кофе Гватемала в зернах - Сладкий кофе со вкусом жёлтой груши, малины, изюма и молочного шоколада",
-   "image": "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/_newpack7/esp-micro/guatemala-la-pila-250-2.png",
+   "image": "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product/1744363272.7391-espresso-guatemala-lapila-025-768.webp",
    "category": "",
    "specs": {
     "Степень обжарки": "эспрессо",
     "Регион": "Фрайжанес",
-    "Способ обработки": "натуральный фанки",
+    "Способ обработки": "хани",
     "Высота произрастания": "1700 м",
-    "Урожай": "2022",
+    "Урожай": "2023",
     "Разновидность": "бурбон"
    },
-   "gallery": [],
+   "gallery": [
+    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product/1744363274.5734-espresso-guatemala-lapila-1-768.webp",
+    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product/1744363276.0311-beans-espresso-guatemala-lapila-768.webp"
+   ],
    "available": false,
    "variants": [
     {
      "weight_g": 250,
-     "price": 769.0,
+     "price": 939.0,
      "available": false
     },
     {
      "weight_g": 1000,
-     "price": 2609.0,
+     "price": 3189.0,
      "available": false
     }
    ]
@@ -14128,6 +14079,72 @@
     {
      "weight_g": 1000,
      "price": 3499.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://shop.tastycoffee.ru/coffee/espresso-costa-rica-la-fila",
+   "name": "Коста-Рика Ла Фила",
+   "description": "Коста-Рика Ла Фила в интернет-магазине \"Tasty Coffee\" в упаковках по 250гр, 1000 гр. Акция! При покупке 6 пачек кофе 250 г - подарок!",
+   "image": "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product/1770374342.179-espresso-costa-rica-la-fila-250-768.webp",
+   "category": "",
+   "specs": {
+    "Степень обжарки": "эспрессо",
+    "Регион": "Брунка",
+    "Способ обработки": "натуральный",
+    "Высота произрастания": "1700 м",
+    "Урожай": "2025",
+    "Разновидность": "катуаи"
+   },
+   "gallery": [
+    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product/1770374344.2497-espresso-costa-rica-la-fila-1000-768.webp",
+    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product/1770374345.6557-espresso-costa-rica-la-fila-beans-768.webp",
+    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1782289620.0855-espresso-costa-rica-la-fila-front-768.jpg"
+   ],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1059.0,
+     "available": false
+    },
+    {
+     "weight_g": 1000,
+     "price": 3599.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://shop.tastycoffee.ru/coffee/ethiopia-mukera-taco-2025",
+   "name": "Эфиопия Мукера Тако",
+   "description": "Купить кофе Эфиопия Мукера Тако в интернет-магазине Tasty Coffee с быстрой и бесплатной доставкой",
+   "image": "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product/1770712800.9891-ethiopia-mukera-taco-2025-250-768.webp",
+   "category": "",
+   "specs": {
+    "Степень обжарки": "фильтр",
+    "Регион": "Гедеб",
+    "Способ обработки": "натуральный фанки",
+    "Высота произрастания": "2000–2200 м",
+    "Урожай": "2024/2025",
+    "Разновидность": "местные"
+   },
+   "gallery": [
+    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product/1770712803.0825-ethiopia-mukera-taco-2025-1000-768.webp",
+    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product/1770712804.6423-ethiopia-mukera-taco-2025-beans-768.webp",
+    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1782289619.6079-ethiopia-mukera-taco-2025-front-768.jpg"
+   ],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1099.0,
+     "available": false
+    },
+    {
+     "weight_g": 1000,
+     "price": 3739.0,
      "available": false
     }
    ]

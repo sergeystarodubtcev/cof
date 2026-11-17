@@ -15852,5 +15852,292 @@
     "reason": "нет в наличии"
    }
   ]
+ },
+ {
+  "at": "2026-11-17T08:18:39+00:00",
+  "added": [
+   {
+    "id": "5d8df2fd6057",
+    "roaster": "caffeinelab",
+    "name": "Колумбия Дулима для эспрессо",
+    "url": "https://caffeinelab.ru/coffee/espresso/tproduct/834531917-803354497213-kolumbiya-dulima-dlya-espresso",
+    "back": false
+   },
+   {
+    "id": "2be1d24261b1",
+    "roaster": "specialtyru",
+    "name": "Триптих Эфиопия Иргачеффе Билоя, фильтр, 200 гр",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-triptikh-efiopiya-irgacheffe-biloya-filtr-200-gr/",
+    "back": false
+   },
+   {
+    "id": "e41ddb42ee68",
+    "roaster": "specialtyru",
+    "name": "Триптих Уганда Элгон Мугиси, фильтр, 200 гр",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-triptikh-uganda-elgon-mugisi-filtr-200-gr/",
+    "back": false
+   },
+   {
+    "id": "ae38de5aa13a",
+    "roaster": "specialtyru",
+    "name": "Триптих Колумбия Толима Эль Вергель Перископ Лот 2, фильтр, 200 гр",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-triptikh-kolumbiya-tolima-el-vergel-periskop-lot-2-filtr-200-gr/",
+    "back": false
+   },
+   {
+    "id": "295570aa0b87",
+    "roaster": "specialtyru",
+    "name": "Триптих Колумбия Уила Эль Дивизио, фильтр, 200 гр",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-triptikh-kolumbiya-uila-el-divizio-filtr-200-gr/",
+    "back": false
+   },
+   {
+    "id": "2dd9d7081a0e",
+    "roaster": "specialtyru",
+    "name": "Триптих Колумбия Толима Эль Вергель Перископ Лот 1, фильтр, 200 гр",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-triptikh-kolumbiya-tolima-el-vergel-periskop-lot-1-filtr-200-gr/",
+    "back": true
+   },
+   {
+    "id": "0b78f965ad28",
+    "roaster": "specialtyru",
+    "name": "Триптих Перу Кахамарка Алиндор Мирез, фильтр, 200 гр",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-triptikh-peru-kakhamarka-alindor-mirez-filtr-200-gr/",
+    "back": true
+   },
+   {
+    "id": "e934cd37855d",
+    "roaster": "specialtyru",
+    "name": "Триптих Колумбия Эль Вергель папайо, фильтр, 100 гр",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-triptikh-kolumbiya-el-vergel-papayo-filtr-100-gr/",
+    "back": true
+   },
+   {
+    "id": "55704df3af82",
+    "roaster": "specialtyru",
+    "name": "Триптих Колумбия Рохас, фильтр, 100 гр",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-triptikh-kolumbiya-rokhas-filtr-100-gr/",
+    "back": true
+   },
+   {
+    "id": "0d27ce88b06a",
+    "roaster": "specialtyru",
+    "name": "Триптих, Йемен Аль Харази, фильтр, 100 гр",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-triptikh-yemen-al-kharazi-filtr-100-gr/",
+    "back": true
+   },
+   {
+    "id": "0b2a57321cba",
+    "roaster": "specialtyru",
+    "name": "Триптих, Колумбия Де Ла Тьеррита, фильтр, 200 гр",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-triptikh-kolumbiya-de-la-territa-filtr-200-gr/",
+    "back": true
+   },
+   {
+    "id": "d72997bc7735",
+    "roaster": "specialtyru",
+    "name": "Триптих, Колумбия Ла Парада Альберто Мартинез, фильтр, 200 гр",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-triptikh-kolumbiya-la-parada-alberto-martinez-filtr-200-gr/",
+    "back": true
+   },
+   {
+    "id": "9f1671d0f024",
+    "roaster": "specialtyru",
+    "name": "Триптих, Уганда Кигези, фильтр, 200 гр",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-triptikh-uganda-kigezi-filtr-200-gr/",
+    "back": true
+   },
+   {
+    "id": "f415ebe1c300",
+    "roaster": "specialtyru",
+    "name": "Триптих, Руанда Гицумби Нова, фильтр, 200 гр",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-triptikh-ruanda-gitsumbi-nova-filtr-200-gr/",
+    "back": true
+   },
+   {
+    "id": "883bf36bed04",
+    "roaster": "specialtyru",
+    "name": "Триптих, Эфиопия Дара, эспрессо, 200 гр",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-triptikh-efiopiya-dara-espresso-200-gr/",
+    "back": true
+   },
+   {
+    "id": "99d484729fa0",
+    "roaster": "specialtyru",
+    "name": "Триптих, Эфиопия Гуджи Хейрлум, эспрессо, 200 гр",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-triptikh-efiopiya-gudzhi-kheyrlum-espresso-200-gr/",
+    "back": true
+   },
+   {
+    "id": "748c9395b727",
+    "roaster": "specialtyru",
+    "name": "Триптих Перу Кахамарка Ленин Флорес, фильтр, 200 гр",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-triptikh-peru-kakhamarka-lenin-flores-filtr-200-gr/",
+    "back": true
+   },
+   {
+    "id": "0a3436c5a0d1",
+    "roaster": "specialtyru",
+    "name": "Триптих, Бразилия Минас-Жерайс Госто, эспрессо, 200 гр",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-triptikh-braziliya-minas-zherays-espresso-200-gr/",
+    "back": true
+   },
+   {
+    "id": "3f3350929669",
+    "roaster": "specialtyru",
+    "name": "Триптих Эфиопия Иргачеффе Конга, фильтр, 200 гр",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-triptikh-efiopiya-irgacheffe-konga-filtr-200-gr/",
+    "back": true
+   },
+   {
+    "id": "4903c40ea1ea",
+    "roaster": "specialtyru",
+    "name": "Триптих Китай Юньнань Хуангуан, фильтр, 200 гр",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-triptikh-kitay-yunnan-khuanguan-filtr-200-gr/",
+    "back": false
+   },
+   {
+    "id": "3a2c357a3462",
+    "roaster": "welder",
+    "name": "Галараствор Колумбия Рафаэль Айя анаэроб",
+    "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_kolumbiya_rafael_ayya_anaerob_2/",
+    "back": false
+   },
+   {
+    "id": "1509857d8c4a",
+    "roaster": "choose",
+    "name": "Суматра / Гайо",
+    "url": "https://www.choosecoffee.ru/main/tproduct/739043735-232968123833-sumatra-gaio",
+    "back": false
+   }
+  ],
+  "removed": [
+   {
+    "id": "537211dfa04a",
+    "roaster": "bolshe",
+    "name": "Кения Ичанги",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/721156284-615747917153-keniya-ichangi",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "feab816280df",
+    "roaster": "caffeinelab",
+    "name": "Гватемала Эль Сокорро под эспрессо",
+    "url": "https://caffeinelab.ru/coffee/espresso/tproduct/834531917-592231843913-gvatemala-el-sokorro-pod-espresso",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "21aa0501f650",
+    "roaster": "caffeinelab",
+    "name": "Кения АА Нат. под эспрессо",
+    "url": "https://caffeinelab.ru/coffee/espresso/tproduct/834531917-347692089183-keniya-aa-nat-pod-espresso",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "d2c8ec217a73",
+    "roaster": "kanga",
+    "name": "Бленд Америка",
+    "url": "https://www.kanga.ru/catalog/filter/blend-amerika-250g/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "4c76deefdf54",
+    "roaster": "kanga",
+    "name": "Бленд Африка",
+    "url": "https://www.kanga.ru/catalog/filter/blend-afrika-250g/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "1866096aeb94",
+    "roaster": "kanga",
+    "name": "Бленд Континентальный",
+    "url": "https://www.kanga.ru/catalog/filter/blend-kontinentalnyy-250g/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "974c5e1caed1",
+    "roaster": "kanga",
+    "name": "Бленд Руанд",
+    "url": "https://www.kanga.ru/catalog/filter/blend-ruand-250g/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "60167c7deb1e",
+    "roaster": "specialtyru",
+    "name": "Ботаника Индонезия Суматра Керинчи, фильтр, 200 гр.",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-botanika-indoneziya-sumatra-kerinchi-filtr-200-gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "dfac5466fa13",
+    "roaster": "specialtyru",
+    "name": "Канга Ростерс Эфиопия Бенса Логита Сегера, фильтр 250 гр.",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-kanga-rosters-efiopiya-bensa-logita-segera-filtr-250-gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "4eff4b50e357",
+    "roaster": "specialtyru",
+    "name": "Микале Китай Юньнань Хуангуан, фильтр, 200 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-mikale-kitay-yunnan-khuanguan-filtr-200-gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "ed0127a63f35",
+    "roaster": "specialtyru",
+    "name": "Микале Панама Чирики Джозеф Бродски Криолик Фолио, фильтр, 100 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-mikale-panama-chiriki-dzhozef-brodski-kriolik-folio-filtr-100-gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "47a7fe936b87",
+    "roaster": "specialtyru",
+    "name": "Нефть, Индонезия Керинчи, фильтр, 250 гр",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-neft-indoneziya-kerinchi-filtr-250-gr/",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "6335310a9cf8",
+    "roaster": "specialtyru",
+    "name": "Субмарина Коста-Рика Алахуэла Диего Гуардиа, фильтр, 200 гр",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-submarina-kosta-rika-alakhuela-diego-guardia-filtr-200-gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "ec0e6780a98a",
+    "roaster": "specialtyru",
+    "name": "Тэйсти Кофе Эфиопия Гедео Мукера Соакинг, фильтр, 250 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-teysti-kofe-efiopiya-gedeo-mukera-soaking-filtr-250-g/",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "cba2863063c6",
+    "roaster": "specialtyru",
+    "name": "Юнат Китай Хуангуан, фильтр 250 гр.",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-yunat-kitay-khuanguan-filtr-250-gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "62a8f9756974",
+    "roaster": "tasty",
+    "name": "Индонезия Суматра Каро Фанки",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-indonesia-sumatra-caro-funky",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "15d8eff78079",
+    "roaster": "tasty",
+    "name": "Эфиопия Мукера 200 часов",
+    "url": "https://shop.tastycoffee.ru/coffee/fermentirovannyi-kofe?page=3",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "9ccea5138d95",
+    "roaster": "welder",
+    "name": "Галараствор Колумбия Рафаэль Айя",
+    "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_kolumbiya_rafael_ayya/",
+    "reason": "пропал с сайта"
+   }
+  ]
  }
 ]
