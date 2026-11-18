@@ -3,10 +3,10 @@
   "id": "madheads",
   "platform": "generic",
   "items": 240,
-  "seconds": 172.5,
+  "seconds": 201.4,
   "ok": true,
   "error": null,
-  "at": "2026-11-17T08:04:04+00:00"
+  "at": "2026-11-18T07:38:59+00:00"
  },
  "items": [
   {
@@ -338,23 +338,6 @@
    "description": "Перейдіть до каталога щоб обрати товар",
    "image": "https://api.madheadscoffee.com/cdn/s/1/p/395240/0/large.png",
    "category": "Головна / Головна / Категорії / Категорії / Easydrip / Easydrip / Banko Chelchele Easy Drip / Banko Chelchele Easy Drip",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 450.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://madheadscoffee.com/p/O1rei0MTkZ6-4595d661",
-   "name": "Suke Werekata Easy Drip",
-   "description": "Перейдіть до каталога щоб обрати товар",
-   "image": "https://api.madheadscoffee.com/cdn/s/1/p/390650/0/large.png",
-   "category": "Головна / Головна / Категорії / Категорії / Easydrip / Easydrip / Suke Werekata Easy Drip / Suke Werekata Easy Drip",
    "specs": {},
    "gallery": [],
    "available": true,
@@ -1098,6 +1081,23 @@
    ]
   },
   {
+   "url": "https://madheadscoffee.com/p/E8oMQKCeE8g",
+   "name": "Скляний сервірувальний чайник Hario BARISTA V60, Об'єм - 600 мл",
+   "description": "Скляний сервірувальний чайник Hario BARISTA V60, Об'єм - 600 мл|Glass serving kettle Hario BARISTA V60, Volume - 600 ml",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/545/0/large.webp",
+   "category": "Головна / Головна / Категорії / Категорії / Аксесуари / Аксесуари / Скляний сервірувальний чайник Hario BARISTA V60, Об'єм - 600 мл / Скляний сервірувальний чайник Hario BARISTA V60, Об'єм - 600 мл",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1053.0,
+     "available": true
+    }
+   ]
+  },
+  {
    "url": "https://madheadscoffee.com/p/O068koi28S4",
    "name": "Скляний сервірувальний чайник Hario BARISTA V60, Об'єм - 360 мл",
    "description": "Скляний сервірувальний чайник Hario BARISTA V60, Об'єм - 360 мл|Glass serving kettle Hario BARISTA V60, Volume - 360 ml",
@@ -1183,23 +1183,6 @@
    ]
   },
   {
-   "url": "https://madheadscoffee.com/p/mY2c2ikweGs",
-   "name": "Електронні ваги Hario Polaris",
-   "description": "Електронні ваги Hario Polaris|Hario Polaris electronic scales",
-   "image": "https://api.madheadscoffee.com/cdn/s/1/p/525/0/large.webp",
-   "category": "Головна / Головна / Категорії / Категорії / Аксесуари / Аксесуари / Електронні ваги Hario Polaris / Електронні ваги Hario Polaris",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 5120.0,
-     "available": true
-    }
-   ]
-  },
-  {
    "url": "https://madheadscoffee.com/p/Qa68c00kgW",
    "name": "Gift Card 5",
    "description": "Перейдіть до каталога щоб обрати товар",
@@ -1263,6 +1246,23 @@
     {
      "weight_g": null,
      "price": 1000.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/hMKBbYkHNzq-a5e769bf",
+   "name": "Quebraditas Sidra Bourbon TS *GUR COLLAB",
+   "description": "*GUR COLLAB - «Спецпідрозділ Тимура» ГУР МО України - це універсальний оперативно-бойовий підрозділ спеціального призначення, відомий завдяки своїм операціям по звільненню острова Зміїний, поверненню під контроль України «вишок Бойка», деокупації Вовчанського агрегатного заводу, рейдам в Крим та Енергодар, боям за Бахмут, Авдіївку, Купʼянськ, Покровськ та ін.\nКупуючи цю каву ви робите прямий внесок в\nпідтримку «Спецпідрозділу Тимура» ГУР МО України.",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/110003/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Quebraditas Sidra Bourbon TS *GUR COLLAB / Quebraditas Sidra Bourbon TS *GUR COLLAB",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 766.0,
      "available": true
     }
    ]
@@ -1365,23 +1365,6 @@
     {
      "weight_g": null,
      "price": 959.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://madheadscoffee.com/p/EPmq5gj1ySU-5971e1bc",
-   "name": "Kaffa Bono Gr.2",
-   "description": "Перейдіть до каталога щоб обрати товар",
-   "image": "https://api.madheadscoffee.com/cdn/s/1/p/199468/0/large.png",
-   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Kaffa Bono Gr.2 / Kaffa Bono Gr.2",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 421.0,
      "available": true
     }
    ]
@@ -2883,7 +2866,7 @@
    ]
   },
   {
-   "url": "https://madheadscoffee.com/p/AbsMZeTSCkg-00157a2f",
+   "url": "https://madheadscoffee.com/p/leaWPR9B6Xe-1c9c5412",
    "name": "Худі чорний «Who Satan vol.2»",
    "description": "Перейдіть до каталога щоб обрати товар",
    "image": "https://api.madheadscoffee.com/cdn/s/1/p/21113/0/large.jpg",
@@ -3983,6 +3966,23 @@
     {
      "weight_g": null,
      "price": 339.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/mY2c2ikweGs",
+   "name": "Електронні ваги Hario Polaris",
+   "description": "Електронні ваги Hario Polaris|Hario Polaris electronic scales",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/525/0/large.webp",
+   "category": "Головна / Головна / Категорії / Категорії / Аксесуари / Аксесуари / Електронні ваги Hario Polaris / Електронні ваги Hario Polaris",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 5120.0,
      "available": true
     }
    ]

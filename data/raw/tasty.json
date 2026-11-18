@@ -3,10 +3,10 @@
   "id": "tasty",
   "platform": "generic",
   "items": 461,
-  "seconds": 754.8,
+  "seconds": 854.6,
   "ok": true,
   "error": null,
-  "at": "2026-11-17T08:09:38+00:00"
+  "at": "2026-11-18T07:45:34+00:00"
  },
  "items": [
   {
@@ -3764,28 +3764,6 @@
      "weight_g": 1000,
      "price": 4039.0,
      "available": false
-    }
-   ]
-  },
-  {
-   "url": "https://shop.tastycoffee.ru/coffee/cleanskin",
-   "name": "Клин Скин",
-   "description": "Мы обжариваем кофе ежедневно, и иногда у нас остаются небольшие партии свежего кофе. Эта смесь может включать моносорт, микролот или разные смеси для эспрессо, фильтра и декафа. В пачке будет свежеобжаренная арабика по сниженной цене с обжаркой до 7 дней назад.",
-   "image": "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/_newpack6/alt-mono/cleanskin2024.png",
-   "category": "",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": 250,
-     "price": 689.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2339.0,
-     "available": true
     }
    ]
   },
@@ -8072,30 +8050,30 @@
    "url": "https://shop.tastycoffee.ru/coffee/espresso-guatemala-la-pila",
    "name": "Гватемала Ла Пила",
    "description": "Кофе Гватемала Ла Пила при покупке 6 пачек кофе 250 г - подарок! Оплата при получении. Кофе Гватемала в зернах - Сладкий кофе со вкусом жёлтой груши, малины, изюма и молочного шоколада",
-   "image": "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1782288789.2541-espresso-guatemala-la-pila-768.jpg",
+   "image": "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1782289008.5479-espresso-guatemala-la-pila-768.jpg",
    "category": "",
    "specs": {
     "Степень обжарки": "эспрессо",
     "Регион": "Фрайжанес",
-    "Способ обработки": "натуральный фанки",
+    "Способ обработки": "хани",
     "Высота произрастания": "1700 м",
-    "Урожай": "2022",
+    "Урожай": "2023",
     "Разновидность": "бурбон"
    },
    "gallery": [
-    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1782288789.4025-espresso-guatemala-la-pila-1024.jpg",
-    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1782288789.0757-espresso-guatemala-la-pila-480.jpg"
+    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1782289008.7394-espresso-guatemala-la-pila-1024.jpg",
+    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1782289008.3975-espresso-guatemala-la-pila-480.jpg"
    ],
    "available": false,
    "variants": [
     {
      "weight_g": 250,
-     "price": 769.0,
+     "price": 939.0,
      "available": false
     },
     {
      "weight_g": 1000,
-     "price": 2609.0,
+     "price": 3189.0,
      "available": false
     }
    ]
@@ -14145,6 +14123,38 @@
     {
      "weight_g": 1000,
      "price": 3739.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://shop.tastycoffee.ru/coffee/costa-rica-tematica",
+   "name": "Коста-Рика Тематика",
+   "description": "Купить кофе Коста-Рика Тематика в интернет-магазине Tasty Coffee с быстрой и бесплатной доставкой",
+   "image": "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product/1764361927.6147-costa-rica-tematica-250-768.webp",
+   "category": "",
+   "specs": {
+    "Степень обжарки": "фильтр",
+    "Регион": "Ла Пастора",
+    "Способ обработки": "натуральный",
+    "Высота произрастания": "1400 м",
+    "Урожай": "2025",
+    "Разновидность": "катуаи"
+   },
+   "gallery": [
+    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product/1764361929.5943-costa-rica-tematica-1000-768.webp",
+    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product/1764361931.1167-costa-rica-tematica-beans-768.webp"
+   ],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1159.0,
+     "available": false
+    },
+    {
+     "weight_g": 1000,
+     "price": 3939.0,
      "available": false
     }
    ]

@@ -2,11 +2,11 @@
  "status": {
   "id": "welder",
   "platform": "bitrix+generic",
-  "items": 139,
-  "seconds": 784.2,
+  "items": 138,
+  "seconds": 850.5,
   "ok": true,
   "error": null,
-  "at": "2026-11-17T08:11:16+00:00"
+  "at": "2026-11-18T07:46:36+00:00"
  },
  "items": [
   {
@@ -734,46 +734,6 @@
     {
      "weight_g": 1000,
      "price": 3901.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://theweldercatherine.ru/catalog/dlya_filtra/efiopiya_reku_1/",
-   "name": "Эфиопия Реку",
-   "description": "Кофе Эфиопия Реку",
-   "image": "https://theweldercatherine.ru/upload/iblock/b6c/cwfiwwg6eyg1zu0jby7igczolh4chdre/250g-_1_-_81_.png",
-   "category": "Главная страница / Главная страница / Каталог / Каталог / Для фильтра / Для фильтра",
-   "specs": {
-    "Разновидность": "местные разновидности бурбона",
-    "Регион": "Иргачифф",
-    "Сбор урожая": "Январь 2026",
-    "Способ обработки": "мытый",
-    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
-    "Ферма": "Реку",
-    "Обжарка": "фильтр, эспрессо"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": 250,
-     "price": 1349.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4046.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1349.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4046.0,
      "available": true
     }
    ]
@@ -2770,6 +2730,28 @@
    ]
   },
   {
+   "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_keniya_rungeto_s/",
+   "name": "Галараствор Кения Рунгето С",
+   "description": "Кофе растворимый порошкообразный \"Галараствор Кения Рунгето С\", 5x3,2 г",
+   "image": "https://theweldercatherine.ru/upload/iblock/19e/03cs0fwnocbe8zil8ib233uc2jxafn55/Mokap-korobka-gala1-_-kopiya-_19_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Галараствор / Галараствор",
+   "specs": {
+    "Разновидность": "Руиру-11, SL-28, Батиан",
+    "Регион": "Ньери",
+    "Сбор урожая": "Январь 2026",
+    "Способ обработки": "мытый"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 710.0,
+     "available": true
+    }
+   ]
+  },
+  {
    "url": "https://theweldercatherine.ru/catalog/galarastvor/assorti_galarastvora_boliviya_i_bochka_30_sht/",
    "name": "Ассорти галараствора \"Боливия и Бочка\", 30 шт",
    "description": "Ассорти галараствора \"Боливия и Бочка\", 30 шт",
@@ -3515,46 +3497,6 @@
     {
      "weight_g": 1000,
      "price": 4179.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://theweldercatherine.ru/catalog/dlya_espresso/efiopiya_reku_1/",
-   "name": "Эфиопия Реку",
-   "description": "Кофе Эфиопия Реку",
-   "image": "https://theweldercatherine.ru/upload/iblock/b6c/cwfiwwg6eyg1zu0jby7igczolh4chdre/250g-_1_-_81_.png",
-   "category": "Главная страница / Главная страница / Каталог / Каталог / Для эспрессо / Для эспрессо",
-   "specs": {
-    "Разновидность": "местные разновидности бурбона",
-    "Регион": "Иргачифф",
-    "Сбор урожая": "Январь 2026",
-    "Способ обработки": "мытый",
-    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
-    "Ферма": "Реку",
-    "Обжарка": "фильтр, эспрессо"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": 250,
-     "price": 1349.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4046.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1349.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4046.0,
      "available": true
     }
    ]

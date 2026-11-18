@@ -16139,5 +16139,194 @@
     "reason": "пропал с сайта"
    }
   ]
+ },
+ {
+  "at": "2026-11-18T07:52:28+00:00",
+  "added": [
+   {
+    "id": "974c5e1caed1",
+    "roaster": "kanga",
+    "name": "Бленд Руанд",
+    "url": "https://www.kanga.ru/catalog/filter/blend-ruand-250g/",
+    "back": true
+   },
+   {
+    "id": "1866096aeb94",
+    "roaster": "kanga",
+    "name": "Бленд Континентальный",
+    "url": "https://www.kanga.ru/catalog/filter/blend-kontinentalnyy-250g/",
+    "back": true
+   },
+   {
+    "id": "4c76deefdf54",
+    "roaster": "kanga",
+    "name": "Бленд Африка",
+    "url": "https://www.kanga.ru/catalog/filter/blend-afrika-250g/",
+    "back": true
+   },
+   {
+    "id": "d2c8ec217a73",
+    "roaster": "kanga",
+    "name": "Бленд Америка",
+    "url": "https://www.kanga.ru/catalog/filter/blend-amerika-250g/",
+    "back": true
+   },
+   {
+    "id": "ec86047b7b38",
+    "roaster": "bolshe",
+    "name": "Атлантик Микс",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512429115-821201303972-atlantik-miks",
+    "back": true
+   },
+   {
+    "id": "b6ac7b64ad86",
+    "roaster": "bolshe",
+    "name": "Африка Микс",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512429115-740610362202-afrika-miks",
+    "back": false
+   },
+   {
+    "id": "91c8de66820b",
+    "roaster": "bolshe",
+    "name": "Эфиопия от Нафкот Амасу и женщин Гедичо",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/721156284-838573685973-efiopiya-ot-nafkot-amasu-i-zhenschin-ged",
+    "back": true
+   },
+   {
+    "id": "69679dd34f7b",
+    "roaster": "bolshe",
+    "name": "Уганда Кавери робуста",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/721156284-715762879083-uganda-kaveri-robusta",
+    "back": true
+   },
+   {
+    "id": "0c9acc15127a",
+    "roaster": "bolshe",
+    "name": "Америка Микс",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512429115-440270454312-amerika-miks",
+    "back": true
+   },
+   {
+    "id": "ebe5b8c57a72",
+    "roaster": "bolshe",
+    "name": "Азия Микс",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512429115-373557395262-aziya-miks",
+    "back": true
+   },
+   {
+    "id": "d70216a6ad12",
+    "roaster": "welder",
+    "name": "Галараствор Кения Рунгето С",
+    "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_keniya_rungeto_s/",
+    "back": false
+   }
+  ],
+  "removed": [
+   {
+    "id": "632832611d02",
+    "roaster": "bolshe",
+    "name": "Бразилия Коликоли",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512406604-722871125661-braziliya-kolikoli",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "42c11f8a1a28",
+    "roaster": "bolshe",
+    "name": "Бразилия Коликоли",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/721156284-453757744051-braziliya-kolikoli",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "d40080be0404",
+    "roaster": "bolshe",
+    "name": "Бразилия амазонская робуста от Хуана Травейна",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512406604-678620487033-braziliya-amazonskaya-robusta-ot-huana-t",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "bd08dfdb0343",
+    "roaster": "bolshe",
+    "name": "Венесуэла Брисас Дель Хиль",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/721156284-312824080743-venesuela-brisas-del-hil",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "bc1d47551010",
+    "roaster": "bolshe",
+    "name": "Декаф",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512429115-750635329783-dekaf",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "a684a4ec43bf",
+    "roaster": "bolshe",
+    "name": "Колумбия декаф",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512406604-586907633853-kolumbiya-dekaf",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "a850603b7f4c",
+    "roaster": "bolshe",
+    "name": "Эфиопия Дара",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/721156284-205420279471-efiopiya-dara",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "a60d3716c468",
+    "roaster": "botanica",
+    "name": "Индонезия Суматра Керинчи",
+    "url": "https://botanicacoffee.ru/sumatrakerinchi",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "0eecb0a37925",
+    "roaster": "botanica",
+    "name": "Кения Кабингара",
+    "url": "https://botanicacoffee.ru/keniakabingara",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "b1c7c56e2722",
+    "roaster": "botanica",
+    "name": "Кения Кабингара",
+    "url": "https://botanicacoffee.ru/kabingaraespresso",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "993cddf98e2b",
+    "roaster": "specialtyru",
+    "name": "Ботаника Эфиопия Иргачеффе Банко Готити, фильтр, 200 гр.",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-botanika-efiopiya-irgacheffe-banko-gotiti-filtr-200-gr/",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "0e3a038ba322",
+    "roaster": "specialtyru",
+    "name": "Микале Бразилия Минас-Жерайс с соком вишни, эспрессо, 200 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-mikale-braziliya-minas-zherays-s-sokom-vishni-espresso-200-gr/",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "a59668d13c22",
+    "roaster": "tasty",
+    "name": "Клин Скин",
+    "url": "https://shop.tastycoffee.ru/coffee/cleanskin",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "463d3e20d64b",
+    "roaster": "welder",
+    "name": "Эфиопия Реку",
+    "url": "https://theweldercatherine.ru/catalog/dlya_filtra/efiopiya_reku_1/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "9cc3fc57a4f3",
+    "roaster": "welder",
+    "name": "Эфиопия Реку",
+    "url": "https://theweldercatherine.ru/catalog/dlya_espresso/efiopiya_reku_1/",
+    "reason": "пропал с сайта"
+   }
+  ]
  }
 ]
