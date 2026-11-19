@@ -1,6 +1,6 @@
-# Обновление каталога 2026-11-18T07:52:28+00:00
+# Обновление каталога 2026-11-19T08:05:46+00:00
 
-Товаров: 1710, лотов у ≥2 обжарщиков: 136
+Товаров: 1715, лотов у ≥2 обжарщиков: 135
 
 ## Обжарщики
 
@@ -14,7 +14,7 @@
 | HQ! coffee | woocommerce+generic | 0 | нет данных |
 | KOF | unreachable | 0 | нет данных |
 | Roastberry | generic | 0 | нет данных |
-| Silky Drum | tilda | 45 | ok |
+| Silky Drum | tilda | 44 | ok |
 | Submarine | unreachable | 0 | нет данных |
 | Atlas Coffee | unreachable | 0 | нет данных |
 | Torrefacto | bitrix+generic | 527 | ok |
@@ -23,44 +23,50 @@
 | Sibaristica | unreachable | 0 | нет данных |
 | Yankee Sierra | tilda | 43 | ok |
 | Double B | tilda+generic | 0 | нет данных |
-| KANGA | generic | 33 | ok |
-| H2O | unreachable | 119 | старые данные |
+| KANGA | generic | 34 | ok |
+| H2O | bitrix+generic | 118 | ok |
 | Fauno Coffee | tilda | 38 | ok |
 | Stereo Coffee | tilda | 47 | ok |
-| Specialty.ru (собственная обжарка) | bitrix+generic | 179 | ok |
-| Bolshe Coffee Roasters | tilda | 37 | ok |
+| Specialty.ru (собственная обжарка) | bitrix+generic | 176 | ok |
+| Bolshe Coffee Roasters | tilda | 53 | ok |
 | Zerno Coffee Roasters | tilda | 37 | ok |
 | Мануфактура Кофе | bitrix+generic | 0 | нет данных |
-| The Welder Catherine | bitrix+generic | 111 | ok |
-| Neva Coffee Roasters | bitrix+generic | 80 | ok |
+| The Welder Catherine | bitrix+generic | 110 | ok |
+| Neva Coffee Roasters | bitrix+generic | 68 | ok |
 | Choose Coffee | tilda | 30 | ok |
 | West 4 Coffee | generic | 38 | ok |
 | Lebo | tilda | 36 | ok |
 | QQ Coffee | generic | 0 | скрыт: данные устарели |
-| Botanica Coffee | tilda | 47 | ok |
+| Botanica Coffee | tilda | 52 | ok |
 | Знак Кофе | generic | 0 | нет данных |
 | Bernin | generic | 0 | нет данных |
 | Bittersweet | tilda | 1 | ok |
-| Kofeop Roastery | bitrix+generic | 23 | ok |
+| Kofeop Roastery | bitrix+generic | 24 | ok |
 | Нотик Кофе | bitrix+generic | 0 | нет данных |
 | Solo Coffee | woocommerce | 30 | ok |
 | Mad Heads | generic | 10 | ok |
 | Кофе Сова | unreachable | 0 | нет данных |
 
-## Новые лоты (99)
+## Новые лоты (109)
 
 - **Bolshe Coffee Roasters** — [Африка Микс](https://bolshecoffee.ru/coffee/tproduct/512429115-740610362202-afrika-miks) — от 428 ₽
+- **Bolshe Coffee Roasters** — [Бразилия амазонская робуста от Хуана Травейна](https://bolshecoffee.ru/coffee/tproduct/512406604-678620487033-braziliya-amazonskaya-robusta-ot-huana-t) — от 887 ₽
 - **Bolshe Coffee Roasters** — [Лаос Сомсай типика](https://bolshecoffee.ru/coffee/tproduct/512406604-487156190743-laos-somsai-tipika) — от 912 ₽
+- **Bolshe Coffee Roasters** — [Особый лот Перу Гейша](https://bolshecoffee.ru/coffee/tproduct/527451314-758848457042-osobii-lot-peru-geisha) — от 265 ₽
+- **Bolshe Coffee Roasters** — [Уганда Кавери робуста](https://bolshecoffee.ru/coffee/tproduct/512406604-167874966473-uganda-kaveri-robusta) — от 833 ₽
 - **Bolshe Coffee Roasters** — [Эфиопия Дара](https://bolshecoffee.ru/coffee/tproduct/512406604-772097246601-efiopiya-dara) — от 3300 ₽
 - **Bolshe Coffee Roasters** — [Эфиопия Дара](https://bolshecoffee.ru/coffee/tproduct/721156284-352802187712-efiopiya-dara) — от 714 ₽
 - **Bolshe Coffee Roasters** — [Эфиопия Эфтах Лалиса](https://bolshecoffee.ru/coffee/tproduct/512406604-414526530413-efiopiya-eftah-lalisa) — от 1022 ₽
-- **Bolshe Coffee Roasters** — [Эфиопия от Нафкот Амасу и женщин Гедичо](https://bolshecoffee.ru/coffee/tproduct/721156284-838573685973-efiopiya-ot-nafkot-amasu-i-zhenschin-ged) — от 1018 ₽
 - **Botanica Coffee** — [Блокнот бариста](https://botanicacoffee.ru/shop/tproduct/625737830-215351527122-bloknot-barista) — от 1500 ₽
 - **Botanica Coffee** — [Кения Киавамуру](https://botanicacoffee.ru/keniakiavamuru) — от 1425 ₽
+- **Botanica Coffee** — [Колумбия Уайт Спайс](https://botanicacoffee.ru/whitespice) — от 1080 ₽
+- **Botanica Coffee** — [Мексика Веракрус](https://botanicacoffee.ru/mexico-veracruz-espresso) — от 805 ₽
 - **Botanica Coffee** — [Молочный улун](https://botanicacoffee.ru/shop/tproduct/625737880-851133616931-molochnii-ulun) — от 590 ₽
 - **Botanica Coffee** — [Сенча](https://botanicacoffee.ru/shop/tproduct/625737880-965628693541-sencha) — от 290 ₽
 - **Botanica Coffee** — [Те Гуань Инь](https://botanicacoffee.ru/shop/tproduct/625737880-380343669361-te-guan-in) — от 360 ₽
 - **Botanica Coffee** — [Чёрный с чабрецом](https://botanicacoffee.ru/shop/tproduct/625737880-872986038321-chyornii-s-chabretsom) — от 410 ₽
+- **Botanica Coffee** — [Эфиопия Нафкот Адмасу](https://botanicacoffee.ru/ethiopia-nafkot-admasu-filter) — от 1400 ₽
+- **Botanica Coffee** — [Эфиопия Нафкот Адмасу](https://botanicacoffee.ru/ethiopia-nafkot-admasu-espresso) — от 1400 ₽
 - **Caffeine Lab** — [Бразилия Санта Эдвирхес для фильтра](https://caffeinelab.ru/coffee/filter/tproduct/835664773-904428596713-braziliya-santa-edvirhes-dlya-filtra) — от 970 ₽
 - **Caffeine Lab** — [Гватемала Блю Аярза для фильтра](https://caffeinelab.ru/coffee/filter/tproduct/835664773-101929441382-gvatemala-blyu-ayarza-dlya-filtra) — от 955 ₽
 - **Caffeine Lab** — [Гватемала Блю Аярза для эспрессо](https://caffeinelab.ru/coffee/espresso/tproduct/834531917-687928832941-gvatemala-blyu-ayarza-dlya-espresso) — от 955 ₽
@@ -90,9 +96,13 @@
 - **H2O** — [Чайный набор Классический](https://h2ocompany.ru/catalog/nabor_chernyy_sample_box_8_kubov_sht/) — от 510 ₽
 - **H2O** — [Чайный набор Сезонный](https://h2ocompany.ru/catalog/nabor_sempl_8_kubov_sezonnyy_sht/) — от 510 ₽
 - **H2O** — [Чайный набор Экзотик](https://h2ocompany.ru/catalog/nabor_sempl_8_kubov_ekzotik_sht/) — от 510 ₽
+- **KANGA** — [Индонезия Суматра Каро](https://www.kanga.ru/catalog/filter/indoneziya-sumatra-karo-250g/) — от 1118 ₽
 - **KANGA** — [Эфиопия Буку Абель](https://www.kanga.ru/catalog/filter/efiopiya-buku-abel-250g/) — от 1115 ₽
 - **Mad Heads** — [Huila Timana](https://madheadscoffee.com/p/NO4Vxj2X1M8-d33b4ef5) — от 416 ₽
 - **Neva Coffee Roasters** — [Колумбия Де Ла Тьеррита 250гр](https://nevacoffee.ru/catalog/coffee/molotyy-kofe/filter/clear/apply/?sort=CATALOG_PRICE_1&order=asc&PAGEN_2=4) — от 1075 ₽
+- **Neva Coffee Roasters** — [Кофе "Под Молочко"](https://nevacoffee.ru/catalog/podarochnye-nabory/pod-molochko/) — от 1400 ₽
+- **Neva Coffee Roasters** — [Подарочный набор «100% Арабика»](https://nevacoffee.ru/catalog/podarochnye-nabory/novogodniy-nabor-100-arabika/) — от 1780 ₽
+- **Neva Coffee Roasters** — [Подарочный набор «Под молочко»](https://nevacoffee.ru/catalog/podarochnye-nabory/novogodniy-nabor-pod-molochko/) — от 1700 ₽
 - **Specialty.ru (собственная обжарка)** — [Нева Кофе Ростерс Бразилия Ранчо Гранде Перископ, фильтр, 200 г](https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-neva-kofe-rosters-braziliya-rancho-grande-periskop-filtr-200-g/) — от 675 ₽
 - **Specialty.ru (собственная обжарка)** — [Нева Кофе Ростерс Бурунди Бурасира, эспрессо, 250 г](https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-neva-coffee-roasters-burundi-burasira-espresso-250-g/) — от 675 ₽
 - **Specialty.ru (собственная обжарка)** — [Нева Кофе Ростерс Гватемала Санта-Роса Аяраза, эспрессо, 250 г](https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-neva-coffee-roasters-gvatemala-santa-rosa-ayaraza-espresso-250-g/) — от 613 ₽
@@ -149,31 +159,62 @@
 - **Yankee Sierra** — [Yemen Haraz](https://yankeesierra.ru/catalog/filter/Yemen-Haraz) — от 1025 ₽
 - **Yankee Sierra** — [Yemen Haraz](https://yankeesierra.ru/catalog/espresso/Yemen-Haraz) — от 1025 ₽
 
-## Изменения этой проверки: +11 / −15
+## Изменения этой проверки: +31 / −26
 
-- ➕ **KANGA** — [Бленд Руанд](https://www.kanga.ru/catalog/filter/blend-ruand-250g/) (снова в продаже)
-- ➕ **KANGA** — [Бленд Континентальный](https://www.kanga.ru/catalog/filter/blend-kontinentalnyy-250g/) (снова в продаже)
-- ➕ **KANGA** — [Бленд Африка](https://www.kanga.ru/catalog/filter/blend-afrika-250g/) (снова в продаже)
-- ➕ **KANGA** — [Бленд Америка](https://www.kanga.ru/catalog/filter/blend-amerika-250g/) (снова в продаже)
-- ➕ **Bolshe Coffee Roasters** — [Атлантик Микс](https://bolshecoffee.ru/coffee/tproduct/512429115-821201303972-atlantik-miks) (снова в продаже)
-- ➕ **Bolshe Coffee Roasters** — [Африка Микс](https://bolshecoffee.ru/coffee/tproduct/512429115-740610362202-afrika-miks)
-- ➕ **Bolshe Coffee Roasters** — [Эфиопия от Нафкот Амасу и женщин Гедичо](https://bolshecoffee.ru/coffee/tproduct/721156284-838573685973-efiopiya-ot-nafkot-amasu-i-zhenschin-ged) (снова в продаже)
-- ➕ **Bolshe Coffee Roasters** — [Уганда Кавери робуста](https://bolshecoffee.ru/coffee/tproduct/721156284-715762879083-uganda-kaveri-robusta) (снова в продаже)
-- ➕ **Bolshe Coffee Roasters** — [Америка Микс](https://bolshecoffee.ru/coffee/tproduct/512429115-440270454312-amerika-miks) (снова в продаже)
-- ➕ **Bolshe Coffee Roasters** — [Азия Микс](https://bolshecoffee.ru/coffee/tproduct/512429115-373557395262-aziya-miks) (снова в продаже)
-- ➕ **The Welder Catherine** — [Галараствор Кения Рунгето С](https://theweldercatherine.ru/catalog/galarastvor/galarastvor_keniya_rungeto_s/)
-- ➖ **Bolshe Coffee Roasters** — Бразилия Коликоли (пропал с сайта)
-- ➖ **Bolshe Coffee Roasters** — Бразилия Коликоли (пропал с сайта)
-- ➖ **Bolshe Coffee Roasters** — Бразилия амазонская робуста от Хуана Травейна (пропал с сайта)
-- ➖ **Bolshe Coffee Roasters** — Венесуэла Брисас Дель Хиль (нет в наличии)
-- ➖ **Bolshe Coffee Roasters** — Декаф (пропал с сайта)
-- ➖ **Bolshe Coffee Roasters** — Колумбия декаф (пропал с сайта)
-- ➖ **Bolshe Coffee Roasters** — Эфиопия Дара (пропал с сайта)
-- ➖ **Botanica Coffee** — Индонезия Суматра Керинчи (пропал с сайта)
-- ➖ **Botanica Coffee** — Кения Кабингара (пропал с сайта)
-- ➖ **Botanica Coffee** — Кения Кабингара (пропал с сайта)
-- ➖ **Specialty.ru (собственная обжарка)** — Ботаника Эфиопия Иргачеффе Банко Готити, фильтр, 200 гр. (нет в наличии)
-- ➖ **Specialty.ru (собственная обжарка)** — Микале Бразилия Минас-Жерайс с соком вишни, эспрессо, 200 г (нет в наличии)
-- ➖ **Tasty Coffee** — Клин Скин (пропал с сайта)
-- ➖ **The Welder Catherine** — Эфиопия Реку (пропал с сайта)
-- ➖ **The Welder Catherine** — Эфиопия Реку (пропал с сайта)
+- ➕ **KANGA** — [Индонезия Суматра Каро](https://www.kanga.ru/catalog/filter/indoneziya-sumatra-karo-250g/)
+- ➕ **H2O** — [Рувензори фильтр](https://h2ocompany.ru/catalog/kofe_v_zernakh_h2o_uganda_ruvenzori_filtr_svezheobzharennyy_250gr/) (снова в продаже)
+- ➕ **H2O** — [Здоровый сон, 250 гр](https://h2ocompany.ru/catalog/zdorovyy_son_premialnaya_travyanaya_smes_premialnyy_250gr/) (снова в продаже)
+- ➕ **Bolshe Coffee Roasters** — [Вы любите макаронные изделия?](https://bolshecoffee.ru/coffee/tproduct/512406604-955584191793-vi-lyubite-makaronnie-izdeliya) (снова в продаже)
+- ➕ **Bolshe Coffee Roasters** — [Бразилия амазонская робуста от Хуана Травейна](https://bolshecoffee.ru/coffee/tproduct/512406604-678620487033-braziliya-amazonskaya-robusta-ot-huana-t) (снова в продаже)
+- ➕ **Bolshe Coffee Roasters** — [Бразилия Коликоли](https://bolshecoffee.ru/coffee/tproduct/512406604-722871125661-braziliya-kolikoli) (снова в продаже)
+- ➕ **Bolshe Coffee Roasters** — [Бразилия конилон Сидней да Сильва](https://bolshecoffee.ru/coffee/tproduct/512406604-939425281222-braziliya-konilon-sidnei-da-silva) (снова в продаже)
+- ➕ **Bolshe Coffee Roasters** — [Гватемала Эль Арко](https://bolshecoffee.ru/coffee/tproduct/512406604-369049463183-gvatemala-el-arko) (снова в продаже)
+- ➕ **Bolshe Coffee Roasters** — [Колумбия декаф](https://bolshecoffee.ru/coffee/tproduct/512406604-586907633853-kolumbiya-dekaf) (снова в продаже)
+- ➕ **Bolshe Coffee Roasters** — [Колумбия Эль Дивизо Сидра](https://bolshecoffee.ru/coffee/tproduct/512406604-634449326923-kolumbiya-el-divizo-sidra) (снова в продаже)
+- ➕ **Bolshe Coffee Roasters** — [Уганда Кавери робуста](https://bolshecoffee.ru/coffee/tproduct/512406604-167874966473-uganda-kaveri-robusta) (снова в продаже)
+- ➕ **Bolshe Coffee Roasters** — [Эфиопия Демби](https://bolshecoffee.ru/coffee/tproduct/512406604-293922762883-efiopiya-dembi) (снова в продаже)
+- ➕ **Bolshe Coffee Roasters** — [Эфиопия Демби](https://bolshecoffee.ru/coffee/tproduct/512406604-596076188903-efiopiya-dembi) (снова в продаже)
+- ➕ **Bolshe Coffee Roasters** — [Бразилия Суль де Минас](https://bolshecoffee.ru/coffee/tproduct/721156284-940058926032-braziliya-sul-de-minas) (снова в продаже)
+- ➕ **Bolshe Coffee Roasters** — [Венесуэла Брисас Дель Хиль](https://bolshecoffee.ru/coffee/tproduct/721156284-312824080743-venesuela-brisas-del-hil) (снова в продаже)
+- ➕ **Bolshe Coffee Roasters** — [Папуа-Новая Гвинея Долина Вагхи](https://bolshecoffee.ru/coffee/tproduct/721156284-220242430673-papua-novaya-gvineya-dolina-vaghi) (снова в продаже)
+- ➕ **Bolshe Coffee Roasters** — [Эфиопия Дара](https://bolshecoffee.ru/coffee/tproduct/721156284-205420279471-efiopiya-dara) (снова в продаже)
+- ➕ **Bolshe Coffee Roasters** — [Перу Андрес Торрес Гейша](https://bolshecoffee.ru/coffee/tproduct/721156284-249914106453-peru-andres-torres-geisha) (снова в продаже)
+- ➕ **Bolshe Coffee Roasters** — [Особый лот Перу Гейша](https://bolshecoffee.ru/coffee/tproduct/527451314-758848457042-osobii-lot-peru-geisha) (снова в продаже)
+- ➕ **Bolshe Coffee Roasters** — [Купи Слона](https://bolshecoffee.ru/coffee/tproduct/512384010-144936497873-kupi-slona) (снова в продаже)
+- ➕ **Bolshe Coffee Roasters** — [Особый лот Эфиопия Демби](https://bolshecoffee.ru/coffee/tproduct/512384010-386826541173-osobii-lot-efiopiya-dembi) (снова в продаже)
+- ➕ **Neva Coffee Roasters** — [Кофе "Под Молочко"](https://nevacoffee.ru/catalog/podarochnye-nabory/pod-molochko/)
+- ➕ **Neva Coffee Roasters** — [Подарочный набор «Под молочко»](https://nevacoffee.ru/catalog/podarochnye-nabory/novogodniy-nabor-pod-molochko/)
+- ➕ **Neva Coffee Roasters** — [Подарочный набор «100% Арабика»](https://nevacoffee.ru/catalog/podarochnye-nabory/novogodniy-nabor-100-arabika/)
+- ➕ **Neva Coffee Roasters** — [Авторская смесь 0,25](https://nevacoffee.ru/catalog/coffee/avtorskaya-smes/) (снова в продаже)
+- ➕ **Botanica Coffee** — [Колумбия Уайт Спайс](https://botanicacoffee.ru/whitespice)
+- ➕ **Botanica Coffee** — [Эфиопия Нафкот Адмасу](https://botanicacoffee.ru/ethiopia-nafkot-admasu-filter)
+- ➕ **Botanica Coffee** — [Мексика Веракрус](https://botanicacoffee.ru/) (снова в продаже)
+- ➕ **Botanica Coffee** — [Мексика Веракрус](https://botanicacoffee.ru/mexico-veracruz-espresso)
+- ➕ **Botanica Coffee** — [Эфиопия Нафкот Адмасу](https://botanicacoffee.ru/ethiopia-nafkot-admasu-espresso)
+- ➕ **Kofeop Roastery** — [Открывающий кофе в зернах](https://kofeop.ru/catalog/otkryvayushchiy-kofe/) (снова в продаже)
+- ➖ **Bolshe Coffee Roasters** — Уганда Кавери робуста (пропал с сайта)
+- ➖ **Bolshe Coffee Roasters** — Эфиопия от Нафкот Амасу и женщин Гедичо (пропал с сайта)
+- ➖ **H2O** — Гуджи фильтр, 250 гр (нет в наличии)
+- ➖ **H2O** — Основа Cream Latte Лавандовый раф (пропал с сайта)
+- ➖ **H2O** — Посыпка Grainy Glaze Взрывной золотой (пропал с сайта)
+- ➖ **Neva Coffee Roasters** — Кофе Aroma: ягодно-шоколадный (пропал с сайта)
+- ➖ **Neva Coffee Roasters** — Кофе City (пропал с сайта)
+- ➖ **Neva Coffee Roasters** — Кофе Crema (пропал с сайта)
+- ➖ **Neva Coffee Roasters** — Кофе Espresso Classic (пропал с сайта)
+- ➖ **Neva Coffee Roasters** — Кофе Intense (пропал с сайта)
+- ➖ **Neva Coffee Roasters** — Кофе Mild (пропал с сайта)
+- ➖ **Neva Coffee Roasters** — Кофе Night City (пропал с сайта)
+- ➖ **Neva Coffee Roasters** — Кофе Regular (пропал с сайта)
+- ➖ **Neva Coffee Roasters** — Кофе Азиатское Нихао (пропал с сайта)
+- ➖ **Neva Coffee Roasters** — Кофе Африканское Сафари (пропал с сайта)
+- ➖ **Neva Coffee Roasters** — Кофе Вьетнам Далат Темная обжарка (пропал с сайта)
+- ➖ **Neva Coffee Roasters** — Кофе Вьетнам Тай Нгуен (пропал с сайта)
+- ➖ **Neva Coffee Roasters** — Кофе Китай Симао Меллоу (пропал с сайта)
+- ➖ **Neva Coffee Roasters** — Кофе Колумбия Супремо (пропал с сайта)
+- ➖ **Neva Coffee Roasters** — Кофе Коста Рика Тарразу Ла Пастора (пропал с сайта)
+- ➖ **Neva Coffee Roasters** — Кофе Перу Амазонас (пропал с сайта)
+- ➖ **Silky Drum** — Тайвань Роял Бин Гейша Эстейт, гейша мытая (нет в наличии)
+- ➖ **Specialty.ru (собственная обжарка)** — Kof Эфиопия Гедео Хало Хартуме, фильтр 250 гр. (нет в наличии)
+- ➖ **Specialty.ru (собственная обжарка)** — Субмарина Бленд Команда Джейкоба, фильтр, 200 гр (пропал с сайта)
+- ➖ **Specialty.ru (собственная обжарка)** — Субмарина Бленд Команда Эдварда, фильтр, 200 гр (пропал с сайта)
+- ➖ **The Welder Catherine** — Перу Valle Sagrado из бочки (пропал с сайта)

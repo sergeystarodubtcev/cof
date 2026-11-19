@@ -2,11 +2,11 @@
  "status": {
   "id": "neva",
   "platform": "bitrix+generic",
-  "items": 107,
-  "seconds": 1193.6,
+  "items": 111,
+  "seconds": 2111.7,
   "ok": true,
   "error": null,
-  "at": "2026-11-18T07:52:28+00:00"
+  "at": "2026-11-19T08:05:46+00:00"
  },
  "items": [
   {
@@ -125,2283 +125,6 @@
    ]
   },
   {
-   "url": "https://nevacoffee.ru/catalog/coffee/robusta-vietnam/",
-   "name": "Кофе Робуста Вьетнам",
-   "description": "Бодрящий кофе, с высоким содержанием кофеина. Во вкусе раскрываются благородные ноты табака, пряных специй, орехов, тёмного шоколада и свежей выпечки.",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/11a/4c723v5r96ktmmh0dhnromo1ww0a60o2.webp",
-   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Кофе Робуста Вьетнам",
-   "specs": {
-    "Высота произрастания": "700-1000 м",
-    "Способ обработки": "Вет-полиш / Wet-polished",
-    "Степень обжарки": "Темная"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 545.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 545.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 545.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1005.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1880.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 545.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1005.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1880.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 545.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1005.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1880.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://nevacoffee.ru/catalog/coffee/smes-aktualnaya/",
-   "name": "Кофе Актуальная",
-   "description": "Насыщенный тёмный шоколад, какао и орехи напоминают о любимых десертах. Ноты выпечки добавляют тёплый акцент, а заметная кофейная горчинка придаёт чашке выразительный характер.",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/9cc/yubk9iaz0zlk9mfj9qnpqygfxkgwejm3.webp",
-   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Кофе Актуальная",
-   "specs": {
-    "Высота произрастания": "700–1200 м",
-    "Способ обработки": "Натуральная, Вет-полиш / Wet-polished",
-    "Степень обжарки": "Средняя"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 560.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 560.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 560.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1035.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1940.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 560.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1035.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1940.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 560.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1035.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1940.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://nevacoffee.ru/catalog/coffee/night-city/",
-   "name": "Кофе Night City",
-   "description": "Смесь нескольких Арабик и Робуста. Сочетания Арабики Бразилии, Перу дает в напитке ноты темного шоколада, какао и тёмных ягод. Темная обжарка нивелирует кислинку, добавляя мягкую горчинку.",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/532/v126ywkn6i1o90k4xzc1gg8clahaecni.webp",
-   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Кофе Night City",
-   "specs": {
-    "Высота произрастания": "700–1200 м",
-    "Способ обработки": "Натуральная, Мытая, Вет-полиш / Wet-polished",
-    "Степень обжарки": "Темная"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 613.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 613.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 613.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1140.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2150.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 613.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1140.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2150.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 613.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1140.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2150.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://nevacoffee.ru/catalog/coffee/city/",
-   "name": "Кофе City",
-   "description": "Гармоничное сочетание шоколадной ноты арабики из Бразилии, нежной ореховой сладости и плотного тела арабики из Колумбии, а также 30 % робусты с её выраженной терпкостью и крепостью. Легкая яблочная кислинка.",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/1d0/9w6xwqklgmdzz399l4p2982mni9crf4r.webp",
-   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Кофе City",
-   "specs": {
-    "Высота произрастания": "700–1200 м",
-    "Способ обработки": "Натуральная, Мытая, Вет-полиш / Wet-polished",
-    "Степень обжарки": "Средняя"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 613.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 613.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 613.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1140.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2150.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 613.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1140.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2150.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 613.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1140.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2150.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://nevacoffee.ru/catalog/coffee/mild/",
-   "name": "Кофе Mild",
-   "description": "Сбалансирован,",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/c62/ewcu2mcp4cka3a1eyobxyyecypyxun4l.webp",
-   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Кофе Mild",
-   "specs": {
-    "Высота произрастания": "700–1200 м",
-    "Способ обработки": "Вет-полиш / Wet-polished, Натуральная",
-    "Степень обжарки": "Средняя"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 506.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 506.0,
-     "available": false
-    },
-    {
-     "weight_g": 1000,
-     "price": 506.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 595.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1105.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2080.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 506.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 595.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1105.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2080.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 506.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 595.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1105.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2080.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://nevacoffee.ru/catalog/coffee/intense/",
-   "name": "Кофе Intense",
-   "description": "Во вкусе — нежная лёгкая кислинка, ореховая основа раскрывается мягкими оттенками косточковых фруктов и какао. Мы добавили 10 % робусты, чтобы несколько сгладить классическую изящную кислинку арабики.",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/CPremier/f48/0fy75qjiiqf7cdo59h4fq8zx2sao09o0.webp",
-   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Кофе Intense",
-   "specs": {
-    "Высота произрастания": "700–1200 м",
-    "Способ обработки": "Натуральная, Вет-полиш / Wet-polished",
-    "Степень обжарки": "Средняя"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 608.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 608.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 608.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1130.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2130.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 608.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1130.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2130.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 608.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1130.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2130.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://nevacoffee.ru/catalog/coffee/crema/",
-   "name": "Кофе Crema",
-   "description": "Робуста добавляет крепости и оттеняет классическую кислинку арабики. Шоколад, орехи и мягкая карамельная сладость складываются в классический десертный профиль. У напитка плотное тело, хорошая крема, легкая горчинка за счет 30% Робусты.",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/288/6hidfjaqpm52rbs52qk8fucysfu5w3jm.webp",
-   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Кофе Crema",
-   "specs": {
-    "Высота произрастания": "700–1200 м",
-    "Способ обработки": "Натуральная, Вет-полиш / Wet-polished",
-    "Степень обжарки": "Средняя"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 588.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 588.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 588.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1090.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2050.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 588.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1090.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2050.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 588.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1090.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2050.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://nevacoffee.ru/catalog/coffee/regular/",
-   "name": "Кофе Regular",
-   "description": "Благородные ноты тёмного шоколада дополняются орехами и тёплыми оттенками выпечки. Знакомый десертный профиль для тех, кто любит в кофе насыщенные шоколадно-ореховые сочетания.",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/CPremier/f48/0fy75qjiiqf7cdo59h4fq8zx2sao09o0.webp",
-   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Кофе Regular",
-   "specs": {
-    "Степень обжарки": "Темная"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 573.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 573.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 573.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1060.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1990.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 573.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1060.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1990.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 573.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1060.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1990.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://nevacoffee.ru/catalog/coffee/guatemala-ayaraza/",
-   "name": "Кофе Гватемала Аяраза",
-   "description": "Сладкие жёлтые фрукты, апельсин и тонкая нота белого вина складываются в сочный, многогранный профиль с продолжительным фруктовым послевкусием. Нуга и орехи придают ему десертную округлость.",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/5e7/1whdukvbtqu7fofx81ehf32i61hcxggm.webp",
-   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Кофе Гватемала Аяраза",
-   "specs": {
-    "Высота произрастания": "1400–2000 м",
-    "Способ обработки": "Мытая",
-    "Регион": "Санта-Роса (Santa Rosa), окрестности озера Айярза",
-    "Степень обжарки": "Средняя"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 613.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 613.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 613.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1225.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2450.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 613.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1225.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2450.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 613.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1225.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2450.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://nevacoffee.ru/catalog/coffee/laos-gr-1/",
-   "name": "Кофе Лаос Болавен",
-   "description": "Благородное сочетание вкусов: нежное зеленое яблоко сплетается с бархатистым какао, дополняется пряными нотами табака и теплым ореховым шлейфом.",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/645/ynoe5iz3dewh9q0gk4015ylnqcn2ebo4.webp",
-   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Кофе Лаос Болавен",
-   "specs": {
-    "Высота произрастания": "1100–1350 м",
-    "Способ обработки": "Мытая",
-    "Регион": "Болавен",
-    "Степень обжарки": "Средняя"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 625.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 625.0,
-     "available": false
-    },
-    {
-     "weight_g": 1000,
-     "price": 625.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1165.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2200.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 625.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1165.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2200.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 625.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1165.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2200.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://nevacoffee.ru/catalog/coffee/vietnam-dalat-temnaya/",
-   "name": "Кофе Вьетнам Далат Темная обжарка",
-   "description": "Насыщенный кофе с мягкой горчинкой, нотами тёмных ягод, черного чая и горького шоколада. Карамель смягчает сочетание, а орехи и специи добавляют вкусу тёплые пряные акценты.",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/CPremier/f48/0fy75qjiiqf7cdo59h4fq8zx2sao09o0.webp",
-   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Кофе Вьетнам Далат Темная обжарка",
-   "specs": {
-    "Высота произрастания": "1475 м",
-    "Способ обработки": "Мытая",
-    "Регион": "Тай Нгуен",
-    "Степень обжарки": "Темная"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 568.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 568.0,
-     "available": false
-    },
-    {
-     "weight_g": 1000,
-     "price": 568.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 673.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1260.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2390.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 568.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 673.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1260.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2390.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 568.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 673.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1260.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2390.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://nevacoffee.ru/catalog/coffee/espresso-classic/",
-   "name": "Кофе Espresso Classic",
-   "description": "Изысканная смесь нескольких арабик из Южной Америки. Во вкусе — лёгкая, деликатная горчинка, насыщенный тёмный шоколад, нежная карамель, ореховые ноты с долгим, бархатистым послевкусием и легкой кислинкой яблочного сока.",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/CPremier/f48/0fy75qjiiqf7cdo59h4fq8zx2sao09o0.webp",
-   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Кофе Espresso Classic",
-   "specs": {
-    "Высота произрастания": "700–1200 м",
-    "Способ обработки": "Натуральная, Мытая, Вет-полиш / Wet-polished",
-    "Степень обжарки": "Темная"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 648.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 648.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 648.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1210.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2290.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 648.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1210.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2290.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 648.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1210.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2290.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://nevacoffee.ru/catalog/coffee/china-simao-gr1/",
-   "name": "Кофе Китай Симао Меллоу",
-   "description": "Мягчайший сорт, очень питкий в черном виде, легкая текстура, яблочная свежесть постепенно соединяется с мягкой карамелью и орехами. В послевкусии появляется сладость какао.",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/5cf/diiqf0kzip4cvn086ouz7fuew1sa7984.webp",
-   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Кофе Китай Симао Меллоу",
-   "specs": {
-    "Высота произрастания": "800–1800 м",
-    "Способ обработки": "Мытая",
-    "Регион": "Симао",
-    "Степень обжарки": "Средняя"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 534.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 534.0,
-     "available": false
-    },
-    {
-     "weight_g": 1000,
-     "price": 534.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 630.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1175.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2220.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 534.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 630.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1175.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2220.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 534.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 630.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1175.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2220.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://nevacoffee.ru/catalog/coffee/ethiopia-guji-gr-4/",
-   "name": "Кофе Эфиопия Гуджи Гр. 4 TOП",
-   "description": "Нежные, деликатные ноты сухофруктов и насыщенного какао переплетаются с тонкими, изысканными оттенками отборных специй и бархатистых орехов.",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/CPremier/f48/0fy75qjiiqf7cdo59h4fq8zx2sao09o0.webp",
-   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Кофе Эфиопия Гуджи Гр. 4 TOП",
-   "specs": {
-    "Высота произрастания": "1800–2000 м",
-    "Способ обработки": "Натуральная",
-    "Степень обжарки": "Средняя"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 622.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 622.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 622.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1160.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2189.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 622.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1160.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2189.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 622.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1160.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2189.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://nevacoffee.ru/catalog/coffee/arabika/peru-amazonas-gr-1/",
-   "name": "Кофе Перу Амазонас",
-   "description": "Плотный и гармоничный букет из косточковых фруктов и нежного молочного шоколада изящно дополняется тонкими цитрусовыми нотками и ореховым послевкусием миндаля.",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/CPremier/f48/0fy75qjiiqf7cdo59h4fq8zx2sao09o0.webp",
-   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Кофе в зёрнах 100% арабика / Кофе в зёрнах 100% арабика / Кофе Перу Амазонас",
-   "specs": {
-    "Высота произрастания": "900–2050 м",
-    "Способ обработки": "Мытая",
-    "Регион": "Кахамарка, Хунин, Пуно, Куско, Паско",
-    "Степень обжарки": "Средняя"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 688.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 688.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 688.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1290.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2450.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 688.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1290.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2450.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 688.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1290.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2450.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://nevacoffee.ru/catalog/coffee/colombia-de-la-tierrita/",
-   "name": "Кофе Декаф Колумбия Де Ла Тьеррита",
-   "description": "Красный виноград и ежевика раскрываются в сочетании со сладким сушёным манго. Карамель объединяет фруктовые оттенки, а нота розы с чайным оттенком каркаде добавляет необычный цветочный акцент.",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/2fc/fxfu1k9o52b52ccdm1c1zl40oce4x25r.webp",
-   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Кофе Декаф Колумбия Де Ла Тьеррита",
-   "specs": {
-    "Способ обработки": "Декаф Анаэробный",
-    "Степень обжарки": "Средняя"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 1075.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1075.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1075.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2065.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4000.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1075.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2065.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4000.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1075.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2065.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4000.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://nevacoffee.ru/catalog/coffee/brazil-rancho-grande-periscope-filtr/",
-   "name": "Кофе Бразилия Ранчо Гранде Перископ (фильтр)",
-   "description": "Искристая кислотность цитрусов, легкие алкогольные ноты белого вина, нежный персиковый йогурт, мёд и сливочная карамель. Плотное, округлое тело",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/88b/9jfcn5utjxdqbx021tblm51fto0stq5t.webp",
-   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Кофе Бразилия Ранчо Гранде Перископ (фильтр)",
-   "specs": {
-    "Высота произрастания": "800–1200 м",
-    "Способ обработки": "Лактик",
-    "Степень обжарки": "Под фильтр"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 675.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 675.0,
-     "available": true
-    },
-    {
-     "weight_g": 200,
-     "price": 675.0,
-     "available": true
-    },
-    {
-     "weight_g": 200,
-     "price": 675.0,
-     "available": true
-    },
-    {
-     "weight_g": 200,
-     "price": 675.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://nevacoffee.ru/catalog/coffee/nikaragua-maragodzhip/",
-   "name": "Кофе Никарагуа Марагоджип",
-   "description": "Красные ягоды, цветочные нотки, фундук, какао. Сорт имеет округлое плотное тело и продолжительное насыщенное послевкусие.",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/CPremier/f48/0fy75qjiiqf7cdo59h4fq8zx2sao09o0.webp",
-   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Кофе Никарагуа Марагоджип",
-   "specs": {
-    "Высота произрастания": "1400–1800 м",
-    "Способ обработки": "Мытая",
-    "Степень обжарки": "Средняя"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 1025.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1025.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1025.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1965.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 3800.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1025.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1965.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 3800.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1025.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1965.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 3800.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://nevacoffee.ru/catalog/coffee/colombia-dulima/",
-   "name": "Кофе Колумбия Уила Дулима",
-   "description": "Яблоко и косточковые фрукты раскрываются на мягком фоне какао, печенья и карамели. Сочные фруктовые оттенки дополняют уютную десертную основу, делая чашку выразительной и многогранной.",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/CPremier/f48/0fy75qjiiqf7cdo59h4fq8zx2sao09o0.webp",
-   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Кофе Колумбия Уила Дулима",
-   "specs": {
-    "Высота произрастания": "1500–2000 м",
-    "Способ обработки": "Мытая",
-    "Регион": "Уила",
-    "Степень обжарки": "Средняя"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 750.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 750.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 750.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1415.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2700.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 750.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1415.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2700.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 750.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1415.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2700.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://nevacoffee.ru/catalog/coffee/ethiopia-yirgacheffe-gr-2-chichu/",
-   "name": "Кофе Эфиопия Иргачефф Чичу",
-   "description": "Ноты чёрного чая с бергамотом дополняются свежестью сочного лимона, нежностью сладковатого миндаля и тонкими цветочными оттенками.",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/4c2/6e3vy2q6z32uvjixkweus6xsqjc1or4c.webp",
-   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Кофе Эфиопия Иргачефф Чичу",
-   "specs": {
-    "Высота произрастания": "1900–2100 м",
-    "Способ обработки": "Мытая",
-    "Регион": "Иргачефф",
-    "Степень обжарки": "Средняя"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 738.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 738.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 738.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1390.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2650.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 738.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1390.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2650.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 738.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1390.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2650.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://nevacoffee.ru/catalog/coffee/costa-rica-tarrazu-la-pastora/",
-   "name": "Кофе Коста Рика Тарразу Ла Пастора",
-   "description": "Шоколадно-ореховый десерт с нугой и сочными оттенками жёлтых фруктов. Сладкий и одновременно свежий характер чашки.",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/007/15c5tp67jxs9zb3fyzmy6dez9diaq0wz.webp",
-   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Кофе Коста Рика Тарразу Ла Пастора",
-   "specs": {
-    "Высота произрастания": "1200–1900 м",
-    "Способ обработки": "Мытая",
-    "Регион": "Тарразу Ла Пастора",
-    "Степень обжарки": "Средняя"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 703.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 703.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 703.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1320.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2550.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 703.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1320.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2550.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 703.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1320.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2550.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://nevacoffee.ru/catalog/coffee/mexico-chyapas/",
-   "name": "Кофе Мексика Чьяпас",
-   "description": "Золотистая карамель и цитрусы с сочной кислинкой зелёных яблок. Мягкое тело окутывает сливочной нугой, а лёгкая горчинка кешью тает в бархатистом послевкусии.",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/CPremier/f48/0fy75qjiiqf7cdo59h4fq8zx2sao09o0.webp",
-   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Кофе Мексика Чьяпас",
-   "specs": {
-    "Высота произрастания": "1200–1600 м",
-    "Способ обработки": "Мытая",
-    "Степень обжарки": "Средняя"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 675.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 675.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 675.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1265.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2400.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 675.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1265.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2400.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 675.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1265.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2400.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://nevacoffee.ru/catalog/coffee/burundi-burasira/",
-   "name": "Кофе Бурунди Бурасира",
-   "description": "Изысканный букет: сочная вишня и насыщенный малиновый джем дополняются деликатными персиковыми нотами. Лёгкая карамельная сладость гармонично сочетается с благородной горчинкой какао. В эспрессо вкус раскрывается полно и многогранно, оставляя долгое послевкусие. С добавлением молока композиция обретает кремовую текстуру и напоминает нежный йогурт с ягодами.",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/95d/02ryuz9xg7onjm06hgvoa5mtcj72bag7.webp",
-   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Кофе Бурунди Бурасира",
-   "specs": {
-    "Высота произрастания": "1650–2000 м",
-    "Способ обработки": "Мытая",
-    "Регион": "Бурасира",
-    "Степень обжарки": "Средняя"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 675.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 675.0,
-     "available": false
-    },
-    {
-     "weight_g": 1000,
-     "price": 675.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1265.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2400.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 675.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1265.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2400.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 675.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1265.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2400.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://nevacoffee.ru/catalog/coffee/african-safari/",
-   "name": "Кофе Африканское Сафари",
-   "description": "Сладкие красные ягоды и свежие цитрусы задают сочный фруктовый характер. Орехи и шоколад дополняют их мягкой десертной основой, объединяя яркость и сладость в одной чашке.",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/CPremier/f48/0fy75qjiiqf7cdo59h4fq8zx2sao09o0.webp",
-   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Кофе Африканское Сафари",
-   "specs": {
-    "Высота произрастания": "800–1900 м",
-    "Способ обработки": "Натуральная, Мытая",
-    "Регион": "Кения, Эфиопия",
-    "Степень обжарки": "Средняя"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 528.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 528.0,
-     "available": false
-    },
-    {
-     "weight_g": 1000,
-     "price": 528.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 603.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2190.0,
-     "available": true
-    },
-    {
-     "weight_g": 500,
-     "price": 2190.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 2190.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 2190.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 2190.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 2190.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1140.0,
-     "available": true
-    },
-    {
-     "weight_g": 500,
-     "price": 1140.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1140.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1140.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1140.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1140.0,
-     "available": true
-    },
-    {
-     "weight_g": 500,
-     "price": 603.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 603.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 603.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 603.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 603.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 528.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 603.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2190.0,
-     "available": true
-    },
-    {
-     "weight_g": 500,
-     "price": 2190.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 2190.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 2190.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 2190.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 2190.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1140.0,
-     "available": true
-    },
-    {
-     "weight_g": 500,
-     "price": 1140.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1140.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1140.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1140.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1140.0,
-     "available": true
-    },
-    {
-     "weight_g": 500,
-     "price": 603.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 603.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 603.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 603.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 603.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 528.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 603.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2190.0,
-     "available": true
-    },
-    {
-     "weight_g": 500,
-     "price": 2190.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 2190.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 2190.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 2190.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 2190.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1140.0,
-     "available": true
-    },
-    {
-     "weight_g": 500,
-     "price": 1140.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1140.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1140.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1140.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1140.0,
-     "available": true
-    },
-    {
-     "weight_g": 500,
-     "price": 603.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 603.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 603.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 603.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 603.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://nevacoffee.ru/catalog/coffee/aziatskoe-nikhao/",
-   "name": "Кофе Азиатское Нихао",
-   "description": "Бархатистые шоколадные оттенки, яблочная свежесть и тягучая карамель. Вафли дополняют десертную основу, а табачная нота придаёт этому сладкому сочетанию особый характер.",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/CPremier/f48/0fy75qjiiqf7cdo59h4fq8zx2sao09o0.webp",
-   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Кофе Азиатское Нихао",
-   "specs": {
-    "Высота произрастания": "800–1300 м",
-    "Способ обработки": "Натуральная, Мытая",
-    "Степень обжарки": "Средняя"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 528.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 528.0,
-     "available": false
-    },
-    {
-     "weight_g": 1000,
-     "price": 528.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 603.0,
-     "available": true
-    },
-    {
-     "weight_g": 500,
-     "price": 603.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 603.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 603.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 603.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 603.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1140.0,
-     "available": true
-    },
-    {
-     "weight_g": 500,
-     "price": 1140.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1140.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1140.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1140.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1140.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2190.0,
-     "available": true
-    },
-    {
-     "weight_g": 500,
-     "price": 2190.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 2190.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 2190.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 2190.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 2190.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 528.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 603.0,
-     "available": true
-    },
-    {
-     "weight_g": 500,
-     "price": 603.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 603.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 603.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 603.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 603.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1140.0,
-     "available": true
-    },
-    {
-     "weight_g": 500,
-     "price": 1140.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1140.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1140.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1140.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1140.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2190.0,
-     "available": true
-    },
-    {
-     "weight_g": 500,
-     "price": 2190.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 2190.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 2190.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 2190.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 2190.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 528.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 603.0,
-     "available": true
-    },
-    {
-     "weight_g": 500,
-     "price": 603.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 603.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 603.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 603.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 603.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1140.0,
-     "available": true
-    },
-    {
-     "weight_g": 500,
-     "price": 1140.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1140.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1140.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1140.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1140.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2190.0,
-     "available": true
-    },
-    {
-     "weight_g": 500,
-     "price": 2190.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 2190.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 2190.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 2190.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 2190.0,
-     "available": true
-    }
-   ]
-  },
-  {
    "url": "https://nevacoffee.ru/catalog/coffee/ruanda-muteteli/",
    "name": "Кофе Руанда Мутетели",
    "description": "Нежная сладость компота из сухофруктов тонко дополняются нотами изюма с едва заметной карамельной ноткой, а деликатные оттенки чёрного чая придают особую глубину.",
@@ -2489,14 +212,55 @@
    ]
   },
   {
-   "url": "https://nevacoffee.ru/catalog/coffee/asia-blend/",
-   "name": "Кофе Asia Blend",
-   "description": "Необычный и по‑домашнему уютный вкусовой букет ароматных вафель и тёплого какао бережно дополненный пикантными оттенками запечённой тыквы, орехами и лёгким карамельным послевкусием.",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/1d5/ub44qncvf02tzff8hwagtki4kqe08iat.webp",
-   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Кофе Asia Blend",
+   "url": "https://nevacoffee.ru/catalog/coffee/ethiopia-irgachef-gr-2-filter/",
+   "name": "Кофе Эфиопия Иргачефф (фильтр)",
+   "description": "Ноты чёрного чая и бергамота с освежающими оттенками цитрусов. Утонченные цветочные акценты жасмина и нежного персика.",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/CPremier/f48/0fy75qjiiqf7cdo59h4fq8zx2sao09o0.webp",
+   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Кофе Эфиопия Иргачефф (фильтр)",
    "specs": {
-    "Высота произрастания": "800–1800 м",
-    "Регион": "Симао и Далат",
+    "Высота произрастания": "1900–2100 м",
+    "Способ обработки": "Мытая",
+    "Регион": "Иргачефф",
+    "Степень обжарки": "Под фильтр"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 599.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 599.0,
+     "available": true
+    },
+    {
+     "weight_g": 200,
+     "price": 599.0,
+     "available": true
+    },
+    {
+     "weight_g": 200,
+     "price": 599.0,
+     "available": true
+    },
+    {
+     "weight_g": 200,
+     "price": 599.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/colombia-de-la-tierrita/",
+   "name": "Кофе Декаф Колумбия Де Ла Тьеррита",
+   "description": "Красный виноград и ежевика раскрываются в сочетании со сладким сушёным манго. Карамель объединяет фруктовые оттенки, а нота розы с чайным оттенком каркаде добавляет необычный цветочный акцент.",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/2fc/fxfu1k9o52b52ccdm1c1zl40oce4x25r.webp",
+   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Кофе Декаф Колумбия Де Ла Тьеррита",
+   "specs": {
+    "Способ обработки": "Декаф Анаэробный",
     "Степень обжарки": "Средняя"
    },
    "gallery": [],
@@ -2504,182 +268,62 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 650.0,
+     "price": 1075.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 650.0,
+     "price": 1075.0,
      "available": true
     },
     {
      "weight_g": 1000,
-     "price": 650.0,
+     "price": 1075.0,
      "available": true
     },
     {
      "weight_g": 1000,
-     "price": 1215.0,
+     "price": 2065.0,
      "available": true
     },
     {
      "weight_g": 1000,
-     "price": 2300.0,
+     "price": 4000.0,
      "available": true
     },
     {
      "weight_g": 1000,
-     "price": 650.0,
+     "price": 1075.0,
      "available": true
     },
     {
      "weight_g": 1000,
-     "price": 1215.0,
+     "price": 2065.0,
      "available": true
     },
     {
      "weight_g": 1000,
-     "price": 2300.0,
+     "price": 4000.0,
      "available": true
     },
     {
      "weight_g": 1000,
-     "price": 650.0,
+     "price": 1075.0,
      "available": true
     },
     {
      "weight_g": 1000,
-     "price": 1215.0,
+     "price": 2065.0,
      "available": true
     },
     {
      "weight_g": 1000,
-     "price": 2300.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://nevacoffee.ru/catalog/coffee/colombia-wush-wush/",
-   "name": "Кофе Колумбия Вуш-Вуш (фильтр)",
-   "description": "Нежная клубника со сливками, ноты розового вина, сладость карамели Малибу, виноград шайн мускат и персик. Мягкая ягодно-фруктовая кислинка.",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/ae0/mmy41yqxn5c5iyx07rowwy70tbv9bc5b.webp",
-   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Кофе Колумбия Вуш-Вуш (фильтр)",
-   "specs": {
-    "Высота произрастания": "1850 м",
-    "Способ обработки": "Натуральная анаэробная обработка",
-    "Регион": "Бруселас, Уила (ферма Алехандра Муньос)",
-    "Степень обжарки": "Под фильтр"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 1262.0,
+     "price": 4000.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 1262.0,
-     "available": true
-    },
-    {
-     "weight_g": 200,
-     "price": 1262.0,
-     "available": true
-    },
-    {
-     "weight_g": 200,
-     "price": 1262.0,
-     "available": true
-    },
-    {
-     "weight_g": 200,
-     "price": 1262.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://nevacoffee.ru/catalog/coffee/uganda-sironko-filtr/",
-   "name": "Кофе Уганда Сиронко (фильтр)",
-   "description": "В симфонии вкуса — освежающая кислинка мякоти и цедры лайма, терпкий оттенок красного чая, нежная сладость карамели, сочность яблока и утончённый аромат жасмина в послевкусии. Деликатные винные ноты добавляют глубину.",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/CPremier/f48/0fy75qjiiqf7cdo59h4fq8zx2sao09o0.webp",
-   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Кофе Уганда Сиронко (фильтр)",
-   "specs": {
-    "Высота произрастания": "2000–2200 м",
-    "Способ обработки": "Натуральная",
-    "Регион": "Сиронко",
-    "Степень обжарки": "Под фильтр"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 809.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 809.0,
-     "available": false
-    },
-    {
-     "weight_g": 200,
-     "price": 809.0,
-     "available": true
-    },
-    {
-     "weight_g": 200,
-     "price": 809.0,
-     "available": true
-    },
-    {
-     "weight_g": 200,
-     "price": 809.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://nevacoffee.ru/catalog/coffee/colombia-ombligon/",
-   "name": "Кофе Колумбия Омблигон (фильтр)",
-   "description": "Сочные ноты арбуза и дыни гармонично сочетаются с глубиной тёмного винограда и тонкими оттенками рома. Лёгкая медовая сладость и ноты кедрового ореха.",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/e3a/x6gle110n008b90xw1hc30tljkm5qgg8.webp",
-   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Кофе Колумбия Омблигон (фильтр)",
-   "specs": {
-    "Способ обработки": "Натуральная анаэробная обработка",
-    "Регион": "Уила",
-    "Степень обжарки": "Под фильтр"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 1000.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1000.0,
-     "available": true
-    },
-    {
-     "weight_g": 200,
-     "price": 1000.0,
-     "available": true
-    },
-    {
-     "weight_g": 200,
-     "price": 1000.0,
-     "available": true
-    },
-    {
-     "weight_g": 200,
-     "price": 1000.0,
+     "price": 748.0,
      "available": true
     }
    ]
@@ -2750,19 +394,22 @@
      "weight_g": 1000,
      "price": 2690.0,
      "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 4000.0,
+     "available": true
     }
    ]
   },
   {
-   "url": "https://nevacoffee.ru/catalog/coffee/rwanda-muteteli/",
-   "name": "Кофе Руанда Мутетели (фильтр)",
-   "description": "Сочные ноты спелой вишни и густого компота из сухофруктов тонко дополняются нежной сладостью тростникового сахара с едва заметной изюмной ноткой, а деликатные оттенки сушёного винограда придают напитку особую глубину.",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/0e7/1gh23a4gi83t34yhzdknqqjwud031cbf.webp",
-   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Кофе Руанда Мутетели (фильтр)",
+   "url": "https://nevacoffee.ru/catalog/coffee/efiopiya-irgacheffe-aricha-gr-2-filtr/",
+   "name": "Кофе Эфиопия Иргачеффе Арича (фильтр)",
+   "description": "Во вкусе спелые жёлтые фрукты, чай с бергамотом, сочные цитрусовые фрукты и деликатные пряные ноты.",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/044/lj8trg4m0ol02gmk7doks5sw156vob61.webp",
+   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Кофе Эфиопия Иргачеффе Арича (фильтр)",
    "specs": {
-    "Высота произрастания": "1700–2200 м",
     "Способ обработки": "Мытая",
-    "Регион": "Мутетели",
     "Степень обжарки": "Под фильтр"
    },
    "gallery": [],
@@ -2770,825 +417,32 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 663.0,
+     "price": 590.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 663.0,
+     "price": 590.0,
      "available": true
     },
     {
      "weight_g": 200,
-     "price": 663.0,
+     "price": 590.0,
      "available": true
     },
     {
      "weight_g": 200,
-     "price": 663.0,
+     "price": 590.0,
      "available": true
     },
     {
      "weight_g": 200,
-     "price": 663.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://nevacoffee.ru/catalog/coffee/aroma/",
-   "name": "Кофе Aroma: ягодно-шоколадный",
-   "description": "Красные ягоды, шоколад, мягкие ореховые оттенки и нежная медовая сладость. Ноты дополняют друг друга, создавая ароматный ягодно-шоколадный профиль. Смесь зерен из Бразилии и Колумбии.",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/CPremier/f48/0fy75qjiiqf7cdo59h4fq8zx2sao09o0.webp",
-   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Кофе Aroma: ягодно-шоколадный",
-   "specs": {
-    "Высота произрастания": "700–1200 м",
-    "Способ обработки": "Натуральная",
-    "Степень обжарки": "Средняя"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 648.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 648.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 648.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1210.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2290.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 648.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1210.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2290.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 648.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1210.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2290.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://nevacoffee.ru/catalog/coffee/kolumbiya-dulima-filtr/",
-   "name": "Кофе Колумбия Уила Дулима (фильтр)",
-   "description": "Гармоничное сочетание с нот зелёного яблока, косточковых фруктов и насыщенного тёмного винограда. Насыщенные оттенки какао и карамели добавляют глубину и завершённость букету.",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/0fa/096g3pxd9pj210mwn6o29pg1pp7ezdup.webp",
-   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Кофе Колумбия Уила Дулима (фильтр)",
-   "specs": {
-    "Высота произрастания": "1500–2000 м",
-    "Способ обработки": "Мытая",
-    "Регион": "Дулима",
-    "Степень обжарки": "Под фильтр"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 609.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 609.0,
-     "available": false
-    },
-    {
-     "weight_g": 200,
-     "price": 609.0,
-     "available": true
-    },
-    {
-     "weight_g": 200,
-     "price": 609.0,
-     "available": true
-    },
-    {
-     "weight_g": 200,
-     "price": 609.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://nevacoffee.ru/catalog/coffee/ethiopia-irgachef-gr-2-filter/",
-   "name": "Кофе Эфиопия Иргачефф (фильтр)",
-   "description": "Ноты чёрного чая и бергамота с освежающими оттенками цитрусов. Утонченные цветочные акценты жасмина и нежного персика.",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/CPremier/f48/0fy75qjiiqf7cdo59h4fq8zx2sao09o0.webp",
-   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Кофе Эфиопия Иргачефф (фильтр)",
-   "specs": {
-    "Высота произрастания": "1900–2100 м",
-    "Способ обработки": "Мытая",
-    "Регион": "Иргачефф",
-    "Степень обжарки": "Под фильтр"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 599.0,
+     "price": 590.0,
      "available": true
     },
     {
      "weight_g": null,
      "price": 599.0,
-     "available": true
-    },
-    {
-     "weight_g": 200,
-     "price": 599.0,
-     "available": true
-    },
-    {
-     "weight_g": 200,
-     "price": 599.0,
-     "available": true
-    },
-    {
-     "weight_g": 200,
-     "price": 599.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://nevacoffee.ru/catalog/coffee/indoneziya-sumatra/",
-   "name": "Кофе Индонезия Суматра (фильтр)",
-   "description": "Изюм и шиповник переплетаются со специями, смородиновым листом и древесными оттенками. Необычный фруктово-пряный профиль дополняется приятным округлым телом.",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/adf/d9a16vmvgngx7t61nzeack28vouxt1cu.webp",
-   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Кофе Индонезия Суматра (фильтр)",
-   "specs": {
-    "Высота произрастания": "1250–1450 м",
-    "Способ обработки": "Гилинг басах, Вет халл",
-    "Регион": "Гайо Беланги",
-    "Степень обжарки": "Под фильтр"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 544.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 544.0,
-     "available": true
-    },
-    {
-     "weight_g": 200,
-     "price": 544.0,
-     "available": true
-    },
-    {
-     "weight_g": 200,
-     "price": 544.0,
-     "available": true
-    },
-    {
-     "weight_g": 200,
-     "price": 544.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://nevacoffee.ru/catalog/coffee/keniya-maunt-ab-filtr/",
-   "name": "Кофе Кения Маунт АБ (фильтр)",
-   "description": "Сладкие красные ягоды, сочная красная смородина и красное яблоко. Необычный оттенок сладкого томата подчёркивает сочность, а какао дополняет яркий ягодно-фруктовый профиль спокойной десертной нотой.",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/b49/n4bs9tdp1mfc2ey9my5a1o36ulxvil3c.webp",
-   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Кофе Кения Маунт АБ (фильтр)",
-   "specs": {
-    "Высота произрастания": "1600 м",
-    "Способ обработки": "Мытая",
-    "Регион": "Маунт",
-    "Степень обжарки": "Под фильтр"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 585.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 585.0,
-     "available": true
-    },
-    {
-     "weight_g": 200,
-     "price": 585.0,
-     "available": true
-    },
-    {
-     "weight_g": 200,
-     "price": 585.0,
-     "available": true
-    },
-    {
-     "weight_g": 200,
-     "price": 585.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://nevacoffee.ru/catalog/coffee/vietnam-tay-nguen/",
-   "name": "Кофе Вьетнам Тай Нгуен",
-   "description": "Ноты яблока, цитрусов, молочного шоколада, специй и орехов органично дополняются лёгкой цитрусовой кислинкой.",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/280/rh3j93omoa2e1vv45uo462yllh4i146d.webp",
-   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Кофе Вьетнам Тай Нгуен",
-   "specs": {
-    "Провинция": "Ламдонг",
-    "Высота произрастания": "1475 м",
-    "Способ обработки": "Мытая",
-    "Регион": "Тай Нгуен",
-    "Степень обжарки": "Средняя"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 568.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 568.0,
-     "available": false
-    },
-    {
-     "weight_g": 1000,
-     "price": 568.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 673.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1260.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2390.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 568.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 673.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1260.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2390.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 568.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 673.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1260.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2390.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://nevacoffee.ru/catalog/coffee/brazil-fazenda-santa-clara-filtr/",
-   "name": "Кофе Бразилия Фазенда Санта Клара (фильтр).",
-   "description": "Ноты мёда и спелого винограда, оттенённые нежным молочным шоколадом и тонким ароматом орехов. Лёгкая мягкая яблочная кислинка и фруктово-десертный профиль.",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/4ef/950epzpf8u0rk2ps5fhkz77ogp9i0zt8.webp",
-   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Кофе Бразилия Фазенда Санта Клара (фильтр).",
-   "specs": {
-    "Высота произрастания": "930–1050 м",
-    "Способ обработки": "Натуральная",
-    "Регион": "Мантикейра-де-Минас Санта Клара",
-    "Степень обжарки": "Под фильтр"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 545.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 545.0,
-     "available": true
-    },
-    {
-     "weight_g": 200,
-     "price": 545.0,
-     "available": true
-    },
-    {
-     "weight_g": 200,
-     "price": 545.0,
-     "available": true
-    },
-    {
-     "weight_g": 200,
-     "price": 545.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://nevacoffee.ru/catalog/coffee/colombia-supremo/",
-   "name": "Кофе Колумбия Супремо",
-   "description": "Мягкая, но выраженная кислинка. Во вкусе клюква, красные ягоды и сочный виноград, дополненные медовыми и карамельными нотками.",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/53f/gyeg73cnq6a8mghzvan3iecabxhb1djm.webp",
-   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Кофе Колумбия Супремо",
-   "specs": {
-    "Высота произрастания": "1650–1800 м",
-    "Способ обработки": "Мытая",
-    "Степень обжарки": "Средняя"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 698.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 698.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 698.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1310.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2490.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 698.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1310.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2490.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 698.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1310.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2490.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://nevacoffee.ru/catalog/coffee/efiopiya-gudzhi-gr-2-filtr/",
-   "name": "Кофе Дрип Эфиопия Гуджи (фильтр)",
-   "description": "Апельсин и лайм раскрываются сочной цитрусовой свежестью. Чёрный чай добавляет деликатную глубину, белые цветы — нежную ароматику, а мёд связывает эти оттенки мягкой сладостью.",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/ddd/isyadk7xwtjkq775hx18cjd2t4p1a4zn.webp",
-   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Кофе Дрип Эфиопия Гуджи (фильтр)",
-   "specs": {
-    "Способ обработки": "Мытая",
-    "Степень обжарки": "Под фильтр"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 67.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 67.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 67.0,
-     "available": true
-    },
-    {
-     "weight_g": 72,
-     "price": 452.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 67.0,
-     "available": true
-    },
-    {
-     "weight_g": 72,
-     "price": 452.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 67.0,
-     "available": true
-    },
-    {
-     "weight_g": 72,
-     "price": 452.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://nevacoffee.ru/catalog/coffee/kenya-ab/",
-   "name": "Кофе Кения Маунт АБ",
-   "description": "Сладкие красные ягоды с нотами чёрного чая и шоколада создают изысканный букет. Сочная чистая чашка с винной кислинкой и долгим послевкусием.",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/CPremier/f48/0fy75qjiiqf7cdo59h4fq8zx2sao09o0.webp",
-   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Кофе Кения Маунт АБ",
-   "specs": {
-    "Высота произрастания": "1600 м",
-    "Способ обработки": "Мытая",
-    "Степень обжарки": "Средняя"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 600.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 600.0,
-     "available": false
-    },
-    {
-     "weight_g": 1000,
-     "price": 600.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 713.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1340.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2550.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 2550.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 600.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 713.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1340.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2550.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 2550.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 600.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 713.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1340.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2550.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 2550.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://nevacoffee.ru/catalog/coffee/avtorskaya-smes/",
-   "name": "Авторская смесь «101 Кофемашина»",
-   "description": "Бленд - коллаборация с Дмитрием Юрченко, создателем и автором самого популярного сайта о кофемашинах в рунете 101kofemashina.ru.",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/646/cbcrdkdh335rpq192cmnr2e486mtiyq9.webp",
-   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Авторская смесь «101 Кофемашина»",
-   "specs": {
-    "Способ обработки": "Натуральная",
-    "Степень обжарки": "Средняя"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 617.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 617.0,
-     "available": false
-    },
-    {
-     "weight_g": 250,
-     "price": 617.0,
-     "available": true
-    },
-    {
-     "weight_g": 500,
-     "price": 1149.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2167.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 617.0,
-     "available": true
-    },
-    {
-     "weight_g": 500,
-     "price": 1149.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2167.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 617.0,
-     "available": true
-    },
-    {
-     "weight_g": 500,
-     "price": 1149.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2167.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://nevacoffee.ru/catalog/coffee/arabika/ethiopia-guji-gr-2-filtr/",
-   "name": "Кофе Эфиопия Гуджи (фильтр)",
-   "description": "Апельсин и лайм раскрываются сочной цитрусовой свежестью. Чёрный чай добавляет деликатную глубину, белые цветы — нежную ароматику, а мёд связывает эти оттенки мягкой сладостью.",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/ae3/wdw10lhsewymc9bd8qlphhhoz5epxbke.webp",
-   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Кофе в зёрнах 100% арабика / Кофе в зёрнах 100% арабика / Кофе Эфиопия Гуджи (фильтр)",
-   "specs": {
-    "Высота произрастания": "1800–2000 м",
-    "Степень обжарки": "Под фильтр"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 580.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 580.0,
-     "available": true
-    },
-    {
-     "weight_g": 200,
-     "price": 580.0,
-     "available": true
-    },
-    {
-     "weight_g": 200,
-     "price": 580.0,
-     "available": true
-    },
-    {
-     "weight_g": 200,
-     "price": 580.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 599.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://nevacoffee.ru/catalog/coffee/arabika/ethiopia-guji-gr-2/",
-   "name": "Кофе Эфиопия Гуджи",
-   "description": "Сочный апельсин, нежные белые цветы и деликатный чёрный чай. Мёд и карамель дополняют цитрусовую свежесть мягкой сладостью, создавая округлый вкус со слабой горчинкой.",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/CPremier/f48/0fy75qjiiqf7cdo59h4fq8zx2sao09o0.webp",
-   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Кофе в зёрнах 100% арабика / Кофе в зёрнах 100% арабика / Кофе Эфиопия Гуджи",
-   "specs": {
-    "Высота произрастания": "1800–1900 м",
-    "Способ обработки": "Мытая",
-    "Регион": "Гуджи",
-    "Степень обжарки": "Средняя"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 596.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 596.0,
-     "available": false
-    },
-    {
-     "weight_g": 1000,
-     "price": 596.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 708.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1330.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2530.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 596.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 708.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1330.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2530.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 596.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 708.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 1330.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2530.0,
      "available": true
     }
    ]
@@ -3620,7 +474,7 @@
   },
   {
    "url": "https://nevacoffee.ru/catalog/coffee/molotyy-kofe/?display=list&PAGEN_2=4",
-   "name": "Набор дрипов в коробке",
+   "name": "Авторская смесь 0,25",
    "description": "Натуральный молотый кофе от обжарщика. Помол подбираем под вас: для кофемашины, турки, гейзера. Кофе Арабика. Обжариваем под заказ, отправляем по России.",
    "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/CPremier/f48/0fy75qjiiqf7cdo59h4fq8zx2sao09o0.webp",
    "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Молотый кофе",
@@ -3632,8 +486,491 @@
    "available": true,
    "variants": [
     {
-     "weight_g": 360,
+     "weight_g": null,
+     "price": 617.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
      "price": 1990.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/podarochnye-nabory/pod-molochko/",
+   "name": "Кофе \"Под Молочко\"",
+   "description": "Готовый подарок на Новый Год!",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/CPremier/f48/0fy75qjiiqf7cdo59h4fq8zx2sao09o0.webp",
+   "category": "Главная / Главная / Каталог / Каталог / Подарочные наборы / Подарочные наборы / Кофе \"Под Молочко\"",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1400.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1400.0,
+     "available": false
+    },
+    {
+     "weight_g": 600,
+     "price": 1500.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 2200.0,
+     "available": true
+    },
+    {
+     "weight_g": 600,
+     "price": 1500.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 2200.0,
+     "available": true
+    },
+    {
+     "weight_g": 600,
+     "price": 1500.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 2200.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/podarochnye-nabory/novogodnyaya-upakovka-dlya-kofe/",
+   "name": "Новогодняя упаковка для кофе",
+   "description": "Упакуйте любую пачку кофе 200г или 250г в подарочную обечайку.\n Четыре дизайна упаковки на выбор.",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/c91/31qk06xcww6robh9d632bpcmotx54p2c.webp",
+   "category": "Главная / Главная / Каталог / Каталог / Подарочные наборы / Подарочные наборы / Новогодняя упаковка для кофе",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 100.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 100.0,
+     "available": false
+    },
+    {
+     "weight_g": null,
+     "price": 100.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 100.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 100.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 100.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 100.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 100.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 100.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 100.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 100.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 100.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 100.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 100.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/podarochnye-nabory/novogodniy-nabor-pod-molochko/",
+   "name": "Подарочный набор «Под молочко»",
+   "description": "Бразилия Суль де Минас — 150 гЭфиопия Гуджи 4 — 150 гClassic — 150 гMild — 150 гВес набора: 600 г.",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/2b1/87q7bcy7gvxbknj61c7fxbs3b25e5vaj.webp",
+   "category": "Главная / Главная / Каталог / Каталог / Подарочные наборы / Подарочные наборы / Подарочный набор «Под молочко»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1700.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1700.0,
+     "available": false
+    },
+    {
+     "weight_g": 600,
+     "price": 1700.0,
+     "available": true
+    },
+    {
+     "weight_g": 600,
+     "price": 1700.0,
+     "available": true
+    },
+    {
+     "weight_g": 600,
+     "price": 1700.0,
+     "available": true
+    },
+    {
+     "weight_g": 600,
+     "price": 1700.0,
+     "available": true
+    },
+    {
+     "weight_g": 600,
+     "price": 1700.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 2300.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 2300.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 2300.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 2300.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 2300.0,
+     "available": true
+    },
+    {
+     "weight_g": 600,
+     "price": 1700.0,
+     "available": true
+    },
+    {
+     "weight_g": 600,
+     "price": 1700.0,
+     "available": true
+    },
+    {
+     "weight_g": 600,
+     "price": 1700.0,
+     "available": true
+    },
+    {
+     "weight_g": 600,
+     "price": 1700.0,
+     "available": true
+    },
+    {
+     "weight_g": 600,
+     "price": 1700.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 2300.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 2300.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 2300.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 2300.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 2300.0,
+     "available": true
+    },
+    {
+     "weight_g": 600,
+     "price": 1700.0,
+     "available": true
+    },
+    {
+     "weight_g": 600,
+     "price": 1700.0,
+     "available": true
+    },
+    {
+     "weight_g": 600,
+     "price": 1700.0,
+     "available": true
+    },
+    {
+     "weight_g": 600,
+     "price": 1700.0,
+     "available": true
+    },
+    {
+     "weight_g": 600,
+     "price": 1700.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 2300.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 2300.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 2300.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 2300.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 2300.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/podarochnye-nabory/novogodniy-nabor-100-arabika/",
+   "name": "Подарочный набор «100% Арабика»",
+   "description": "Колумбия Супремо — 150 гАфриканское сафари — 150 гЭфиопия Гуджи 4 — 150 гБразилия Суль де Минас — 150 гВес набора: 600 г.",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/de4/zsp3e8vscf28g3aptgbipwyy7ali6sa8.webp",
+   "category": "Главная / Главная / Каталог / Каталог / Подарочные наборы / Подарочные наборы / Подарочный набор «100% Арабика»",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1780.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 1780.0,
+     "available": false
+    },
+    {
+     "weight_g": 600,
+     "price": 1780.0,
+     "available": true
+    },
+    {
+     "weight_g": 600,
+     "price": 1780.0,
+     "available": true
+    },
+    {
+     "weight_g": 600,
+     "price": 1780.0,
+     "available": true
+    },
+    {
+     "weight_g": 600,
+     "price": 1780.0,
+     "available": true
+    },
+    {
+     "weight_g": 600,
+     "price": 1780.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 2450.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 2450.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 2450.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 2450.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 2450.0,
+     "available": true
+    },
+    {
+     "weight_g": 600,
+     "price": 1780.0,
+     "available": true
+    },
+    {
+     "weight_g": 600,
+     "price": 1780.0,
+     "available": true
+    },
+    {
+     "weight_g": 600,
+     "price": 1780.0,
+     "available": true
+    },
+    {
+     "weight_g": 600,
+     "price": 1780.0,
+     "available": true
+    },
+    {
+     "weight_g": 600,
+     "price": 1780.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 2450.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 2450.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 2450.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 2450.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 2450.0,
+     "available": true
+    },
+    {
+     "weight_g": 600,
+     "price": 1780.0,
+     "available": true
+    },
+    {
+     "weight_g": 600,
+     "price": 1780.0,
+     "available": true
+    },
+    {
+     "weight_g": 600,
+     "price": 1780.0,
+     "available": true
+    },
+    {
+     "weight_g": 600,
+     "price": 1780.0,
+     "available": true
+    },
+    {
+     "weight_g": 600,
+     "price": 1780.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 2450.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 2450.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 2450.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 2450.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 2450.0,
      "available": true
     }
    ]
@@ -3974,51 +1311,6 @@
     {
      "weight_g": 200,
      "price": 520.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://nevacoffee.ru/catalog/coffee/efiopiya-irgacheffe-aricha-gr-2-filtr/",
-   "name": "Кофе Эфиопия Иргачеффе Арича (фильтр)",
-   "description": "Во вкусе спелые жёлтые фрукты, чай с бергамотом, сочные цитрусовые фрукты и деликатные пряные ноты.",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/044/lj8trg4m0ol02gmk7doks5sw156vob61.webp",
-   "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Кофе Эфиопия Иргачеффе Арича (фильтр)",
-   "specs": {
-    "Способ обработки": "Мытая",
-    "Степень обжарки": "Под фильтр"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 590.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 590.0,
-     "available": true
-    },
-    {
-     "weight_g": 200,
-     "price": 590.0,
-     "available": true
-    },
-    {
-     "weight_g": 200,
-     "price": 590.0,
-     "available": true
-    },
-    {
-     "weight_g": 200,
-     "price": 590.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 599.0,
      "available": true
     }
    ]
@@ -5455,6 +2747,278 @@
    ]
   },
   {
+   "url": "https://nevacoffee.ru/catalog/coffee/avtorskaya-smes/",
+   "name": "Авторская смесь 0,25",
+   "description": "",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/8ed/yfy0b4ygdoorxpao0d9l8iko1o403wdu.webp",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 617.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/china-simao-gr1/",
+   "name": "Симао Меллоу 200 гр",
+   "description": "",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/648/cwdqit8e0eiqhdquwqoh14i3jjvhbv79.webp",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 200,
+     "price": 534.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/vietnam-dalat-temnaya/",
+   "name": "Далат 200",
+   "description": "",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/387/doa9ovwuc9p8q47jc0bnipw00o9bf267.webp",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 568.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/colombia-wush-wush/",
+   "name": "Колумбия Вуш Вуш",
+   "description": "",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/resize_cache/iblock/ce7/2000_2000_140cd750bba9870f18aada2478b24840a/iiwzaa8hzj20ava0wryw4ng3af36b8e3.webp",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1262.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/mild/",
+   "name": "Mild 200 гр.",
+   "description": "",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/4a0/ui0j70crzig2m02gmpss53h07ymdv5bg.webp",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 200,
+     "price": 506.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/colombia-ombligon/",
+   "name": "Колумбия Омблигон",
+   "description": "",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/resize_cache/iblock/5b4/2000_2000_140cd750bba9870f18aada2478b24840a/g7wlx22ulvs4q25kppxiqt0zftol9ldt.webp",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1000.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/ethiopia-guji-gr-4/",
+   "name": "Гуджи Гр. 4 250гр",
+   "description": "",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/eb3/8ibfi7ql59q0epw6u5myyrvpo3iwcg1l.webp",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 622.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/brazil-rancho-grande-periscope-filtr/",
+   "name": "Бразилия Ранчо Гранде Перископ 200гр",
+   "description": "",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/resize_cache/iblock/4b9/2000_2000_140cd750bba9870f18aada2478b24840a/u7qhljct9bc9lvqntrp324q78kwwfj6c.webp",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 200,
+     "price": 675.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/arabika/peru-amazonas-gr-1/",
+   "name": "Амазонас 250 гр",
+   "description": "",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/resize_cache/iblock/6ee/2000_2000_140cd750bba9870f18aada2478b24840a/zl5zmy0jk5dotyshebgq0elq7x73rw2q.webp",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 688.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/indoneziya-sumatra/",
+   "name": "Индонезия Суматра 200 гр (фильтр)",
+   "description": "",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/resize_cache/iblock/3f7/2000_2000_140cd750bba9870f18aada2478b24840a/xt4yeon5imht5agkyawdliakcddm4ns6.webp",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 200,
+     "price": 544.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/colombia-dulima/",
+   "name": "Колумбия Дулима 250 гр",
+   "description": "",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/resize_cache/iblock/e59/2000_2000_140cd750bba9870f18aada2478b24840a/f4bhgmj3ikmrj6aako5r071evbfdc80b.webp",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 750.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/guatemala-ayaraza/",
+   "name": "Гватемала Аяраза 250 гр",
+   "description": "",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/resize_cache/iblock/5c3/2000_2000_140cd750bba9870f18aada2478b24840a/vt0mk57voyjh7x4ng1u8z7v3v7hmba42.webp",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 613.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/ethiopia-yirgacheffe-gr-2-chichu/",
+   "name": "Эфиопия Иргачефф Чичу 250 гр",
+   "description": "",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/resize_cache/iblock/4c2/2000_2000_140cd750bba9870f18aada2478b24840a/6e3vy2q6z32uvjixkweus6xsqjc1or4c.webp",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 738.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/espresso-classic/",
+   "name": "Espresso Classic 250 гр.",
+   "description": "",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/c42/8d70tlnwz671ymvul4cjy229n66stl4w.webp",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 648.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/colombia-supremo/",
+   "name": "Супремо 250 гр.",
+   "description": "",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/2cb/bnyw8xbrzmi2hvh9eq0h1bjwwntqkb9g.webp",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 698.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/crema/",
+   "name": "Crema 250 гр.",
+   "description": "",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/b1b/trakrpnzq910l30patoedwfzmqg73dac.webp",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 588.0,
+     "available": true
+    }
+   ]
+  },
+  {
    "url": "https://nevacoffee.ru/catalog/coffee/colombia-pink-bourbon-mr-smith-filtr/",
    "name": "Pink Bourbon Mr.Smith (фильтр)",
    "description": "",
@@ -5574,6 +3138,346 @@
    ]
   },
   {
+   "url": "https://nevacoffee.ru/catalog/coffee/nikaragua-maragodzhip/",
+   "name": "Никарагуа Марагоджип 250 гр",
+   "description": "",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/0da/tgce1m8wwekl9w6ra1ylcqp51p4z0vdg.webp",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1025.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/costa-rica-tarrazu-la-pastora/",
+   "name": "Тарразу Ла Пастора 250 гр",
+   "description": "",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/00f/erf084uf9yvud998qjla48wp5ttrolul.webp",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 703.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/mexico-chyapas/",
+   "name": "Мексика Чьяпас 250 гр",
+   "description": "",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/d1a/je3t6xcsbktyxz92ven8y18mi44piu74.webp",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 675.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/burundi-burasira/",
+   "name": "Бурунди Бурасира 250 гр",
+   "description": "",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/cc4/wuop729lces4rl1hz6gb39che14yv55p.webp",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 675.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/laos-gr-1/",
+   "name": "Лаос 250 гр",
+   "description": "",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/189/w8m1sxh47yl5vtolx1zfvek3wvw73js2.webp",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 625.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/african-safari/",
+   "name": "Африканское Сафари 200гр",
+   "description": "",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/cf1/rj2wmzbqq9z2rhcmipi2mhrysdsusay0.webp",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 200,
+     "price": 528.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/aziatskoe-nikhao/",
+   "name": "Азиатское Нихао 200гр",
+   "description": "",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/806/3e2081loywsu0nlwzg0cuw5rx0zycs7n.webp",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 200,
+     "price": 528.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/robusta-vietnam/",
+   "name": "Робуста Вьетнам 250 гр",
+   "description": "",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/4bb/ldybcczcahm9f5dq56o5jbxkm01jltag.webp",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 545.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/smes-aktualnaya/",
+   "name": "Смесь Актуальная 250",
+   "description": "",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/ffe/yk826pdzc54bxocn0oz7bz9j14f0hywe.webp",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 560.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/night-city/",
+   "name": "Night City 250",
+   "description": "",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/7b7/pftg6shjs4c0enphbpduh7fm6694r073.webp",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 613.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/asia-blend/",
+   "name": "Asia Blend 250гр",
+   "description": "",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/aa4/goo3qvqvjux2jy20mfgajl2opsw3gcwj.webp",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 650.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/uganda-sironko-filtr/",
+   "name": "Уганда Сиронко",
+   "description": "",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/e3a/srezrgoiiqyarfucxtkr3v6jmzko60i5.webp",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 809.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/rwanda-muteteli/",
+   "name": "Руанда Мутетели (фильтр)",
+   "description": "",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/57e/0pcde13yph1zbpr5bumhe4tbemwfdzb9.webp",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 663.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/kolumbiya-dulima-filtr/",
+   "name": "Колумбия Дулима (фильтр)",
+   "description": "",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/0fa/096g3pxd9pj210mwn6o29pg1pp7ezdup.webp",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 609.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/keniya-maunt-ab-filtr/",
+   "name": "Кения Маунт АБ (фильтр)",
+   "description": "",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/8ad/0hr8gee50v3uzmafvir68zq855d0qese.webp",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 585.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/arabika/ethiopia-guji-gr-2-filtr/",
+   "name": "Эфиопия Гуджи (фильтр)",
+   "description": "",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/315/iwyxf20qieqsh8omxg046asilz4vdvco.webp",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 580.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/brazil-fazenda-santa-clara-filtr/",
+   "name": "Бразилия Фазенда Санта Клара (фильтр)",
+   "description": "",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/b2f/wud6nrmbnsbvrhh217xmdnlepzj0gl7p.webp",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 545.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/city/",
+   "name": "№ 12 City 250 гр.",
+   "description": "",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/0cc/xamrotaycq6to0rxof4xqps3i7unfkcn.webp",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 613.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/aroma/",
+   "name": "Aroma 250 гр.",
+   "description": "",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/f3f/usm2bnem11pylnsrvpfydv8b3wnsznmw.webp",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 648.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/intense/",
+   "name": "Intense 250 гр.",
+   "description": "",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/c80/3g7hggnfq0i9rzuhat7tyvb5z43yd35g.webp",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 608.0,
+     "available": true
+    }
+   ]
+  },
+  {
    "url": "https://nevacoffee.ru/catalog/coffee/brazil-sul-de-minas-temnaya/",
    "name": "Бразилия Суль де Минас Темная 200",
    "description": "",
@@ -5586,6 +3490,91 @@
     {
      "weight_g": null,
      "price": 520.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/regular/",
+   "name": "Regular 250 гр.",
+   "description": "",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/920/xxjb6m2al4zb5e9vkmxlfozswokxgf93.webp",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 573.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/vietnam-tay-nguen/",
+   "name": "Тай Нгуен 200 гр.",
+   "description": "",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/7a2/297xdzq7fboqsx1kuok7e91uv7opbcp8.webp",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 200,
+     "price": 568.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/arabika/ethiopia-guji-gr-2/",
+   "name": "Гуджи, 200 гр.",
+   "description": "",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/9e4/i66wa2q77hl64l6ic06fbz9l1ra2jqaz.webp",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 200,
+     "price": 596.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/efiopiya-gudzhi-gr-2-filtr/",
+   "name": "Дрип Эфиопия Гуджи (фильтр) 1 дрип",
+   "description": "",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/1c2/jrzu2tf120kbjn3kqb196dsyycm7c083.webp",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 67.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/kenya-ab/",
+   "name": "Кения АБ 200 гр",
+   "description": "",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/21d/24037f0m5qijap3sbea8zh2mzscl0wrq.webp",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 200,
+     "price": 600.0,
      "available": true
     }
    ]

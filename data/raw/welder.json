@@ -2,11 +2,11 @@
  "status": {
   "id": "welder",
   "platform": "bitrix+generic",
-  "items": 138,
-  "seconds": 850.5,
+  "items": 137,
+  "seconds": 1558.7,
   "ok": true,
   "error": null,
-  "at": "2026-11-18T07:46:36+00:00"
+  "at": "2026-11-19T07:56:16+00:00"
  },
  "items": [
   {
@@ -1376,30 +1376,6 @@
     {
      "weight_g": 1000,
      "price": 4962.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://theweldercatherine.ru/catalog/dlya_filtra/peru_valle_sagrado_iz_bochki/",
-   "name": "Перу Valle Sagrado из бочки",
-   "description": "Кофе Перу Valle Sagrado из бочки",
-   "image": "https://theweldercatherine.ru/upload/iblock/4e3/sk76tcbj3dpnlttc9extgxjern5aoyhv/250g-_1_-_45_.png",
-   "category": "Главная страница / Главная страница / Каталог / Каталог / Для фильтра / Для фильтра",
-   "specs": {
-    "Разновидность": "бурбон, типика, катурра",
-    "Регион": "Долина Конвенций",
-    "Сбор урожая": "Декабрь 2025",
-    "Способ обработки": "мытый",
-    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
-    "Обжарка": "фильтр, эспрессо"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": 250,
-     "price": 1424.0,
      "available": true
     }
    ]

@@ -16328,5 +16328,411 @@
     "reason": "пропал с сайта"
    }
   ]
+ },
+ {
+  "at": "2026-11-19T08:05:46+00:00",
+  "added": [
+   {
+    "id": "93a96e0563aa",
+    "roaster": "kanga",
+    "name": "Индонезия Суматра Каро",
+    "url": "https://www.kanga.ru/catalog/filter/indoneziya-sumatra-karo-250g/",
+    "back": false
+   },
+   {
+    "id": "4bdbc5263b5b",
+    "roaster": "h2o",
+    "name": "Рувензори фильтр",
+    "url": "https://h2ocompany.ru/catalog/kofe_v_zernakh_h2o_uganda_ruvenzori_filtr_svezheobzharennyy_250gr/",
+    "back": true
+   },
+   {
+    "id": "0d97efb9c6a2",
+    "roaster": "h2o",
+    "name": "Здоровый сон, 250 гр",
+    "url": "https://h2ocompany.ru/catalog/zdorovyy_son_premialnaya_travyanaya_smes_premialnyy_250gr/",
+    "back": true
+   },
+   {
+    "id": "63cd9e0ada62",
+    "roaster": "bolshe",
+    "name": "Вы любите макаронные изделия?",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512406604-955584191793-vi-lyubite-makaronnie-izdeliya",
+    "back": true
+   },
+   {
+    "id": "d40080be0404",
+    "roaster": "bolshe",
+    "name": "Бразилия амазонская робуста от Хуана Травейна",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512406604-678620487033-braziliya-amazonskaya-robusta-ot-huana-t",
+    "back": true
+   },
+   {
+    "id": "632832611d02",
+    "roaster": "bolshe",
+    "name": "Бразилия Коликоли",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512406604-722871125661-braziliya-kolikoli",
+    "back": true
+   },
+   {
+    "id": "ab4281e2b880",
+    "roaster": "bolshe",
+    "name": "Бразилия конилон Сидней да Сильва",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512406604-939425281222-braziliya-konilon-sidnei-da-silva",
+    "back": true
+   },
+   {
+    "id": "b1c4450e5f12",
+    "roaster": "bolshe",
+    "name": "Гватемала Эль Арко",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512406604-369049463183-gvatemala-el-arko",
+    "back": true
+   },
+   {
+    "id": "a684a4ec43bf",
+    "roaster": "bolshe",
+    "name": "Колумбия декаф",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512406604-586907633853-kolumbiya-dekaf",
+    "back": true
+   },
+   {
+    "id": "63f667049bea",
+    "roaster": "bolshe",
+    "name": "Колумбия Эль Дивизо Сидра",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512406604-634449326923-kolumbiya-el-divizo-sidra",
+    "back": true
+   },
+   {
+    "id": "1e40a0a21f8e",
+    "roaster": "bolshe",
+    "name": "Уганда Кавери робуста",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512406604-167874966473-uganda-kaveri-robusta",
+    "back": true
+   },
+   {
+    "id": "16006ead859b",
+    "roaster": "bolshe",
+    "name": "Эфиопия Демби",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512406604-293922762883-efiopiya-dembi",
+    "back": true
+   },
+   {
+    "id": "a8b8109e84ac",
+    "roaster": "bolshe",
+    "name": "Эфиопия Демби",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512406604-596076188903-efiopiya-dembi",
+    "back": true
+   },
+   {
+    "id": "e49b9f72d6b0",
+    "roaster": "bolshe",
+    "name": "Бразилия Суль де Минас",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/721156284-940058926032-braziliya-sul-de-minas",
+    "back": true
+   },
+   {
+    "id": "bd08dfdb0343",
+    "roaster": "bolshe",
+    "name": "Венесуэла Брисас Дель Хиль",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/721156284-312824080743-venesuela-brisas-del-hil",
+    "back": true
+   },
+   {
+    "id": "616f7d6016b0",
+    "roaster": "bolshe",
+    "name": "Папуа-Новая Гвинея Долина Вагхи",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/721156284-220242430673-papua-novaya-gvineya-dolina-vaghi",
+    "back": true
+   },
+   {
+    "id": "a850603b7f4c",
+    "roaster": "bolshe",
+    "name": "Эфиопия Дара",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/721156284-205420279471-efiopiya-dara",
+    "back": true
+   },
+   {
+    "id": "5a0738b92aee",
+    "roaster": "bolshe",
+    "name": "Перу Андрес Торрес Гейша",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/721156284-249914106453-peru-andres-torres-geisha",
+    "back": true
+   },
+   {
+    "id": "c05c4b9c57b9",
+    "roaster": "bolshe",
+    "name": "Особый лот Перу Гейша",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/527451314-758848457042-osobii-lot-peru-geisha",
+    "back": true
+   },
+   {
+    "id": "7a9a5ccbe209",
+    "roaster": "bolshe",
+    "name": "Купи Слона",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512384010-144936497873-kupi-slona",
+    "back": true
+   },
+   {
+    "id": "992d81e9188c",
+    "roaster": "bolshe",
+    "name": "Особый лот Эфиопия Демби",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512384010-386826541173-osobii-lot-efiopiya-dembi",
+    "back": true
+   },
+   {
+    "id": "8851adebf14c",
+    "roaster": "neva",
+    "name": "Кофе \"Под Молочко\"",
+    "url": "https://nevacoffee.ru/catalog/podarochnye-nabory/pod-molochko/",
+    "back": false
+   },
+   {
+    "id": "7e0f5805175b",
+    "roaster": "neva",
+    "name": "Подарочный набор «Под молочко»",
+    "url": "https://nevacoffee.ru/catalog/podarochnye-nabory/novogodniy-nabor-pod-molochko/",
+    "back": false
+   },
+   {
+    "id": "492960d59f1d",
+    "roaster": "neva",
+    "name": "Подарочный набор «100% Арабика»",
+    "url": "https://nevacoffee.ru/catalog/podarochnye-nabory/novogodniy-nabor-100-arabika/",
+    "back": false
+   },
+   {
+    "id": "9f4866268044",
+    "roaster": "neva",
+    "name": "Авторская смесь 0,25",
+    "url": "https://nevacoffee.ru/catalog/coffee/avtorskaya-smes/",
+    "back": true
+   },
+   {
+    "id": "524954c857c7",
+    "roaster": "botanica",
+    "name": "Колумбия Уайт Спайс",
+    "url": "https://botanicacoffee.ru/whitespice",
+    "back": false
+   },
+   {
+    "id": "3804c05b4893",
+    "roaster": "botanica",
+    "name": "Эфиопия Нафкот Адмасу",
+    "url": "https://botanicacoffee.ru/ethiopia-nafkot-admasu-filter",
+    "back": false
+   },
+   {
+    "id": "9aaba69b7024",
+    "roaster": "botanica",
+    "name": "Мексика Веракрус",
+    "url": "https://botanicacoffee.ru/",
+    "back": true
+   },
+   {
+    "id": "8204862e0be2",
+    "roaster": "botanica",
+    "name": "Мексика Веракрус",
+    "url": "https://botanicacoffee.ru/mexico-veracruz-espresso",
+    "back": false
+   },
+   {
+    "id": "da781f0a39c4",
+    "roaster": "botanica",
+    "name": "Эфиопия Нафкот Адмасу",
+    "url": "https://botanicacoffee.ru/ethiopia-nafkot-admasu-espresso",
+    "back": false
+   },
+   {
+    "id": "d41829adeb36",
+    "roaster": "kofeop",
+    "name": "Открывающий кофе в зернах",
+    "url": "https://kofeop.ru/catalog/otkryvayushchiy-kofe/",
+    "back": true
+   }
+  ],
+  "removed": [
+   {
+    "id": "69679dd34f7b",
+    "roaster": "bolshe",
+    "name": "Уганда Кавери робуста",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/721156284-715762879083-uganda-kaveri-robusta",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "91c8de66820b",
+    "roaster": "bolshe",
+    "name": "Эфиопия от Нафкот Амасу и женщин Гедичо",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/721156284-838573685973-efiopiya-ot-nafkot-amasu-i-zhenschin-ged",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "b921b0a9b045",
+    "roaster": "h2o",
+    "name": "Гуджи фильтр, 250 гр",
+    "url": "https://h2ocompany.ru/catalog/kofe_v_zernakh_h2o_ethiopia_gugi_filter_svezheobzharennyy_250gr/",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "d1e0f965ffc9",
+    "roaster": "h2o",
+    "name": "Основа Cream Latte Лавандовый раф",
+    "url": "https://h2ocompany.ru/catalog/vkusoaromaticheskaya_smes_cream_latte_lavandovyy_raf_0_5kg/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "6be127099d9e",
+    "roaster": "h2o",
+    "name": "Посыпка Grainy Glaze Взрывной золотой",
+    "url": "https://h2ocompany.ru/catalog/vkusoaromaticheskaya_smes_grainy_glaze_vzryvnoy_zolotoy_0_1kg/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "16bd5509ba82",
+    "roaster": "neva",
+    "name": "Кофе Aroma: ягодно-шоколадный",
+    "url": "https://nevacoffee.ru/catalog/coffee/aroma/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "0e5b622fe668",
+    "roaster": "neva",
+    "name": "Кофе City",
+    "url": "https://nevacoffee.ru/catalog/coffee/city/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "cfd82981a31c",
+    "roaster": "neva",
+    "name": "Кофе Crema",
+    "url": "https://nevacoffee.ru/catalog/coffee/crema/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "3e0931fe3f5c",
+    "roaster": "neva",
+    "name": "Кофе Espresso Classic",
+    "url": "https://nevacoffee.ru/catalog/coffee/espresso-classic/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "6465f44ddac7",
+    "roaster": "neva",
+    "name": "Кофе Intense",
+    "url": "https://nevacoffee.ru/catalog/coffee/intense/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "35f31f1a9dd1",
+    "roaster": "neva",
+    "name": "Кофе Mild",
+    "url": "https://nevacoffee.ru/catalog/coffee/mild/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "043a4e678820",
+    "roaster": "neva",
+    "name": "Кофе Night City",
+    "url": "https://nevacoffee.ru/catalog/coffee/night-city/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "4d0c9449ab08",
+    "roaster": "neva",
+    "name": "Кофе Regular",
+    "url": "https://nevacoffee.ru/catalog/coffee/regular/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "95853bda09b8",
+    "roaster": "neva",
+    "name": "Кофе Азиатское Нихао",
+    "url": "https://nevacoffee.ru/catalog/coffee/aziatskoe-nikhao/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "aa0201ca610c",
+    "roaster": "neva",
+    "name": "Кофе Африканское Сафари",
+    "url": "https://nevacoffee.ru/catalog/coffee/african-safari/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "66439cb35f5e",
+    "roaster": "neva",
+    "name": "Кофе Вьетнам Далат Темная обжарка",
+    "url": "https://nevacoffee.ru/catalog/coffee/vietnam-dalat-temnaya/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "e7979bb26c7c",
+    "roaster": "neva",
+    "name": "Кофе Вьетнам Тай Нгуен",
+    "url": "https://nevacoffee.ru/catalog/coffee/vietnam-tay-nguen/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "52ab3208a451",
+    "roaster": "neva",
+    "name": "Кофе Китай Симао Меллоу",
+    "url": "https://nevacoffee.ru/catalog/coffee/china-simao-gr1/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "bb87643f28cb",
+    "roaster": "neva",
+    "name": "Кофе Колумбия Супремо",
+    "url": "https://nevacoffee.ru/catalog/coffee/colombia-supremo/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "254e515abd7c",
+    "roaster": "neva",
+    "name": "Кофе Коста Рика Тарразу Ла Пастора",
+    "url": "https://nevacoffee.ru/catalog/coffee/costa-rica-tarrazu-la-pastora/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "894a88ed9a62",
+    "roaster": "neva",
+    "name": "Кофе Перу Амазонас",
+    "url": "https://nevacoffee.ru/catalog/coffee/arabika/peru-amazonas-gr-1/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "4cc06ce90519",
+    "roaster": "silkydrum",
+    "name": "Тайвань Роял Бин Гейша Эстейт, гейша мытая",
+    "url": "https://www.silkydrum.ru/catalog/taiwan-royal-bean-geisha-estate-washed",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "c6620fe02e59",
+    "roaster": "specialtyru",
+    "name": "Kof Эфиопия Гедео Хало Хартуме, фильтр 250 гр.",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-kof-efiopiya-gedeo-khalo-khartume-filtr-250-gr/",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "dcc70e1d1adc",
+    "roaster": "specialtyru",
+    "name": "Субмарина Бленд Команда Джейкоба, фильтр, 200 гр",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-submarina-blend-komanda-dzheykoba-filtr-200-gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "66b8beffe466",
+    "roaster": "specialtyru",
+    "name": "Субмарина Бленд Команда Эдварда, фильтр, 200 гр",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-submarina-blend-komanda-edvarda-filtr-200-gr/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "165275f991e1",
+    "roaster": "welder",
+    "name": "Перу Valle Sagrado из бочки",
+    "url": "https://theweldercatherine.ru/catalog/dlya_filtra/peru_valle_sagrado_iz_bochki/",
+    "reason": "пропал с сайта"
+   }
+  ]
  }
 ]

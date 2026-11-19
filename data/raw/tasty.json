@@ -3,10 +3,10 @@
   "id": "tasty",
   "platform": "generic",
   "items": 461,
-  "seconds": 854.6,
+  "seconds": 1335.9,
   "ok": true,
   "error": null,
-  "at": "2026-11-18T07:45:34+00:00"
+  "at": "2026-11-19T07:51:13+00:00"
  },
  "items": [
   {
@@ -2268,7 +2268,7 @@
    "variants": [
     {
      "weight_g": 250,
-     "price": 899.0,
+     "price": 939.0,
      "available": true
     }
    ]
@@ -8050,30 +8050,30 @@
    "url": "https://shop.tastycoffee.ru/coffee/espresso-guatemala-la-pila",
    "name": "Гватемала Ла Пила",
    "description": "Кофе Гватемала Ла Пила при покупке 6 пачек кофе 250 г - подарок! Оплата при получении. Кофе Гватемала в зернах - Сладкий кофе со вкусом жёлтой груши, малины, изюма и молочного шоколада",
-   "image": "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1782289008.5479-espresso-guatemala-la-pila-768.jpg",
+   "image": "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1782288789.2541-espresso-guatemala-la-pila-768.jpg",
    "category": "",
    "specs": {
     "Степень обжарки": "эспрессо",
     "Регион": "Фрайжанес",
-    "Способ обработки": "хани",
+    "Способ обработки": "натуральный фанки",
     "Высота произрастания": "1700 м",
-    "Урожай": "2023",
+    "Урожай": "2022",
     "Разновидность": "бурбон"
    },
    "gallery": [
-    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1782289008.7394-espresso-guatemala-la-pila-1024.jpg",
-    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1782289008.3975-espresso-guatemala-la-pila-480.jpg"
+    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1782288789.4025-espresso-guatemala-la-pila-1024.jpg",
+    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1782288789.0757-espresso-guatemala-la-pila-480.jpg"
    ],
    "available": false,
    "variants": [
     {
      "weight_g": 250,
-     "price": 939.0,
+     "price": 769.0,
      "available": false
     },
     {
      "weight_g": 1000,
-     "price": 3189.0,
+     "price": 2609.0,
      "available": false
     }
    ]
