@@ -3,10 +3,10 @@
   "id": "tasty",
   "platform": "generic",
   "items": 461,
-  "seconds": 1335.9,
+  "seconds": 1276.4,
   "ok": true,
   "error": null,
-  "at": "2026-11-19T07:51:13+00:00"
+  "at": "2026-11-20T07:40:28+00:00"
  },
  "items": [
   {
@@ -2129,6 +2129,33 @@
     {
      "weight_g": 100,
      "price": 869.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://shop.tastycoffee.ru/coffee/colombia-geisha-monteverde-2026",
+   "name": "Колумбия Гейша Монтеверде",
+   "description": "Колумбия Гейша Монтеверде, натуральный — купить свежеобжаренный кофе для фильтра в пачках по 250 г и 1 кг. Официальный интернет-магазин кофе и чая Tasty Coffee. Более 150 сортов кофе и чая. Купить кофе в зёрнах, молотый, кофе без кофеина можно с бесплатной доставкой по России и Москве.",
+   "image": "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1792069629.7909-colombia-geisha-monteverde-2026-front-768.jpg",
+   "category": "",
+   "specs": {
+    "Степень обжарки": "фильтр",
+    "Регион": "Толима",
+    "Способ обработки": "натуральный",
+    "Высота произрастания": "1800–2100 м",
+    "Урожай": "2026",
+    "Разновидность": "гейша"
+   },
+   "gallery": [
+    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1792069629.9092-colombia-geisha-monteverde-2026-front-1024.jpg",
+    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1792069627.6264-colombia-geisha-monteverde-2026-front-480.jpg"
+   ],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 100,
+     "price": 799.0,
      "available": true
     }
    ]
@@ -12994,30 +13021,27 @@
    "url": "https://shop.tastycoffee.ru/coffee/espresso-guatemala-lapila",
    "name": "Гватемала Ла Пила",
    "description": "Кофе Гватемала Ла Пила при покупке 6 пачек кофе 250 г - подарок! Оплата при получении. Кофе Гватемала в зернах - Сладкий кофе со вкусом жёлтой груши, малины, изюма и молочного шоколада",
-   "image": "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product/1744363272.7391-espresso-guatemala-lapila-025-768.webp",
+   "image": "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/_newpack7/esp-micro/guatemala-la-pila-250-2.png",
    "category": "",
    "specs": {
     "Степень обжарки": "эспрессо",
     "Регион": "Фрайжанес",
-    "Способ обработки": "хани",
+    "Способ обработки": "натуральный фанки",
     "Высота произрастания": "1700 м",
-    "Урожай": "2023",
+    "Урожай": "2022",
     "Разновидность": "бурбон"
    },
-   "gallery": [
-    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product/1744363274.5734-espresso-guatemala-lapila-1-768.webp",
-    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product/1744363276.0311-beans-espresso-guatemala-lapila-768.webp"
-   ],
+   "gallery": [],
    "available": false,
    "variants": [
     {
      "weight_g": 250,
-     "price": 939.0,
+     "price": 769.0,
      "available": false
     },
     {
      "weight_g": 1000,
-     "price": 3189.0,
+     "price": 2609.0,
      "available": false
     }
    ]
@@ -14123,38 +14147,6 @@
     {
      "weight_g": 1000,
      "price": 3739.0,
-     "available": false
-    }
-   ]
-  },
-  {
-   "url": "https://shop.tastycoffee.ru/coffee/costa-rica-tematica",
-   "name": "Коста-Рика Тематика",
-   "description": "Купить кофе Коста-Рика Тематика в интернет-магазине Tasty Coffee с быстрой и бесплатной доставкой",
-   "image": "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product/1764361927.6147-costa-rica-tematica-250-768.webp",
-   "category": "",
-   "specs": {
-    "Степень обжарки": "фильтр",
-    "Регион": "Ла Пастора",
-    "Способ обработки": "натуральный",
-    "Высота произрастания": "1400 м",
-    "Урожай": "2025",
-    "Разновидность": "катуаи"
-   },
-   "gallery": [
-    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product/1764361929.5943-costa-rica-tematica-1000-768.webp",
-    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product/1764361931.1167-costa-rica-tematica-beans-768.webp"
-   ],
-   "available": false,
-   "variants": [
-    {
-     "weight_g": 250,
-     "price": 1159.0,
-     "available": false
-    },
-    {
-     "weight_g": 1000,
-     "price": 3939.0,
      "available": false
     }
    ]

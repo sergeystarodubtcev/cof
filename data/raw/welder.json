@@ -3,10 +3,10 @@
   "id": "welder",
   "platform": "bitrix+generic",
   "items": 137,
-  "seconds": 1558.7,
+  "seconds": 1601.4,
   "ok": true,
   "error": null,
-  "at": "2026-11-19T07:56:16+00:00"
+  "at": "2026-11-20T07:47:30+00:00"
  },
  "items": [
   {
@@ -1595,12 +1595,12 @@
    "variants": [
     {
      "weight_g": 250,
-     "price": 1310.0,
+     "price": 1260.0,
      "available": true
     },
     {
      "weight_g": 1000,
-     "price": 3929.0,
+     "price": 3781.0,
      "available": true
     }
    ]

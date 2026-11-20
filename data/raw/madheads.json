@@ -2,11 +2,11 @@
  "status": {
   "id": "madheads",
   "platform": "generic",
-  "items": 239,
-  "seconds": 275.9,
+  "items": 241,
+  "seconds": 324.7,
   "ok": true,
   "error": null,
-  "at": "2026-11-19T07:41:25+00:00"
+  "at": "2026-11-20T07:32:13+00:00"
  },
  "items": [
   {
@@ -316,11 +316,45 @@
    ]
   },
   {
+   "url": "https://madheadscoffee.com/p/s0mgBathRk8-0b4d0283",
+   "name": "Gesha Gelan Abaya Easy Drip",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/431448/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Easydrip / Easydrip / Gesha Gelan Abaya Easy Drip / Gesha Gelan Abaya Easy Drip",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 450.0,
+     "available": true
+    }
+   ]
+  },
+  {
    "url": "https://madheadscoffee.com/p/OPooj7EsZJu-f1875ea4",
    "name": "Santa Monica Decaf Easy Drip",
    "description": "Перейдіть до каталога щоб обрати товар",
    "image": "https://api.madheadscoffee.com/cdn/s/1/p/407190/0/large.png",
    "category": "Головна / Головна / Категорії / Категорії / Easydrip / Easydrip / Santa Monica Decaf Easy Drip / Santa Monica Decaf Easy Drip",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 450.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/tGb7LOhr9w0-60c7dcab",
+   "name": "Kochere Gr2 Easy Drip",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/407189/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Easydrip / Easydrip / Kochere Gr2 Easy Drip / Kochere Gr2 Easy Drip",
    "specs": {},
    "gallery": [],
    "available": true,
@@ -3869,7 +3903,7 @@
    ]
   },
   {
-   "url": "https://madheadscoffee.com/p/cWy8Yq6YWMG",
+   "url": "https://madheadscoffee.com/p/uieEYC8GeaE",
    "name": "Керамічний пуровер Hario V60-02",
    "description": "Керамічний пуровер Hario V60-02|Ceramic purover Hario V60-02",
    "image": "https://api.madheadscoffee.com/cdn/s/1/p/131/0/large.webp",
@@ -3880,7 +3914,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 1270.0,
+     "price": 1329.0,
      "available": true
     }
    ]
@@ -3931,7 +3965,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 293.0,
+     "price": 250.0,
      "available": true
     }
    ]

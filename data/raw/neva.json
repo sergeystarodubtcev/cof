@@ -2,11 +2,11 @@
  "status": {
   "id": "neva",
   "platform": "bitrix+generic",
-  "items": 111,
-  "seconds": 2111.7,
+  "items": 107,
+  "seconds": 2128.5,
   "ok": true,
   "error": null,
-  "at": "2026-11-19T08:05:46+00:00"
+  "at": "2026-11-20T07:56:28+00:00"
  },
  "items": [
   {
@@ -474,7 +474,7 @@
   },
   {
    "url": "https://nevacoffee.ru/catalog/coffee/molotyy-kofe/?display=list&PAGEN_2=4",
-   "name": "Авторская смесь 0,25",
+   "name": "Набор дрипов в коробке",
    "description": "Натуральный молотый кофе от обжарщика. Помол подбираем под вас: для кофемашины, турки, гейзера. Кофе Арабика. Обжариваем под заказ, отправляем по России.",
    "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/CPremier/f48/0fy75qjiiqf7cdo59h4fq8zx2sao09o0.webp",
    "category": "Главная / Главная / Каталог / Каталог / Зерновой кофе / Зерновой кофе / Молотый кофе",
@@ -486,491 +486,8 @@
    "available": true,
    "variants": [
     {
-     "weight_g": null,
-     "price": 617.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
+     "weight_g": 360,
      "price": 1990.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://nevacoffee.ru/catalog/podarochnye-nabory/pod-molochko/",
-   "name": "Кофе \"Под Молочко\"",
-   "description": "Готовый подарок на Новый Год!",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/CPremier/f48/0fy75qjiiqf7cdo59h4fq8zx2sao09o0.webp",
-   "category": "Главная / Главная / Каталог / Каталог / Подарочные наборы / Подарочные наборы / Кофе \"Под Молочко\"",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 1400.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1400.0,
-     "available": false
-    },
-    {
-     "weight_g": 600,
-     "price": 1500.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2200.0,
-     "available": true
-    },
-    {
-     "weight_g": 600,
-     "price": 1500.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2200.0,
-     "available": true
-    },
-    {
-     "weight_g": 600,
-     "price": 1500.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2200.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://nevacoffee.ru/catalog/podarochnye-nabory/novogodnyaya-upakovka-dlya-kofe/",
-   "name": "Новогодняя упаковка для кофе",
-   "description": "Упакуйте любую пачку кофе 200г или 250г в подарочную обечайку.\n Четыре дизайна упаковки на выбор.",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/c91/31qk06xcww6robh9d632bpcmotx54p2c.webp",
-   "category": "Главная / Главная / Каталог / Каталог / Подарочные наборы / Подарочные наборы / Новогодняя упаковка для кофе",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 100.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 100.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
-     "price": 100.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 100.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 100.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 100.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 100.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 100.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 100.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 100.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 100.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 100.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 100.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 100.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://nevacoffee.ru/catalog/podarochnye-nabory/novogodniy-nabor-pod-molochko/",
-   "name": "Подарочный набор «Под молочко»",
-   "description": "Бразилия Суль де Минас — 150 гЭфиопия Гуджи 4 — 150 гClassic — 150 гMild — 150 гВес набора: 600 г.",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/2b1/87q7bcy7gvxbknj61c7fxbs3b25e5vaj.webp",
-   "category": "Главная / Главная / Каталог / Каталог / Подарочные наборы / Подарочные наборы / Подарочный набор «Под молочко»",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 1700.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1700.0,
-     "available": false
-    },
-    {
-     "weight_g": 600,
-     "price": 1700.0,
-     "available": true
-    },
-    {
-     "weight_g": 600,
-     "price": 1700.0,
-     "available": true
-    },
-    {
-     "weight_g": 600,
-     "price": 1700.0,
-     "available": true
-    },
-    {
-     "weight_g": 600,
-     "price": 1700.0,
-     "available": true
-    },
-    {
-     "weight_g": 600,
-     "price": 1700.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2300.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2300.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2300.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2300.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2300.0,
-     "available": true
-    },
-    {
-     "weight_g": 600,
-     "price": 1700.0,
-     "available": true
-    },
-    {
-     "weight_g": 600,
-     "price": 1700.0,
-     "available": true
-    },
-    {
-     "weight_g": 600,
-     "price": 1700.0,
-     "available": true
-    },
-    {
-     "weight_g": 600,
-     "price": 1700.0,
-     "available": true
-    },
-    {
-     "weight_g": 600,
-     "price": 1700.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2300.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2300.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2300.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2300.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2300.0,
-     "available": true
-    },
-    {
-     "weight_g": 600,
-     "price": 1700.0,
-     "available": true
-    },
-    {
-     "weight_g": 600,
-     "price": 1700.0,
-     "available": true
-    },
-    {
-     "weight_g": 600,
-     "price": 1700.0,
-     "available": true
-    },
-    {
-     "weight_g": 600,
-     "price": 1700.0,
-     "available": true
-    },
-    {
-     "weight_g": 600,
-     "price": 1700.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2300.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2300.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2300.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2300.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2300.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://nevacoffee.ru/catalog/podarochnye-nabory/novogodniy-nabor-100-arabika/",
-   "name": "Подарочный набор «100% Арабика»",
-   "description": "Колумбия Супремо — 150 гАфриканское сафари — 150 гЭфиопия Гуджи 4 — 150 гБразилия Суль де Минас — 150 гВес набора: 600 г.",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/de4/zsp3e8vscf28g3aptgbipwyy7ali6sa8.webp",
-   "category": "Главная / Главная / Каталог / Каталог / Подарочные наборы / Подарочные наборы / Подарочный набор «100% Арабика»",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 1780.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1780.0,
-     "available": false
-    },
-    {
-     "weight_g": 600,
-     "price": 1780.0,
-     "available": true
-    },
-    {
-     "weight_g": 600,
-     "price": 1780.0,
-     "available": true
-    },
-    {
-     "weight_g": 600,
-     "price": 1780.0,
-     "available": true
-    },
-    {
-     "weight_g": 600,
-     "price": 1780.0,
-     "available": true
-    },
-    {
-     "weight_g": 600,
-     "price": 1780.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2450.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2450.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2450.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2450.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2450.0,
-     "available": true
-    },
-    {
-     "weight_g": 600,
-     "price": 1780.0,
-     "available": true
-    },
-    {
-     "weight_g": 600,
-     "price": 1780.0,
-     "available": true
-    },
-    {
-     "weight_g": 600,
-     "price": 1780.0,
-     "available": true
-    },
-    {
-     "weight_g": 600,
-     "price": 1780.0,
-     "available": true
-    },
-    {
-     "weight_g": 600,
-     "price": 1780.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2450.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2450.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2450.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2450.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2450.0,
-     "available": true
-    },
-    {
-     "weight_g": 600,
-     "price": 1780.0,
-     "available": true
-    },
-    {
-     "weight_g": 600,
-     "price": 1780.0,
-     "available": true
-    },
-    {
-     "weight_g": 600,
-     "price": 1780.0,
-     "available": true
-    },
-    {
-     "weight_g": 600,
-     "price": 1780.0,
-     "available": true
-    },
-    {
-     "weight_g": 600,
-     "price": 1780.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2450.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2450.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2450.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2450.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2450.0,
      "available": true
     }
    ]
@@ -2883,23 +2400,6 @@
    ]
   },
   {
-   "url": "https://nevacoffee.ru/catalog/coffee/arabika/peru-amazonas-gr-1/",
-   "name": "Амазонас 250 гр",
-   "description": "",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/resize_cache/iblock/6ee/2000_2000_140cd750bba9870f18aada2478b24840a/zl5zmy0jk5dotyshebgq0elq7x73rw2q.webp",
-   "category": "",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": 250,
-     "price": 688.0,
-     "available": true
-    }
-   ]
-  },
-  {
    "url": "https://nevacoffee.ru/catalog/coffee/indoneziya-sumatra/",
    "name": "Индонезия Суматра 200 гр (фильтр)",
    "description": "",
@@ -2917,10 +2417,10 @@
    ]
   },
   {
-   "url": "https://nevacoffee.ru/catalog/coffee/colombia-dulima/",
-   "name": "Колумбия Дулима 250 гр",
+   "url": "https://nevacoffee.ru/catalog/coffee/arabika/peru-amazonas-gr-1/",
+   "name": "Амазонас 250 гр",
    "description": "",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/resize_cache/iblock/e59/2000_2000_140cd750bba9870f18aada2478b24840a/f4bhgmj3ikmrj6aako5r071evbfdc80b.webp",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/resize_cache/iblock/6ee/2000_2000_140cd750bba9870f18aada2478b24840a/zl5zmy0jk5dotyshebgq0elq7x73rw2q.webp",
    "category": "",
    "specs": {},
    "gallery": [],
@@ -2928,8 +2428,25 @@
    "variants": [
     {
      "weight_g": 250,
-     "price": 750.0,
+     "price": 688.0,
      "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/colombia-dulima/",
+   "name": "Колумбия Дулима 250 гр",
+   "description": "",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/resize_cache/iblock/e59/2000_2000_140cd750bba9870f18aada2478b24840a/f4bhgmj3ikmrj6aako5r071evbfdc80b.webp",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 750.0,
+     "available": false
     }
    ]
   },
