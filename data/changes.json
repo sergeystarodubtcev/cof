@@ -18036,5 +18036,1573 @@
     "reason": "нет в наличии"
    }
   ]
+ },
+ {
+  "at": "2026-11-21T07:51:29+00:00",
+  "added": [
+   {
+    "id": "ac217073a822",
+    "roaster": "tasty",
+    "name": "Батч-Брю Африка",
+    "url": "https://shop.tastycoffee.ru/coffee/batch-brew-africa-2026",
+    "back": false
+   },
+   {
+    "id": "d6c0cb086c59",
+    "roaster": "tasty",
+    "name": "Колумбия Сидра Эдинсон Арготе",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-sidra-edinson-argote",
+    "back": false
+   },
+   {
+    "id": "604339fc931d",
+    "roaster": "tasty",
+    "name": "Руанда Ньямашеке",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-rwanda-nyamasheke-2026",
+    "back": false
+   },
+   {
+    "id": "c73607be4f57",
+    "roaster": "tasty",
+    "name": "Колумбия Стриппд Бурбон Лас-Брисас",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-stripped-bourbon-las-brisas",
+    "back": false
+   },
+   {
+    "id": "15d8eff78079",
+    "roaster": "tasty",
+    "name": "Эфиопия Мукера 200 часов",
+    "url": "https://shop.tastycoffee.ru/coffee/fermentirovannyi-kofe?page=3",
+    "back": true
+   },
+   {
+    "id": "ac0e260ace24",
+    "roaster": "triptych",
+    "name": "Кения Киангундо",
+    "url": "https://triptychcoffee.com/filter/tproduct/545514471363-keniya-kiangundo",
+    "back": false
+   },
+   {
+    "id": "547cb35deb85",
+    "roaster": "triptych",
+    "name": "Кения Барагви",
+    "url": "https://triptychcoffee.com/filter/tproduct/307184451383-keniya-baragvi",
+    "back": false
+   },
+   {
+    "id": "086a6de2c799",
+    "roaster": "triptych",
+    "name": "Кения Гичерори",
+    "url": "https://triptychcoffee.com/filter/tproduct/689544076993-keniya-gicherori",
+    "back": false
+   },
+   {
+    "id": "ccc942e1d08c",
+    "roaster": "triptych",
+    "name": "Эфиопия Йемасера",
+    "url": "https://triptychcoffee.com/filter/tproduct/460426252243-efiopiya-iemasera",
+    "back": false
+   },
+   {
+    "id": "ff2f7cad3940",
+    "roaster": "triptych",
+    "name": "Гватемала Атитлан",
+    "url": "https://triptychcoffee.com/filter/tproduct/624107778333-gvatemala-atitlan",
+    "back": false
+   },
+   {
+    "id": "a70ab93e8ab3",
+    "roaster": "triptych",
+    "name": "Индонезия Манделинг",
+    "url": "https://triptychcoffee.com/filter/tproduct/834592373493-indoneziya-mandeling",
+    "back": false
+   },
+   {
+    "id": "f82ceb582596",
+    "roaster": "triptych",
+    "name": "Колумбия Маурисио Хименес",
+    "url": "https://triptychcoffee.com/espresso/tproduct/385504162303-kolumbiya-maurisio-himenes",
+    "back": false
+   },
+   {
+    "id": "8fc2e731f3f2",
+    "roaster": "triptych",
+    "name": "Никарагуа Матагальпа",
+    "url": "https://triptychcoffee.com/espresso/tproduct/849283885553-nikaragua-matagalpa",
+    "back": false
+   },
+   {
+    "id": "44e5419d9e04",
+    "roaster": "triptych",
+    "name": "БАТЧ-БРЮ",
+    "url": "https://triptychcoffee.com/filter/tproduct/911948725213-batch-bryu",
+    "back": false
+   },
+   {
+    "id": "5ea8cd81ef82",
+    "roaster": "triptych",
+    "name": "Гватемала Ла Лагуна",
+    "url": "https://triptychcoffee.com/filter/tproduct/168181105983-gvatemala-la-laguna",
+    "back": false
+   },
+   {
+    "id": "69bd4dea0c30",
+    "roaster": "triptych",
+    "name": "Гватемала Пампохила",
+    "url": "https://triptychcoffee.com/filter/tproduct/603493344543-gvatemala-pampohila",
+    "back": false
+   },
+   {
+    "id": "279c9ffc270b",
+    "roaster": "triptych",
+    "name": "Колумбия Перископ Лот 1",
+    "url": "https://triptychcoffee.com/filter/tproduct/391482519203-kolumbiya-periskop-lot-1",
+    "back": false
+   },
+   {
+    "id": "47558068b370",
+    "roaster": "triptych",
+    "name": "Колумбия Перископ Лот 2",
+    "url": "https://triptychcoffee.com/filter/tproduct/918976287313-kolumbiya-periskop-lot-2",
+    "back": false
+   },
+   {
+    "id": "0c139289bc0a",
+    "roaster": "triptych",
+    "name": "Колумбия Ла Парада",
+    "url": "https://triptychcoffee.com/filter/tproduct/443493263423-kolumbiya-la-parada",
+    "back": false
+   },
+   {
+    "id": "4d494d6ca016",
+    "roaster": "triptych",
+    "name": "Колумбия Де Ла Тьеррита",
+    "url": "https://triptychcoffee.com/filter/tproduct/838350022363-kolumbiya-de-la-territa",
+    "back": false
+   },
+   {
+    "id": "5432dbcb3bc7",
+    "roaster": "triptych",
+    "name": "Руанда Гашару",
+    "url": "https://triptychcoffee.com/filter/tproduct/159685644103-ruanda-gasharu",
+    "back": false
+   },
+   {
+    "id": "171977bd803e",
+    "roaster": "triptych",
+    "name": "Руанда Нова",
+    "url": "https://triptychcoffee.com/filter/tproduct/448699047043-ruanda-nova",
+    "back": false
+   },
+   {
+    "id": "43587b484713",
+    "roaster": "triptych",
+    "name": "Уганда Кигези",
+    "url": "https://triptychcoffee.com/filter/tproduct/331778199213-uganda-kigezi",
+    "back": false
+   },
+   {
+    "id": "a8346fd793ee",
+    "roaster": "triptych",
+    "name": "Уганда Мугиси",
+    "url": "https://triptychcoffee.com/filter/tproduct/180212344083-uganda-mugisi",
+    "back": false
+   },
+   {
+    "id": "a7dac943ad1a",
+    "roaster": "triptych",
+    "name": "Кения Кабингара",
+    "url": "https://triptychcoffee.com/filter/tproduct/246152339703-keniya-kabingara",
+    "back": false
+   },
+   {
+    "id": "8b4699c5f059",
+    "roaster": "triptych",
+    "name": "Эфиопия Билоя",
+    "url": "https://triptychcoffee.com/filter/tproduct/239049604423-efiopiya-biloya",
+    "back": false
+   },
+   {
+    "id": "4b09df5e47be",
+    "roaster": "triptych",
+    "name": "Колумбия Карлос Плаза",
+    "url": "https://triptychcoffee.com/filter/tproduct/253587430853-kolumbiya-karlos-plaza",
+    "back": false
+   },
+   {
+    "id": "ce55861f4f61",
+    "roaster": "triptych",
+    "name": "Колумбия Монтебланко",
+    "url": "https://triptychcoffee.com/filter/tproduct/336162424623-kolumbiya-monteblanko",
+    "back": false
+   },
+   {
+    "id": "02b56cf21cc8",
+    "roaster": "triptych",
+    "name": "Колумбия Родриго Санчес Валенсия Гейша",
+    "url": "https://triptychcoffee.com/filter/tproduct/985526092073-kolumbiya-rodrigo-sanches-valensiya-geis",
+    "back": false
+   },
+   {
+    "id": "ceaab66e521f",
+    "roaster": "triptych",
+    "name": "Колумбия Эль Дивизио",
+    "url": "https://triptychcoffee.com/filter/tproduct/432957806993-kolumbiya-el-divizio",
+    "back": false
+   },
+   {
+    "id": "0abdb9089b43",
+    "roaster": "triptych",
+    "name": "Бразилия Госто",
+    "url": "https://triptychcoffee.com/espresso/tproduct/167871795463-braziliya-gosto",
+    "back": false
+   },
+   {
+    "id": "0aa9ca7e2fae",
+    "roaster": "triptych",
+    "name": "Эфиопия Гуджи",
+    "url": "https://triptychcoffee.com/espresso/tproduct/299322650093-efiopiya-gudzhi",
+    "back": false
+   },
+   {
+    "id": "763031b4d13e",
+    "roaster": "triptych",
+    "name": "Эфиопия Дара",
+    "url": "https://triptychcoffee.com/espresso/tproduct/330990616933-efiopiya-dara",
+    "back": false
+   },
+   {
+    "id": "269ad061bd25",
+    "roaster": "triptych",
+    "name": "Конго Киву",
+    "url": "https://triptychcoffee.com/espresso/tproduct/931030880663-kongo-kivu",
+    "back": false
+   },
+   {
+    "id": "e95f196af595",
+    "roaster": "triptych",
+    "name": "Платок в коробке. Йемасера",
+    "url": "https://triptychcoffee.com/tproduct/891179173343-platok-v-korobke-iemasera",
+    "back": false
+   },
+   {
+    "id": "eae769ac003b",
+    "roaster": "triptych",
+    "name": "Колумбия Эль Вергель марагейша",
+    "url": "https://triptychcoffee.com/perfectionism/tproduct/151747181463-kolumbiya-el-vergel-marageisha",
+    "back": false
+   },
+   {
+    "id": "36ff952da0c4",
+    "roaster": "triptych",
+    "name": "Колумбия Эль Вергель папайо",
+    "url": "https://triptychcoffee.com/perfectionism/tproduct/840287898453-kolumbiya-el-vergel-papaio",
+    "back": false
+   },
+   {
+    "id": "9143dd56ba47",
+    "roaster": "triptych",
+    "name": "Йемен Аль Хайма",
+    "url": "https://triptychcoffee.com/perfectionism/tproduct/333540958543-iemen-al-haima",
+    "back": false
+   },
+   {
+    "id": "f2f5c2d4dbad",
+    "roaster": "triptych",
+    "name": "Йемен Харази",
+    "url": "https://triptychcoffee.com/perfectionism/tproduct/272219336663-iemen-harazi",
+    "back": false
+   },
+   {
+    "id": "9d2cf7c011f8",
+    "roaster": "triptych",
+    "name": "Колумбия Рохас",
+    "url": "https://triptychcoffee.com/perfectionism/tproduct/808267402763-kolumbiya-rohas",
+    "back": false
+   },
+   {
+    "id": "70352bedb7d3",
+    "roaster": "torrefacto",
+    "name": "Вьетнам робуста Голубой дракон\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/vietnam-robusta/",
+    "back": true
+   },
+   {
+    "id": "2078bdb61be7",
+    "roaster": "torrefacto",
+    "name": "Никарагуа пакамара Ла-Бендисьон\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/nicaragua-pacamara/",
+    "back": true
+   },
+   {
+    "id": "b1da946a6130",
+    "roaster": "torrefacto",
+    "name": "Сальвадор Буэна-Виста\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/salvador-buena-vista/",
+    "back": true
+   },
+   {
+    "id": "6e22280d4dee",
+    "roaster": "torrefacto",
+    "name": "Уганда Сипи Фоллз\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/uganda-sipi-falls/",
+    "back": true
+   },
+   {
+    "id": "989e2b3d0262",
+    "roaster": "torrefacto",
+    "name": "Кения Харака\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/kenya_haraka/",
+    "back": true
+   },
+   {
+    "id": "fa3e7ed50986",
+    "roaster": "torrefacto",
+    "name": "Мексика Гваделупе Заху\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/mexico/",
+    "back": true
+   },
+   {
+    "id": "27817d62ec94",
+    "roaster": "torrefacto",
+    "name": "Папуа-Новая Гвинея Сигри\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/papua-new-guinea-sigri/",
+    "back": true
+   },
+   {
+    "id": "0173fc7e754d",
+    "roaster": "torrefacto",
+    "name": "Бурунди Бужумбура\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/burundi-bujumbura/",
+    "back": true
+   },
+   {
+    "id": "5dcd3158d2cf",
+    "roaster": "torrefacto",
+    "name": "Колумбия Супремо Уила\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/colombia-supremo/",
+    "back": true
+   },
+   {
+    "id": "3d670faddd59",
+    "roaster": "torrefacto",
+    "name": "Йемен Матари\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/yemen-matari/",
+    "back": true
+   },
+   {
+    "id": "35d75909f980",
+    "roaster": "torrefacto",
+    "name": "Гондурас Сан-Маркос\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/honduras-san-marcos/",
+    "back": true
+   },
+   {
+    "id": "d0ad3e4e76f3",
+    "roaster": "torrefacto",
+    "name": "Вьетнам Далат\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/vietnam-dalat/",
+    "back": true
+   },
+   {
+    "id": "302431b5867c",
+    "roaster": "torrefacto",
+    "name": "Эфиопия Харрар\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/ethiopia-harrar/",
+    "back": true
+   },
+   {
+    "id": "bd21ff04702f",
+    "roaster": "torrefacto",
+    "name": "Кения Ньери Тамбайя\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/kenya-nyeri-tambaya/",
+    "back": true
+   },
+   {
+    "id": "b0b462a8c6bb",
+    "roaster": "torrefacto",
+    "name": "Кения Ньери Гатомбойя\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/kenya-nyeri-gatomboya/",
+    "back": true
+   },
+   {
+    "id": "40106b1de086",
+    "roaster": "torrefacto",
+    "name": "Коста-Рика Брумас-дель-Зурки\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/costa-rica-brumas-del-zurqui/",
+    "back": true
+   },
+   {
+    "id": "f1c00b245f17",
+    "roaster": "torrefacto",
+    "name": "Коста-Рика Гейша Уошд\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/costa-rica-geisha-washed/",
+    "back": true
+   },
+   {
+    "id": "5d7c3ad20081",
+    "roaster": "torrefacto",
+    "name": "Коста-Рика Гейша Уайни\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/costa-rica-geisha-winey/",
+    "back": true
+   },
+   {
+    "id": "993c460bde9a",
+    "roaster": "torrefacto",
+    "name": "Коста-Рика гейша хани\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/costa-rica-geisha-honey/",
+    "back": true
+   },
+   {
+    "id": "1ae8f90f4119",
+    "roaster": "torrefacto",
+    "name": "Эфиопия Лиму Кемиссе\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/ethiopia-limu-kemisse/",
+    "back": true
+   },
+   {
+    "id": "66b3619cb543",
+    "roaster": "torrefacto",
+    "name": "Эфиопия Каффа Сахама\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/ethiopia-kaffa-sahama/",
+    "back": true
+   },
+   {
+    "id": "55fc089d67de",
+    "roaster": "torrefacto",
+    "name": "Эфиопия Иргачеффе Кочере\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/ethiopia-yrgacheffe-kochere/",
+    "back": true
+   },
+   {
+    "id": "efa7af526bc2",
+    "roaster": "torrefacto",
+    "name": "Карузо\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/caruso/",
+    "back": true
+   },
+   {
+    "id": "d067244ec1a1",
+    "roaster": "torrefacto",
+    "name": "Тосканини\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/toscanini/",
+    "back": true
+   },
+   {
+    "id": "04228c53174c",
+    "roaster": "torrefacto",
+    "name": "Панама финка Элета\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/panama-finca-eleta/",
+    "back": true
+   },
+   {
+    "id": "ccc5e92a1b0c",
+    "roaster": "torrefacto",
+    "name": "Кения Кии\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/kenya-kii/",
+    "back": true
+   },
+   {
+    "id": "f471e8753a4e",
+    "roaster": "torrefacto",
+    "name": "Эфиопия Сидамо Нефас\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/ethiopia-sidamo-nefas/",
+    "back": true
+   },
+   {
+    "id": "b043cb97b2fe",
+    "roaster": "torrefacto",
+    "name": "Индонезия Суматра Блю Батак\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/indonesia-sumatra-blue-batak/",
+    "back": true
+   },
+   {
+    "id": "3b48d57d8912",
+    "roaster": "torrefacto",
+    "name": "Куба Альтура\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/cuba-altura/",
+    "back": true
+   },
+   {
+    "id": "badc7819163c",
+    "roaster": "torrefacto",
+    "name": "Йемен Исмаили\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/yemen-ismaili/",
+    "back": true
+   },
+   {
+    "id": "ec0da972c218",
+    "roaster": "torrefacto",
+    "name": "Йемен Харази\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/yemen-harazi/",
+    "back": true
+   },
+   {
+    "id": "c99a0ee6a519",
+    "roaster": "torrefacto",
+    "name": "Колумбия Каука Попаян Тейблленд\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/colombia-cauca-popayan-tableland/",
+    "back": true
+   },
+   {
+    "id": "1f82cdd8bfd7",
+    "roaster": "torrefacto",
+    "name": "Эфиопия Иргачеффе Колиша\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/ethiopia-yrgacheffe-kolisha/",
+    "back": true
+   },
+   {
+    "id": "5b69541dfe00",
+    "roaster": "torrefacto",
+    "name": "Кабо-Верде сухой\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/cabo-verde-natural/",
+    "back": true
+   },
+   {
+    "id": "751242dae3c5",
+    "roaster": "torrefacto",
+    "name": "Непал Маунт Эверест\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/nepal-mount-everest/",
+    "back": true
+   },
+   {
+    "id": "5102914c8a18",
+    "roaster": "torrefacto",
+    "name": "Бурунди Киримиро\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/burundi-kirimiro/",
+    "back": true
+   },
+   {
+    "id": "54102a9b0de9",
+    "roaster": "torrefacto",
+    "name": "Эфиопия Конга Седе\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/ethiopia-konga-sede/",
+    "back": true
+   },
+   {
+    "id": "4ed5c8dde6c8",
+    "roaster": "torrefacto",
+    "name": "Гватемала Фрайханес Идолия\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/guatemala-fraijanes-idolia/",
+    "back": true
+   },
+   {
+    "id": "3ac5af550e60",
+    "roaster": "torrefacto",
+    "name": "Гватемала маракатурра Эль-Сокорро\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/guatemala-maracaturra-el-soccoro/",
+    "back": true
+   },
+   {
+    "id": "998139ed7316",
+    "roaster": "torrefacto",
+    "name": "Эфиопия Иргачеффе Нотс фэмили\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/ethiopia-yrgacheffe-knots/",
+    "back": true
+   },
+   {
+    "id": "51f98a8fdb91",
+    "roaster": "torrefacto",
+    "name": "Кабо-Верде мытый\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/kabo-verde-washed/",
+    "back": true
+   },
+   {
+    "id": "56d5654caee3",
+    "roaster": "torrefacto",
+    "name": "Эфиопия Гуджи Савана\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/ethiopia-guji-sawana/",
+    "back": true
+   },
+   {
+    "id": "040e3fe69bfd",
+    "roaster": "torrefacto",
+    "name": "Кения Ньери Кабируини\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/kenya-nyeri-kabiruini/",
+    "back": true
+   },
+   {
+    "id": "96fefc75d6b1",
+    "roaster": "torrefacto",
+    "name": "Колумбия Уила Гуакакайо\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/colombia-huila-guacacayo/",
+    "back": true
+   },
+   {
+    "id": "a5fa7df0302c",
+    "roaster": "torrefacto",
+    "name": "Колумбия Антьокия Ла-Хойерия\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/colombia-antioquia-la-joyeria/",
+    "back": true
+   },
+   {
+    "id": "0eaa1dd3deb1",
+    "roaster": "torrefacto",
+    "name": "Кения Ньери Камоко\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/kenya-nyeri-kamoko/",
+    "back": true
+   },
+   {
+    "id": "7a177c936fe1",
+    "roaster": "torrefacto",
+    "name": "Перу\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/peru/",
+    "back": true
+   },
+   {
+    "id": "b495fc77ccf8",
+    "roaster": "torrefacto",
+    "name": "Бразилия Сантос 17/18\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/brazil-santos-17-18/",
+    "back": true
+   },
+   {
+    "id": "8cde794e74bb",
+    "roaster": "torrefacto",
+    "name": "Эфиопия Амхара 4 Айеху\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/ethiopia-amhara-ayehu-gr4/",
+    "back": true
+   },
+   {
+    "id": "5aa3e10b8a9f",
+    "roaster": "torrefacto",
+    "name": "Эфиопия Сидамо Шилчо\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/ethiopia-sidamo-shilcho/",
+    "back": true
+   },
+   {
+    "id": "373729586ee1",
+    "roaster": "torrefacto",
+    "name": "Панама Бокете Каса Руис\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/panama-boquete-casa-ruiz/",
+    "back": true
+   },
+   {
+    "id": "8e7420fdca5e",
+    "roaster": "torrefacto",
+    "name": "Гватемала Антигуа Санта-Клара\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/guatemala-antigua-santa-clara/",
+    "back": true
+   },
+   {
+    "id": "0098dac54213",
+    "roaster": "torrefacto",
+    "name": "Эль-Сальвадор финка Ла-Фани\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/el-salvador-finca-la-fany/",
+    "back": true
+   },
+   {
+    "id": "5dafa171ecf8",
+    "roaster": "torrefacto",
+    "name": "Бразилия Пиньериньо\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/brazil-pinheirinho/",
+    "back": true
+   },
+   {
+    "id": "0fbdb082e3d0",
+    "roaster": "torrefacto",
+    "name": "Индонезия Суматра Манделинг\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/indonesia-sumatra-mandheling/",
+    "back": true
+   },
+   {
+    "id": "8e02c4ed2b88",
+    "roaster": "torrefacto",
+    "name": "Эфиопия Иргачеффе Реко\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/ethiopia-yirgacheffe-reko/",
+    "back": true
+   },
+   {
+    "id": "4060c78d9157",
+    "roaster": "torrefacto",
+    "name": "Гватемала Платанийо Ежипто\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/guatemala-platanillo-egipto/",
+    "back": true
+   },
+   {
+    "id": "4e2803f0dcef",
+    "roaster": "torrefacto",
+    "name": "Мексика Чьяпас\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/mexico-chiapas-finca-montegrande/",
+    "back": true
+   },
+   {
+    "id": "96a2dac9969d",
+    "roaster": "torrefacto",
+    "name": "Вьетнам Далат 13/15\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/vietnam-dalat-13-15/",
+    "back": true
+   },
+   {
+    "id": "d5967b15f70a",
+    "roaster": "torrefacto",
+    "name": "Бразилия Сантос 14/16\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/brazil-santos-14-16/",
+    "back": true
+   },
+   {
+    "id": "0464b10ab235",
+    "roaster": "torrefacto",
+    "name": "Бразилия Ситьо-да-Торре\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/brazil-sitio-da-torre/",
+    "back": true
+   },
+   {
+    "id": "3356e2cb97ad",
+    "roaster": "torrefacto",
+    "name": "Гондурас Оксиденте\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/hoduras-occidente/",
+    "back": true
+   },
+   {
+    "id": "3f5aba55d4ea",
+    "roaster": "torrefacto",
+    "name": "Коста-Рика асьенда Валерио\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/costa-rica-juan-carlos-valerio/",
+    "back": true
+   },
+   {
+    "id": "18d781eeaacb",
+    "roaster": "torrefacto",
+    "name": "Индонезия Суматра Вахана Истейт\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/indonesia-sumatra-wahana-estate/",
+    "back": true
+   },
+   {
+    "id": "f3f1cb442339",
+    "roaster": "torrefacto",
+    "name": "Танзания Блекберн Истейт мытый\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/tanzania-blackburn-estate/",
+    "back": true
+   },
+   {
+    "id": "a64448282cb0",
+    "roaster": "torrefacto",
+    "name": "Кения Ньери Захабу\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/kenya-nyeri-zahabu/",
+    "back": true
+   },
+   {
+    "id": "37eb0724e0b0",
+    "roaster": "torrefacto",
+    "name": "Колумбия Уила Монтебонито\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/colombia-huila-montebonito/",
+    "back": true
+   },
+   {
+    "id": "31b7c8108256",
+    "roaster": "torrefacto",
+    "name": "Индия Литл Флауэр\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/india-little-flower/",
+    "back": true
+   },
+   {
+    "id": "fa1da214222f",
+    "roaster": "torrefacto",
+    "name": "Эль-Сальвадор Каскара Джей Хилл\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/el-salvador-j-hill-cascara/",
+    "back": true
+   },
+   {
+    "id": "64911fc66fce",
+    "roaster": "torrefacto",
+    "name": "Индия робуста Пачмент\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/india-robusta-parchment/",
+    "back": true
+   },
+   {
+    "id": "abe967003612",
+    "roaster": "torrefacto",
+    "name": "Эль-Сальвадор Ла-Дивина-Провиденсия\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/el-salvador-la-divina-providencia/",
+    "back": true
+   },
+   {
+    "id": "1b90ab83b19c",
+    "roaster": "torrefacto",
+    "name": "Бразилия Сантос 19\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/brazil-santos-19/",
+    "back": true
+   },
+   {
+    "id": "c90c82221c54",
+    "roaster": "torrefacto",
+    "name": "Колумбия Антьокия финка Сан-Паскуаль\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/colombia-antioquia-san-pascual/",
+    "back": true
+   },
+   {
+    "id": "05eed0d10c4d",
+    "roaster": "torrefacto",
+    "name": "Эфиопия Иргачеффе Арамо сухой\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/ethiopia-yirgacheffe-aramo/",
+    "back": true
+   },
+   {
+    "id": "7a04f8e0737a",
+    "roaster": "torrefacto",
+    "name": "Эфиопия Лиму Элеана\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/ethiopia-limu-heleanna/",
+    "back": true
+   },
+   {
+    "id": "fab2e5819b0c",
+    "roaster": "torrefacto",
+    "name": "Боливия Каскара\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/bolivia-cascara/",
+    "back": true
+   },
+   {
+    "id": "93441af86d88",
+    "roaster": "torrefacto",
+    "name": "Уганда Другар\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/uganda-drugar/",
+    "back": true
+   },
+   {
+    "id": "9faff56cf097",
+    "roaster": "torrefacto",
+    "name": "Эфиопия Сидамо Хункуте\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/ethiopia-sidamo-hunkute/",
+    "back": true
+   },
+   {
+    "id": "1404d7307160",
+    "roaster": "torrefacto",
+    "name": "Кения Игута\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/kenya-igutha/",
+    "back": true
+   },
+   {
+    "id": "dcdcdd358ddb",
+    "roaster": "torrefacto",
+    "name": "Кения Киамарига\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/kenya-kiamariga/",
+    "back": true
+   },
+   {
+    "id": "584b49e7d98d",
+    "roaster": "torrefacto",
+    "name": "Индонезия Сулавеси\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/indonesia-sulawesi/",
+    "back": true
+   },
+   {
+    "id": "605e04ca0c06",
+    "roaster": "torrefacto",
+    "name": "Эль-Сальвадор Джей Хилл хани\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/el-salvador-j-hill-honey/",
+    "back": true
+   },
+   {
+    "id": "7debdaafa90c",
+    "roaster": "torrefacto",
+    "name": "Уганда Бугису\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/uganda-bugisu/",
+    "back": true
+   },
+   {
+    "id": "4835d1c356f5",
+    "roaster": "torrefacto",
+    "name": "Эфиопия Гуджи Сасаба\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/ethiopia-guji-sasaba/",
+    "back": true
+   },
+   {
+    "id": "3c2fb6ff469e",
+    "roaster": "torrefacto",
+    "name": "Доминикана Бараона\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/dominicana-barahona/",
+    "back": true
+   },
+   {
+    "id": "60d83254a121",
+    "roaster": "torrefacto",
+    "name": "Бурунди Киримиро Махонда\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/burundi-mahonda/",
+    "back": true
+   },
+   {
+    "id": "3c513d2ebe0c",
+    "roaster": "torrefacto",
+    "name": "Индонезия Суматра Гайо Мандири\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/indonesia-sumatra-gayo-mandiri/",
+    "back": true
+   },
+   {
+    "id": "3bea17a5a923",
+    "roaster": "torrefacto",
+    "name": "Бурунди Киримиро Кибунгере\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/burundi-kibungere/",
+    "back": true
+   },
+   {
+    "id": "61a84f0a6133",
+    "roaster": "torrefacto",
+    "name": "Колумбия Антьокия Супремо\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/colombia-antioquia-supremo/",
+    "back": true
+   },
+   {
+    "id": "af7724d31f79",
+    "roaster": "torrefacto",
+    "name": "Бразилия Можиана\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/brazil-mogiana/",
+    "back": true
+   },
+   {
+    "id": "73878181b1ea",
+    "roaster": "torrefacto",
+    "name": "Никарагуа Марагоджип\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/nicaragua-maragogype/",
+    "back": true
+   },
+   {
+    "id": "866dba721c4a",
+    "roaster": "torrefacto",
+    "name": "Куба Серрано\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/cuba-serrano/",
+    "back": true
+   },
+   {
+    "id": "39bdf148ca32",
+    "roaster": "torrefacto",
+    "name": "Танзания Блекберн Истейт сухой\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/tanzania-blackburn-estate-/",
+    "back": true
+   },
+   {
+    "id": "94659a18cefb",
+    "roaster": "torrefacto",
+    "name": "Руанда Нгома\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/rwanda-ngoma/",
+    "back": true
+   },
+   {
+    "id": "077d399cda8a",
+    "roaster": "torrefacto",
+    "name": "Эфиопия Гуджи Мормисо\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/ethiopia-guji-mormiso/",
+    "back": true
+   },
+   {
+    "id": "4e4fc55fb098",
+    "roaster": "torrefacto",
+    "name": "Бразилия желтый маракатуаи фазенда Бау\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/brazil-maracatuai-bau/",
+    "back": true
+   },
+   {
+    "id": "7fa84df84163",
+    "roaster": "torrefacto",
+    "name": "Бразилия Ипанема Руби\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/brazil-ipanema-rubi/",
+    "back": true
+   },
+   {
+    "id": "c3ef40631b0a",
+    "roaster": "torrefacto",
+    "name": "Кения АБ\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/kenya-ab/",
+    "back": true
+   },
+   {
+    "id": "7101d8b07d6b",
+    "roaster": "torrefacto",
+    "name": "Никарагуа Ройял\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/nicaragua-royal/",
+    "back": true
+   },
+   {
+    "id": "1f21abc283e4",
+    "roaster": "torrefacto",
+    "name": "Индонезия Ява Джампит\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/indonesia-java-jampit/",
+    "back": true
+   },
+   {
+    "id": "b88f73efa23a",
+    "roaster": "torrefacto",
+    "name": "Индия Плантейшн Бабабудан\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/india-plantation-bababudan/",
+    "back": true
+   },
+   {
+    "id": "dde48027cea5",
+    "roaster": "torrefacto",
+    "name": "Гватемала Фэнси\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/guatemala-fancy/",
+    "back": true
+   },
+   {
+    "id": "f88990bdc682",
+    "roaster": "torrefacto",
+    "name": "Эфиопия Гуджи Гурачу\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/ethiopia-guji-gurachu/",
+    "back": true
+   },
+   {
+    "id": "9457b1d6b5ac",
+    "roaster": "torrefacto",
+    "name": "Эфиопия Иргачеффе сухой\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/ethiopia-yirgacheffe-4/",
+    "back": true
+   },
+   {
+    "id": "97d69d0875ef",
+    "roaster": "torrefacto",
+    "name": "Кения Гичатаини\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/kenya-gichathaini/",
+    "back": true
+   },
+   {
+    "id": "9904bdb29e05",
+    "roaster": "torrefacto",
+    "name": "Гватемала Ла-Эсмеральда\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/guatemala-la-esmeralda/",
+    "back": true
+   },
+   {
+    "id": "0f759a5a890e",
+    "roaster": "torrefacto",
+    "name": "Колумбия Ла-Фортуна Кап оф Экселленс 2015 №9\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/colombia-la-fortuna/",
+    "back": true
+   },
+   {
+    "id": "5496be09cda1",
+    "roaster": "torrefacto",
+    "name": "Эфиопия Иргачеффе Черенет\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/ethiopia-yirgacheffe-cherenet/",
+    "back": true
+   },
+   {
+    "id": "da40745e80b8",
+    "roaster": "torrefacto",
+    "name": "Коста-Рика Херардо Варгас\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/costa-rica-gerardo-vargas/",
+    "back": true
+   },
+   {
+    "id": "46a27a4a682b",
+    "roaster": "torrefacto",
+    "name": "Эль-Сальвадор финка Санта-Аделаида\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/el-salvador-santa-adelaida/",
+    "back": true
+   },
+   {
+    "id": "1f4d77060d66",
+    "roaster": "torrefacto",
+    "name": "Скарлатти\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/scarlatti/",
+    "back": true
+   },
+   {
+    "id": "520fe985e5b9",
+    "roaster": "torrefacto",
+    "name": "Индонезия Суматра выдержанная\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/indonesia-sumatra-aged/",
+    "back": true
+   },
+   {
+    "id": "24941f7c8170",
+    "roaster": "torrefacto",
+    "name": "Бразилия Ипанема Дульче\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/brazil-ipanema-dulce/",
+    "back": true
+   },
+   {
+    "id": "3f96d87366dc",
+    "roaster": "torrefacto",
+    "name": "Эфиопия Лимму Гера\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/ethiopia-limmu-gera/",
+    "back": true
+   },
+   {
+    "id": "9c1153331a9c",
+    "roaster": "torrefacto",
+    "name": "Кения Рука Чуи\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/kenya-ruka-chui/",
+    "back": true
+   },
+   {
+    "id": "f50a4130bf8f",
+    "roaster": "torrefacto",
+    "name": "Эфиопия Иргачеффе Меставет\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/ethiopia-yirgacheffe-mestawet/",
+    "back": true
+   },
+   {
+    "id": "89d41feb6fd3",
+    "roaster": "torrefacto",
+    "name": "Гватемала Сан-Игнасио\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/guatemala-san-ignacio/",
+    "back": true
+   },
+   {
+    "id": "8dc06abcbf1d",
+    "roaster": "torrefacto",
+    "name": "Колумбия финка Веракрус\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/colombia-verakruz/",
+    "back": true
+   },
+   {
+    "id": "cf560f3ef5a7",
+    "roaster": "torrefacto",
+    "name": "Бразилия желтый катукаи фазенда Колина\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/brazil-fazenda-colina/",
+    "back": true
+   },
+   {
+    "id": "73bafd7a1e2f",
+    "roaster": "torrefacto",
+    "name": "Коста-Рика Каскара Лас Лахас\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/costa-rica-cascara-las-lajas/",
+    "back": true
+   },
+   {
+    "id": "2ce33645c079",
+    "roaster": "torrefacto",
+    "name": "Руанда Мусаса\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/rwanda-musasa/",
+    "back": true
+   },
+   {
+    "id": "347a1b4c13e6",
+    "roaster": "torrefacto",
+    "name": "Эфиопия Бале Форест\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/ethiopia-bale-forest/",
+    "back": true
+   },
+   {
+    "id": "5f68e6cdc528",
+    "roaster": "torrefacto",
+    "name": "Эфиопия Иргачеффе Конга\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/ethiopia-yirgacheffe-konga/",
+    "back": true
+   },
+   {
+    "id": "730d04da8caf",
+    "roaster": "torrefacto",
+    "name": "Кения Кагуню\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/kenya-kagunyu/",
+    "back": true
+   },
+   {
+    "id": "db36be826cd1",
+    "roaster": "torrefacto",
+    "name": "Кения Кариндунду\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/kenya-karindundu/",
+    "back": true
+   },
+   {
+    "id": "be9dac375e86",
+    "roaster": "torrefacto",
+    "name": "Конго Бор-дю-Лак\nЗеленый кофе",
+    "url": "https://www.torrefacto.ru/catalog/green/congo-bor-du-lac/",
+    "back": false
+   },
+   {
+    "id": "b9164245ae91",
+    "roaster": "specialtyru",
+    "name": "Тэйсти Кофе Колумбия Уила Пакамара Лас-Брисас, фильтр, 100 гр",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-teysti-kofe-kolumbiya-uila-pakamara-las-brisas-filtr-100-gr/",
+    "back": false
+   },
+   {
+    "id": "b3390c47fb7f",
+    "roaster": "specialtyru",
+    "name": "Тэйсти Кофе Колумбия Уила Барракеро, фильтр 250 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-teysti-kofe-kolumbiya-uila-barrakero-filtr-250-g/",
+    "back": false
+   },
+   {
+    "id": "7dae18387291",
+    "roaster": "specialtyru",
+    "name": "Тэйсти Кофе Колумбия Уила Магдалена, фильтр 250 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-teysti-kofe-kolumbiya-uila-magdalena-filtr-250-g/",
+    "back": false
+   },
+   {
+    "id": "e498d08434da",
+    "roaster": "specialtyru",
+    "name": "Тэйсти Бразилия Серрадо, эспрессо, 250 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-teysti-braziliya-serrado-espresso-250-g/",
+    "back": false
+   },
+   {
+    "id": "3d2d8e6b9ae1",
+    "roaster": "specialtyru",
+    "name": "Тэйсти Кофе Эфиопия Гедеб, эспрессо 250 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-teysti-kofe-efiopiya-gedeb-espresso-250-g/",
+    "back": false
+   },
+   {
+    "id": "1a279311f86a",
+    "roaster": "specialtyru",
+    "name": "Тэйсти Кофе Кения Муранга Иригуини, эспрессо, 250 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-teysti-kofe-keniya-muranga-iriguini-espresso-250-g/",
+    "back": false
+   },
+   {
+    "id": "ca174a5755e9",
+    "roaster": "specialtyru",
+    "name": "Тэйсти Кофе Индонезия Суматра Каро Карбоник, фильтр, 250 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-teysti-kofe-indoneziya-sumatra-karo-karbonik-filtr-250-g/",
+    "back": false
+   },
+   {
+    "id": "62d7d891298b",
+    "roaster": "specialtyru",
+    "name": "Тэйсти Кофе Индонезия Суматра Гайо, фильтр, 250 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-teysti-kofe-indoneziya-sumatra-gayo-filtr-250-g/",
+    "back": false
+   },
+   {
+    "id": "0f1122861bcf",
+    "roaster": "specialtyru",
+    "name": "Тэйсти Кофе Коста Рика Таррасу Дота, эспрессо, 250 гр.",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-teysti-kofe-kosta-rika-tarrasu-dota-espresso-250-gr/",
+    "back": false
+   },
+   {
+    "id": "c6e8049d3732",
+    "roaster": "specialtyru",
+    "name": "Коджо Индонезия Суматра Гайо, фильтр, 250 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-kodzho-indoneziya-sumatra-gayo-filtr-250-g/",
+    "back": false
+   },
+   {
+    "id": "245af6d09ce8",
+    "roaster": "specialtyru",
+    "name": "Коджо Эфиопия Гуджи Адинью, фильтр, 250 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-kodzho-efiopiya-gudzhi-adinyu-filtr-250-g/",
+    "back": false
+   },
+   {
+    "id": "593e3bcbfd6a",
+    "roaster": "specialtyru",
+    "name": "Коджо Коста-Рика Лос-Сантос Кристиан Альварес, эспрессо, 250 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-kodzho-kosta-rika-los-santos-kristian-alvares-espresso-250-g/",
+    "back": false
+   },
+   {
+    "id": "789e5561aa1b",
+    "roaster": "specialtyru",
+    "name": "Тэйсти Кофе Йемен Хараз Манаха, фильтр, 100 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-teysti-kofe-yemen-kharaz-manakha-filtr-100-g/",
+    "back": false
+   },
+   {
+    "id": "7401e7a4eaf5",
+    "roaster": "specialtyru",
+    "name": "Тэйсти Кофе Christmas Blend 2027, эспрессо, 250 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-teysti-kofe-christmas-blend-2027-espresso-250-g/",
+    "back": false
+   },
+   {
+    "id": "242bd9bd6d73",
+    "roaster": "welder",
+    "name": "Колумбия Ла Фортуна гейша",
+    "url": "https://theweldercatherine.ru/catalog/dorogoy_kofe/kolumbiya_la_fortuna_geysha/",
+    "back": false
+   },
+   {
+    "id": "463d3e20d64b",
+    "roaster": "welder",
+    "name": "Эфиопия Реку",
+    "url": "https://theweldercatherine.ru/catalog/dlya_filtra/efiopiya_reku_1/",
+    "back": true
+   },
+   {
+    "id": "03782e52c952",
+    "roaster": "welder",
+    "name": "Танзания Уми АВ",
+    "url": "https://theweldercatherine.ru/catalog/dlya_filtra/tanzaniya_umi_av/",
+    "back": false
+   },
+   {
+    "id": "4fcf4df0b675",
+    "roaster": "welder",
+    "name": "Колумбия Vecinos: Ансельмо Трухильо",
+    "url": "https://theweldercatherine.ru/catalog/dlya_filtra/kolumbiya_vecinos_anselmo_trukhilo/",
+    "back": false
+   },
+   {
+    "id": "6c0a994ae267",
+    "roaster": "welder",
+    "name": "Колумбия Vecinos: Рубен Манос",
+    "url": "https://theweldercatherine.ru/catalog/dlya_filtra/kolumbiya_vecinos_ruben_manos/",
+    "back": false
+   },
+   {
+    "id": "5b1fbba35777",
+    "roaster": "welder",
+    "name": "Руанда Сову из бочки",
+    "url": "https://theweldercatherine.ru/catalog/dlya_filtra/ruanda_sovu_iz_bochki/",
+    "back": false
+   },
+   {
+    "id": "9cc3fc57a4f3",
+    "roaster": "welder",
+    "name": "Эфиопия Реку",
+    "url": "https://theweldercatherine.ru/catalog/dlya_espresso/efiopiya_reku_1/",
+    "back": true
+   },
+   {
+    "id": "24c4602182be",
+    "roaster": "botanica",
+    "name": "Колумбия Руби Бастидас",
+    "url": "https://botanicacoffee.ru/colombia-ruby-bastidas-filter-native",
+    "back": false
+   },
+   {
+    "id": "084d4ec85fa3",
+    "roaster": "botanica",
+    "name": "Колумбия Руби Бастидас",
+    "url": "https://botanicacoffee.ru/colombia-ruby-bastidas-espresso-native",
+    "back": false
+   }
+  ],
+  "removed": [
+   {
+    "id": "58d1aaee0824",
+    "roaster": "h2o",
+    "name": "Kioko Ren English Breakfast Английский завтрак, 150 шт",
+    "url": "https://h2ocompany.ru/catalog/kioko_ren_english_breakfast_angliyskiy_zavtrak_150sht_2_2gr_/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "fcf1b3a6816d",
+    "roaster": "specialtyru",
+    "name": "Микале Эфиопия Лиму Аликанте, фильтр, 200 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-mikale-efiopiya-limu-alikante-filtr-200-gr/",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "c9d141f78efb",
+    "roaster": "specialtyru",
+    "name": "Нева Кофе Ростерс Коста-Рика Тарразу Ла Пастора, эспрессо, 250 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-neva-coffee-roasters-kosta-rika-tarrazu-la-pastora-espresso-250-g/",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "0a3436c5a0d1",
+    "roaster": "specialtyru",
+    "name": "Триптих Бразилия Минас-Жерайс Госто, эспрессо, 200 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-triptikh-braziliya-minas-zherays-espresso-200-gr/",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "ed1db4f9ccfb",
+    "roaster": "tasty",
+    "name": "Батч-Брю Фьюжн",
+    "url": "https://shop.tastycoffee.ru/coffee/batch-brew-fusion",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "6a0e059cf1c1",
+    "roaster": "triptych",
+    "name": "БАТЧ-БРЮ",
+    "url": "https://triptychcoffee.com/filtr/tproduct/382868022-788244068862-batch-bryu",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "bb4b55150ce6",
+    "roaster": "triptych",
+    "name": "Бразилия госто",
+    "url": "https://triptychcoffee.com/espresso/tproduct/382997736-562732539441-braziliya-gosto",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "ef9057358b7a",
+    "roaster": "triptych",
+    "name": "Йемен Харази",
+    "url": "https://triptychcoffee.com/perfectionism/tproduct/2344148521-177278713492-iemen-harazi",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "0637b8da1fa3",
+    "roaster": "triptych",
+    "name": "Кения Гичерори",
+    "url": "https://triptychcoffee.com/filtr/tproduct/382868022-565888589243-keniya-gicherori",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "bfda01205a6c",
+    "roaster": "triptych",
+    "name": "Кения Кабингара",
+    "url": "https://triptychcoffee.com/filtr/tproduct/382868022-457001314753-keniya-kabingara",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "9e52c8f78aa2",
+    "roaster": "triptych",
+    "name": "Кения Киангундо",
+    "url": "https://triptychcoffee.com/filtr/tproduct/382868022-814594215773-keniya-kiangundo",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "b4b0776780be",
+    "roaster": "triptych",
+    "name": "Китай Хуангуан",
+    "url": "https://triptychcoffee.com/filtr/tproduct/382868022-771290942493-kitai-huanguan",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "101a44233d4a",
+    "roaster": "triptych",
+    "name": "Колумбия Де Ла Тьеррита",
+    "url": "https://triptychcoffee.com/filtr/tproduct/382868022-528605467573-kolumbiya-de-la-territa",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "1bcbb2ebdf19",
+    "roaster": "triptych",
+    "name": "Колумбия Карлос Плаза",
+    "url": "https://triptychcoffee.com/filtr/tproduct/382868022-261353604911-kolumbiya-karlos-plaza",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "9bd89444ba21",
+    "roaster": "triptych",
+    "name": "Колумбия Ла Парада",
+    "url": "https://triptychcoffee.com/filtr/tproduct/382868022-390697323383-kolumbiya-la-parada",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "11bc74d633d5",
+    "roaster": "triptych",
+    "name": "Колумбия Перископ Лот 1",
+    "url": "https://triptychcoffee.com/filtr/tproduct/382868022-907818851502-kolumbiya-periskop-lot-1",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "f011f3272525",
+    "roaster": "triptych",
+    "name": "Колумбия Перископ Лот 2",
+    "url": "https://triptychcoffee.com/filtr/tproduct/382868022-733509160702-kolumbiya-periskop-lot-2",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "9a7b3ef9ac48",
+    "roaster": "triptych",
+    "name": "Колумбия Рохас",
+    "url": "https://triptychcoffee.com/perfectionism/tproduct/2344148521-188794481883-kolumbiya-rohas",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "942fce9c52de",
+    "roaster": "triptych",
+    "name": "Колумбия Эксельсо",
+    "url": "https://triptychcoffee.com/espresso/tproduct/382997736-172120000523-kolumbiya-ekselso",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "23787dd0a8a2",
+    "roaster": "triptych",
+    "name": "Колумбия Эль Вергель папайо",
+    "url": "https://triptychcoffee.com/perfectionism/tproduct/2344148521-787347188962-kolumbiya-el-vergel-papaio",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "7979911bdcae",
+    "roaster": "triptych",
+    "name": "Колумбия Эль Дивизио",
+    "url": "https://triptychcoffee.com/filtr/tproduct/382868022-311207762723-kolumbiya-el-divizio",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "242a54a53c3a",
+    "roaster": "triptych",
+    "name": "Перу Алиндор Мирез",
+    "url": "https://triptychcoffee.com/filtr/tproduct/382868022-978262216643-peru-alindor-mirez",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "75d91b15bdb6",
+    "roaster": "triptych",
+    "name": "Руанда Гашару",
+    "url": "https://triptychcoffee.com/filtr/tproduct/382868022-766568567833-ruanda-gasharu",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "dfffa726c991",
+    "roaster": "triptych",
+    "name": "Руанда Нова",
+    "url": "https://triptychcoffee.com/filtr/tproduct/382868022-552976121443-ruanda-nova",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "5250ded899ce",
+    "roaster": "triptych",
+    "name": "Уганда Кигези",
+    "url": "https://triptychcoffee.com/filtr/tproduct/382868022-640826380403-uganda-kigezi",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "90784710773e",
+    "roaster": "triptych",
+    "name": "Уганда Мугиси",
+    "url": "https://triptychcoffee.com/filtr/tproduct/382868022-332186583193-uganda-mugisi",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "9d30a1e515e5",
+    "roaster": "triptych",
+    "name": "Эфиопия Билоя",
+    "url": "https://triptychcoffee.com/filtr/tproduct/382868022-109771929763-efiopiya-biloya",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "a90f619238bf",
+    "roaster": "triptych",
+    "name": "Эфиопия Гуджи",
+    "url": "https://triptychcoffee.com/espresso/tproduct/382997736-563340790871-efiopiya-gudzhi",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "57887d5221ad",
+    "roaster": "triptych",
+    "name": "Эфиопия Дара",
+    "url": "https://triptychcoffee.com/espresso/tproduct/382997736-752587902211-efiopiya-dara",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "e5ca6bc2a613",
+    "roaster": "triptych",
+    "name": "Эфиопия Конга",
+    "url": "https://triptychcoffee.com/filtr/tproduct/382868022-882243798482-efiopiya-konga",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "792b886d8957",
+    "roaster": "welder",
+    "name": "Галараствор Бразилия Ягуара ПБ",
+    "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_braziliya_yaguara_pb/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "22dddce7147f",
+    "roaster": "welder",
+    "name": "Галараствор Индонезия Мандехалинг",
+    "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_indoneziya_mandekhaling/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "ed752f8639ec",
+    "roaster": "west4",
+    "name": "Каталог",
+    "url": "https://west4.coffee/kofe/mono-grade/ruanda-nyamashike-hills",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "fbd9b718f723",
+    "roaster": "yankeesierra",
+    "name": "Mexica Ki-Saya",
+    "url": "https://yankeesierra.ru/catalog/espresso/Mexica-Ki-Saya",
+    "reason": "нет в наличии"
+   }
+  ]
  }
 ]

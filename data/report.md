@@ -1,15 +1,15 @@
-# Обновление каталога 2026-11-20T07:56:28+00:00
+# Обновление каталога 2026-11-21T07:51:29+00:00
 
-Товаров: 1604, лотов у ≥2 обжарщиков: 134
+Товаров: 1759, лотов у ≥2 обжарщиков: 138
 
 ## Обжарщики
 
 | Обжарщик | Платформа | Товаров | Статус |
 |---|---|---|---|
-| Tasty Coffee | generic | 84 | ok |
+| Tasty Coffee | generic | 88 | ok |
 | TAB | bitrix+generic | 0 | скрыт: данные устарели |
 | СОК — студия обжарки кофе | bitrix+generic | 42 | ok |
-| Триптих | tilda | 25 | ok |
+| Триптих | tilda | 35 | ok |
 | Caffeine Lab | tilda | 35 | ok |
 | HQ! coffee | woocommerce+generic | 0 | нет данных |
 | KOF | unreachable | 0 | нет данных |
@@ -17,27 +17,27 @@
 | Silky Drum | tilda | 45 | ok |
 | Submarine | unreachable | 0 | нет данных |
 | Atlas Coffee | unreachable | 0 | нет данных |
-| Torrefacto | bitrix+generic | 403 | ok |
+| Torrefacto | bitrix+generic | 529 | ok |
 | Rockets Coffee Roasters | generic | 0 | нет данных |
 | Camera Obscura | tilda | 13 | ok |
 | Sibaristica | unreachable | 0 | нет данных |
-| Yankee Sierra | tilda | 43 | ok |
+| Yankee Sierra | tilda | 42 | ok |
 | Double B | tilda+generic | 0 | нет данных |
 | KANGA | generic | 34 | ok |
-| H2O | bitrix+generic | 119 | ok |
+| H2O | bitrix+generic | 118 | ok |
 | Fauno Coffee | tilda | 38 | ok |
 | Stereo Coffee | tilda | 47 | ok |
-| Specialty.ru (собственная обжарка) | bitrix+generic | 185 | ok |
+| Specialty.ru (собственная обжарка) | bitrix+generic | 196 | ok |
 | Bolshe Coffee Roasters | tilda | 57 | ok |
 | Zerno Coffee Roasters | tilda | 37 | ok |
 | Мануфактура Кофе | bitrix+generic | 0 | нет данных |
-| The Welder Catherine | bitrix+generic | 110 | ok |
+| The Welder Catherine | bitrix+generic | 115 | ok |
 | Neva Coffee Roasters | bitrix+generic | 64 | ok |
 | Choose Coffee | tilda | 30 | ok |
-| West 4 Coffee | generic | 39 | ok |
+| West 4 Coffee | generic | 38 | ok |
 | Lebo | tilda | 36 | ok |
 | QQ Coffee | generic | 0 | скрыт: данные устарели |
-| Botanica Coffee | tilda | 53 | ok |
+| Botanica Coffee | tilda | 55 | ok |
 | Знак Кофе | generic | 0 | нет данных |
 | Bernin | generic | 0 | нет данных |
 | Bittersweet | tilda | 1 | ok |
@@ -47,7 +47,7 @@
 | Mad Heads | generic | 10 | ok |
 | Кофе Сова | unreachable | 0 | нет данных |
 
-## Новые лоты (117)
+## Новые лоты (177)
 
 - **Bolshe Coffee Roasters** — [Африка Микс](https://bolshecoffee.ru/coffee/tproduct/512429115-740610362202-afrika-miks) — от 428 ₽
 - **Bolshe Coffee Roasters** — [Бразилия амазонская робуста от Хуана Травейна](https://bolshecoffee.ru/coffee/tproduct/512406604-678620487033-braziliya-amazonskaya-robusta-ot-huana-t) — от 887 ₽
@@ -62,12 +62,14 @@
 - **Bolshe Coffee Roasters** — [Уганда Кавери робуста](https://bolshecoffee.ru/coffee/tproduct/512406604-167874966473-uganda-kaveri-robusta) — от 833 ₽
 - **Bolshe Coffee Roasters** — [ФИЛЬТРЫ MELITTA GOURMET 1x4](https://bolshecoffee.ru/gadgets/tproduct/477792449-213580714232-filtri-melitta-gourmet-1x4) — от 535 ₽
 - **Bolshe Coffee Roasters** — [Фильтры Hario VCF-02-100W белые](https://bolshecoffee.ru/gadgets/tproduct/477792449-602970607181-filtri-hario-vcf-02-100w-belie) — от 1350 ₽
-- **Bolshe Coffee Roasters** — [Эфиопия Дара](https://bolshecoffee.ru/coffee/tproduct/512406604-772097246601-efiopiya-dara) — от 3300 ₽
 - **Bolshe Coffee Roasters** — [Эфиопия Дара](https://bolshecoffee.ru/coffee/tproduct/721156284-352802187712-efiopiya-dara) — от 714 ₽
+- **Bolshe Coffee Roasters** — [Эфиопия Дара](https://bolshecoffee.ru/coffee/tproduct/512406604-772097246601-efiopiya-dara) — от 3300 ₽
 - **Bolshe Coffee Roasters** — [Эфиопия Эфтах Лалиса](https://bolshecoffee.ru/coffee/tproduct/512406604-414526530413-efiopiya-eftah-lalisa) — от 1022 ₽
 - **Botanica Coffee** — [Блокнот бариста](https://botanicacoffee.ru/draft-instant-killenso-popup/tproduct/5722250901-215351527122-bloknot-barista) — от 1500 ₽
 - **Botanica Coffee** — [Кения Киавамуру](https://botanicacoffee.ru/keniakiavamuru) — от 1425 ₽
 - **Botanica Coffee** — [Кения Мигори](https://botanicacoffee.ru/kenya-migori-yellow-microlot) — от 1420 ₽
+- **Botanica Coffee** — [Колумбия Руби Бастидас](https://botanicacoffee.ru/colombia-ruby-bastidas-filter-native) — от 1725 ₽
+- **Botanica Coffee** — [Колумбия Руби Бастидас](https://botanicacoffee.ru/colombia-ruby-bastidas-espresso-native) — от 1725 ₽
 - **Botanica Coffee** — [Колумбия Уайт Спайс](https://botanicacoffee.ru/whitespice) — от 1080 ₽
 - **Botanica Coffee** — [Мексика Веракрус](https://botanicacoffee.ru/mexico-veracruz-espresso) — от 805 ₽
 - **Botanica Coffee** — [Молочный улун](https://botanicacoffee.ru/draft-instant-killenso-popup/tproduct/5722251001-851133616931-molochnii-ulun) — от 590 ₽
@@ -110,10 +112,12 @@
 - **KANGA** — [Эфиопия Буку Абель](https://www.kanga.ru/catalog/filter/efiopiya-buku-abel-250g/) — от 1115 ₽
 - **Mad Heads** — [Huila Timana](https://madheadscoffee.com/p/NO4Vxj2X1M8-d33b4ef5) — от 416 ₽
 - **Neva Coffee Roasters** — [Колумбия Де Ла Тьеррита 250гр](https://nevacoffee.ru/catalog/coffee/molotyy-kofe/filter/clear/apply/?sort=CATALOG_PRICE_1&order=asc&PAGEN_2=4) — от 1075 ₽
+- **Specialty.ru (собственная обжарка)** — [Коджо Индонезия Суматра Гайо, фильтр, 250 г](https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-kodzho-indoneziya-sumatra-gayo-filtr-250-g/) — от 905 ₽
+- **Specialty.ru (собственная обжарка)** — [Коджо Коста-Рика Лос-Сантос Кристиан Альварес, эспрессо, 250 г](https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-kodzho-kosta-rika-los-santos-kristian-alvares-espresso-250-g/) — от 930 ₽
+- **Specialty.ru (собственная обжарка)** — [Коджо Эфиопия Гуджи Адинью, фильтр, 250 г](https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-kodzho-efiopiya-gudzhi-adinyu-filtr-250-g/) — от 1042 ₽
 - **Specialty.ru (собственная обжарка)** — [Нева Кофе Ростерс Бразилия Ранчо Гранде Перископ, фильтр, 200 г](https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-neva-kofe-rosters-braziliya-rancho-grande-periskop-filtr-200-g/) — от 675 ₽
 - **Specialty.ru (собственная обжарка)** — [Нева Кофе Ростерс Бурунди Бурасира, эспрессо, 250 г](https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-neva-coffee-roasters-burundi-burasira-espresso-250-g/) — от 675 ₽
 - **Specialty.ru (собственная обжарка)** — [Нева Кофе Ростерс Гватемала Санта-Роса Аяраза, эспрессо, 250 г](https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-neva-coffee-roasters-gvatemala-santa-rosa-ayaraza-espresso-250-g/) — от 613 ₽
-- **Specialty.ru (собственная обжарка)** — [Нева Кофе Ростерс Коста-Рика Тарразу Ла Пастора, эспрессо, 250 г](https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-neva-coffee-roasters-kosta-rika-tarrazu-la-pastora-espresso-250-g/) — от 705 ₽
 - **Specialty.ru (собственная обжарка)** — [Нева Кофе Ростерс Лаос Болавен Гр.1, эспрессо, 250 г](https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-neva-coffee-roasters-laos-bolaven-gr-1-espresso-250-g/) — от 625 ₽
 - **Specialty.ru (собственная обжарка)** — [Нева Кофе Ростерс Эфиопия Гуджи Гр. 2, фильтр, 200 г](https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-neva-coffee-roasters-efiopiya-gudzhi-gr-2-filtr-200-g/) — от 580 ₽
 - **Specialty.ru (собственная обжарка)** — [Нева Кофе Ростерс Эфиопия Иргачеффе Арича, фильтр, 200 г](https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-neva-coffee-roasters-efiopiya-irgacheffe-aricha-filtr-200-g/) — от 610 ₽
@@ -137,6 +141,17 @@
 - **Specialty.ru (собственная обжарка)** — [Триптих Колумбия Уила Эль Дивизио, фильтр, 200 г](https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-triptikh-kolumbiya-uila-el-divizio-filtr-200-gr/) — от 1330 ₽
 - **Specialty.ru (собственная обжарка)** — [Триптих Уганда Элгон Мугиси, фильтр, 200 г](https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-triptikh-uganda-elgon-mugisi-filtr-200-gr/) — от 910 ₽
 - **Specialty.ru (собственная обжарка)** — [Триптих Эфиопия Иргачеффе Билоя, фильтр, 200 г](https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-triptikh-efiopiya-irgacheffe-biloya-filtr-200-gr/) — от 1040 ₽
+- **Specialty.ru (собственная обжарка)** — [Тэйсти Бразилия Серрадо, эспрессо, 250 г](https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-teysti-braziliya-serrado-espresso-250-g/) — от 530 ₽
+- **Specialty.ru (собственная обжарка)** — [Тэйсти Кофе Christmas Blend 2027, эспрессо, 250 г](https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-teysti-kofe-christmas-blend-2027-espresso-250-g/) — от 705 ₽
+- **Specialty.ru (собственная обжарка)** — [Тэйсти Кофе Индонезия Суматра Гайо, фильтр, 250 г](https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-teysti-kofe-indoneziya-sumatra-gayo-filtr-250-g/) — от 755 ₽
+- **Specialty.ru (собственная обжарка)** — [Тэйсти Кофе Индонезия Суматра Каро Карбоник, фильтр, 250 г](https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-teysti-kofe-indoneziya-sumatra-karo-karbonik-filtr-250-g/) — от 868 ₽
+- **Specialty.ru (собственная обжарка)** — [Тэйсти Кофе Йемен Хараз Манаха, фильтр, 100 г](https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-teysti-kofe-yemen-kharaz-manakha-filtr-100-g/) — от 1012 ₽
+- **Specialty.ru (собственная обжарка)** — [Тэйсти Кофе Кения Муранга Иригуини, эспрессо, 250 г](https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-teysti-kofe-keniya-muranga-iriguini-espresso-250-g/) — от 830 ₽
+- **Specialty.ru (собственная обжарка)** — [Тэйсти Кофе Колумбия Уила Барракеро, фильтр 250 г](https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-teysti-kofe-kolumbiya-uila-barrakero-filtr-250-g/) — от 1062 ₽
+- **Specialty.ru (собственная обжарка)** — [Тэйсти Кофе Колумбия Уила Магдалена, фильтр 250 г](https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-teysti-kofe-kolumbiya-uila-magdalena-filtr-250-g/) — от 669 ₽
+- **Specialty.ru (собственная обжарка)** — [Тэйсти Кофе Колумбия Уила Пакамара Лас-Брисас, фильтр, 100 гр](https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-teysti-kofe-kolumbiya-uila-pakamara-las-brisas-filtr-100-gr/) — от 840 ₽
+- **Specialty.ru (собственная обжарка)** — [Тэйсти Кофе Коста Рика Таррасу Дота, эспрессо, 250 гр.](https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-teysti-kofe-kosta-rika-tarrasu-dota-espresso-250-gr/) — от 645 ₽
+- **Specialty.ru (собственная обжарка)** — [Тэйсти Кофе Эфиопия Гедеб, эспрессо 250 г](https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-teysti-kofe-efiopiya-gedeb-espresso-250-g/) — от 880 ₽
 - **Stereo Coffee** — [Бразилия Санта Иннес](https://stereo.coffee/shop/tproduct/586174496-369157346602-braziliya-santa-innes) — от 650 ₽
 - **Stereo Coffee** — [Гватемала Марагоджип](https://stereo.coffee/shop/tproduct/586174496-197456770532-gvatemala-maragodzhip) — от 800 ₽
 - **Stereo Coffee** — [Индонезия Суматра Керинчи Нат](https://stereo.coffee/shop/tproduct/586174496-659366385841-indoneziya-sumatra-kerinchi-nat) — от 750 ₽
@@ -146,338 +161,367 @@
 - **Stereo Coffee** — [Эфиопия Готити гр.1](https://stereo.coffee/shop/tproduct/592281615-431046493643-efiopiya-gotiti-gr1) — от 900 ₽
 - **Stereo Coffee** — [Эфиопия Конга гр.1](https://stereo.coffee/shop/tproduct/592281615-670562906173-efiopiya-konga-gr1) — от 900 ₽
 - **Tasty Coffee** — [Christmas Blend 2027](https://shop.tastycoffee.ru/coffee/christmas-blend-2027) — от 919 ₽
+- **Tasty Coffee** — [Батч-Брю Африка](https://shop.tastycoffee.ru/coffee/batch-brew-africa-2026) — от 1029 ₽
 - **Tasty Coffee** — [Индонезия Суматра Эдди Таното](https://shop.tastycoffee.ru/coffee/indonesia-sumatra-eddy-tanoto) — от 1159 ₽
 - **Tasty Coffee** — [Йемен Манаха Анаэробный](https://shop.tastycoffee.ru/coffee/yemen-manaha-anaerobic) — от 1129 ₽
 - **Tasty Coffee** — [Колумбия Барракеро](https://shop.tastycoffee.ru/coffee/colombia-barranquero) — от 1489 ₽
-- **Tasty Coffee** — [Колумбия Вуш-вуш Монтеверде](https://shop.tastycoffee.ru/coffee/colombia-wush-wush-monteverde-2026) — от 739 ₽
-- **Tasty Coffee** — [Колумбия Пеньяс-Бланкас](https://shop.tastycoffee.ru/coffee/espresso-colombia-penas-blancas) — от 1269 ₽
-- **Tasty Coffee** — [Колумбия Ява Лас-Флорес](https://shop.tastycoffee.ru/coffee/colombia-java-las-flores) — от 1289 ₽
+- **Tasty Coffee** — [Колумбия Вуш-вуш Монтеверде](https://shop.tastycoffee.ru/coffee/colombia-wush-wush-monteverde-2026) — от 869 ₽
+- **Tasty Coffee** — [Колумбия Пеньяс-Бланкас](https://shop.tastycoffee.ru/coffee/espresso-colombia-penas-blancas) — от 1489 ₽
+- **Tasty Coffee** — [Колумбия Сидра Эдинсон Арготе](https://shop.tastycoffee.ru/coffee/colombia-sidra-edinson-argote) — от 1429 ₽
+- **Tasty Coffee** — [Колумбия Стриппд Бурбон Лас-Брисас](https://shop.tastycoffee.ru/coffee/colombia-stripped-bourbon-las-brisas) — от 699 ₽
+- **Tasty Coffee** — [Колумбия Ява Лас-Флорес](https://shop.tastycoffee.ru/coffee/colombia-java-las-flores) — от 1519 ₽
 - **Tasty Coffee** — [Руанда Дахве](https://shop.tastycoffee.ru/coffee/espresso-rwanda-dahve-2026) — от 1049 ₽
+- **Tasty Coffee** — [Руанда Ньямашеке](https://shop.tastycoffee.ru/coffee/espresso-rwanda-nyamasheke-2026) — от 889 ₽
 - **Tasty Coffee** — [Уганда Элгон](https://shop.tastycoffee.ru/coffee/uganda-elgon) — от 819 ₽
+- **Tasty Coffee** — [Эфиопия Мукера 200 часов](https://shop.tastycoffee.ru/coffee/fermentirovannyi-kofe?page=3) — от 829 ₽
+- **Torrefacto** — [Конго Бор-дю-Лак
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/congo-bor-du-lac/) — от 552 ₽
 - **Torrefacto** — [Юбилейная смесь
 Свежеобжаренный кофе](https://www.torrefacto.ru/catalog/roasted/anniversary-blend/) — от 1010 ₽
-- **Триптих** — [Кения Гичерори](https://triptychcoffee.com/filtr/tproduct/382868022-565888589243-keniya-gicherori) — от 1035 ₽
+- **Триптих** — [БАТЧ-БРЮ](https://triptychcoffee.com/filter/tproduct/911948725213-batch-bryu) — от 800 ₽
+- **Триптих** — [Бразилия Госто](https://triptychcoffee.com/espresso/tproduct/167871795463-braziliya-gosto) — от 750 ₽
+- **Триптих** — [Гватемала Атитлан](https://triptychcoffee.com/filter/tproduct/624107778333-gvatemala-atitlan) — от 1035 ₽
+- **Триптих** — [Гватемала Ла Лагуна](https://triptychcoffee.com/filter/tproduct/168181105983-gvatemala-la-laguna) — от 1154 ₽
+- **Триптих** — [Гватемала Пампохила](https://triptychcoffee.com/filter/tproduct/603493344543-gvatemala-pampohila) — от 1180 ₽
+- **Триптих** — [Индонезия Манделинг](https://triptychcoffee.com/filter/tproduct/834592373493-indoneziya-mandeling) — от 1035 ₽
+- **Триптих** — [Йемен Аль Хайма](https://triptychcoffee.com/perfectionism/tproduct/333540958543-iemen-al-haima) — от 1750 ₽
+- **Триптих** — [Йемен Харази](https://triptychcoffee.com/perfectionism/tproduct/272219336663-iemen-harazi) — от 1750 ₽
+- **Триптих** — [Кения Барагви](https://triptychcoffee.com/filter/tproduct/307184451383-keniya-baragvi) — от 1103 ₽
+- **Триптих** — [Кения Гичерори](https://triptychcoffee.com/filter/tproduct/689544076993-keniya-gicherori) — от 1035 ₽
+- **Триптих** — [Кения Кабингара](https://triptychcoffee.com/filter/tproduct/246152339703-keniya-kabingara) — от 1020 ₽
+- **Триптих** — [Кения Киангундо](https://triptychcoffee.com/filter/tproduct/545514471363-keniya-kiangundo) — от 1050 ₽
+- **Триптих** — [Колумбия Де Ла Тьеррита](https://triptychcoffee.com/filter/tproduct/838350022363-kolumbiya-de-la-territa) — от 1285 ₽
+- **Триптих** — [Колумбия Карлос Плаза](https://triptychcoffee.com/filter/tproduct/253587430853-kolumbiya-karlos-plaza) — от 1390 ₽
+- **Триптих** — [Колумбия Ла Парада](https://triptychcoffee.com/filter/tproduct/443493263423-kolumbiya-la-parada) — от 1370 ₽
+- **Триптих** — [Колумбия Маурисио Хименес](https://triptychcoffee.com/espresso/tproduct/385504162303-kolumbiya-maurisio-himenes) — от 961 ₽
+- **Триптих** — [Колумбия Монтебланко](https://triptychcoffee.com/filter/tproduct/336162424623-kolumbiya-monteblanko) — от 1400 ₽
+- **Триптих** — [Колумбия Перископ Лот 1](https://triptychcoffee.com/filter/tproduct/391482519203-kolumbiya-periskop-lot-1) — от 1050 ₽
+- **Триптих** — [Колумбия Перископ Лот 2](https://triptychcoffee.com/filter/tproduct/918976287313-kolumbiya-periskop-lot-2) — от 1050 ₽
+- **Триптих** — [Колумбия Родриго Санчес Валенсия Гейша](https://triptychcoffee.com/filter/tproduct/985526092073-kolumbiya-rodrigo-sanches-valensiya-geis) — от 1300 ₽
+- **Триптих** — [Колумбия Рохас](https://triptychcoffee.com/perfectionism/tproduct/808267402763-kolumbiya-rohas) — от 2050 ₽
+- **Триптих** — [Колумбия Эль Вергель марагейша](https://triptychcoffee.com/perfectionism/tproduct/151747181463-kolumbiya-el-vergel-marageisha) — от 1450 ₽
+- **Триптих** — [Колумбия Эль Вергель папайо](https://triptychcoffee.com/perfectionism/tproduct/840287898453-kolumbiya-el-vergel-papaio) — от 1400 ₽
+- **Триптих** — [Колумбия Эль Дивизио](https://triptychcoffee.com/filter/tproduct/432957806993-kolumbiya-el-divizio) — от 1330 ₽
+- **Триптих** — [Конго Киву](https://triptychcoffee.com/espresso/tproduct/931030880663-kongo-kivu) — от 729 ₽
+- **Триптих** — [Никарагуа Матагальпа](https://triptychcoffee.com/espresso/tproduct/849283885553-nikaragua-matagalpa) — от 799 ₽
+- **Триптих** — [Платок в коробке. Йемасера](https://triptychcoffee.com/tproduct/891179173343-platok-v-korobke-iemasera) — от 1300 ₽
+- **Триптих** — [Руанда Гашару](https://triptychcoffee.com/filter/tproduct/159685644103-ruanda-gasharu) — от 925 ₽
+- **Триптих** — [Руанда Нова](https://triptychcoffee.com/filter/tproduct/448699047043-ruanda-nova) — от 1065 ₽
+- **Триптих** — [Уганда Кигези](https://triptychcoffee.com/filter/tproduct/331778199213-uganda-kigezi) — от 1090 ₽
+- **Триптих** — [Уганда Мугиси](https://triptychcoffee.com/filter/tproduct/180212344083-uganda-mugisi) — от 890 ₽
+- **Триптих** — [Эфиопия Билоя](https://triptychcoffee.com/filter/tproduct/239049604423-efiopiya-biloya) — от 1040 ₽
+- **Триптих** — [Эфиопия Гуджи](https://triptychcoffee.com/espresso/tproduct/299322650093-efiopiya-gudzhi) — от 730 ₽
+- **Триптих** — [Эфиопия Дара](https://triptychcoffee.com/espresso/tproduct/330990616933-efiopiya-dara) — от 800 ₽
+- **Триптих** — [Эфиопия Йемасера](https://triptychcoffee.com/filter/tproduct/460426252243-efiopiya-iemasera) — от 968 ₽
 - **The Welder Catherine** — [Галараствор Кения Рунгето С](https://theweldercatherine.ru/catalog/galarastvor/galarastvor_keniya_rungeto_s/) — от 710 ₽
 - **The Welder Catherine** — [Галараствор Колумбия Рафаэль Айя анаэроб](https://theweldercatherine.ru/catalog/galarastvor/galarastvor_kolumbiya_rafael_ayya_anaerob_2/) — от 760 ₽
 - **The Welder Catherine** — [Кения Киломбе](https://theweldercatherine.ru/catalog/dlya_filtra/keniya_kilombe/) — от 1260 ₽
 - **The Welder Catherine** — [Кения Киломбе](https://theweldercatherine.ru/catalog/dlya_espresso/keniya_kilombe/) — от 1260 ₽
+- **The Welder Catherine** — [Колумбия Vecinos: Ансельмо Трухильо](https://theweldercatherine.ru/catalog/dlya_filtra/kolumbiya_vecinos_anselmo_trukhilo/) — от 1569 ₽
+- **The Welder Catherine** — [Колумбия Vecinos: Рубен Манос](https://theweldercatherine.ru/catalog/dlya_filtra/kolumbiya_vecinos_ruben_manos/) — от 1569 ₽
+- **The Welder Catherine** — [Колумбия Ла Фортуна гейша](https://theweldercatherine.ru/catalog/dorogoy_kofe/kolumbiya_la_fortuna_geysha/) — от 4245 ₽
 - **The Welder Catherine** — [Колумбия Эль Чиспа из бочки](https://theweldercatherine.ru/catalog/dlya_espresso/kolumbiya_el_chispa_iz_bochki/) — от 1429 ₽
+- **The Welder Catherine** — [Руанда Сову из бочки](https://theweldercatherine.ru/catalog/dlya_filtra/ruanda_sovu_iz_bochki/) — от 1474 ₽
+- **The Welder Catherine** — [Танзания Уми АВ](https://theweldercatherine.ru/catalog/dlya_filtra/tanzaniya_umi_av/) — от 1230 ₽
 - **West 4 Coffee** — [Каталог](https://west4.coffee/kofe/mono-grade/keniya-vakamata) — от 1204 ₽
 - **Yankee Sierra** — [Colombia La Palma](https://yankeesierra.ru/catalog/espresso/Colombia-La-Palma) — от 810 ₽
 - **Yankee Sierra** — [Ethiopia Banco Gotete](https://yankeesierra.ru/catalog/espresso/Ethiopia-Banco-Gotete) — от 670 ₽
-- **Yankee Sierra** — [Yemen Haraz](https://yankeesierra.ru/catalog/filter/Yemen-Haraz) — от 1025 ₽
 - **Yankee Sierra** — [Yemen Haraz](https://yankeesierra.ru/catalog/espresso/Yemen-Haraz) — от 1025 ₽
+- **Yankee Sierra** — [Yemen Haraz](https://yankeesierra.ru/catalog/filter/Yemen-Haraz) — от 1025 ₽
 
-## Изменения этой проверки: +37 / −148
+## Изменения этой проверки: +189 / −34
 
-- ➕ **Tasty Coffee** — [Колумбия Гейша Монтеверде](https://shop.tastycoffee.ru/coffee/colombia-geisha-monteverde-2026) (снова в продаже)
-- ➕ **Silky Drum** — [Тайвань Роял Бин Гейша Эстейт, гейша мытая](https://www.silkydrum.ru/catalog/taiwan-royal-bean-geisha-estate-washed) (снова в продаже)
-- ➕ **Torrefacto** — [Юбилейная смесь
-Свежеобжаренный кофе](https://www.torrefacto.ru/catalog/roasted/anniversary-blend/)
-- ➕ **H2O** — [Дарк Моро Эспрессо, 250 гр](https://h2ocompany.ru/catalog/kofe_v_zernakh_h2o_dark_moro_espresso_svezheobzharennyy_250gr/) (снова в продаже)
-- ➕ **H2O** — [Инкис Эспрессо, 250 гр](https://h2ocompany.ru/catalog/kofe_v_zernakh_h2o_inki_s_blend_svezheobzharennyy_250gr/)
-- ➕ **H2O** — [Нео Эспрессо, 1 кг](https://h2ocompany.ru/catalog/kofe_v_zernakh_h2o_neo_blend_svezheobzharennyy_1kg/) (снова в продаже)
-- ➕ **H2O** — [Нео Эспрессо, 250 гр](https://h2ocompany.ru/catalog/kofe_v_zernakh_h2o_neo_blend_svezheobzharennyy_250gr/) (снова в продаже)
-- ➕ **H2O** — [Тубра Эспрессо, 1 кг](https://h2ocompany.ru/catalog/kofe_v_zernakh_h2o_tubra_svezheobzharennyy_1kg/) (снова в продаже)
-- ➕ **H2O** — [Тубра Эспрессо, 250 гр](https://h2ocompany.ru/catalog/kofe_v_zernakh_h2o_tubra_svezheobzharennyy_250gr/) (снова в продаже)
-- ➕ **Specialty.ru (собственная обжарка)** — [Тэйсти Кофе Бленд Хани, эспрессо, 250 г](https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-teysti-kofe-blend-khani-espresso-250-g/) (снова в продаже)
-- ➕ **Specialty.ru (собственная обжарка)** — [Тэйсти Кофе Бленд Бэрри, эспрессо, 250 г](https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-teysti-kofe-blend-berri-espresso-250-g/) (снова в продаже)
-- ➕ **Specialty.ru (собственная обжарка)** — [Тэйсти Кофе Бленд Бразилия Натти, эспрессо, 250 г](https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-teysti-kofe-blend-braziliya-natti-espresso-250-g/) (снова в продаже)
-- ➕ **Specialty.ru (собственная обжарка)** — [Тэйсти Кофе Бленд Брауни, эспрессо, 250 г](https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-teysti-kofe-blend-brauni-espresso-250-g/) (снова в продаже)
-- ➕ **Specialty.ru (собственная обжарка)** — [Коджо Кения Кириньяга Нгариама, фильтр, 250 г](https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-kodzho-keniya-kirinyaga-ngariama-filtr-250-gr/) (снова в продаже)
-- ➕ **Specialty.ru (собственная обжарка)** — [Коджо Руанда Ньямашеке Муремуре, эспрессо, 250 г](https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-kodzho-ruanda-nyamasheke-muremure-espresso-250-gr/) (снова в продаже)
-- ➕ **Specialty.ru (собственная обжарка)** — [Коджо Эфиопия Гуджи Харо Мода, эспрессо, 250 г](https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-kodzho-efiopiya-gudzhi-kharo-moda-espresso-250-gr/) (снова в продаже)
-- ➕ **Specialty.ru (собственная обжарка)** — [Коджо Кения Муранга Гитура, фильтр, 250 г](https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-kodzho-keniya-muranga-gitura-filtr-250-gr/) (снова в продаже)
-- ➕ **Specialty.ru (собственная обжарка)** — [Коджо Эфиопия Гедео Хало Хартум, фильтр, 250 г](https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-kodzho-efiopiya-gedeo-khalo-khartum-filtr-250-gr/) (снова в продаже)
-- ➕ **Specialty.ru (собственная обжарка)** — [Коджо Эфиопия Гуджи Харо Мода, фильтр, 250 г](https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-kodzho-efiopiya-gudzhi-kharo-moda-filtr-250-gr/) (снова в продаже)
-- ➕ **Specialty.ru (собственная обжарка)** — [Коджо Руанда Ньямашеке Муремуре, фильтр, 250 г](https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-kodzho-ruanda-nyamasheke-muremure-filtr-250-gr/) (снова в продаже)
-- ➕ **Specialty.ru (собственная обжарка)** — [Коджо Руанда Нгороро Мубуга Хилл Органик, фильтр, 250 г](https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-kodzho-ruanda-ngororo-mubuga-khill-organik-filtr-250-gr/) (снова в продаже)
-- ➕ **Specialty.ru (собственная обжарка)** — [Коджо Индонезия Суматра Айван Пак, фильтр, 250 г](https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-kodzho-indoneziya-sumatra-ayvan-pak-filtr-250-gr/) (снова в продаже)
-- ➕ **Bolshe Coffee Roasters** — [Какао Кокосовый микс](https://bolshecoffee.ru/tproduct/1-246461685803-kakao-kokosovii-miks)
-- ➕ **Bolshe Coffee Roasters** — [Фильтры Hario VCF-02-100W белые](https://bolshecoffee.ru/gadgets/tproduct/477792449-602970607181-filtri-hario-vcf-02-100w-belie)
-- ➕ **Bolshe Coffee Roasters** — [Сервер стеклянный](https://bolshecoffee.ru/gadgets/tproduct/477792449-363940847822-server-steklyannii)
-- ➕ **Bolshe Coffee Roasters** — [ФИЛЬТРЫ MELITTA GOURMET 1x4](https://bolshecoffee.ru/gadgets/tproduct/477792449-213580714232-filtri-melitta-gourmet-1x4)
-- ➕ **Bolshe Coffee Roasters** — [Порошок для очистки от кофейных масел](https://bolshecoffee.ru/gadgets/tproduct/1874321531-963620174522-poroshok-dlya-ochistki-ot-kofeinih-masel)
-- ➕ **Bolshe Coffee Roasters** — [Жидкость для очистки молочных систем](https://bolshecoffee.ru/gadgets/tproduct/1874321531-463978764272-zhidkost-dlya-ochistki-molochnih-sistem)
-- ➕ **Bolshe Coffee Roasters** — [Подставка под кофе Паллет](https://bolshecoffee.ru/gadgets/tproduct/477792610-515203477022-podstavka-pod-kofe-pallet)
-- ➕ **Bolshe Coffee Roasters** — [Свеча из натурального пчелиного воска:](https://bolshecoffee.ru/gadgets/tproduct/477792610-660371429343-svecha-iz-naturalnogo-pchelinogo-voska)
-- ➕ **West 4 Coffee** — [Каталог](https://west4.coffee/kofe/mono-grade/keniya-vakamata)
-- ➕ **Botanica Coffee** — [Блокнот бариста](https://botanicacoffee.ru/draft-instant-killenso-popup/tproduct/5722250901-215351527122-bloknot-barista)
-- ➕ **Botanica Coffee** — [Кения Мигори](https://botanicacoffee.ru/kenya-migori-yellow-microlot)
-- ➕ **Botanica Coffee** — [Молочный улун](https://botanicacoffee.ru/draft-instant-killenso-popup/tproduct/5722251001-851133616931-molochnii-ulun)
-- ➕ **Botanica Coffee** — [Те Гуань Инь](https://botanicacoffee.ru/draft-instant-killenso-popup/tproduct/5722251001-380343669361-te-guan-in)
-- ➕ **Botanica Coffee** — [Сенча](https://botanicacoffee.ru/draft-instant-killenso-popup/tproduct/5722251001-965628693541-sencha)
-- ➕ **Botanica Coffee** — [Чёрный с чабрецом](https://botanicacoffee.ru/draft-instant-killenso-popup/tproduct/5722251001-872986038321-chyornii-s-chabretsom)
-- ➖ **Bolshe Coffee Roasters** — Бразилия Суль де Минас (нет в наличии)
-- ➖ **Bolshe Coffee Roasters** — Венесуэла Брисас Дель Хиль (нет в наличии)
-- ➖ **Bolshe Coffee Roasters** — Особый лот Колумбия Сидра (пропал с сайта)
-- ➖ **Bolshe Coffee Roasters** — Особый лот Колумбия Сидра (пропал с сайта)
-- ➖ **Botanica Coffee** — Блокнот бариста (пропал с сайта)
-- ➖ **Botanica Coffee** — Молочный улун (пропал с сайта)
-- ➖ **Botanica Coffee** — Сенча (пропал с сайта)
-- ➖ **Botanica Coffee** — Те Гуань Инь (пропал с сайта)
-- ➖ **Botanica Coffee** — Чёрный с чабрецом (пропал с сайта)
-- ➖ **H2O** — Kioko Nai Xiang Jin Xuan Молочный улун,150 шт (пропал с сайта)
-- ➖ **H2O** — Kioko Revita Chikara Черный травяной пряный, 150 шт (пропал с сайта)
-- ➖ **H2O** — Антонио Кустодио де Фария фильтр, 250 гр (нет в наличии)
-- ➖ **H2O** — Декаф Эспрессо, 250 гр (нет в наличии)
-- ➖ **H2O** — Основа Cream Latte Малиново-яблочный моти (пропал с сайта)
-- ➖ **Neva Coffee Roasters** — Колумбия Дулима 250 гр (нет в наличии)
-- ➖ **Neva Coffee Roasters** — Кофе "Под Молочко" (пропал с сайта)
-- ➖ **Neva Coffee Roasters** — Подарочный набор «100% Арабика» (пропал с сайта)
-- ➖ **Neva Coffee Roasters** — Подарочный набор «Под молочко» (пропал с сайта)
-- ➖ **Specialty.ru (собственная обжарка)** — Kof Эфиопия Гуджи Рогича, эспрессо, 250 г (нет в наличии)
-- ➖ **Specialty.ru (собственная обжарка)** — Нева Кофе Ростерс Мексика Чьяпас, эспрессо, 250 г (нет в наличии)
-- ➖ **Specialty.ru (собственная обжарка)** — Субмарина Колумбия Уила Аспротимана, эспрессо, 200 гр (нет в наличии)
-- ➖ **Specialty.ru (собственная обжарка)** — Субмарина, Milk Китай Юньнань, эспрессо, 200 гр (нет в наличии)
-- ➖ **Torrefacto** — Боливия Каскара
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Бразилия Ипанема Дульче
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Бразилия Ипанема Руби
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Бразилия Можиана
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Бразилия Пиньериньо
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Бразилия Сантос 14/16
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Бразилия Сантос 17/18
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Бразилия Сантос 19
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Бразилия Ситьо-да-Торре
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Бразилия желтый катукаи фазенда Колина
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Бразилия желтый маракатуаи фазенда Бау
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Бурунди Бужумбура
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Бурунди Киримиро
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Бурунди Киримиро Кибунгере
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Бурунди Киримиро Махонда
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Вьетнам Далат
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Вьетнам Далат 13/15
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Вьетнам робуста Голубой дракон
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Гватемала Антигуа Санта-Клара
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Гватемала Ла-Эсмеральда
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Гватемала Платанийо Ежипто
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Гватемала Сан-Игнасио
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Гватемала Фрайханес Идолия
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Гватемала Фэнси
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Гватемала маракатурра Эль-Сокорро
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Гондурас Оксиденте
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Гондурас Сан-Маркос
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Доминикана Бараона
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Индия Литл Флауэр
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Индия Плантейшн Бабабудан
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Индия робуста Пачмент
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Индонезия Сулавеси
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Индонезия Суматра Блю Батак
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Индонезия Суматра Вахана Истейт
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Индонезия Суматра Гайо Мандири
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Индонезия Суматра Манделинг
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Индонезия Суматра выдержанная
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Индонезия Ява Джампит
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Йемен Исмаили
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Йемен Матари
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Йемен Харази
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Кабо-Верде мытый
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Кабо-Верде сухой
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Карузо
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Кения АБ
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Кения Гичатаини
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Кения Игута
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Кения Кагуню
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Кения Кариндунду
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Кения Киамарига
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Кения Кии
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Кения Ньери Гатомбойя
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Кения Ньери Захабу
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Кения Ньери Кабируини
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Кения Ньери Камоко
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Кения Ньери Тамбайя
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Кения Рука Чуи
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Кения Харака
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Колумбия Антьокия Ла-Хойерия
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Колумбия Антьокия Супремо
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Колумбия Антьокия финка Сан-Паскуаль
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Колумбия Каука Попаян Тейблленд
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Колумбия Ла-Фортуна Кап оф Экселленс 2015 №9
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Колумбия Супремо Уила
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Колумбия Уила Гуакакайо
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Колумбия Уила Монтебонито
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Колумбия финка Веракрус
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Коста-Рика Брумас-дель-Зурки
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Коста-Рика Гейша Уайни
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Коста-Рика Гейша Уошд
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Коста-Рика Каскара Лас Лахас
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Коста-Рика Херардо Варгас
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Коста-Рика асьенда Валерио
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Коста-Рика гейша хани
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Куба Альтура
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Куба Серрано
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Мексика Гваделупе Заху
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Мексика Чьяпас
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Непал Маунт Эверест
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Никарагуа Марагоджип
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Никарагуа Ройял
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Никарагуа пакамара Ла-Бендисьон
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Панама Бокете Каса Руис
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Панама финка Элета
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Папуа-Новая Гвинея Сигри
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Перу
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Руанда Мусаса
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Руанда Нгома
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Сальвадор Буэна-Виста
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Скарлатти
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Танзания Блекберн Истейт мытый
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Танзания Блекберн Истейт сухой
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Тосканини
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Уганда Бугису
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Уганда Другар
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Уганда Сипи Фоллз
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Эль-Сальвадор Джей Хилл хани
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Эль-Сальвадор Каскара Джей Хилл
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Эль-Сальвадор Ла-Дивина-Провиденсия
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Эль-Сальвадор финка Ла-Фани
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Эль-Сальвадор финка Санта-Аделаида
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Эфиопия Амхара 4 Айеху
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Эфиопия Бале Форест
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Эфиопия Гуджи Гурачу
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Эфиопия Гуджи Мормисо
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Эфиопия Гуджи Савана
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Эфиопия Гуджи Сасаба
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Эфиопия Иргачеффе Арамо сухой
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Эфиопия Иргачеффе Колиша
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Эфиопия Иргачеффе Конга
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Эфиопия Иргачеффе Кочере
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Эфиопия Иргачеффе Меставет
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Эфиопия Иргачеффе Нотс фэмили
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Эфиопия Иргачеффе Реко
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Эфиопия Иргачеффе Черенет
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Эфиопия Иргачеффе сухой
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Эфиопия Каффа Сахама
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Эфиопия Конга Седе
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Эфиопия Лимму Гера
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Эфиопия Лиму Кемиссе
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Эфиопия Лиму Элеана
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Эфиопия Сидамо Нефас
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Эфиопия Сидамо Хункуте
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Эфиопия Сидамо Шилчо
-Зеленый кофе (пропал с сайта)
-- ➖ **Torrefacto** — Эфиопия Харрар
-Зеленый кофе (пропал с сайта)
-- ➖ **Триптих** — Перу Ленин Флорес (нет в наличии)
+- ➕ **Tasty Coffee** — [Батч-Брю Африка](https://shop.tastycoffee.ru/coffee/batch-brew-africa-2026)
+- ➕ **Tasty Coffee** — [Колумбия Сидра Эдинсон Арготе](https://shop.tastycoffee.ru/coffee/colombia-sidra-edinson-argote)
+- ➕ **Tasty Coffee** — [Руанда Ньямашеке](https://shop.tastycoffee.ru/coffee/espresso-rwanda-nyamasheke-2026)
+- ➕ **Tasty Coffee** — [Колумбия Стриппд Бурбон Лас-Брисас](https://shop.tastycoffee.ru/coffee/colombia-stripped-bourbon-las-brisas)
+- ➕ **Tasty Coffee** — [Эфиопия Мукера 200 часов](https://shop.tastycoffee.ru/coffee/fermentirovannyi-kofe?page=3) (снова в продаже)
+- ➕ **Триптих** — [Кения Киангундо](https://triptychcoffee.com/filter/tproduct/545514471363-keniya-kiangundo)
+- ➕ **Триптих** — [Кения Барагви](https://triptychcoffee.com/filter/tproduct/307184451383-keniya-baragvi)
+- ➕ **Триптих** — [Кения Гичерори](https://triptychcoffee.com/filter/tproduct/689544076993-keniya-gicherori)
+- ➕ **Триптих** — [Эфиопия Йемасера](https://triptychcoffee.com/filter/tproduct/460426252243-efiopiya-iemasera)
+- ➕ **Триптих** — [Гватемала Атитлан](https://triptychcoffee.com/filter/tproduct/624107778333-gvatemala-atitlan)
+- ➕ **Триптих** — [Индонезия Манделинг](https://triptychcoffee.com/filter/tproduct/834592373493-indoneziya-mandeling)
+- ➕ **Триптих** — [Колумбия Маурисио Хименес](https://triptychcoffee.com/espresso/tproduct/385504162303-kolumbiya-maurisio-himenes)
+- ➕ **Триптих** — [Никарагуа Матагальпа](https://triptychcoffee.com/espresso/tproduct/849283885553-nikaragua-matagalpa)
+- ➕ **Триптих** — [БАТЧ-БРЮ](https://triptychcoffee.com/filter/tproduct/911948725213-batch-bryu)
+- ➕ **Триптих** — [Гватемала Ла Лагуна](https://triptychcoffee.com/filter/tproduct/168181105983-gvatemala-la-laguna)
+- ➕ **Триптих** — [Гватемала Пампохила](https://triptychcoffee.com/filter/tproduct/603493344543-gvatemala-pampohila)
+- ➕ **Триптих** — [Колумбия Перископ Лот 1](https://triptychcoffee.com/filter/tproduct/391482519203-kolumbiya-periskop-lot-1)
+- ➕ **Триптих** — [Колумбия Перископ Лот 2](https://triptychcoffee.com/filter/tproduct/918976287313-kolumbiya-periskop-lot-2)
+- ➕ **Триптих** — [Колумбия Ла Парада](https://triptychcoffee.com/filter/tproduct/443493263423-kolumbiya-la-parada)
+- ➕ **Триптих** — [Колумбия Де Ла Тьеррита](https://triptychcoffee.com/filter/tproduct/838350022363-kolumbiya-de-la-territa)
+- ➕ **Триптих** — [Руанда Гашару](https://triptychcoffee.com/filter/tproduct/159685644103-ruanda-gasharu)
+- ➕ **Триптих** — [Руанда Нова](https://triptychcoffee.com/filter/tproduct/448699047043-ruanda-nova)
+- ➕ **Триптих** — [Уганда Кигези](https://triptychcoffee.com/filter/tproduct/331778199213-uganda-kigezi)
+- ➕ **Триптих** — [Уганда Мугиси](https://triptychcoffee.com/filter/tproduct/180212344083-uganda-mugisi)
+- ➕ **Триптих** — [Кения Кабингара](https://triptychcoffee.com/filter/tproduct/246152339703-keniya-kabingara)
+- ➕ **Триптих** — [Эфиопия Билоя](https://triptychcoffee.com/filter/tproduct/239049604423-efiopiya-biloya)
+- ➕ **Триптих** — [Колумбия Карлос Плаза](https://triptychcoffee.com/filter/tproduct/253587430853-kolumbiya-karlos-plaza)
+- ➕ **Триптих** — [Колумбия Монтебланко](https://triptychcoffee.com/filter/tproduct/336162424623-kolumbiya-monteblanko)
+- ➕ **Триптих** — [Колумбия Родриго Санчес Валенсия Гейша](https://triptychcoffee.com/filter/tproduct/985526092073-kolumbiya-rodrigo-sanches-valensiya-geis)
+- ➕ **Триптих** — [Колумбия Эль Дивизио](https://triptychcoffee.com/filter/tproduct/432957806993-kolumbiya-el-divizio)
+- ➕ **Триптих** — [Бразилия Госто](https://triptychcoffee.com/espresso/tproduct/167871795463-braziliya-gosto)
+- ➕ **Триптих** — [Эфиопия Гуджи](https://triptychcoffee.com/espresso/tproduct/299322650093-efiopiya-gudzhi)
+- ➕ **Триптих** — [Эфиопия Дара](https://triptychcoffee.com/espresso/tproduct/330990616933-efiopiya-dara)
+- ➕ **Триптих** — [Конго Киву](https://triptychcoffee.com/espresso/tproduct/931030880663-kongo-kivu)
+- ➕ **Триптих** — [Платок в коробке. Йемасера](https://triptychcoffee.com/tproduct/891179173343-platok-v-korobke-iemasera)
+- ➕ **Триптих** — [Колумбия Эль Вергель марагейша](https://triptychcoffee.com/perfectionism/tproduct/151747181463-kolumbiya-el-vergel-marageisha)
+- ➕ **Триптих** — [Колумбия Эль Вергель папайо](https://triptychcoffee.com/perfectionism/tproduct/840287898453-kolumbiya-el-vergel-papaio)
+- ➕ **Триптих** — [Йемен Аль Хайма](https://triptychcoffee.com/perfectionism/tproduct/333540958543-iemen-al-haima)
+- ➕ **Триптих** — [Йемен Харази](https://triptychcoffee.com/perfectionism/tproduct/272219336663-iemen-harazi)
+- ➕ **Триптих** — [Колумбия Рохас](https://triptychcoffee.com/perfectionism/tproduct/808267402763-kolumbiya-rohas)
+- ➕ **Torrefacto** — [Вьетнам робуста Голубой дракон
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/vietnam-robusta/) (снова в продаже)
+- ➕ **Torrefacto** — [Никарагуа пакамара Ла-Бендисьон
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/nicaragua-pacamara/) (снова в продаже)
+- ➕ **Torrefacto** — [Сальвадор Буэна-Виста
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/salvador-buena-vista/) (снова в продаже)
+- ➕ **Torrefacto** — [Уганда Сипи Фоллз
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/uganda-sipi-falls/) (снова в продаже)
+- ➕ **Torrefacto** — [Кения Харака
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/kenya_haraka/) (снова в продаже)
+- ➕ **Torrefacto** — [Мексика Гваделупе Заху
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/mexico/) (снова в продаже)
+- ➕ **Torrefacto** — [Папуа-Новая Гвинея Сигри
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/papua-new-guinea-sigri/) (снова в продаже)
+- ➕ **Torrefacto** — [Бурунди Бужумбура
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/burundi-bujumbura/) (снова в продаже)
+- ➕ **Torrefacto** — [Колумбия Супремо Уила
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/colombia-supremo/) (снова в продаже)
+- ➕ **Torrefacto** — [Йемен Матари
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/yemen-matari/) (снова в продаже)
+- ➕ **Torrefacto** — [Гондурас Сан-Маркос
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/honduras-san-marcos/) (снова в продаже)
+- ➕ **Torrefacto** — [Вьетнам Далат
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/vietnam-dalat/) (снова в продаже)
+- ➕ **Torrefacto** — [Эфиопия Харрар
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/ethiopia-harrar/) (снова в продаже)
+- ➕ **Torrefacto** — [Кения Ньери Тамбайя
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/kenya-nyeri-tambaya/) (снова в продаже)
+- ➕ **Torrefacto** — [Кения Ньери Гатомбойя
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/kenya-nyeri-gatomboya/) (снова в продаже)
+- ➕ **Torrefacto** — [Коста-Рика Брумас-дель-Зурки
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/costa-rica-brumas-del-zurqui/) (снова в продаже)
+- ➕ **Torrefacto** — [Коста-Рика Гейша Уошд
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/costa-rica-geisha-washed/) (снова в продаже)
+- ➕ **Torrefacto** — [Коста-Рика Гейша Уайни
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/costa-rica-geisha-winey/) (снова в продаже)
+- ➕ **Torrefacto** — [Коста-Рика гейша хани
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/costa-rica-geisha-honey/) (снова в продаже)
+- ➕ **Torrefacto** — [Эфиопия Лиму Кемиссе
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/ethiopia-limu-kemisse/) (снова в продаже)
+- ➕ **Torrefacto** — [Эфиопия Каффа Сахама
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/ethiopia-kaffa-sahama/) (снова в продаже)
+- ➕ **Torrefacto** — [Эфиопия Иргачеффе Кочере
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/ethiopia-yrgacheffe-kochere/) (снова в продаже)
+- ➕ **Torrefacto** — [Карузо
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/caruso/) (снова в продаже)
+- ➕ **Torrefacto** — [Тосканини
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/toscanini/) (снова в продаже)
+- ➕ **Torrefacto** — [Панама финка Элета
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/panama-finca-eleta/) (снова в продаже)
+- ➕ **Torrefacto** — [Кения Кии
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/kenya-kii/) (снова в продаже)
+- ➕ **Torrefacto** — [Эфиопия Сидамо Нефас
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/ethiopia-sidamo-nefas/) (снова в продаже)
+- ➕ **Torrefacto** — [Индонезия Суматра Блю Батак
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/indonesia-sumatra-blue-batak/) (снова в продаже)
+- ➕ **Torrefacto** — [Куба Альтура
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/cuba-altura/) (снова в продаже)
+- ➕ **Torrefacto** — [Йемен Исмаили
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/yemen-ismaili/) (снова в продаже)
+- ➕ **Torrefacto** — [Йемен Харази
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/yemen-harazi/) (снова в продаже)
+- ➕ **Torrefacto** — [Колумбия Каука Попаян Тейблленд
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/colombia-cauca-popayan-tableland/) (снова в продаже)
+- ➕ **Torrefacto** — [Эфиопия Иргачеффе Колиша
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/ethiopia-yrgacheffe-kolisha/) (снова в продаже)
+- ➕ **Torrefacto** — [Кабо-Верде сухой
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/cabo-verde-natural/) (снова в продаже)
+- ➕ **Torrefacto** — [Непал Маунт Эверест
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/nepal-mount-everest/) (снова в продаже)
+- ➕ **Torrefacto** — [Бурунди Киримиро
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/burundi-kirimiro/) (снова в продаже)
+- ➕ **Torrefacto** — [Эфиопия Конга Седе
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/ethiopia-konga-sede/) (снова в продаже)
+- ➕ **Torrefacto** — [Гватемала Фрайханес Идолия
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/guatemala-fraijanes-idolia/) (снова в продаже)
+- ➕ **Torrefacto** — [Гватемала маракатурра Эль-Сокорро
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/guatemala-maracaturra-el-soccoro/) (снова в продаже)
+- ➕ **Torrefacto** — [Эфиопия Иргачеффе Нотс фэмили
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/ethiopia-yrgacheffe-knots/) (снова в продаже)
+- ➕ **Torrefacto** — [Кабо-Верде мытый
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/kabo-verde-washed/) (снова в продаже)
+- ➕ **Torrefacto** — [Эфиопия Гуджи Савана
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/ethiopia-guji-sawana/) (снова в продаже)
+- ➕ **Torrefacto** — [Кения Ньери Кабируини
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/kenya-nyeri-kabiruini/) (снова в продаже)
+- ➕ **Torrefacto** — [Колумбия Уила Гуакакайо
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/colombia-huila-guacacayo/) (снова в продаже)
+- ➕ **Torrefacto** — [Колумбия Антьокия Ла-Хойерия
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/colombia-antioquia-la-joyeria/) (снова в продаже)
+- ➕ **Torrefacto** — [Кения Ньери Камоко
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/kenya-nyeri-kamoko/) (снова в продаже)
+- ➕ **Torrefacto** — [Перу
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/peru/) (снова в продаже)
+- ➕ **Torrefacto** — [Бразилия Сантос 17/18
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/brazil-santos-17-18/) (снова в продаже)
+- ➕ **Torrefacto** — [Эфиопия Амхара 4 Айеху
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/ethiopia-amhara-ayehu-gr4/) (снова в продаже)
+- ➕ **Torrefacto** — [Эфиопия Сидамо Шилчо
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/ethiopia-sidamo-shilcho/) (снова в продаже)
+- ➕ **Torrefacto** — [Панама Бокете Каса Руис
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/panama-boquete-casa-ruiz/) (снова в продаже)
+- ➕ **Torrefacto** — [Гватемала Антигуа Санта-Клара
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/guatemala-antigua-santa-clara/) (снова в продаже)
+- ➕ **Torrefacto** — [Эль-Сальвадор финка Ла-Фани
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/el-salvador-finca-la-fany/) (снова в продаже)
+- ➕ **Torrefacto** — [Бразилия Пиньериньо
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/brazil-pinheirinho/) (снова в продаже)
+- ➕ **Torrefacto** — [Индонезия Суматра Манделинг
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/indonesia-sumatra-mandheling/) (снова в продаже)
+- ➕ **Torrefacto** — [Эфиопия Иргачеффе Реко
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/ethiopia-yirgacheffe-reko/) (снова в продаже)
+- ➕ **Torrefacto** — [Гватемала Платанийо Ежипто
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/guatemala-platanillo-egipto/) (снова в продаже)
+- ➕ **Torrefacto** — [Мексика Чьяпас
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/mexico-chiapas-finca-montegrande/) (снова в продаже)
+- ➕ **Torrefacto** — [Вьетнам Далат 13/15
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/vietnam-dalat-13-15/) (снова в продаже)
+- ➕ **Torrefacto** — [Бразилия Сантос 14/16
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/brazil-santos-14-16/) (снова в продаже)
+- ➕ **Torrefacto** — [Бразилия Ситьо-да-Торре
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/brazil-sitio-da-torre/) (снова в продаже)
+- ➕ **Torrefacto** — [Гондурас Оксиденте
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/hoduras-occidente/) (снова в продаже)
+- ➕ **Torrefacto** — [Коста-Рика асьенда Валерио
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/costa-rica-juan-carlos-valerio/) (снова в продаже)
+- ➕ **Torrefacto** — [Индонезия Суматра Вахана Истейт
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/indonesia-sumatra-wahana-estate/) (снова в продаже)
+- ➕ **Torrefacto** — [Танзания Блекберн Истейт мытый
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/tanzania-blackburn-estate/) (снова в продаже)
+- ➕ **Torrefacto** — [Кения Ньери Захабу
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/kenya-nyeri-zahabu/) (снова в продаже)
+- ➕ **Torrefacto** — [Колумбия Уила Монтебонито
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/colombia-huila-montebonito/) (снова в продаже)
+- ➕ **Torrefacto** — [Индия Литл Флауэр
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/india-little-flower/) (снова в продаже)
+- ➕ **Torrefacto** — [Эль-Сальвадор Каскара Джей Хилл
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/el-salvador-j-hill-cascara/) (снова в продаже)
+- ➕ **Torrefacto** — [Индия робуста Пачмент
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/india-robusta-parchment/) (снова в продаже)
+- ➕ **Torrefacto** — [Эль-Сальвадор Ла-Дивина-Провиденсия
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/el-salvador-la-divina-providencia/) (снова в продаже)
+- ➕ **Torrefacto** — [Бразилия Сантос 19
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/brazil-santos-19/) (снова в продаже)
+- ➕ **Torrefacto** — [Колумбия Антьокия финка Сан-Паскуаль
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/colombia-antioquia-san-pascual/) (снова в продаже)
+- ➕ **Torrefacto** — [Эфиопия Иргачеффе Арамо сухой
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/ethiopia-yirgacheffe-aramo/) (снова в продаже)
+- ➕ **Torrefacto** — [Эфиопия Лиму Элеана
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/ethiopia-limu-heleanna/) (снова в продаже)
+- ➕ **Torrefacto** — [Боливия Каскара
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/bolivia-cascara/) (снова в продаже)
+- ➕ **Torrefacto** — [Уганда Другар
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/uganda-drugar/) (снова в продаже)
+- ➕ **Torrefacto** — [Эфиопия Сидамо Хункуте
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/ethiopia-sidamo-hunkute/) (снова в продаже)
+- ➕ **Torrefacto** — [Кения Игута
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/kenya-igutha/) (снова в продаже)
+- ➕ **Torrefacto** — [Кения Киамарига
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/kenya-kiamariga/) (снова в продаже)
+- ➕ **Torrefacto** — [Индонезия Сулавеси
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/indonesia-sulawesi/) (снова в продаже)
+- ➕ **Torrefacto** — [Эль-Сальвадор Джей Хилл хани
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/el-salvador-j-hill-honey/) (снова в продаже)
+- ➕ **Torrefacto** — [Уганда Бугису
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/uganda-bugisu/) (снова в продаже)
+- ➕ **Torrefacto** — [Эфиопия Гуджи Сасаба
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/ethiopia-guji-sasaba/) (снова в продаже)
+- ➕ **Torrefacto** — [Доминикана Бараона
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/dominicana-barahona/) (снова в продаже)
+- ➕ **Torrefacto** — [Бурунди Киримиро Махонда
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/burundi-mahonda/) (снова в продаже)
+- ➕ **Torrefacto** — [Индонезия Суматра Гайо Мандири
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/indonesia-sumatra-gayo-mandiri/) (снова в продаже)
+- ➕ **Torrefacto** — [Бурунди Киримиро Кибунгере
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/burundi-kibungere/) (снова в продаже)
+- ➕ **Torrefacto** — [Колумбия Антьокия Супремо
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/colombia-antioquia-supremo/) (снова в продаже)
+- ➕ **Torrefacto** — [Бразилия Можиана
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/brazil-mogiana/) (снова в продаже)
+- ➕ **Torrefacto** — [Никарагуа Марагоджип
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/nicaragua-maragogype/) (снова в продаже)
+- ➕ **Torrefacto** — [Куба Серрано
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/cuba-serrano/) (снова в продаже)
+- ➕ **Torrefacto** — [Танзания Блекберн Истейт сухой
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/tanzania-blackburn-estate-/) (снова в продаже)
+- ➕ **Torrefacto** — [Руанда Нгома
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/rwanda-ngoma/) (снова в продаже)
+- ➕ **Torrefacto** — [Эфиопия Гуджи Мормисо
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/ethiopia-guji-mormiso/) (снова в продаже)
+- ➕ **Torrefacto** — [Бразилия желтый маракатуаи фазенда Бау
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/brazil-maracatuai-bau/) (снова в продаже)
+- ➕ **Torrefacto** — [Бразилия Ипанема Руби
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/brazil-ipanema-rubi/) (снова в продаже)
+- ➕ **Torrefacto** — [Кения АБ
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/kenya-ab/) (снова в продаже)
+- ➕ **Torrefacto** — [Никарагуа Ройял
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/nicaragua-royal/) (снова в продаже)
+- ➕ **Torrefacto** — [Индонезия Ява Джампит
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/indonesia-java-jampit/) (снова в продаже)
+- ➕ **Torrefacto** — [Индия Плантейшн Бабабудан
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/india-plantation-bababudan/) (снова в продаже)
+- ➕ **Torrefacto** — [Гватемала Фэнси
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/guatemala-fancy/) (снова в продаже)
+- ➕ **Torrefacto** — [Эфиопия Гуджи Гурачу
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/ethiopia-guji-gurachu/) (снова в продаже)
+- ➕ **Torrefacto** — [Эфиопия Иргачеффе сухой
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/ethiopia-yirgacheffe-4/) (снова в продаже)
+- ➕ **Torrefacto** — [Кения Гичатаини
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/kenya-gichathaini/) (снова в продаже)
+- ➕ **Torrefacto** — [Гватемала Ла-Эсмеральда
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/guatemala-la-esmeralda/) (снова в продаже)
+- ➕ **Torrefacto** — [Колумбия Ла-Фортуна Кап оф Экселленс 2015 №9
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/colombia-la-fortuna/) (снова в продаже)
+- ➕ **Torrefacto** — [Эфиопия Иргачеффе Черенет
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/ethiopia-yirgacheffe-cherenet/) (снова в продаже)
+- ➕ **Torrefacto** — [Коста-Рика Херардо Варгас
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/costa-rica-gerardo-vargas/) (снова в продаже)
+- ➕ **Torrefacto** — [Эль-Сальвадор финка Санта-Аделаида
+Зеленый кофе](https://www.torrefacto.ru/catalog/green/el-salvador-santa-adelaida/) (снова в продаже)
+- ➖ **H2O** — Kioko Ren English Breakfast Английский завтрак, 150 шт (пропал с сайта)
+- ➖ **Specialty.ru (собственная обжарка)** — Микале Эфиопия Лиму Аликанте, фильтр, 200 г (нет в наличии)
+- ➖ **Specialty.ru (собственная обжарка)** — Нева Кофе Ростерс Коста-Рика Тарразу Ла Пастора, эспрессо, 250 г (нет в наличии)
+- ➖ **Specialty.ru (собственная обжарка)** — Триптих Бразилия Минас-Жерайс Госто, эспрессо, 200 г (нет в наличии)
+- ➖ **Tasty Coffee** — Батч-Брю Фьюжн (пропал с сайта)
+- ➖ **Триптих** — БАТЧ-БРЮ (пропал с сайта)
+- ➖ **Триптих** — Бразилия госто (пропал с сайта)
+- ➖ **Триптих** — Йемен Харази (пропал с сайта)
+- ➖ **Триптих** — Кения Гичерори (пропал с сайта)
+- ➖ **Триптих** — Кения Кабингара (пропал с сайта)
+- ➖ **Триптих** — Кения Киангундо (пропал с сайта)
+- ➖ **Триптих** — Китай Хуангуан (пропал с сайта)
+- ➖ **Триптих** — Колумбия Де Ла Тьеррита (пропал с сайта)
+- ➖ **Триптих** — Колумбия Карлос Плаза (пропал с сайта)
+- ➖ **Триптих** — Колумбия Ла Парада (пропал с сайта)
+- ➖ **Триптих** — Колумбия Перископ Лот 1 (пропал с сайта)
+- ➖ **Триптих** — Колумбия Перископ Лот 2 (пропал с сайта)
+- ➖ **Триптих** — Колумбия Рохас (пропал с сайта)
+- ➖ **Триптих** — Колумбия Эксельсо (пропал с сайта)
+- ➖ **Триптих** — Колумбия Эль Вергель папайо (пропал с сайта)
+- ➖ **Триптих** — Колумбия Эль Дивизио (пропал с сайта)
+- ➖ **Триптих** — Перу Алиндор Мирез (пропал с сайта)
+- ➖ **Триптих** — Руанда Гашару (пропал с сайта)
+- ➖ **Триптих** — Руанда Нова (пропал с сайта)
+- ➖ **Триптих** — Уганда Кигези (пропал с сайта)
+- ➖ **Триптих** — Уганда Мугиси (пропал с сайта)
+- ➖ **Триптих** — Эфиопия Билоя (пропал с сайта)
+- ➖ **Триптих** — Эфиопия Гуджи (пропал с сайта)
+- ➖ **Триптих** — Эфиопия Дара (пропал с сайта)
+- ➖ **Триптих** — Эфиопия Конга (пропал с сайта)
+- ➖ **The Welder Catherine** — Галараствор Бразилия Ягуара ПБ (пропал с сайта)
+- ➖ **The Welder Catherine** — Галараствор Индонезия Мандехалинг (пропал с сайта)
+- ➖ **West 4 Coffee** — Каталог (нет в наличии)
+- ➖ **Yankee Sierra** — Mexica Ki-Saya (нет в наличии)
