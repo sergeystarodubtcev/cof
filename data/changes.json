@@ -19604,5 +19604,82 @@
     "reason": "нет в наличии"
    }
   ]
+ },
+ {
+  "at": "2026-11-22T07:15:19+00:00",
+  "added": [
+   {
+    "id": "bd08dfdb0343",
+    "roaster": "bolshe",
+    "name": "Венесуэла Брисас Дель Хиль",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/721156284-312824080743-venesuela-brisas-del-hil",
+    "back": true
+   }
+  ],
+  "removed": [
+   {
+    "id": "b6ac7b64ad86",
+    "roaster": "bolshe",
+    "name": "Африка Микс",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512429115-740610362202-afrika-miks",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "a850603b7f4c",
+    "roaster": "bolshe",
+    "name": "Эфиопия Дара",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/721156284-205420279471-efiopiya-dara",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "e6c24d52cece",
+    "roaster": "specialtyru",
+    "name": "Сварщица Екатерина Бразилия Родомуньо, эспрессо, 250 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-svarshchitsa-ekaterina-braziliya-rodomuno-espresso-250-g/",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "f415ebe1c300",
+    "roaster": "specialtyru",
+    "name": "Триптих Руанда Гицумби Нова, фильтр, 200 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-triptikh-ruanda-gitsumbi-nova-filtr-200-gr/",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "e498d08434da",
+    "roaster": "specialtyru",
+    "name": "Тэйсти Бразилия Серрадо, эспрессо, 250 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-teysti-braziliya-serrado-espresso-250-g/",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "ee63319d9bcb",
+    "roaster": "tasty",
+    "name": "Колумбия Вуш-вуш Монтеверде",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-wush-wush-monteverde-2026",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "f618845e75af",
+    "roaster": "tasty",
+    "name": "Колумбия Гейша Монтеверде",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-geisha-monteverde-2026",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "15d8eff78079",
+    "roaster": "tasty",
+    "name": "Эфиопия Мукера 200 часов",
+    "url": "https://shop.tastycoffee.ru/coffee/fermentirovannyi-kofe?page=3",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "c5c62da18a0a",
+    "roaster": "welder",
+    "name": "Галараствор Коста-Рика Бамбу Хани из бочки",
+    "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_kosta_rika_bambu_khani_iz_bochki/",
+    "reason": "пропал с сайта"
+   }
+  ]
  }
 ]

@@ -3,10 +3,10 @@
   "id": "neva",
   "platform": "bitrix+generic",
   "items": 107,
-  "seconds": 2164.2,
+  "seconds": 1277.5,
   "ok": true,
   "error": null,
-  "at": "2026-11-21T07:51:14+00:00"
+  "at": "2026-11-22T07:15:19+00:00"
  },
  "items": [
   {
@@ -2502,23 +2502,6 @@
    ]
   },
   {
-   "url": "https://nevacoffee.ru/catalog/coffee/colombia-supremo/",
-   "name": "Супремо 250 гр.",
-   "description": "",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/2cb/bnyw8xbrzmi2hvh9eq0h1bjwwntqkb9g.webp",
-   "category": "",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": 250,
-     "price": 698.0,
-     "available": true
-    }
-   ]
-  },
-  {
    "url": "https://nevacoffee.ru/catalog/coffee/crema/",
    "name": "Crema 250 гр.",
    "description": "",
@@ -2531,6 +2514,23 @@
     {
      "weight_g": 250,
      "price": 588.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/colombia-supremo/",
+   "name": "Супремо 250 гр.",
+   "description": "",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/2cb/bnyw8xbrzmi2hvh9eq0h1bjwwntqkb9g.webp",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 698.0,
      "available": true
     }
    ]

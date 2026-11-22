@@ -2,11 +2,11 @@
  "status": {
   "id": "welder",
   "platform": "bitrix+generic",
-  "items": 142,
-  "seconds": 1715.7,
+  "items": 140,
+  "seconds": 881.6,
   "ok": true,
   "error": null,
-  "at": "2026-11-21T07:43:28+00:00"
+  "at": "2026-11-22T07:08:33+00:00"
  },
  "items": [
   {
@@ -1600,11 +1600,6 @@
      "available": true
     },
     {
-     "weight_g": 250,
-     "price": 1640.0,
-     "available": true
-    },
-    {
      "weight_g": 1000,
      "price": 4921.0,
      "available": true
@@ -2370,28 +2365,6 @@
    ]
   },
   {
-   "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_kosta_rika_bambu_khani_iz_bochki/",
-   "name": "Галараствор Коста-Рика Бамбу Хани из бочки",
-   "description": "Кофе растворимый порошкообразный \"Галараствор Коста-Рика Бамбу Хани из бочки\", 16 гр",
-   "image": "https://theweldercatherine.ru/upload/iblock/ef1/yotqt2t0gkno21njuiqgn0l99tstqfr1/box-_5_.png",
-   "category": "Главная страница / Главная страница / Каталог / Каталог / Галараствор / Галараствор",
-   "specs": {
-    "Разновидность": "катуаи",
-    "Регион": "Брунка, Чиррипо",
-    "Сбор урожая": "Февраль 2025",
-    "Способ обработки": "хани"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 850.0,
-     "available": true
-    }
-   ]
-  },
-  {
    "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_peru_valle_sagrado/",
    "name": "Галараствор Перу Valle Sagrado",
    "description": "Кофе растворимый порошкообразный \"Перу Valle Sagrado\", 16 г",
@@ -2885,23 +2858,6 @@
    "name": "Кокосовое \"молоко\" OatGoat (12 шт)",
    "description": "Продукт на растительном сырье. Напиток сосonut - кокосовое. Для детского питания с 3-х лет. (12 шт)",
    "image": "https://theweldercatherine.ru/upload/iblock/c55/17tespnkv0vdg3x0v1nqiiv45763serh/koks.png",
-   "category": "Главная страница / Главная страница / Каталог / Каталог / Растительное “молоко” OatGoat / Растительное “молоко” OatGoat",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 2100.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://theweldercatherine.ru/catalog/rastitelnoe_moloko_oatgoat/mindalnoe_moloko_oatgoat_12_sht/",
-   "name": "Миндальное \"молоко\" OatGoat (12 шт)",
-   "description": "Продукт на растительном сырье. Напиток almond - миндальное. Для детского питания с 3-х лет (12 шт)",
-   "image": "https://theweldercatherine.ru/upload/iblock/a6f/fl7oexjfx7flvyuu1mgfci9nwk1fks4h/mind.png",
    "category": "Главная страница / Главная страница / Каталог / Каталог / Растительное “молоко” OatGoat / Растительное “молоко” OatGoat",
    "specs": {},
    "gallery": [],

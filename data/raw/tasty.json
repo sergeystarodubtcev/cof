@@ -3,10 +3,10 @@
   "id": "tasty",
   "platform": "generic",
   "items": 461,
-  "seconds": 1402.4,
+  "seconds": 753.5,
   "ok": true,
   "error": null,
-  "at": "2026-11-21T07:35:24+00:00"
+  "at": "2026-11-22T07:04:41+00:00"
  },
  "items": [
   {
@@ -881,7 +881,7 @@
    "url": "https://shop.tastycoffee.ru/coffee/espresso-colombia-taira-2026",
    "name": "Колумбия Тайра",
    "description": "Купить кофе для эспрессо Колумбия Тайра в интернет-магазине Tasty Coffee с быстрой и бесплатной доставкой",
-   "image": "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1793252766.7791-espresso-colombia-taira-2026-front-1-768.jpg",
+   "image": "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1795328041.6627-espresso-colombia-taira-2026-front-1-768.jpg",
    "category": "",
    "specs": {
     "Степень обжарки": "эспрессо",
@@ -892,8 +892,8 @@
     "Разновидность": "смесь бурбонов"
    },
    "gallery": [
-    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1793252766.9309-espresso-colombia-taira-2026-front-1-1024.jpg",
-    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1793252766.644-espresso-colombia-taira-2026-front-1-480.jpg"
+    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1795328041.7742-espresso-colombia-taira-2026-front-1-1024.jpg",
+    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1795328041.546-espresso-colombia-taira-2026-front-1-480.jpg"
    ],
    "available": true,
    "variants": [
@@ -2144,33 +2144,6 @@
    ]
   },
   {
-   "url": "https://shop.tastycoffee.ru/coffee/colombia-wush-wush-monteverde-2026",
-   "name": "Колумбия Вуш-вуш Монтеверде",
-   "description": "Колумбия Вуш-вуш Монтеверде, натуральный фанки — купить свежеобжаренный кофе для фильтра. Официальный интернет-магазин кофе и чая Tasty Coffee. Более 150 сортов кофе и чая. Купить кофе в зёрнах, молотый, кофе без кофеина можно с бесплатной доставкой по России и Москве",
-   "image": "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1794561989.1745-colombia-wush-wush-monteverde-2026-front-768.jpg",
-   "category": "",
-   "specs": {
-    "Степень обжарки": "фильтр",
-    "Регион": "Толима",
-    "Способ обработки": "натуральный фанки",
-    "Высота произрастания": "1800 м",
-    "Урожай": "2026",
-    "Разновидность": "вуш-вуш"
-   },
-   "gallery": [
-    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1794561989.3005-colombia-wush-wush-monteverde-2026-front-1024.jpg",
-    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1794561988.9884-colombia-wush-wush-monteverde-2026-front-480.jpg"
-   ],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": 100,
-     "price": 869.0,
-     "available": true
-    }
-   ]
-  },
-  {
    "url": "https://shop.tastycoffee.ru/coffee/yemen-manaha-anaerobic",
    "name": "Йемен Манаха Анаэробный",
    "description": "Йемен Манаха Анаэробный, натуральный фанки — купить свежеобжаренный кофе для фильтра в пачках по 100 г. Официальный интернет-магазин кофе и чая Tasty Coffee. Более 150 сортов кофе и чая. Купить кофе в зёрнах, молотый, кофе без кофеина можно с бесплатной доставкой по России и Москве.",
@@ -2220,33 +2193,6 @@
     {
      "weight_g": 100,
      "price": 869.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://shop.tastycoffee.ru/coffee/colombia-geisha-monteverde-2026",
-   "name": "Колумбия Гейша Монтеверде",
-   "description": "Колумбия Гейша Монтеверде, натуральный — купить свежеобжаренный кофе для фильтра в пачках по 250 г и 1 кг. Официальный интернет-магазин кофе и чая Tasty Coffee. Более 150 сортов кофе и чая. Купить кофе в зёрнах, молотый, кофе без кофеина можно с бесплатной доставкой по России и Москве.",
-   "image": "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1792069629.7909-colombia-geisha-monteverde-2026-front-768.jpg",
-   "category": "",
-   "specs": {
-    "Степень обжарки": "фильтр",
-    "Регион": "Толима",
-    "Способ обработки": "натуральный",
-    "Высота произрастания": "1800–2100 м",
-    "Урожай": "2026",
-    "Разновидность": "гейша"
-   },
-   "gallery": [
-    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1792069629.9092-colombia-geisha-monteverde-2026-front-1024.jpg",
-    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1792069627.6264-colombia-geisha-monteverde-2026-front-480.jpg"
-   ],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": 100,
-     "price": 799.0,
      "available": true
     }
    ]
@@ -2387,26 +2333,6 @@
     {
      "weight_g": 250,
      "price": 969.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://shop.tastycoffee.ru/coffee/fermentirovannyi-kofe?page=3",
-   "name": "Эфиопия Мукера 200 часов",
-   "description": "Эфиопия Мукера 200 часов, 10 дрип-пакетов — купить свежеобжаренный кофе в дрип-пакетах. Официальный интернет-магазин кофе и чая Tasty Coffee. Более 150 сортов кофе и чая. Купить кофе в зёрнах, молотый, кофе без кофеина можно с бесплатной доставкой по России и Москве.",
-   "image": "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/_newpack11/drip/drip-coffee-ethiopia-mukera-200.png",
-   "category": "",
-   "specs": {
-    "Степень обжарки": "Светлая (для фильтра)",
-    "Способ обработки": "Мытый"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 829.0,
      "available": true
     }
    ]
@@ -14126,6 +14052,105 @@
     {
      "weight_g": 1000,
      "price": 3179.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://shop.tastycoffee.ru/coffee/espresso-ethiopia-solomon-getu",
+   "name": "Эфиопия Соломон Гету",
+   "description": "Эфиопия Соломон Гету в интернет-магазине \"Tasty Coffee\" в упаковках по 250гр, 1000 гр. Акция! При покупке 6 пачек кофе 250 г - подарок!",
+   "image": "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product/1760096541.6324-espresso-ethiopia-solomon-getu-250-768.webp",
+   "category": "",
+   "specs": {
+    "Степень обжарки": "эспрессо",
+    "Регион": "Гедео",
+    "Способ обработки": "мытый",
+    "Высота произрастания": "2000–2200 м",
+    "Урожай": "2024/2025",
+    "Разновидность": "местные"
+   },
+   "gallery": [
+    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product/1760096543.8893-espresso-ethiopia-solomon-getu-1000-768.webp",
+    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product/1760096545.5712-espresso-ethiopia-solomon-getu-beans-768.webp",
+    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1782289620.8137-espresso-ethiopia-solomon-getu-front-768.jpg"
+   ],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 929.0,
+     "available": false
+    },
+    {
+     "weight_g": 1000,
+     "price": 3159.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://shop.tastycoffee.ru/coffee/espresso-ethiopia-geri-anaerobic",
+   "name": "Эфиопия Гери Анаэробный",
+   "description": "Эфиопия Гери Анаэробный в интернет-магазине \"Tasty Coffee\" в упаковках по 250гр, 1000 гр. Акция! При покупке 6 пачек кофе 250 г - подарок!",
+   "image": "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product/1779450009.3974-espresso-ethiopia-geri-anaerobic-250-768.webp",
+   "category": "",
+   "specs": {
+    "Степень обжарки": "эспрессо",
+    "Регион": "Кочере",
+    "Способ обработки": "натуральный фанки",
+    "Высота произрастания": "1900–2000 м",
+    "Урожай": "2024/2025",
+    "Разновидность": "местные"
+   },
+   "gallery": [
+    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product/1779450011.387-espresso-ethiopia-geri-anaerobic-1000-768.webp",
+    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product/1779450012.9207-espresso-ethiopia-geri-anaerobic-beans-768.webp",
+    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1782289620.4271-espresso-ethiopia-geri-anaerobic-front-768.jpg"
+   ],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1029.0,
+     "available": false
+    },
+    {
+     "weight_g": 1000,
+     "price": 3499.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://shop.tastycoffee.ru/coffee/espresso-costa-rica-la-fila",
+   "name": "Коста-Рика Ла Фила",
+   "description": "Коста-Рика Ла Фила в интернет-магазине \"Tasty Coffee\" в упаковках по 250гр, 1000 гр. Акция! При покупке 6 пачек кофе 250 г - подарок!",
+   "image": "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product/1770374342.179-espresso-costa-rica-la-fila-250-768.webp",
+   "category": "",
+   "specs": {
+    "Степень обжарки": "эспрессо",
+    "Регион": "Брунка",
+    "Способ обработки": "натуральный",
+    "Высота произрастания": "1700 м",
+    "Урожай": "2025",
+    "Разновидность": "катуаи"
+   },
+   "gallery": [
+    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product/1770374344.2497-espresso-costa-rica-la-fila-1000-768.webp",
+    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product/1770374345.6557-espresso-costa-rica-la-fila-beans-768.webp",
+    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1782289620.0855-espresso-costa-rica-la-fila-front-768.jpg"
+   ],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1059.0,
+     "available": false
+    },
+    {
+     "weight_g": 1000,
+     "price": 3599.0,
      "available": false
     }
    ]
