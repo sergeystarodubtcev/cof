@@ -3,10 +3,10 @@
   "id": "madheads",
   "platform": "generic",
   "items": 240,
-  "seconds": 193.8,
+  "seconds": 312.0,
   "ok": true,
   "error": null,
-  "at": "2026-11-22T07:00:30+00:00"
+  "at": "2026-11-23T07:53:38+00:00"
  },
  "items": [
   {
@@ -316,6 +316,23 @@
    ]
   },
   {
+   "url": "https://madheadscoffee.com/p/MMNtqHzUFqQ-6bc7dac8",
+   "name": "Kibingo Easy Drip",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/459250/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Easydrip / Easydrip / Kibingo Easy Drip / Kibingo Easy Drip",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 450.0,
+     "available": true
+    }
+   ]
+  },
+  {
    "url": "https://madheadscoffee.com/p/s0mgBathRk8-0b4d0283",
    "name": "Gesha Gelan Abaya Easy Drip",
    "description": "Перейдіть до каталога щоб обрати товар",
@@ -491,23 +508,6 @@
    "description": "Перейдіть до каталога щоб обрати товар",
    "image": "https://api.madheadscoffee.com/cdn/s/1/p/219483/0/large.png",
    "category": "Головна / Головна / Категорії / Категорії / Easydrip / Easydrip / Leste Easy Drip / Leste Easy Drip",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 450.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://madheadscoffee.com/p/jqRZ9FNdZrq-a98c7a28",
-   "name": "El Rosal Easy Drip",
-   "description": "Перейдіть до каталога щоб обрати товар",
-   "image": "https://api.madheadscoffee.com/cdn/s/1/p/210255/0/large.png",
-   "category": "Головна / Головна / Категорії / Категорії / Easydrip / Easydrip / El Rosal Easy Drip / El Rosal Easy Drip",
    "specs": {},
    "gallery": [],
    "available": true,
@@ -2424,7 +2424,7 @@
    ]
   },
   {
-   "url": "https://madheadscoffee.com/p/1EaKkLhxGXu-b49107a4",
+   "url": "https://madheadscoffee.com/p/A8jBmnrmzOw-1cd9f43c",
    "name": "Футболка сіра «Who Satan vol.3»",
    "description": "Перейдіть до каталога щоб обрати товар",
    "image": "https://api.madheadscoffee.com/cdn/s/1/p/163784/0/large.jpg",

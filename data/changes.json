@@ -19681,5 +19681,96 @@
     "reason": "пропал с сайта"
    }
   ]
+ },
+ {
+  "at": "2026-11-23T08:10:35+00:00",
+  "added": [
+   {
+    "id": "f618845e75af",
+    "roaster": "tasty",
+    "name": "Колумбия Гейша Монтеверде",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-geisha-monteverde-2026",
+    "back": true
+   },
+   {
+    "id": "04f33c3588a3",
+    "roaster": "bolshe",
+    "name": "Бразилия амазонская робуста от Хуана Травейна",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512406604-276930318343-braziliya-amazonskaya-robusta-ot-huana-t",
+    "back": false
+   },
+   {
+    "id": "2671c8158fc4",
+    "roaster": "bolshe",
+    "name": "Колумбия декаф",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512384010-423776597393-kolumbiya-dekaf",
+    "back": false
+   },
+   {
+    "id": "66e43ddfdfad",
+    "roaster": "botanica",
+    "name": "Кения Нгаи",
+    "url": "https://botanicacoffee.ru/ngaiespresso",
+    "back": false
+   },
+   {
+    "id": "89a13a698089",
+    "roaster": "botanica",
+    "name": "Кения Нгаи",
+    "url": "https://botanicacoffee.ru/keniangai",
+    "back": true
+   }
+  ],
+  "removed": [
+   {
+    "id": "992d81e9188c",
+    "roaster": "bolshe",
+    "name": "Особый лот Эфиопия Демби",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512384010-386826541173-osobii-lot-efiopiya-dembi",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "5a0738b92aee",
+    "roaster": "bolshe",
+    "name": "Перу Андрес Торрес Гейша",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/721156284-249914106453-peru-andres-torres-geisha",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "62a2d9ca87e3",
+    "roaster": "specialtyru",
+    "name": "Сварщица Екатерина Сладкая Сладость, эспрессо, 250 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-svarshchitsa-ekaterina-sladkaya-sladost-espresso-250-g/",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "99d484729fa0",
+    "roaster": "specialtyru",
+    "name": "Триптих Эфиопия Гуджи Хейрлум, эспрессо, 200 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-triptikh-efiopiya-gudzhi-kheyrlum-espresso-200-gr/",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "574a71b1440f",
+    "roaster": "stereo",
+    "name": "Колумбия Сидра",
+    "url": "https://stereo.coffee/shop/tproduct/592281615-239134867053-kolumbiya-sidra",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "c80a7320c19b",
+    "roaster": "tasty",
+    "name": "Эфиопия Мукера Соакинг",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-mukera-soaking",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "cd1acfabbd3e",
+    "roaster": "welder",
+    "name": "Руанда Кабуе",
+    "url": "https://theweldercatherine.ru/catalog/dlya_espresso/ruanda_kabue_/",
+    "reason": "пропал с сайта"
+   }
+  ]
  }
 ]

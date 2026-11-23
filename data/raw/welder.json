@@ -2,11 +2,11 @@
  "status": {
   "id": "welder",
   "platform": "bitrix+generic",
-  "items": 140,
-  "seconds": 881.6,
+  "items": 139,
+  "seconds": 1127.2,
   "ok": true,
   "error": null,
-  "at": "2026-11-22T07:08:33+00:00"
+  "at": "2026-11-23T08:02:45+00:00"
  },
  "items": [
   {
@@ -2035,28 +2035,6 @@
    ]
   },
   {
-   "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_kosta_rika_don_eli/",
-   "name": "Галараствор Коста-Рика Дон Эли",
-   "description": "Кофе растворимый порошкообразный \"Галараствор Коста-Рика Дон Эли\", 5x3,2 г",
-   "image": "https://theweldercatherine.ru/upload/iblock/25e/ulzkise2vjtwh8or70fkiqq3s1sb0g1c/Kosta_Rika-Don-Eli-gala.png",
-   "category": "Главная страница / Главная страница / Каталог / Каталог / Галараствор / Галараствор",
-   "specs": {
-    "Разновидность": "желтый катуаи",
-    "Регион": "Ла Бандера Де Дота, Терразу",
-    "Сбор урожая": "Март 2025",
-    "Способ обработки": "натуральный, анаэробный"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 774.0,
-     "available": true
-    }
-   ]
-  },
-  {
    "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_kolumbiya_kompanya_libertad_akhi/",
    "name": "Галараствор Колумбия Компанья Либертад Ахи",
    "description": "Кофе растворимый порошкообразный \"Галараствор Колумбия Компанья Либертад Ахи\", 5x3,2 г",
@@ -3425,6 +3403,28 @@
    ]
   },
   {
+   "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_kosta_rika_don_eli/",
+   "name": "Галараствор Коста-Рика Дон Эли",
+   "description": "Кофе растворимый порошкообразный \"Галараствор Коста-Рика Дон Эли\", 5x3,2 г",
+   "image": "https://theweldercatherine.ru/upload/iblock/25e/ulzkise2vjtwh8or70fkiqq3s1sb0g1c/Kosta_Rika-Don-Eli-gala.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Архив кофе / Архив кофе",
+   "specs": {
+    "Разновидность": "желтый катуаи",
+    "Регион": "Ла Бандера Де Дота, Терразу",
+    "Сбор урожая": "Март 2025",
+    "Способ обработки": "натуральный, анаэробный"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 774.0,
+     "available": true
+    }
+   ]
+  },
+  {
    "url": "https://theweldercatherine.ru/catalog/dlya_espresso/keniya_starlayt_c/",
    "name": "Кения Старлайт C",
    "description": "Заказывайте Кения Старлайт C с удобной доставкой. Свежая обжарка, подробное описание вкусового профиля, характеристики и отзывы на сайте The Welder Catherine.",
@@ -3600,46 +3600,6 @@
     {
      "weight_g": 1000,
      "price": 5174.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://theweldercatherine.ru/catalog/dlya_espresso/ruanda_kabue_/",
-   "name": "Руанда Кабуе",
-   "description": "Кофе Руанда Кабуе",
-   "image": "https://theweldercatherine.ru/upload/iblock/105/ysg1fu3adxom7t7mjtyys9gzlge5qfcs/250g-_1_-_29_.png",
-   "category": "Главная страница / Главная страница / Каталог / Каталог / Для эспрессо / Для эспрессо",
-   "specs": {
-    "Разновидность": "Красный бурбон",
-    "Регион": "Уйе",
-    "Сбор урожая": "Апрель 2025",
-    "Способ обработки": "мытый",
-    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
-    "Ферма": "Кооператив Кабуе",
-    "Обжарка": "фильтр, эспрессо"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": 250,
-     "price": 1194.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 3583.0,
-     "available": true
-    },
-    {
-     "weight_g": 250,
-     "price": 1194.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 3583.0,
      "available": true
     }
    ]

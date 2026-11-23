@@ -3,10 +3,10 @@
   "id": "neva",
   "platform": "bitrix+generic",
   "items": 107,
-  "seconds": 1277.5,
+  "seconds": 1586.6,
   "ok": true,
   "error": null,
-  "at": "2026-11-22T07:15:19+00:00"
+  "at": "2026-11-23T08:10:35+00:00"
  },
  "items": [
   {
@@ -2400,23 +2400,6 @@
    ]
   },
   {
-   "url": "https://nevacoffee.ru/catalog/coffee/indoneziya-sumatra/",
-   "name": "Индонезия Суматра 200 гр (фильтр)",
-   "description": "",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/resize_cache/iblock/3f7/2000_2000_140cd750bba9870f18aada2478b24840a/xt4yeon5imht5agkyawdliakcddm4ns6.webp",
-   "category": "",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": 200,
-     "price": 544.0,
-     "available": true
-    }
-   ]
-  },
-  {
    "url": "https://nevacoffee.ru/catalog/coffee/arabika/peru-amazonas-gr-1/",
    "name": "Амазонас 250 гр",
    "description": "",
@@ -2429,6 +2412,23 @@
     {
      "weight_g": 250,
      "price": 688.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/indoneziya-sumatra/",
+   "name": "Индонезия Суматра 200 гр (фильтр)",
+   "description": "",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/resize_cache/iblock/3f7/2000_2000_140cd750bba9870f18aada2478b24840a/xt4yeon5imht5agkyawdliakcddm4ns6.webp",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 200,
+     "price": 544.0,
      "available": true
     }
    ]

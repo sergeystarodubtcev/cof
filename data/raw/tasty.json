@@ -3,10 +3,10 @@
   "id": "tasty",
   "platform": "generic",
   "items": 461,
-  "seconds": 753.5,
+  "seconds": 1051.5,
   "ok": true,
   "error": null,
-  "at": "2026-11-22T07:04:41+00:00"
+  "at": "2026-11-23T07:59:52+00:00"
  },
  "items": [
   {
@@ -1827,38 +1827,6 @@
    ]
   },
   {
-   "url": "https://shop.tastycoffee.ru/coffee/ethiopia-mukera-soaking",
-   "name": "Эфиопия Мукера Соакинг",
-   "description": "Эфиопия Мукера Соакинг, натуральный фанки — купить свежеобжаренный кофе для фильтра в пачках по 250 г и 1 кг. Официальный интернет-магазин кофе и чая Tasty Coffee. Более 150 сортов кофе и чая. Купить кофе в зёрнах, молотый, кофе без кофеина можно с бесплатной доставкой по России и Москве.",
-   "image": "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1785494025.9912-ethiopia-mukera-soaking-front-768.jpg",
-   "category": "",
-   "specs": {
-    "Степень обжарки": "фильтр",
-    "Регион": "Гедео",
-    "Способ обработки": "натуральный фанки",
-    "Высота произрастания": "2000–2200 м",
-    "Урожай": "2026",
-    "Разновидность": "местные"
-   },
-   "gallery": [
-    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1785494026.1188-ethiopia-mukera-soaking-front-1024.jpg",
-    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1785494025.8707-ethiopia-mukera-soaking-front-480.jpg"
-   ],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": 250,
-     "price": 1259.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4279.0,
-     "available": true
-    }
-   ]
-  },
-  {
    "url": "https://shop.tastycoffee.ru/coffee/espresso-uganda-gaudam-anbalagan",
    "name": "Уганда Гаудам Анбалаган",
    "description": "Уганда Гаудам Анбалаган, натуральный — купить свежеобжаренный кофе для эспрессо в пачках по 250 г и 1 кг. Официальный интернет-магазин кофе и чая Tasty Coffee. Более 150 сортов кофе и чая. Купить кофе в зёрнах, молотый, кофе без кофеина можно с бесплатной доставкой по России и Москве.",
@@ -2193,6 +2161,33 @@
     {
      "weight_g": 100,
      "price": 869.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://shop.tastycoffee.ru/coffee/colombia-geisha-monteverde-2026",
+   "name": "Колумбия Гейша Монтеверде",
+   "description": "Колумбия Гейша Монтеверде, натуральный — купить свежеобжаренный кофе для фильтра в пачках по 250 г и 1 кг. Официальный интернет-магазин кофе и чая Tasty Coffee. Более 150 сортов кофе и чая. Купить кофе в зёрнах, молотый, кофе без кофеина можно с бесплатной доставкой по России и Москве.",
+   "image": "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1792069629.7909-colombia-geisha-monteverde-2026-front-768.jpg",
+   "category": "",
+   "specs": {
+    "Степень обжарки": "фильтр",
+    "Регион": "Толима",
+    "Способ обработки": "натуральный",
+    "Высота произрастания": "1800–2100 м",
+    "Урожай": "2026",
+    "Разновидность": "гейша"
+   },
+   "gallery": [
+    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1792069629.9092-colombia-geisha-monteverde-2026-front-1024.jpg",
+    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1792069627.6264-colombia-geisha-monteverde-2026-front-480.jpg"
+   ],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 100,
+     "price": 799.0,
      "available": true
     }
    ]
@@ -13058,27 +13053,30 @@
    "url": "https://shop.tastycoffee.ru/coffee/espresso-guatemala-lapila",
    "name": "Гватемала Ла Пила",
    "description": "Кофе Гватемала Ла Пила при покупке 6 пачек кофе 250 г - подарок! Оплата при получении. Кофе Гватемала в зернах - Сладкий кофе со вкусом жёлтой груши, малины, изюма и молочного шоколада",
-   "image": "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/_newpack7/esp-micro/guatemala-la-pila-250-2.png",
+   "image": "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product/1744363272.7391-espresso-guatemala-lapila-025-768.webp",
    "category": "",
    "specs": {
     "Степень обжарки": "эспрессо",
     "Регион": "Фрайжанес",
-    "Способ обработки": "натуральный фанки",
+    "Способ обработки": "хани",
     "Высота произрастания": "1700 м",
-    "Урожай": "2022",
+    "Урожай": "2023",
     "Разновидность": "бурбон"
    },
-   "gallery": [],
+   "gallery": [
+    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product/1744363274.5734-espresso-guatemala-lapila-1-768.webp",
+    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product/1744363276.0311-beans-espresso-guatemala-lapila-768.webp"
+   ],
    "available": false,
    "variants": [
     {
      "weight_g": 250,
-     "price": 769.0,
+     "price": 939.0,
      "available": false
     },
     {
      "weight_g": 1000,
-     "price": 2609.0,
+     "price": 3189.0,
      "available": false
     }
    ]
