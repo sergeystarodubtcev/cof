@@ -3,10 +3,10 @@
   "id": "sok",
   "platform": "bitrix+generic",
   "items": 42,
-  "seconds": 1640.9,
+  "seconds": 1237.2,
   "ok": true,
   "error": null,
-  "at": "2026-11-23T08:09:42+00:00"
+  "at": "2026-11-24T10:17:10+00:00"
  },
  "items": [
   {
@@ -179,12 +179,12 @@
    "variants": [
     {
      "weight_g": 200,
-     "price": 775.22,
+     "price": 934.0,
      "available": true
     },
     {
      "weight_g": 500,
-     "price": 1846.75,
+     "price": 2225.0,
      "available": true
     }
    ]
@@ -290,12 +290,12 @@
    "variants": [
     {
      "weight_g": 200,
-     "price": 806.0,
+     "price": 765.7,
      "available": true
     },
     {
      "weight_g": 500,
-     "price": 1800.0,
+     "price": 1710.0,
      "available": true
     }
    ]
@@ -538,12 +538,12 @@
    "variants": [
     {
      "weight_g": 200,
-     "price": 886.0,
+     "price": 735.38,
      "available": true
     },
     {
      "weight_g": 500,
-     "price": 2110.0,
+     "price": 1751.3,
      "available": true
     }
    ]
@@ -899,12 +899,12 @@
    "variants": [
     {
      "weight_g": 200,
-     "price": 610.88,
+     "price": 736.0,
      "available": true
     },
     {
      "weight_g": 1000,
-     "price": 2755.6,
+     "price": 3320.0,
      "available": true
     }
    ]

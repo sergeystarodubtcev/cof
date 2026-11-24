@@ -3,10 +3,10 @@
   "id": "kofeop",
   "platform": "bitrix+generic",
   "items": 39,
-  "seconds": 592.5,
+  "seconds": 416.9,
   "ok": true,
   "error": null,
-  "at": "2026-11-23T07:57:40+00:00"
+  "at": "2026-11-24T10:09:07+00:00"
  },
  "items": [
   {
@@ -281,7 +281,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 1045.5,
+     "price": 1230.0,
      "available": true
     }
    ]
@@ -349,7 +349,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 560.0,
+     "price": 623.0,
      "available": true
     }
    ]
@@ -366,7 +366,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 553.0,
+     "price": 800.0,
      "available": true
     }
    ]
@@ -383,7 +383,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 850.0,
+     "price": 890.0,
      "available": true
     }
    ]
@@ -400,7 +400,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 800.0,
+     "price": 850.0,
      "available": true
     }
    ]
@@ -417,7 +417,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 553.0,
+     "price": 581.0,
      "available": true
     }
    ]
@@ -519,7 +519,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 623.0,
+     "price": 560.0,
      "available": true
     }
    ]
@@ -536,7 +536,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 1045.5,
+     "price": 553.0,
      "available": true
     }
    ]
@@ -553,7 +553,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 623.0,
+     "price": 553.0,
      "available": true
     }
    ]
@@ -570,7 +570,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 553.0,
+     "price": 623.0,
      "available": true
     }
    ]
@@ -587,7 +587,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 560.0,
+     "price": 1230.0,
      "available": true
     }
    ]
@@ -604,7 +604,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 850.0,
+     "price": 1160.0,
      "available": true
     }
    ]
@@ -621,7 +621,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 800.0,
+     "price": 850.0,
      "available": true
     }
    ]
@@ -638,7 +638,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 850.0,
+     "price": 560.0,
      "available": true
     }
    ]
@@ -655,7 +655,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 581.0,
+     "price": 850.0,
      "available": true
     }
    ]
@@ -672,7 +672,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 800.0,
+     "price": 560.0,
      "available": true
     }
    ]

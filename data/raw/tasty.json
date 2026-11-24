@@ -3,10 +3,10 @@
   "id": "tasty",
   "platform": "generic",
   "items": 461,
-  "seconds": 1051.5,
+  "seconds": 767.9,
   "ok": true,
   "error": null,
-  "at": "2026-11-23T07:59:52+00:00"
+  "at": "2026-11-24T10:09:20+00:00"
  },
  "items": [
   {
@@ -2161,33 +2161,6 @@
     {
      "weight_g": 100,
      "price": 869.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://shop.tastycoffee.ru/coffee/colombia-geisha-monteverde-2026",
-   "name": "Колумбия Гейша Монтеверде",
-   "description": "Колумбия Гейша Монтеверде, натуральный — купить свежеобжаренный кофе для фильтра в пачках по 250 г и 1 кг. Официальный интернет-магазин кофе и чая Tasty Coffee. Более 150 сортов кофе и чая. Купить кофе в зёрнах, молотый, кофе без кофеина можно с бесплатной доставкой по России и Москве.",
-   "image": "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1792069629.7909-colombia-geisha-monteverde-2026-front-768.jpg",
-   "category": "",
-   "specs": {
-    "Степень обжарки": "фильтр",
-    "Регион": "Толима",
-    "Способ обработки": "натуральный",
-    "Высота произрастания": "1800–2100 м",
-    "Урожай": "2026",
-    "Разновидность": "гейша"
-   },
-   "gallery": [
-    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1792069629.9092-colombia-geisha-monteverde-2026-front-1024.jpg",
-    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1792069627.6264-colombia-geisha-monteverde-2026-front-480.jpg"
-   ],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": 100,
-     "price": 799.0,
      "available": true
     }
    ]
@@ -14149,6 +14122,39 @@
     {
      "weight_g": 1000,
      "price": 3599.0,
+     "available": false
+    }
+   ]
+  },
+  {
+   "url": "https://shop.tastycoffee.ru/coffee/ethiopia-mukera-taco-2025",
+   "name": "Эфиопия Мукера Тако",
+   "description": "Купить кофе Эфиопия Мукера Тако в интернет-магазине Tasty Coffee с быстрой и бесплатной доставкой",
+   "image": "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product/1770712800.9891-ethiopia-mukera-taco-2025-250-768.webp",
+   "category": "",
+   "specs": {
+    "Степень обжарки": "фильтр",
+    "Регион": "Гедеб",
+    "Способ обработки": "натуральный фанки",
+    "Высота произрастания": "2000–2200 м",
+    "Урожай": "2024/2025",
+    "Разновидность": "местные"
+   },
+   "gallery": [
+    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product/1770712803.0825-ethiopia-mukera-taco-2025-1000-768.webp",
+    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product/1770712804.6423-ethiopia-mukera-taco-2025-beans-768.webp",
+    "https://s3.shop.tastycoffee.ru/coffee-static/files/shares/data/product-description/1782289619.6079-ethiopia-mukera-taco-2025-front-768.jpg"
+   ],
+   "available": false,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1099.0,
+     "available": false
+    },
+    {
+     "weight_g": 1000,
+     "price": 3739.0,
      "available": false
     }
    ]

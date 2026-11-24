@@ -2,11 +2,11 @@
  "status": {
   "id": "choose",
   "platform": "tilda",
-  "items": 34,
-  "seconds": 53.0,
+  "items": 33,
+  "seconds": 208.3,
   "ok": true,
   "error": null,
-  "at": "2026-11-23T07:45:14+00:00"
+  "at": "2026-11-24T10:02:10+00:00"
  },
  "items": [
   {
@@ -115,142 +115,142 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 1000.0,
+     "price": 970.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 1000.0,
+     "price": 970.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 1000.0,
+     "price": 970.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 1000.0,
+     "price": 970.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 1000.0,
+     "price": 970.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 1000.0,
+     "price": 970.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 1000.0,
+     "price": 970.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 2400.0,
+     "price": 2350.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 2400.0,
+     "price": 2350.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 2400.0,
+     "price": 2350.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 2400.0,
+     "price": 2350.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 2400.0,
+     "price": 2350.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 2400.0,
+     "price": 2350.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 2400.0,
+     "price": 2350.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 1000.0,
+     "price": 970.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 1000.0,
+     "price": 970.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 1000.0,
+     "price": 970.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 1000.0,
+     "price": 970.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 1000.0,
+     "price": 970.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 1000.0,
+     "price": 970.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 1000.0,
+     "price": 970.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 2400.0,
+     "price": 2350.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 2400.0,
+     "price": 2350.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 2400.0,
+     "price": 2350.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 2400.0,
+     "price": 2350.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 2400.0,
+     "price": 2350.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 2400.0,
+     "price": 2350.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 2400.0,
+     "price": 2350.0,
      "available": true
     }
    ]
@@ -582,142 +582,142 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 950.0,
+     "price": 930.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 950.0,
+     "price": 930.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 950.0,
+     "price": 930.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 950.0,
+     "price": 930.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 950.0,
+     "price": 930.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 950.0,
+     "price": 930.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 950.0,
+     "price": 930.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 2200.0,
+     "price": 2150.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 2200.0,
+     "price": 2150.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 2200.0,
+     "price": 2150.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 2200.0,
+     "price": 2150.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 2200.0,
+     "price": 2150.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 2200.0,
+     "price": 2150.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 2200.0,
+     "price": 2150.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 950.0,
+     "price": 930.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 950.0,
+     "price": 930.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 950.0,
+     "price": 930.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 950.0,
+     "price": 930.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 950.0,
+     "price": 930.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 950.0,
+     "price": 930.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 950.0,
+     "price": 930.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 2200.0,
+     "price": 2150.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 2200.0,
+     "price": 2150.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 2200.0,
+     "price": 2150.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 2200.0,
+     "price": 2150.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 2200.0,
+     "price": 2150.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 2200.0,
+     "price": 2150.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 2200.0,
+     "price": 2150.0,
      "available": true
     }
    ]
@@ -739,142 +739,142 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 1000.0,
+     "price": 990.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 1000.0,
+     "price": 990.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 1000.0,
+     "price": 990.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 1000.0,
+     "price": 990.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 1000.0,
+     "price": 990.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 1000.0,
+     "price": 990.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 1000.0,
+     "price": 990.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 2450.0,
+     "price": 2400.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 2450.0,
+     "price": 2400.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 2450.0,
+     "price": 2400.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 2450.0,
+     "price": 2400.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 2450.0,
+     "price": 2400.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 2450.0,
+     "price": 2400.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 2450.0,
+     "price": 2400.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 1000.0,
+     "price": 990.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 1000.0,
+     "price": 990.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 1000.0,
+     "price": 990.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 1000.0,
+     "price": 990.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 1000.0,
+     "price": 990.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 1000.0,
+     "price": 990.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 1000.0,
+     "price": 990.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 2450.0,
+     "price": 2400.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 2450.0,
+     "price": 2400.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 2450.0,
+     "price": 2400.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 2450.0,
+     "price": 2400.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 2450.0,
+     "price": 2400.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 2450.0,
+     "price": 2400.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 2450.0,
+     "price": 2400.0,
      "available": true
     }
    ]
@@ -1564,42 +1564,37 @@
     },
     {
      "weight_g": null,
-     "price": 2400.0,
+     "price": 2370.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 2400.0,
+     "price": 2370.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 2400.0,
+     "price": 2370.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 2400.0,
+     "price": 2370.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 2400.0,
+     "price": 2370.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 2400.0,
+     "price": 2370.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 2400.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 970.0,
+     "price": 2370.0,
      "available": true
     },
     {
@@ -1634,37 +1629,42 @@
     },
     {
      "weight_g": null,
-     "price": 2400.0,
+     "price": 970.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 2400.0,
+     "price": 2370.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 2400.0,
+     "price": 2370.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 2400.0,
+     "price": 2370.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 2400.0,
+     "price": 2370.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 2400.0,
+     "price": 2370.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 2400.0,
+     "price": 2370.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2370.0,
      "available": true
     }
    ]
@@ -1980,164 +1980,6 @@
     {
      "weight_g": null,
      "price": 6000.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://www.choosecoffee.ru/main/tproduct/739043735-783039908893-kolumbiya-la-planta-tabi",
-   "name": "Колумбия / Ла Планта Таби",
-   "description": "Описание\nКолумбийский кофе разновидности Tabi с мытой анаэробной обработкой и применением mosto.\nFinca El Diviso — кофейное хозяйство с историей, насчитывающей четыре поколения. Сегодня фермой управляют братья Нестор, Адриан и Джонатан Лассо Суньига. Она расположена в деревне Бруселас, муниципалитет Питалито, департамент Уила, на высоте около 1750 метров над уровнем моря. Этот регион считается одним из наиболее престижных терруаров Колумбии для производства спешелти кофе.\nНа ферме выращивают широкий спектр редких и высокоценимых разновидностей арабики, среди которых Java, Ombligón, Bourbon Sidra, Bourbon Rosado, Bourbon Rayado, Geisha, Caturra Chiroso и Caturra Amarillo. Подбор генетического материала направлен на достижение максимального ароматического разнообразия и раскрытие уникального потенциала каждого микролота.\nВ El Diviso используют стандартизированные протоколы контролируемой ферментации, основанные на принципах прикладной микробиологии и точной сушки. Основная задача — максимально раскрыть потенциал каждой разновидности, сохраняя чистоту происхождения, высокую сенсорную сложность и стабильность качества от партии к партии.\nОбработка\nДля этого лота разновидности Tabi применили мытую анаэробную обработку с использованием mosto.\nСначала полностью созревшие кофейные ягоды проходят ручной отбор, дезинфекцию и флотацию в воде. Затем следует 48 часов окисления, после чего ягоды депульпируют, отделяя мякоть от зерна.\nДалее кофе проходит 36 часов анаэробной ферментации, за которыми следует 24-часовая погружная ферментация с добавлением mosto.\nMosto — это жидкий побочный продукт, образующийся в процессе ферментации кофе. Он содержит естественную микрофлору, в том числе бактерии и дрожжи, которые участвуют в дальнейших процессах ферментации. Его использование позволяет влиять на микробиологические процессы, сокращать продолжительность ферментации и формировать более сложный вкусовой профиль, подчёркивая характерные особенности кофе.\nПосле ферментации кофе подвергают термической обработке — термошоку с использованием воды температурой 65–70 °C. Этот этап помогает остановить микробиологическую активность и стабилизировать продукты ферментации.\nЗавершающий этап — сушка в специальных нержавеющих осушителях при температуре не выше 37 °C до достижения влажности 10–11%. После сушки кофе упаковывают в герметичные мешки GrainPro, которые помогают сохранить его качество при хранении.\nТакой многоэтапный подход позволяет производителям Finca El Diviso тщательно контролировать каждый этап обработки и экспериментировать с микробиологическими процессами, раскрывая потенциал редких разновидностей арабики. \nПлотность: 4\nКислотность: 4\nОбработка: мытая анаэробная (инфьюзд)\nРаздел: для фильтра\nСладость: 5\nQ-грейд: 87\nФермент: 2\nДескрипторы: малиновое варенье, мандарин, фиалка, тростниковый сахар\nРазновидность: Таби\nВысота: 1850\nРегион: Уила",
-   "image": "https://static.tildacdn.com/stor6534-6337-4463-b537-386634656562/9b653638773e1f308ac5cb13202f095d.png",
-   "category": "",
-   "specs": {
-    "Обработка": "мытая анаэробная (инфьюзд)",
-    "Дескрипторы": "малиновое варенье, мандарин, фиалка, тростниковый сахар",
-    "Разновидность": "Таби",
-    "Высота": "1850",
-    "Регион": "Уила"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 1500.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1500.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1500.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1500.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1500.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1500.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1500.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 5800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 5800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 5800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 5800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 5800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 5800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 5800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1500.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1500.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1500.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1500.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1500.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1500.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1500.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 5800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 5800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 5800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 5800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 5800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 5800.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 5800.0,
      "available": true
     }
    ]
@@ -4687,142 +4529,142 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 1100.0,
+     "price": 1070.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 1100.0,
+     "price": 1070.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 1100.0,
+     "price": 1070.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 1100.0,
+     "price": 1070.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 1100.0,
+     "price": 1070.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 1100.0,
+     "price": 1070.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 1100.0,
+     "price": 1070.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 3400.0,
+     "price": 3370.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 3400.0,
+     "price": 3370.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 3400.0,
+     "price": 3370.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 3400.0,
+     "price": 3370.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 3400.0,
+     "price": 3370.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 3400.0,
+     "price": 3370.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 3400.0,
+     "price": 3370.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 1100.0,
+     "price": 1070.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 1100.0,
+     "price": 1070.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 1100.0,
+     "price": 1070.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 1100.0,
+     "price": 1070.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 1100.0,
+     "price": 1070.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 1100.0,
+     "price": 1070.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 1100.0,
+     "price": 1070.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 3400.0,
+     "price": 3370.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 3400.0,
+     "price": 3370.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 3400.0,
+     "price": 3370.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 3400.0,
+     "price": 3370.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 3400.0,
+     "price": 3370.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 3400.0,
+     "price": 3370.0,
      "available": true
     },
     {
      "weight_g": null,
-     "price": 3400.0,
+     "price": 3370.0,
      "available": true
     }
    ]

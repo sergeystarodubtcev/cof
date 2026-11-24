@@ -3,10 +3,10 @@
   "id": "neva",
   "platform": "bitrix+generic",
   "items": 107,
-  "seconds": 1586.6,
+  "seconds": 1223.8,
   "ok": true,
   "error": null,
-  "at": "2026-11-23T08:10:35+00:00"
+  "at": "2026-11-24T10:19:03+00:00"
  },
  "items": [
   {
@@ -1961,7 +1961,7 @@
    "variants": [
     {
      "weight_g": 250,
-     "price": 703.0,
+     "price": 713.0,
      "available": true
     }
    ]
@@ -2305,12 +2305,12 @@
    "category": "",
    "specs": {},
    "gallery": [],
-   "available": true,
+   "available": false,
    "variants": [
     {
      "weight_g": null,
      "price": 568.0,
-     "available": true
+     "available": false
     }
    ]
   },
@@ -2434,6 +2434,23 @@
    ]
   },
   {
+   "url": "https://nevacoffee.ru/catalog/coffee/guatemala-ayaraza/",
+   "name": "Гватемала Аяраза 250 гр",
+   "description": "",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/resize_cache/iblock/5c3/2000_2000_140cd750bba9870f18aada2478b24840a/vt0mk57voyjh7x4ng1u8z7v3v7hmba42.webp",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 688.0,
+     "available": true
+    }
+   ]
+  },
+  {
    "url": "https://nevacoffee.ru/catalog/coffee/colombia-dulima/",
    "name": "Колумбия Дулима 250 гр",
    "description": "",
@@ -2447,23 +2464,6 @@
      "weight_g": 250,
      "price": 750.0,
      "available": false
-    }
-   ]
-  },
-  {
-   "url": "https://nevacoffee.ru/catalog/coffee/guatemala-ayaraza/",
-   "name": "Гватемала Аяраза 250 гр",
-   "description": "",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/resize_cache/iblock/5c3/2000_2000_140cd750bba9870f18aada2478b24840a/vt0mk57voyjh7x4ng1u8z7v3v7hmba42.webp",
-   "category": "",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": 250,
-     "price": 613.0,
-     "available": true
     }
    ]
   },
@@ -2683,7 +2683,7 @@
    "variants": [
     {
      "weight_g": 250,
-     "price": 703.0,
+     "price": 713.0,
      "available": true
     }
    ]

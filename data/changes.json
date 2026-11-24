@@ -19772,5 +19772,271 @@
     "reason": "пропал с сайта"
    }
   ]
+ },
+ {
+  "at": "2026-11-24T10:19:03+00:00",
+  "added": [
+   {
+    "id": "ef1ab7ccedeb",
+    "roaster": "triptych",
+    "name": "Бразилия Твист",
+    "url": "https://triptychcoffee.com/filter/tproduct/421069906363-braziliya-tvist",
+    "back": false
+   },
+   {
+    "id": "ebc2ac963af2",
+    "roaster": "kanga",
+    "name": "Кения Тату Истейтс АБ 250г",
+    "url": "https://www.kanga.ru/catalog/espresso/keniya-tatu-isteyts-ab-250g/",
+    "back": false
+   },
+   {
+    "id": "b6ac7b64ad86",
+    "roaster": "bolshe",
+    "name": "Африка Микс",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512429115-740610362202-afrika-miks",
+    "back": true
+   },
+   {
+    "id": "f979cbad945a",
+    "roaster": "bolshe",
+    "name": "Кения Гатомбоя",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512406604-927686838633-keniya-gatomboya",
+    "back": false
+   },
+   {
+    "id": "b23fef600de2",
+    "roaster": "bolshe",
+    "name": "Гватемала Эль Арко",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/721156284-557587575973-gvatemala-el-arko",
+    "back": true
+   },
+   {
+    "id": "5a0738b92aee",
+    "roaster": "bolshe",
+    "name": "Перу Андрес Торрес Гейша",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/721156284-249914106453-peru-andres-torres-geisha",
+    "back": true
+   },
+   {
+    "id": "a850603b7f4c",
+    "roaster": "bolshe",
+    "name": "Эфиопия Дара",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/721156284-205420279471-efiopiya-dara",
+    "back": true
+   },
+   {
+    "id": "bc1d47551010",
+    "roaster": "bolshe",
+    "name": "Декаф",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512429115-750635329783-dekaf",
+    "back": true
+   },
+   {
+    "id": "726116bc0702",
+    "roaster": "zerno",
+    "name": "ЖАРКИЕ КАНИКУЛЫ",
+    "url": "https://zerno.spb.ru/coffee/378455525383-zharkie-kanikuli",
+    "back": false
+   },
+   {
+    "id": "1962cca1c269",
+    "roaster": "zerno",
+    "name": "СНЕЖНО и НЕЖНО",
+    "url": "https://zerno.spb.ru/coffee/339712732963-snezhno-i-nezhno",
+    "back": false
+   },
+   {
+    "id": "bdaa6a1f7fd0",
+    "roaster": "zerno",
+    "name": "ЗИМНЯЯ ВИШНЯ",
+    "url": "https://zerno.spb.ru/coffee/595518257133-zimnyaya-vishnya",
+    "back": false
+   },
+   {
+    "id": "25246c4313f7",
+    "roaster": "welder",
+    "name": "Коста-Рика Эстебан Замора",
+    "url": "https://theweldercatherine.ru/catalog/dlya_espresso/kosta_rika_esteban_zamora/",
+    "back": false
+   },
+   {
+    "id": "a42f3e8198ca",
+    "roaster": "welder",
+    "name": "Коста-Рика Кеннет Мадригаль",
+    "url": "https://theweldercatherine.ru/catalog/dlya_espresso/kosta_rika_kennet_madrigal/",
+    "back": false
+   },
+   {
+    "id": "ed752f8639ec",
+    "roaster": "west4",
+    "name": "Каталог",
+    "url": "https://west4.coffee/kofe/mono-grade/ruanda-nyamashike-hills",
+    "back": true
+   },
+   {
+    "id": "e3f6f599d36f",
+    "roaster": "madheads",
+    "name": "Indonesia Atu Lintang *GUR COLLAB",
+    "url": "https://madheadscoffee.com/p/nTsMhctHYeE-acaa7d17",
+    "back": false
+   },
+   {
+    "id": "e31727e99380",
+    "roaster": "madheads",
+    "name": "Kochere Gr2",
+    "url": "https://madheadscoffee.com/p/bguH09HMC56-e39f22b2",
+    "back": false
+   }
+  ],
+  "removed": [
+   {
+    "id": "c05c4b9c57b9",
+    "roaster": "bolshe",
+    "name": "Особый лот Перу Гейша",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/527451314-758848457042-osobii-lot-peru-geisha",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "f00d819a2156",
+    "roaster": "bolshe",
+    "name": "Особый лот Перу гейша",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512384010-218659849252-osobii-lot-peru-geisha",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "7b8a8d8b5f6a",
+    "roaster": "bolshe",
+    "name": "Особый лот Эфиопия Демби",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512384010-560875416893-osobii-lot-efiopiya-dembi",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "6fb092cd8053",
+    "roaster": "choose",
+    "name": "Колумбия / Ла Планта Таби",
+    "url": "https://www.choosecoffee.ru/main/tproduct/739043735-783039908893-kolumbiya-la-planta-tabi",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "035718557bd4",
+    "roaster": "madheads",
+    "name": "Kochere Gr2",
+    "url": "https://madheadscoffee.com/p/Nd1NKt62Ma0-a8aab1fb",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "6df77f9f340f",
+    "roaster": "specialtyru",
+    "name": "Микале Гватемала Чуабарена Диего Перес, фильтр, 200 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-mikale-gvatemala-chuabarena-diego-peres-filtr-200-gr/",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "2aec8c1a4913",
+    "roaster": "specialtyru",
+    "name": "Тэйсти Кофе, Колумбия Каука Декаф, эспрессо, 250 гр",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-teysti-kofe-kolumbiya-kauka-dekaf-espresso-250-g/",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "f618845e75af",
+    "roaster": "tasty",
+    "name": "Колумбия Гейша Монтеверде",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-geisha-monteverde-2026",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "269ad061bd25",
+    "roaster": "triptych",
+    "name": "Конго Киву",
+    "url": "https://triptychcoffee.com/espresso/tproduct/931030880663-kongo-kivu",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "94f889e2e322",
+    "roaster": "welder",
+    "name": "Боливия Лос Родригес батиан",
+    "url": "https://theweldercatherine.ru/catalog/dlya_filtra/boliviya_los_rodriges_batian/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "bbd97ba3433b",
+    "roaster": "welder",
+    "name": "Боливия Лос Родригес бурбон",
+    "url": "https://theweldercatherine.ru/catalog/dlya_filtra/boliviya_los_rodriges_burbon/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "e246d2865f47",
+    "roaster": "welder",
+    "name": "Боливия Самайпата SL-28",
+    "url": "https://theweldercatherine.ru/catalog/dlya_filtra/boliviya_samaypata_sl_28/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "3bee4490ab46",
+    "roaster": "welder",
+    "name": "Колумбия Компанья Либертад Ф6",
+    "url": "https://theweldercatherine.ru/catalog/dlya_filtra/kolumbiya_kompanya_libertad_f6/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "e3c5323a7d2b",
+    "roaster": "welder",
+    "name": "Руанда Кабуе",
+    "url": "https://theweldercatherine.ru/catalog/dlya_filtra/ruanda_kabue_/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "2dd5b80bdb34",
+    "roaster": "welder",
+    "name": "Эфиопия Лалиса",
+    "url": "https://theweldercatherine.ru/catalog/dlya_filtra/efiopiya_lalisa2/",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "125ddfed3975",
+    "roaster": "welder",
+    "name": "Эфиопия Лалиса",
+    "url": "https://theweldercatherine.ru/catalog/dlya_espresso/efiopiya_lalisa2/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "b41a3368231b",
+    "roaster": "west4",
+    "name": "Каталог",
+    "url": "https://west4.coffee/kofe/dlya-espresso/espresso-kolumbiya-pachamama",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "119f4afeaa1c",
+    "roaster": "west4",
+    "name": "Каталог",
+    "url": "https://west4.coffee/kofe/batch-bryu/kolumbiya-pachamama-batch-bryu",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "156c382b5564",
+    "roaster": "yankeesierra",
+    "name": "China Xingan",
+    "url": "https://yankeesierra.ru/catalog/filter/China-Xingan",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "e5c76dbbf52b",
+    "roaster": "yankeesierra",
+    "name": "Kenya Karinga",
+    "url": "https://yankeesierra.ru/catalog/filter/Kenya-Karinga",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "867d57c091ef",
+    "roaster": "yankeesierra",
+    "name": "Rwanda Jan Bosco Butembo",
+    "url": "https://yankeesierra.ru/catalog/filter/Rwanda-Jan-Bosco-Butembo",
+    "reason": "пропал с сайта"
+   }
+  ]
  }
 ]
