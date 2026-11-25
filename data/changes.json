@@ -20038,5 +20038,124 @@
     "reason": "пропал с сайта"
    }
   ]
+ },
+ {
+  "at": "2026-11-25T09:09:17+00:00",
+  "added": [
+   {
+    "id": "51c1efb1f06f",
+    "roaster": "caffeinelab",
+    "name": "Эфиопия Сидамо для фильтра",
+    "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-318000958371-efiopiya-sidamo-dlya-filtra",
+    "back": false
+   },
+   {
+    "id": "c7c3c77ad40c",
+    "roaster": "caffeinelab",
+    "name": "Эфиопия Сидамо для эспрессо",
+    "url": "https://caffeinelab.ru/coffee/espresso/tproduct/834531917-197534986902-efiopiya-sidamo-dlya-espresso",
+    "back": false
+   },
+   {
+    "id": "e75dc01c98e9",
+    "roaster": "botanica",
+    "name": "Каппинг-набор фильтр-лотов",
+    "url": "https://botanicacoffee.ru/cupping",
+    "back": true
+   }
+  ],
+  "removed": [
+   {
+    "id": "63cd9e0ada62",
+    "roaster": "bolshe",
+    "name": "Вы любите макаронные изделия?",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512406604-955584191793-vi-lyubite-makaronnie-izdeliya",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "dd6a0101a482",
+    "roaster": "caffeinelab",
+    "name": "Йемен Удаини Химми",
+    "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-879324349813-iemen-udaini-himmi",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "7a01b3da1fa0",
+    "roaster": "caffeinelab",
+    "name": "Кения АА Нат. под фильтр",
+    "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-664578347343-keniya-aa-nat-pod-filtr",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "1c167b332715",
+    "roaster": "caffeinelab",
+    "name": "Эфиопия Сидамо",
+    "url": "https://caffeinelab.ru/tproduct/1-160938805611-efiopiya-sidamo",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "8387d47f50eb",
+    "roaster": "caffeinelab",
+    "name": "Эфиопия Хамбела для эспрессо",
+    "url": "https://caffeinelab.ru/coffee/espresso/tproduct/834531917-986714335043-efiopiya-hambela-dlya-espresso",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "d7eae9662e5d",
+    "roaster": "specialtyru",
+    "name": "Коджо Эфиопия Гуджи Харо Мода, фильтр, 250 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-kodzho-efiopiya-gudzhi-kharo-moda-filtr-250-gr/",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "0f1122861bcf",
+    "roaster": "specialtyru",
+    "name": "Тэйсти Кофе Коста Рика Таррасу Дота, эспрессо, 250 гр.",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-teysti-kofe-kosta-rika-tarrasu-dota-espresso-250-gr/",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "00519bb4f898",
+    "roaster": "tasty",
+    "name": "Коста-Рика Виста Аль Санто",
+    "url": "https://shop.tastycoffee.ru/coffee/costa-rica-vista-al-santo-2026",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "3e1d01fea56a",
+    "roaster": "tasty",
+    "name": "Эфиопия Декиту Анаэробный",
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-dekitu-anaerobic",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "bf963b7c7c97",
+    "roaster": "welder",
+    "name": "Боливия Самайпата пакамара",
+    "url": "https://theweldercatherine.ru/catalog/dlya_filtra/boliviya_samaypata_pakamara/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "a80d65855567",
+    "roaster": "welder",
+    "name": "Галараствор Коста-Рика Кеннет Мадригаль",
+    "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_kosta_rika_kennet_madrigal/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "021a161b3185",
+    "roaster": "welder",
+    "name": "Галараствор Руанда Гашару",
+    "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_ruanda_gasharu/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "a42f3e8198ca",
+    "roaster": "welder",
+    "name": "Коста-Рика Кеннет Мадригаль",
+    "url": "https://theweldercatherine.ru/catalog/dlya_espresso/kosta_rika_kennet_madrigal/",
+    "reason": "пропал с сайта"
+   }
+  ]
  }
 ]

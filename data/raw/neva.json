@@ -3,10 +3,10 @@
   "id": "neva",
   "platform": "bitrix+generic",
   "items": 107,
-  "seconds": 1223.8,
+  "seconds": 1758.6,
   "ok": true,
   "error": null,
-  "at": "2026-11-24T10:19:03+00:00"
+  "at": "2026-11-25T09:09:17+00:00"
  },
  "items": [
   {
@@ -2400,10 +2400,10 @@
    ]
   },
   {
-   "url": "https://nevacoffee.ru/catalog/coffee/arabika/peru-amazonas-gr-1/",
-   "name": "Амазонас 250 гр",
+   "url": "https://nevacoffee.ru/catalog/coffee/guatemala-ayaraza/",
+   "name": "Гватемала Аяраза 250 гр",
    "description": "",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/resize_cache/iblock/6ee/2000_2000_140cd750bba9870f18aada2478b24840a/zl5zmy0jk5dotyshebgq0elq7x73rw2q.webp",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/resize_cache/iblock/5c3/2000_2000_140cd750bba9870f18aada2478b24840a/vt0mk57voyjh7x4ng1u8z7v3v7hmba42.webp",
    "category": "",
    "specs": {},
    "gallery": [],
@@ -2434,10 +2434,10 @@
    ]
   },
   {
-   "url": "https://nevacoffee.ru/catalog/coffee/guatemala-ayaraza/",
-   "name": "Гватемала Аяраза 250 гр",
+   "url": "https://nevacoffee.ru/catalog/coffee/arabika/peru-amazonas-gr-1/",
+   "name": "Амазонас 250 гр",
    "description": "",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/resize_cache/iblock/5c3/2000_2000_140cd750bba9870f18aada2478b24840a/vt0mk57voyjh7x4ng1u8z7v3v7hmba42.webp",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/resize_cache/iblock/6ee/2000_2000_140cd750bba9870f18aada2478b24840a/zl5zmy0jk5dotyshebgq0elq7x73rw2q.webp",
    "category": "",
    "specs": {},
    "gallery": [],

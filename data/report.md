@@ -1,16 +1,16 @@
-# Обновление каталога 2026-11-24T10:19:03+00:00
+# Обновление каталога 2026-11-25T09:09:17+00:00
 
-Товаров: 1744, лотов у ≥2 обжарщиков: 131
+Товаров: 1734, лотов у ≥2 обжарщиков: 129
 
 ## Обжарщики
 
 | Обжарщик | Платформа | Товаров | Статус |
 |---|---|---|---|
-| Tasty Coffee | generic | 84 | ok |
+| Tasty Coffee | generic | 82 | ok |
 | TAB | bitrix+generic | 0 | скрыт: данные устарели |
 | СОК — студия обжарки кофе | bitrix+generic | 42 | ok |
 | Триптих | tilda | 35 | ok |
-| Caffeine Lab | tilda | 35 | ok |
+| Caffeine Lab | tilda | 33 | ok |
 | HQ! coffee | woocommerce+generic | 0 | нет данных |
 | KOF | unreachable | 0 | нет данных |
 | Roastberry | unreachable | 0 | нет данных |
@@ -27,17 +27,17 @@
 | H2O | unreachable | 118 | старые данные |
 | Fauno Coffee | tilda | 38 | ok |
 | Stereo Coffee | tilda | 46 | ok |
-| Specialty.ru (собственная обжарка) | bitrix+generic | 189 | ok |
-| Bolshe Coffee Roasters | tilda | 59 | ok |
+| Specialty.ru (собственная обжарка) | bitrix+generic | 187 | ok |
+| Bolshe Coffee Roasters | tilda | 58 | ok |
 | Zerno Coffee Roasters | tilda | 40 | ok |
 | Мануфактура Кофе | bitrix+generic | 0 | нет данных |
-| The Welder Catherine | bitrix+generic | 108 | ok |
+| The Welder Catherine | bitrix+generic | 104 | ok |
 | Neva Coffee Roasters | bitrix+generic | 64 | ok |
 | Choose Coffee | tilda | 29 | ok |
 | West 4 Coffee | generic | 37 | ok |
 | Lebo | tilda | 36 | ok |
 | QQ Coffee | generic | 0 | скрыт: данные устарели |
-| Botanica Coffee | tilda | 57 | ok |
+| Botanica Coffee | tilda | 58 | ok |
 | Знак Кофе | generic | 0 | нет данных |
 | Bernin | generic | 0 | нет данных |
 | Bittersweet | tilda | 1 | ok |
@@ -47,7 +47,7 @@
 | Mad Heads | generic | 11 | ok |
 | Кофе Сова | unreachable | 0 | нет данных |
 
-## Новые лоты (164)
+## Новые лоты (153)
 
 - **Bolshe Coffee Roasters** — [Африка Микс](https://bolshecoffee.ru/coffee/tproduct/512429115-740610362202-afrika-miks) — от 428 ₽
 - **Bolshe Coffee Roasters** — [Бразилия амазонская робуста от Хуана Травейна](https://bolshecoffee.ru/coffee/tproduct/512406604-276930318343-braziliya-amazonskaya-robusta-ot-huana-t) — от 887 ₽
@@ -55,14 +55,12 @@
 - **Bolshe Coffee Roasters** — [Какао Кокосовый микс](https://bolshecoffee.ru/tproduct/1-246461685803-kakao-kokosovii-miks) — от 1900 ₽
 - **Bolshe Coffee Roasters** — [Кения Гатомбоя](https://bolshecoffee.ru/coffee/tproduct/512406604-927686838633-keniya-gatomboya) — от 1021 ₽
 - **Bolshe Coffee Roasters** — [Колумбия декаф](https://bolshecoffee.ru/coffee/tproduct/512384010-423776597393-kolumbiya-dekaf) — от 642 ₽
-- **Bolshe Coffee Roasters** — [Лаос Сомсай типика](https://bolshecoffee.ru/coffee/tproduct/512406604-487156190743-laos-somsai-tipika) — от 912 ₽
 - **Bolshe Coffee Roasters** — [Подставка под кофе Паллет](https://bolshecoffee.ru/gadgets/tproduct/477792610-515203477022-podstavka-pod-kofe-pallet) — от 390 ₽
 - **Bolshe Coffee Roasters** — [Порошок для очистки от кофейных масел](https://bolshecoffee.ru/gadgets/tproduct/1874321531-963620174522-poroshok-dlya-ochistki-ot-kofeinih-masel) — от 900 ₽
 - **Bolshe Coffee Roasters** — [Свеча из натурального пчелиного воска](https://bolshecoffee.ru/gadgets/tproduct/477792610-660371429343-svecha-iz-naturalnogo-pchelinogo-voska) — от 2450 ₽
 - **Bolshe Coffee Roasters** — [Сервер стеклянный](https://bolshecoffee.ru/gadgets/tproduct/477792449-363940847822-server-steklyannii) — от 1020 ₽
 - **Bolshe Coffee Roasters** — [ФИЛЬТРЫ MELITTA GOURMET 1x4](https://bolshecoffee.ru/gadgets/tproduct/477792449-213580714232-filtri-melitta-gourmet-1x4) — от 535 ₽
 - **Bolshe Coffee Roasters** — [Фильтры Hario VCF-02-100W белые](https://bolshecoffee.ru/gadgets/tproduct/477792449-602970607181-filtri-hario-vcf-02-100w-belie) — от 1350 ₽
-- **Bolshe Coffee Roasters** — [Эфиопия Дара](https://bolshecoffee.ru/coffee/tproduct/512406604-772097246601-efiopiya-dara) — от 3300 ₽
 - **Bolshe Coffee Roasters** — [Эфиопия Дара](https://bolshecoffee.ru/coffee/tproduct/721156284-352802187712-efiopiya-dara) — от 714 ₽
 - **Bolshe Coffee Roasters** — [Эфиопия Эфтах Лалиса](https://bolshecoffee.ru/coffee/tproduct/512406604-414526530413-efiopiya-eftah-lalisa) — от 1022 ₽
 - **Botanica Coffee** — [Блокнот бариста](https://botanicacoffee.ru/draft-instant-killenso-popup/tproduct/5722250901-215351527122-bloknot-barista) — от 1500 ₽
@@ -77,16 +75,16 @@
 - **Botanica Coffee** — [Сенча](https://botanicacoffee.ru/draft-instant-killenso-popup/tproduct/5722251001-965628693541-sencha) — от 290 ₽
 - **Botanica Coffee** — [Те Гуань Инь](https://botanicacoffee.ru/draft-instant-killenso-popup/tproduct/5722251001-380343669361-te-guan-in) — от 360 ₽
 - **Botanica Coffee** — [Чёрный с чабрецом](https://botanicacoffee.ru/draft-instant-killenso-popup/tproduct/5722251001-872986038321-chyornii-s-chabretsom) — от 410 ₽
-- **Botanica Coffee** — [Эфиопия Нафкот Адмасу](https://botanicacoffee.ru/ethiopia-nafkot-admasu-filter) — от 1400 ₽
 - **Botanica Coffee** — [Эфиопия Нафкот Адмасу](https://botanicacoffee.ru/ethiopia-nafkot-admasu-espresso) — от 1400 ₽
+- **Botanica Coffee** — [Эфиопия Нафкот Адмасу](https://botanicacoffee.ru/ethiopia-nafkot-admasu-filter) — от 1400 ₽
 - **Caffeine Lab** — [Бразилия Санта Эдвирхес для фильтра](https://caffeinelab.ru/coffee/filter/tproduct/835664773-904428596713-braziliya-santa-edvirhes-dlya-filtra) — от 970 ₽
 - **Caffeine Lab** — [Гватемала Блю Аярза для фильтра](https://caffeinelab.ru/coffee/filter/tproduct/835664773-101929441382-gvatemala-blyu-ayarza-dlya-filtra) — от 955 ₽
 - **Caffeine Lab** — [Гватемала Блю Аярза для эспрессо](https://caffeinelab.ru/coffee/espresso/tproduct/834531917-687928832941-gvatemala-blyu-ayarza-dlya-espresso) — от 955 ₽
 - **Caffeine Lab** — [Колумбия Дулима для эспрессо](https://caffeinelab.ru/coffee/espresso/tproduct/834531917-803354497213-kolumbiya-dulima-dlya-espresso) — от 840 ₽
 - **Caffeine Lab** — [Колумбия Рохо для фильтра](https://caffeinelab.ru/coffee/filter/tproduct/835664773-456384826103-kolumbiya-roho-dlya-filtra) — от 1490 ₽
-- **Choose Coffee** — [Колумбия / Перископ Эль Вергель](https://www.choosecoffee.ru/main/tproduct/739043735-741872490853-kolumbiya-periskop-el-vergel) — от 1200 ₽
+- **Caffeine Lab** — [Эфиопия Сидамо для фильтра](https://caffeinelab.ru/coffee/filter/tproduct/835664773-318000958371-efiopiya-sidamo-dlya-filtra) — от 850 ₽
+- **Caffeine Lab** — [Эфиопия Сидамо для эспрессо](https://caffeinelab.ru/coffee/espresso/tproduct/834531917-197534986902-efiopiya-sidamo-dlya-espresso) — от 850 ₽
 - **Choose Coffee** — [Суматра / Гайо](https://www.choosecoffee.ru/main/tproduct/739043735-232968123833-sumatra-gaio) — от 1070 ₽
-- **Fauno Coffee** — [Colombia Lulo Bourbon](https://fauno.coffee/catalog/colombia-lulo-bourbon) — от 2197 ₽
 - **Fauno Coffee** — [Peru Selva Alta](https://fauno.coffee/catalog/peru-selva-alta) — от 1092 ₽
 - **H2O** — [Амбелла Дери фильтр, 250 гр](https://h2ocompany.ru/catalog/kofe_v_zernakh_n2o_ethiopia_ambella_deri_filter_svezheobzharennyy_250gr/) — от 1045 ₽
 - **H2O** — [Барная линейка HERBARISTA](https://h2ocompany.ru/catalog/barnaya_lineyka_herbarista_sht/) — от 560 ₽
@@ -145,13 +143,7 @@
 - **Specialty.ru (собственная обжарка)** — [Тэйсти Кофе Колумбия Уила Барракеро, фильтр 250 г](https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-teysti-kofe-kolumbiya-uila-barrakero-filtr-250-g/) — от 1062 ₽
 - **Specialty.ru (собственная обжарка)** — [Тэйсти Кофе Колумбия Уила Магдалена, фильтр 250 г](https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-teysti-kofe-kolumbiya-uila-magdalena-filtr-250-g/) — от 669 ₽
 - **Specialty.ru (собственная обжарка)** — [Тэйсти Кофе Колумбия Уила Пакамара Лас-Брисас, фильтр, 100 гр](https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-teysti-kofe-kolumbiya-uila-pakamara-las-brisas-filtr-100-gr/) — от 840 ₽
-- **Specialty.ru (собственная обжарка)** — [Тэйсти Кофе Коста Рика Таррасу Дота, эспрессо, 250 гр.](https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-teysti-kofe-kosta-rika-tarrasu-dota-espresso-250-gr/) — от 645 ₽
 - **Specialty.ru (собственная обжарка)** — [Тэйсти Кофе Эфиопия Гедеб, эспрессо 250 г](https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-teysti-kofe-efiopiya-gedeb-espresso-250-g/) — от 880 ₽
-- **Stereo Coffee** — [Бразилия Санта Иннес](https://stereo.coffee/shop/tproduct/586174496-369157346602-braziliya-santa-innes) — от 650 ₽
-- **Stereo Coffee** — [Гватемала Марагоджип](https://stereo.coffee/shop/tproduct/586174496-197456770532-gvatemala-maragodzhip) — от 800 ₽
-- **Stereo Coffee** — [Индонезия Суматра Керинчи Нат](https://stereo.coffee/shop/tproduct/586174496-659366385841-indoneziya-sumatra-kerinchi-nat) — от 750 ₽
-- **Stereo Coffee** — [Какао Бобы 100гр](https://stereo.coffee/shop/tproduct/575354283-592875163533-kakao-bobi-100gr) — от 450 ₽
-- **Stereo Coffee** — [Какао Бобы 100гр](https://stereo.coffee/shop/tproduct/575354283-317726320713-kakao-bobi-100gr) — от 450 ₽
 - **Stereo Coffee** — [Смесь "Африка Натуральная"](https://stereo.coffee/shop/tproduct/592281615-193432452743-smes-afrika-naturalnaya) — от 1200 ₽
 - **Tasty Coffee** — [Батч-Брю Африка](https://shop.tastycoffee.ru/coffee/batch-brew-africa-2026) — от 1029 ₽
 - **Tasty Coffee** — [Индонезия Суматра Эдди Таното](https://shop.tastycoffee.ru/coffee/indonesia-sumatra-eddy-tanoto) — от 1159 ₽
@@ -205,53 +197,29 @@
 - **The Welder Catherine** — [Колумбия Vecinos: Ансельмо Трухильо](https://theweldercatherine.ru/catalog/dlya_filtra/kolumbiya_vecinos_anselmo_trukhilo/) — от 1569 ₽
 - **The Welder Catherine** — [Колумбия Vecinos: Рубен Манос](https://theweldercatherine.ru/catalog/dlya_filtra/kolumbiya_vecinos_ruben_manos/) — от 1569 ₽
 - **The Welder Catherine** — [Колумбия Ла Фортуна гейша](https://theweldercatherine.ru/catalog/dorogoy_kofe/kolumbiya_la_fortuna_geysha/) — от 4245 ₽
-- **The Welder Catherine** — [Коста-Рика Кеннет Мадригаль](https://theweldercatherine.ru/catalog/dlya_espresso/kosta_rika_kennet_madrigal/) — от 1481 ₽
 - **The Welder Catherine** — [Коста-Рика Эстебан Замора](https://theweldercatherine.ru/catalog/dlya_espresso/kosta_rika_esteban_zamora/) — от 1569 ₽
 - **The Welder Catherine** — [Руанда Сову из бочки](https://theweldercatherine.ru/catalog/dlya_filtra/ruanda_sovu_iz_bochki/) — от 1474 ₽
 - **The Welder Catherine** — [Танзания Уми АВ](https://theweldercatherine.ru/catalog/dlya_filtra/tanzaniya_umi_av/) — от 1230 ₽
 - **West 4 Coffee** — [Каталог](https://west4.coffee/kofe/mono-grade/keniya-vakamata) — от 1204 ₽
-- **Yankee Sierra** — [Yemen Haraz](https://yankeesierra.ru/catalog/filter/Yemen-Haraz) — от 1025 ₽
-- **Yankee Sierra** — [Yemen Haraz](https://yankeesierra.ru/catalog/espresso/Yemen-Haraz) — от 1025 ₽
 - **Zerno Coffee Roasters** — [ЖАРКИЕ КАНИКУЛЫ](https://zerno.spb.ru/coffee/378455525383-zharkie-kanikuli) — от 1095 ₽
 - **Zerno Coffee Roasters** — [ЗИМНЯЯ ВИШНЯ](https://zerno.spb.ru/coffee/595518257133-zimnyaya-vishnya) — от 805 ₽
 - **Zerno Coffee Roasters** — [СНЕЖНО и НЕЖНО](https://zerno.spb.ru/coffee/339712732963-snezhno-i-nezhno) — от 805 ₽
 
-## Изменения этой проверки: +16 / −21
+## Изменения этой проверки: +3 / −13
 
-- ➕ **Триптих** — [Бразилия Твист](https://triptychcoffee.com/filter/tproduct/421069906363-braziliya-tvist)
-- ➕ **KANGA** — [Кения Тату Истейтс АБ 250г](https://www.kanga.ru/catalog/espresso/keniya-tatu-isteyts-ab-250g/)
-- ➕ **Bolshe Coffee Roasters** — [Африка Микс](https://bolshecoffee.ru/coffee/tproduct/512429115-740610362202-afrika-miks) (снова в продаже)
-- ➕ **Bolshe Coffee Roasters** — [Кения Гатомбоя](https://bolshecoffee.ru/coffee/tproduct/512406604-927686838633-keniya-gatomboya)
-- ➕ **Bolshe Coffee Roasters** — [Гватемала Эль Арко](https://bolshecoffee.ru/coffee/tproduct/721156284-557587575973-gvatemala-el-arko) (снова в продаже)
-- ➕ **Bolshe Coffee Roasters** — [Перу Андрес Торрес Гейша](https://bolshecoffee.ru/coffee/tproduct/721156284-249914106453-peru-andres-torres-geisha) (снова в продаже)
-- ➕ **Bolshe Coffee Roasters** — [Эфиопия Дара](https://bolshecoffee.ru/coffee/tproduct/721156284-205420279471-efiopiya-dara) (снова в продаже)
-- ➕ **Bolshe Coffee Roasters** — [Декаф](https://bolshecoffee.ru/coffee/tproduct/512429115-750635329783-dekaf) (снова в продаже)
-- ➕ **Zerno Coffee Roasters** — [ЖАРКИЕ КАНИКУЛЫ](https://zerno.spb.ru/coffee/378455525383-zharkie-kanikuli)
-- ➕ **Zerno Coffee Roasters** — [СНЕЖНО и НЕЖНО](https://zerno.spb.ru/coffee/339712732963-snezhno-i-nezhno)
-- ➕ **Zerno Coffee Roasters** — [ЗИМНЯЯ ВИШНЯ](https://zerno.spb.ru/coffee/595518257133-zimnyaya-vishnya)
-- ➕ **The Welder Catherine** — [Коста-Рика Эстебан Замора](https://theweldercatherine.ru/catalog/dlya_espresso/kosta_rika_esteban_zamora/)
-- ➕ **The Welder Catherine** — [Коста-Рика Кеннет Мадригаль](https://theweldercatherine.ru/catalog/dlya_espresso/kosta_rika_kennet_madrigal/)
-- ➕ **West 4 Coffee** — [Каталог](https://west4.coffee/kofe/mono-grade/ruanda-nyamashike-hills) (снова в продаже)
-- ➕ **Mad Heads** — [Indonesia Atu Lintang *GUR COLLAB](https://madheadscoffee.com/p/nTsMhctHYeE-acaa7d17)
-- ➕ **Mad Heads** — [Kochere Gr2](https://madheadscoffee.com/p/bguH09HMC56-e39f22b2)
-- ➖ **Bolshe Coffee Roasters** — Особый лот Перу Гейша (пропал с сайта)
-- ➖ **Bolshe Coffee Roasters** — Особый лот Перу гейша (пропал с сайта)
-- ➖ **Bolshe Coffee Roasters** — Особый лот Эфиопия Демби (пропал с сайта)
-- ➖ **Choose Coffee** — Колумбия / Ла Планта Таби (пропал с сайта)
-- ➖ **Mad Heads** — Kochere Gr2 (пропал с сайта)
-- ➖ **Specialty.ru (собственная обжарка)** — Микале Гватемала Чуабарена Диего Перес, фильтр, 200 г (нет в наличии)
-- ➖ **Specialty.ru (собственная обжарка)** — Тэйсти Кофе, Колумбия Каука Декаф, эспрессо, 250 гр (нет в наличии)
-- ➖ **Tasty Coffee** — Колумбия Гейша Монтеверде (пропал с сайта)
-- ➖ **Триптих** — Конго Киву (пропал с сайта)
-- ➖ **The Welder Catherine** — Боливия Лос Родригес батиан (пропал с сайта)
-- ➖ **The Welder Catherine** — Боливия Лос Родригес бурбон (пропал с сайта)
-- ➖ **The Welder Catherine** — Боливия Самайпата SL-28 (пропал с сайта)
-- ➖ **The Welder Catherine** — Колумбия Компанья Либертад Ф6 (пропал с сайта)
-- ➖ **The Welder Catherine** — Руанда Кабуе (пропал с сайта)
-- ➖ **The Welder Catherine** — Эфиопия Лалиса (нет в наличии)
-- ➖ **The Welder Catherine** — Эфиопия Лалиса (пропал с сайта)
-- ➖ **West 4 Coffee** — Каталог (пропал с сайта)
-- ➖ **West 4 Coffee** — Каталог (нет в наличии)
-- ➖ **Yankee Sierra** — China Xingan (пропал с сайта)
-- ➖ **Yankee Sierra** — Kenya Karinga (пропал с сайта)
-- ➖ **Yankee Sierra** — Rwanda Jan Bosco Butembo (пропал с сайта)
+- ➕ **Caffeine Lab** — [Эфиопия Сидамо для фильтра](https://caffeinelab.ru/coffee/filter/tproduct/835664773-318000958371-efiopiya-sidamo-dlya-filtra)
+- ➕ **Caffeine Lab** — [Эфиопия Сидамо для эспрессо](https://caffeinelab.ru/coffee/espresso/tproduct/834531917-197534986902-efiopiya-sidamo-dlya-espresso)
+- ➕ **Botanica Coffee** — [Каппинг-набор фильтр-лотов](https://botanicacoffee.ru/cupping) (снова в продаже)
+- ➖ **Bolshe Coffee Roasters** — Вы любите макаронные изделия? (нет в наличии)
+- ➖ **Caffeine Lab** — Йемен Удаини Химми (нет в наличии)
+- ➖ **Caffeine Lab** — Кения АА Нат. под фильтр (нет в наличии)
+- ➖ **Caffeine Lab** — Эфиопия Сидамо (нет в наличии)
+- ➖ **Caffeine Lab** — Эфиопия Хамбела для эспрессо (нет в наличии)
+- ➖ **Specialty.ru (собственная обжарка)** — Коджо Эфиопия Гуджи Харо Мода, фильтр, 250 г (нет в наличии)
+- ➖ **Specialty.ru (собственная обжарка)** — Тэйсти Кофе Коста Рика Таррасу Дота, эспрессо, 250 гр. (нет в наличии)
+- ➖ **Tasty Coffee** — Коста-Рика Виста Аль Санто (пропал с сайта)
+- ➖ **Tasty Coffee** — Эфиопия Декиту Анаэробный (пропал с сайта)
+- ➖ **The Welder Catherine** — Боливия Самайпата пакамара (пропал с сайта)
+- ➖ **The Welder Catherine** — Галараствор Коста-Рика Кеннет Мадригаль (пропал с сайта)
+- ➖ **The Welder Catherine** — Галараствор Руанда Гашару (пропал с сайта)
+- ➖ **The Welder Catherine** — Коста-Рика Кеннет Мадригаль (пропал с сайта)

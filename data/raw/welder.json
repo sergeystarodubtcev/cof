@@ -2,11 +2,11 @@
  "status": {
   "id": "welder",
   "platform": "bitrix+generic",
-  "items": 136,
-  "seconds": 807.3,
+  "items": 132,
+  "seconds": 1252.6,
   "ok": true,
   "error": null,
-  "at": "2026-11-24T10:11:53+00:00"
+  "at": "2026-11-25T09:00:36+00:00"
  },
  "items": [
   {
@@ -76,36 +76,6 @@
     {
      "weight_g": 90,
      "price": 2705.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://theweldercatherine.ru/catalog/dlya_filtra/kosta_rika_kennet_madrigal/",
-   "name": "Коста-Рика Кеннет Мадригаль",
-   "description": "Кофе Коста-Рика Кеннет Мадригаль",
-   "image": "https://theweldercatherine.ru/upload/iblock/655/z42or9gbw046r929yocl4b3zz8v33jmb/250g-_1_-_77_.png",
-   "category": "Главная страница / Главная страница / Каталог / Каталог / Для фильтра / Для фильтра",
-   "specs": {
-    "Разновидность": "катуаи",
-    "Регион": "Тарразу",
-    "Сбор урожая": "Март 2026",
-    "Способ обработки": "Натуральный, 8 дней анаэробной ферментации",
-    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
-    "Ферма": "Ферма “La Familia”",
-    "Обжарка": "фильтр"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": 250,
-     "price": 1481.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4443.0,
      "available": true
     }
    ]
@@ -322,7 +292,7 @@
    "url": "https://theweldercatherine.ru/catalog/dlya_espresso/sladkaya_sladost/",
    "name": "Сладкая Сладость",
    "description": "Кофе Сладкая Сладость",
-   "image": "https://theweldercatherine.ru/upload/iblock/d49/nn0fnbjj6gcw1w2z1gmmu9om0m7vc9d3/250g-_1_-_-2026_10_30T120505.595.png",
+   "image": "https://theweldercatherine.ru/upload/iblock/08c/139or8hcjrwqxjgnbdygj1wly3zm4j7q/250g-_1_-_-2026_11_24T153826.631.png",
    "category": "Главная страница / Главная страница / Каталог / Каталог / Для эспрессо / Для эспрессо",
    "specs": {
     "Разновидность": "желтый катуаи",
@@ -1103,6 +1073,36 @@
    ]
   },
   {
+   "url": "https://theweldercatherine.ru/catalog/dlya_filtra/kosta_rika_kennet_madrigal/",
+   "name": "Коста-Рика Кеннет Мадригаль",
+   "description": "Кофе Коста-Рика Кеннет Мадригаль",
+   "image": "https://theweldercatherine.ru/upload/iblock/655/z42or9gbw046r929yocl4b3zz8v33jmb/250g-_1_-_77_.png",
+   "category": "Главная страница / Главная страница / Каталог / Каталог / Для фильтра / Для фильтра",
+   "specs": {
+    "Разновидность": "катуаи",
+    "Регион": "Тарразу",
+    "Сбор урожая": "Март 2026",
+    "Способ обработки": "Натуральный, 8 дней анаэробной ферментации",
+    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
+    "Ферма": "Ферма “La Familia”",
+    "Обжарка": "фильтр"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 1481.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 4443.0,
+     "available": true
+    }
+   ]
+  },
+  {
    "url": "https://theweldercatherine.ru/catalog/dlya_filtra/gonduras_ksinakla/",
    "name": "Гондурас Ксинакла",
    "description": "Кофе Гондурас Ксинакла",
@@ -1365,30 +1365,6 @@
     {
      "weight_g": 1000,
      "price": 4962.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://theweldercatherine.ru/catalog/dlya_filtra/boliviya_samaypata_pakamara/",
-   "name": "Боливия Самайпата пакамара",
-   "description": "Кофе Боливия Самайпата пакамара",
-   "image": "https://theweldercatherine.ru/upload/iblock/13a/fkwm0pp2rpj7flq7a7e5xubvuxbpkhkw/250g-_1_-_67_.png",
-   "category": "Главная страница / Главная страница / Каталог / Каталог / Для фильтра / Для фильтра",
-   "specs": {
-    "Разновидность": "пакамара",
-    "Регион": "Каранави",
-    "Сбор урожая": "Сентябрь 2025",
-    "Способ обработки": "натуральный",
-    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
-    "Обжарка": "фильтр"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": 250,
-     "price": 2143.0,
      "available": true
     }
    ]
@@ -1874,28 +1850,6 @@
    ]
   },
   {
-   "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_kosta_rika_kennet_madrigal/",
-   "name": "Галараствор Коста-Рика Кеннет Мадригаль",
-   "description": "Галараствор Коста-Рика Кеннет Мадригаль",
-   "image": "https://theweldercatherine.ru/upload/iblock/97f/90frm6kywcf5rq6k53i9h44qsgrrwv04/Kosta_Rika-Kennet-Madrigal.png",
-   "category": "Главная страница / Главная страница / Каталог / Каталог / Галараствор / Галараствор",
-   "specs": {
-    "Разновидность": "катуаи",
-    "Регион": "Тарразу",
-    "Сбор урожая": "Февраль 2024",
-    "Способ обработки": "натуральный, анаэробный"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 704.0,
-     "available": true
-    }
-   ]
-  },
-  {
    "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_kolumbiya_el_chispa/",
    "name": "Галараствор Колумбия Эль Чиспа",
    "description": "Кофе растворимый порошкообразный \"Галараствор Колумбия Эль Чиспа\", 16 гр",
@@ -1935,28 +1889,6 @@
     {
      "weight_g": null,
      "price": 800.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_ruanda_gasharu/",
-   "name": "Галараствор Руанда Гашару",
-   "description": "Кофе растворимый порошкообразный \"Руанда Гашару\", 16 г",
-   "image": "https://theweldercatherine.ru/upload/iblock/704/ecmbcj3zpu33ueklrpbd7hzci1h0yx96/Ruanda.png",
-   "category": "Главная страница / Главная страница / Каталог / Каталог / Галараствор / Галараствор",
-   "specs": {
-    "Разновидность": "красный бурбон",
-    "Регион": "Ньямашеке",
-    "Сбор урожая": "Август 2024",
-    "Способ обработки": "мытый"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 690.0,
      "available": true
     }
    ]
@@ -3588,36 +3520,6 @@
     {
      "weight_g": 1000,
      "price": 4311.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://theweldercatherine.ru/catalog/dlya_espresso/kosta_rika_kennet_madrigal/",
-   "name": "Коста-Рика Кеннет Мадригаль",
-   "description": "Кофе Коста-Рика Кеннет Мадригаль",
-   "image": "https://theweldercatherine.ru/upload/iblock/655/z42or9gbw046r929yocl4b3zz8v33jmb/250g-_1_-_77_.png",
-   "category": "Главная страница / Главная страница / Каталог / Каталог / Для эспрессо / Для эспрессо",
-   "specs": {
-    "Разновидность": "катуаи",
-    "Регион": "Тарразу",
-    "Сбор урожая": "Март 2026",
-    "Способ обработки": "Натуральный, 8 дней анаэробной ферментации",
-    "Вкус": "терруара, заложенный в зерно природой, а также, из простого кофе сделать нечто",
-    "Ферма": "Ферма “La Familia”",
-    "Обжарка": "фильтр"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": 250,
-     "price": 1481.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 4443.0,
      "available": true
     }
    ]
