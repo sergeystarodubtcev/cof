@@ -2,11 +2,11 @@
  "status": {
   "id": "madheads",
   "platform": "generic",
-  "items": 242,
-  "seconds": 225.9,
+  "items": 240,
+  "seconds": 240.8,
   "ok": true,
   "error": null,
-  "at": "2026-11-25T08:48:05+00:00"
+  "at": "2026-11-26T08:32:16+00:00"
  },
  "items": [
   {
@@ -1302,23 +1302,6 @@
    ]
   },
   {
-   "url": "https://madheadscoffee.com/p/bguH09HMC56-e39f22b2",
-   "name": "Kochere Gr2",
-   "description": "Перейдіть до каталога щоб обрати товар",
-   "image": "https://api.madheadscoffee.com/cdn/s/1/p/337733/0/large.png",
-   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / Kochere Gr2 / Kochere Gr2",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 456.0,
-     "available": true
-    }
-   ]
-  },
-  {
    "url": "https://madheadscoffee.com/p/TUceUm2alKw-d65d996e",
    "name": "La Montana",
    "description": "Перейдіть до каталога щоб обрати товар",
@@ -1484,23 +1467,6 @@
     {
      "weight_g": null,
      "price": 564.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://madheadscoffee.com/p/WrRmau4Sqfm-20326ed9",
-   "name": "La Joya",
-   "description": "Перейдіть до каталога щоб обрати товар",
-   "image": "https://api.madheadscoffee.com/cdn/s/1/p/227044/0/large.png",
-   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / La Joya / La Joya",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 514.0,
      "available": true
     }
    ]
@@ -3920,7 +3886,7 @@
    ]
   },
   {
-   "url": "https://madheadscoffee.com/p/uieEYC8GeaE",
+   "url": "https://madheadscoffee.com/p/cWy8Yq6YWMG",
    "name": "Керамічний пуровер Hario V60-02",
    "description": "Керамічний пуровер Hario V60-02|Ceramic purover Hario V60-02",
    "image": "https://api.madheadscoffee.com/cdn/s/1/p/131/0/large.webp",

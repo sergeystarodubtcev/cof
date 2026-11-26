@@ -3,34 +3,12 @@
   "id": "kofeop",
   "platform": "bitrix+generic",
   "items": 39,
-  "seconds": 770.7,
+  "seconds": 728.7,
   "ok": true,
   "error": null,
-  "at": "2026-11-25T08:55:58+00:00"
+  "at": "2026-11-26T08:39:20+00:00"
  },
  "items": [
-  {
-   "url": "https://kofeop.ru/catalog/otkryvayushchiy-kofe/",
-   "name": "Открывающий кофе в зернах",
-   "description": "Открывающий кофе - купить кофе с ароматами ягод и фруктов в зернах по цене от производителя в интернет-магазине в Челябинске с доставкой. ✅ Заказать экзотический свежеобжаренный фруктовый зерновой натуральный кофе Kofeop Roastery. ✅ Официальный сайт.",
-   "image": "https://kofeop.ru:443/upload/CPremier/f8f/a8ze5ag6nlt5pyb6cd5fn2y06pjnzqht.png",
-   "category": "Магазин свежеобжаренного кофе Kofeop Roastery / Магазин свежеобжаренного кофе Kofeop Roastery / Каталог / Каталог / Кофе в зернах / Кофе в зернах / Открывающий кофе в зернах",
-   "specs": {
-    "Страна": "Кения",
-    "Обжарка": "Фильтр",
-    "Регион": "Ньери",
-    "Обработка": "Мытая"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": 250,
-     "price": 890.0,
-     "available": true
-    }
-   ]
-  },
   {
    "url": "https://kofeop.ru/catalog/coffee/c_paez/",
    "name": "Паез",
@@ -253,6 +231,23 @@
    ]
   },
   {
+   "url": "https://kofeop.ru/catalog/coffee/salaverriya/",
+   "name": "Салаверрия",
+   "description": "",
+   "image": "https://kofeop.ru/upload/iblock/69c/eae07ihnnn5lpac6px5s5ogxpausb9re.jpg",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1060.0,
+     "available": true
+    }
+   ]
+  },
+  {
    "url": "https://kofeop.ru/catalog/coffee/gedeb-voreda/",
    "name": "Гедеб Вореда",
    "description": "",
@@ -281,7 +276,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 1230.0,
+     "price": 1045.5,
      "available": true
     }
    ]
@@ -332,7 +327,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 581.0,
+     "price": 800.0,
      "available": true
     }
    ]
@@ -349,7 +344,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 623.0,
+     "price": 553.0,
      "available": true
     }
    ]
@@ -366,7 +361,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 800.0,
+     "price": 560.0,
      "available": true
     }
    ]
@@ -383,7 +378,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 890.0,
+     "price": 980.0,
      "available": true
     }
    ]
@@ -519,7 +514,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 560.0,
+     "price": 581.0,
      "available": true
     }
    ]
@@ -536,7 +531,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 553.0,
+     "price": 581.0,
      "available": true
     }
    ]
@@ -570,7 +565,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 623.0,
+     "price": 553.0,
      "available": true
     }
    ]
@@ -587,7 +582,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 1230.0,
+     "price": 623.0,
      "available": true
     }
    ]
@@ -604,7 +599,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 1160.0,
+     "price": 581.0,
      "available": true
     }
    ]
@@ -621,7 +616,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 850.0,
+     "price": 560.0,
      "available": true
     }
    ]
@@ -638,7 +633,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 560.0,
+     "price": 890.0,
      "available": true
     }
    ]
@@ -655,7 +650,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 850.0,
+     "price": 2380.0,
      "available": true
     }
    ]
@@ -672,7 +667,7 @@
    "variants": [
     {
      "weight_g": null,
-     "price": 560.0,
+     "price": 1070.0,
      "available": true
     }
    ]

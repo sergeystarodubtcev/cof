@@ -20157,5 +20157,369 @@
     "reason": "пропал с сайта"
    }
   ]
+ },
+ {
+  "at": "2026-11-26T08:51:50+00:00",
+  "added": [
+   {
+    "id": "1c32e31788f2",
+    "roaster": "kanga",
+    "name": "Бленд Пряный 250г",
+    "url": "https://www.kanga.ru/catalog/espresso/blend-pryanyy-250g/",
+    "back": false
+   },
+   {
+    "id": "698d0d0c33e5",
+    "roaster": "kanga",
+    "name": "Эфиопия Сакаро 250г",
+    "url": "https://www.kanga.ru/catalog/espresso/efiopiya-sakaro-250g/",
+    "back": false
+   },
+   {
+    "id": "70a18507ff11",
+    "roaster": "kanga",
+    "name": "Индонезия Суматра Каро эспрессо 250г",
+    "url": "https://www.kanga.ru/catalog/espresso/indoneziya-sumatra-karo-espresso-250g/",
+    "back": false
+   },
+   {
+    "id": "b921b0a9b045",
+    "roaster": "h2o",
+    "name": "Гуджи фильтр, 250 гр",
+    "url": "https://h2ocompany.ru/catalog/kofe_v_zernakh_h2o_ethiopia_gugi_filter_svezheobzharennyy_250gr/",
+    "back": true
+   },
+   {
+    "id": "6be51edca13f",
+    "roaster": "h2o",
+    "name": "Муремуре фильтр",
+    "url": "https://h2ocompany.ru/catalog/kofe_v_zernakh_h2o_ruanda_muremure_filtr_svezheobzharennyy_250gr/",
+    "back": true
+   },
+   {
+    "id": "7c09ec5c6ccb",
+    "roaster": "h2o",
+    "name": "Основа Cream Latte Малиново-яблочный моти",
+    "url": "https://h2ocompany.ru/catalog/vkusoaromaticheskaya_smes_cream_latte_malinovo_yablochnyy_moti_0_5kg/",
+    "back": true
+   },
+   {
+    "id": "6be127099d9e",
+    "roaster": "h2o",
+    "name": "Посыпка Grainy Glaze Взрывной золотой",
+    "url": "https://h2ocompany.ru/catalog/vkusoaromaticheskaya_smes_grainy_glaze_vzryvnoy_zolotoy_0_1kg/",
+    "back": true
+   },
+   {
+    "id": "3e277b475fe8",
+    "roaster": "specialtyru",
+    "name": "Нефть Кения Сангалай, фильтр, 250 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-neft-keniya-sangalay-filtr-250-gr/",
+    "back": true
+   },
+   {
+    "id": "fbcacf1a664f",
+    "roaster": "specialtyru",
+    "name": "Нефть Кения Киамбу, фильтр, 250 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-neft-keniya-kiambu-filtr-250-gr/",
+    "back": true
+   },
+   {
+    "id": "f38666117766",
+    "roaster": "specialtyru",
+    "name": "Нефть Бразилия Карму-да-Кашуэйра Флавио Рейс, фильтр, 250 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-neft-braziliya-karmu-da-kashueyra-flavio-reys-filtr-250-gr/",
+    "back": true
+   },
+   {
+    "id": "a6e56a0f4a92",
+    "roaster": "specialtyru",
+    "name": "Нефть Колумбия Уила Джеронимо, фильтр, 250 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-neft-kolumbiya-uila-dzheronimo-filtr-250-gr/",
+    "back": true
+   },
+   {
+    "id": "95bd476c583e",
+    "roaster": "specialtyru",
+    "name": "Нефть Вьетнам Далат, эспрессо, 250 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-neft-vetnam-dalat-espresso-250-gr/",
+    "back": true
+   },
+   {
+    "id": "ba983c2b49ef",
+    "roaster": "specialtyru",
+    "name": "Нефть Индия Чикмагалур Гири, эспрессо, 250 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-neft-indiya-chikmagalur-giri-espresso-250-gr/",
+    "back": true
+   },
+   {
+    "id": "9a56bcb9dd58",
+    "roaster": "specialtyru",
+    "name": "Нефть Китай Юннань Пуэр, эспрессо, 250 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-neft-kitay-yunnan-puer-espresso-250-gr/",
+    "back": true
+   },
+   {
+    "id": "83b550fbc0d3",
+    "roaster": "specialtyru",
+    "name": "Нефть Руанда Уйе Гишамву, фильтр, 250 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-neft-ruanda-uye-gishamvu-filtr-250-gr/",
+    "back": true
+   },
+   {
+    "id": "508267da2a60",
+    "roaster": "specialtyru",
+    "name": "Нефть Бразилия Карму-да-Кашуэйра Флавио Рейс, эспрессо, 250 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-neft-braziliya-karmu-da-kashueyra-flavio-reys-espresso-250-gr/",
+    "back": true
+   },
+   {
+    "id": "b515bc306fb4",
+    "roaster": "specialtyru",
+    "name": "Нефть Кения Киамбу, эспрессо, 250 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-neft-keniya-kiambu-espresso-250-gr/",
+    "back": true
+   },
+   {
+    "id": "4f1e6590b3c3",
+    "roaster": "bolshe",
+    "name": "Кения Гатомбоя",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/721156284-964738369113-keniya-gatomboya",
+    "back": false
+   },
+   {
+    "id": "8b25982b45c3",
+    "roaster": "bolshe",
+    "name": "Эфиопия Эфтах Лалиса",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/721156284-279876341313-efiopiya-eftah-lalisa",
+    "back": false
+   },
+   {
+    "id": "7e0f5805175b",
+    "roaster": "neva",
+    "name": "Подарочный набор «Под молочко»",
+    "url": "https://nevacoffee.ru/catalog/podarochnye-nabory/novogodniy-nabor-pod-molochko/",
+    "back": true
+   },
+   {
+    "id": "492960d59f1d",
+    "roaster": "neva",
+    "name": "Подарочный набор «100% Арабика»",
+    "url": "https://nevacoffee.ru/catalog/podarochnye-nabory/novogodniy-nabor-100-arabika/",
+    "back": true
+   },
+   {
+    "id": "f2bd532b2ffa",
+    "roaster": "neva",
+    "name": "Бразилия Суль де Минас в подарочной упаковке",
+    "url": "https://nevacoffee.ru/catalog/podarochnye-nabory/braziliya-sul-de-minas-250-g-v-podarochnoj-upakovke/",
+    "back": false
+   },
+   {
+    "id": "228d8dcc974b",
+    "roaster": "neva",
+    "name": "Эспрессо-смесь Джи-Джига 250гр",
+    "url": "https://nevacoffee.ru/catalog/coffee/arabika/dzhi-dzhiga/",
+    "back": true
+   },
+   {
+    "id": "af052f41793e",
+    "roaster": "neva",
+    "name": "Колумбия Ла Гобана Геша (фильтр)",
+    "url": "https://nevacoffee.ru/catalog/coffee/kolumbiya-la-bogemiya-gesha-/",
+    "back": true
+   },
+   {
+    "id": "476ef4ed1488",
+    "roaster": "botanica",
+    "name": "Индонезия Джераман Гинтинг",
+    "url": "https://botanicacoffee.ru/indonesia-djeraman-ginting-filter",
+    "back": false
+   },
+   {
+    "id": "65aac246dd5c",
+    "roaster": "botanica",
+    "name": "Кения Маунт",
+    "url": "https://botanicacoffee.ru/kenya-maunt-filter",
+    "back": false
+   }
+  ],
+  "removed": [
+   {
+    "id": "b1dfb984ffa0",
+    "roaster": "bolshe",
+    "name": "Какао Кокосовый микс",
+    "url": "https://bolshecoffee.ru/tproduct/1-246461685803-kakao-kokosovii-miks",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "e5edf21a4b4b",
+    "roaster": "bolshe",
+    "name": "Колумбия Форест Перископ",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512406604-998605596803-kolumbiya-forest-periskop",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "63f667049bea",
+    "roaster": "bolshe",
+    "name": "Колумбия Эль Дивизо Сидра",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512406604-634449326923-kolumbiya-el-divizo-sidra",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "f4788d0f7bda",
+    "roaster": "bolshe",
+    "name": "Эфиопия от Нафкот Амасу и женщин Гедичо",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/512406604-655924467343-efiopiya-ot-nafkot-amasu-i-zhenschin-ged",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "9aaba69b7024",
+    "roaster": "botanica",
+    "name": "Мексика Веракрус",
+    "url": "https://botanicacoffee.ru/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "8204862e0be2",
+    "roaster": "botanica",
+    "name": "Мексика Веракрус",
+    "url": "https://botanicacoffee.ru/mexico-veracruz-espresso",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "42bd720a102b",
+    "roaster": "choose",
+    "name": "Кения / Мара",
+    "url": "https://www.choosecoffee.ru/main/tproduct/739043735-497008953883-keniya-mara",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "3337c9674a22",
+    "roaster": "choose",
+    "name": "Колумбия / Перископ Эль Вергель",
+    "url": "https://www.choosecoffee.ru/main/tproduct/739043735-741872490853-kolumbiya-periskop-el-vergel",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "694b7d54a96c",
+    "roaster": "h2o",
+    "name": "Колибри Эспрессо, 250 гр",
+    "url": "https://h2ocompany.ru/catalog/kofe_v_zernakh_h2o_colibri_svezheobzharennyy_250gr/",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "50aaabf8227f",
+    "roaster": "h2o",
+    "name": "Чайный набор Классический",
+    "url": "https://h2ocompany.ru/catalog/nabor_chernyy_sample_box_8_kubov_sht/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "d41829adeb36",
+    "roaster": "kofeop",
+    "name": "Открывающий кофе в зернах",
+    "url": "https://kofeop.ru/catalog/otkryvayushchiy-kofe/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "e31727e99380",
+    "roaster": "madheads",
+    "name": "Kochere Gr2",
+    "url": "https://madheadscoffee.com/p/bguH09HMC56-e39f22b2",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "7c6ac6ec6430",
+    "roaster": "neva",
+    "name": "Asia Blend 250гр",
+    "url": "https://nevacoffee.ru/catalog/coffee/asia-blend/",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "c18155ff8a09",
+    "roaster": "neva",
+    "name": "Бурунди Бурасира 250 гр",
+    "url": "https://nevacoffee.ru/catalog/coffee/burundi-burasira/",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "0dc5cab1c266",
+    "roaster": "neva",
+    "name": "Колумбия Де Ла Тьеррита 250гр",
+    "url": "https://nevacoffee.ru/catalog/coffee/molotyy-kofe/filter/clear/apply/?sort=CATALOG_PRICE_1&order=asc&PAGEN_2=4",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "06eb4e96c80e",
+    "roaster": "neva",
+    "name": "Колумбия Дулима (фильтр)",
+    "url": "https://nevacoffee.ru/catalog/coffee/kolumbiya-dulima-filtr/",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "68b2c8c43de4",
+    "roaster": "neva",
+    "name": "Суль де Минас 200 гр.",
+    "url": "https://nevacoffee.ru/catalog/coffee/molotyy-kofe/?display=table&PAGEN_2=4",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "3d4e9c34c6f0",
+    "roaster": "specialtyru",
+    "name": "Нева Кофе Ростерс Гватемала Санта-Роса Аяраза, эспрессо, 250 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-neva-coffee-roasters-gvatemala-santa-rosa-ayaraza-espresso-250-g/",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "7401e7a4eaf5",
+    "roaster": "specialtyru",
+    "name": "Тэйсти Кофе Christmas Blend 2027, эспрессо, 250 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-teysti-kofe-christmas-blend-2027-espresso-250-g/",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "ca174a5755e9",
+    "roaster": "specialtyru",
+    "name": "Тэйсти Кофе Индонезия Суматра Каро Карбоник, фильтр, 250 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-teysti-kofe-indoneziya-sumatra-karo-karbonik-filtr-250-g/",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "3d2d8e6b9ae1",
+    "roaster": "specialtyru",
+    "name": "Тэйсти Кофе Эфиопия Гедеб, эспрессо 250 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-teysti-kofe-efiopiya-gedeb-espresso-250-g/",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "43587b484713",
+    "roaster": "triptych",
+    "name": "Уганда Кигези",
+    "url": "https://triptychcoffee.com/filter/tproduct/331778199213-uganda-kigezi",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "d5ca15a21051",
+    "roaster": "welder",
+    "name": "Галараствор Перу Valle Sagrado",
+    "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_peru_valle_sagrado/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "9c75782e7300",
+    "roaster": "welder",
+    "name": "Кения Олбаната",
+    "url": "https://theweldercatherine.ru/catalog/dlya_filtra/keniya_olbanata/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "bf3adf4d6c30",
+    "roaster": "welder",
+    "name": "Кения Олбаната",
+    "url": "https://theweldercatherine.ru/catalog/dlya_espresso/keniya_olbanata/",
+    "reason": "пропал с сайта"
+   }
+  ]
  }
 ]

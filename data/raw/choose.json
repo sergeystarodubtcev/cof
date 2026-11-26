@@ -2,11 +2,11 @@
  "status": {
   "id": "choose",
   "platform": "tilda",
-  "items": 33,
-  "seconds": 54.1,
+  "items": 32,
+  "seconds": 45.3,
   "ok": true,
   "error": null,
-  "at": "2026-11-25T08:40:58+00:00"
+  "at": "2026-11-26T08:25:05+00:00"
  },
  "items": [
   {
@@ -1372,7 +1372,7 @@
     {
      "weight_g": null,
      "price": 1200.0,
-     "available": true
+     "available": false
     },
     {
      "weight_g": null,
@@ -1442,7 +1442,7 @@
     {
      "weight_g": null,
      "price": 1200.0,
-     "available": true
+     "available": false
     },
     {
      "weight_g": null,
@@ -2138,164 +2138,6 @@
     {
      "weight_g": null,
      "price": 6000.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://www.choosecoffee.ru/main/tproduct/739043735-497008953883-keniya-mara",
-   "name": "Кения / Мара",
-   "description": "Описание\nКофе из региона Нарок, Кения, выращенный на высоте 1600–1800 метров над уровнем моря и обработанный натуральным способом.\nФерма Mara Coffee была основана в 2019 году недалеко от города Лолгориен, всего в нескольких километрах от знаменитого заповедника Масаи-Мара. Несмотря на благоприятные условия для выращивания кофе, его производство в этом районе начало развиваться относительно недавно. Исторически местное население — народ масаи — занималось преимущественно кочевым скотоводством, поэтому ферму пришлось создавать практически с нуля.\nСегодня Mara Coffee обрабатывает большую часть своего урожая натуральным способом. После тщательной ручной сортировки спелые кофейные ягоды помещают в специальные бочки, где они проходят ферментацию в течение четырёх дней. Затем ягоды сушат на африканских кроватях, регулярно перебирая и дополнительно сортируя урожай вручную.\nОсобое внимание уделяется отбору ягод на каждом этапе обработки: сначала при сборе урожая, а затем во время сушки. Такой подход позволяет контролировать качество сырья и добиваться более однородного результата. \nПлотность: 3\nКислотность: 4\nОбработка: натуральная\nРаздел: для фильтра\nСладость: 4\nQ-грейд: 86\nФермент: 2\nДескрипторы: жёлтое яблоко, чернослив, брусника, зеленый чай\nРазновидность: Руиру–11, Батиан\nВысота: 1600–1800\nРегион: Нарок",
-   "image": "https://static.tildacdn.com/stor6534-6337-4463-b537-386634656562/9b653638773e1f308ac5cb13202f095d.png",
-   "category": "",
-   "specs": {
-    "Обработка": "натуральная",
-    "Дескрипторы": "жёлтое яблоко, чернослив, брусника, зеленый чай",
-    "Разновидность": "Руиру–11, Батиан",
-    "Высота": "1600–1800",
-    "Регион": "Нарок"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 1110.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1110.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1110.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1110.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1110.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1110.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1110.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3300.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3300.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3300.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3300.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3300.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3300.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3300.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1110.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1110.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1110.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1110.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1110.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1110.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1110.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3300.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3300.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3300.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3300.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3300.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3300.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3300.0,
      "available": true
     }
    ]
