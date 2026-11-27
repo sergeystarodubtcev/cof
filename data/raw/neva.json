@@ -3,10 +3,10 @@
   "id": "neva",
   "platform": "bitrix+generic",
   "items": 93,
-  "seconds": 1665.5,
+  "seconds": 1749.8,
   "ok": true,
   "error": null,
-  "at": "2026-11-26T08:51:50+00:00"
+  "at": "2026-11-27T09:08:38+00:00"
  },
  "items": [
   {
@@ -2398,23 +2398,6 @@
    ]
   },
   {
-   "url": "https://nevacoffee.ru/catalog/coffee/guatemala-ayaraza/",
-   "name": "Гватемала Аяраза 250 гр",
-   "description": "",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/resize_cache/iblock/5c3/2000_2000_140cd750bba9870f18aada2478b24840a/vt0mk57voyjh7x4ng1u8z7v3v7hmba42.webp",
-   "category": "",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": 250,
-     "price": 688.0,
-     "available": true
-    }
-   ]
-  },
-  {
    "url": "https://nevacoffee.ru/catalog/coffee/arabika/peru-amazonas-gr-1/",
    "name": "Амазонас 250 гр",
    "description": "",
@@ -2444,6 +2427,23 @@
     {
      "weight_g": 200,
      "price": 544.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/guatemala-ayaraza/",
+   "name": "Гватемала Аяраза 250 гр",
+   "description": "",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/resize_cache/iblock/5c3/2000_2000_140cd750bba9870f18aada2478b24840a/vt0mk57voyjh7x4ng1u8z7v3v7hmba42.webp",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 688.0,
      "available": true
     }
    ]
@@ -2517,10 +2517,10 @@
    ]
   },
   {
-   "url": "https://nevacoffee.ru/catalog/coffee/colombia-supremo/",
-   "name": "Супремо 250 гр.",
+   "url": "https://nevacoffee.ru/catalog/coffee/laos-gr-1/",
+   "name": "Лаос 250 гр",
    "description": "",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/2cb/bnyw8xbrzmi2hvh9eq0h1bjwwntqkb9g.webp",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/189/w8m1sxh47yl5vtolx1zfvek3wvw73js2.webp",
    "category": "",
    "specs": {},
    "gallery": [],
@@ -2528,7 +2528,7 @@
    "variants": [
     {
      "weight_g": 250,
-     "price": 698.0,
+     "price": 625.0,
      "available": true
     }
    ]
@@ -2602,10 +2602,10 @@
    ]
   },
   {
-   "url": "https://nevacoffee.ru/catalog/coffee/laos-gr-1/",
-   "name": "Лаос 250 гр",
+   "url": "https://nevacoffee.ru/catalog/coffee/colombia-supremo/",
+   "name": "Супремо 250 гр.",
    "description": "",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/189/w8m1sxh47yl5vtolx1zfvek3wvw73js2.webp",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/2cb/bnyw8xbrzmi2hvh9eq0h1bjwwntqkb9g.webp",
    "category": "",
    "specs": {},
    "gallery": [],
@@ -2613,7 +2613,7 @@
    "variants": [
     {
      "weight_g": 250,
-     "price": 625.0,
+     "price": 698.0,
      "available": true
     }
    ]
@@ -2806,23 +2806,6 @@
    ]
   },
   {
-   "url": "https://nevacoffee.ru/catalog/coffee/intense/",
-   "name": "Intense 250 гр.",
-   "description": "",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/c80/3g7hggnfq0i9rzuhat7tyvb5z43yd35g.webp",
-   "category": "",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": 250,
-     "price": 608.0,
-     "available": true
-    }
-   ]
-  },
-  {
    "url": "https://nevacoffee.ru/catalog/coffee/african-safari/",
    "name": "Африканское Сафари 200гр",
    "description": "",
@@ -2835,6 +2818,23 @@
     {
      "weight_g": 200,
      "price": 528.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/intense/",
+   "name": "Intense 250 гр.",
+   "description": "",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/c80/3g7hggnfq0i9rzuhat7tyvb5z43yd35g.webp",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 608.0,
      "available": true
     }
    ]

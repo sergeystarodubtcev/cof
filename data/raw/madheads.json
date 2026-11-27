@@ -2,11 +2,11 @@
  "status": {
   "id": "madheads",
   "platform": "generic",
-  "items": 240,
-  "seconds": 240.8,
+  "items": 243,
+  "seconds": 212.2,
   "ok": true,
   "error": null,
-  "at": "2026-11-26T08:32:16+00:00"
+  "at": "2026-11-27T08:47:31+00:00"
  },
  "items": [
   {
@@ -316,6 +316,23 @@
    ]
   },
   {
+   "url": "https://madheadscoffee.com/p/75EECC6Ww6E-937c1309",
+   "name": "Guji Hambella Gr.2 Easy Drip",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/471553/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Easydrip / Easydrip / Guji Hambella Gr.2 Easy Drip / Guji Hambella Gr.2 Easy Drip",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 470.0,
+     "available": true
+    }
+   ]
+  },
+  {
    "url": "https://madheadscoffee.com/p/uwNzFea4SDe-48911657",
    "name": "MIX «MH х Ukraїner»",
    "description": "Перейдіть до каталога щоб обрати товар",
@@ -566,6 +583,23 @@
     {
      "weight_g": null,
      "price": 470.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://madheadscoffee.com/p/DwBoDL0neIw-8e86aec8",
+   "name": "Guji Hambella Gr.2 Capsules",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/471554/0/large.jpeg",
+   "category": "Головна / Головна / Категорії / Категорії / Капсули / Капсули / Guji Hambella Gr.2 Capsules / Guji Hambella Gr.2 Capsules",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 300.0,
      "available": true
     }
    ]
@@ -1302,6 +1336,23 @@
    ]
   },
   {
+   "url": "https://madheadscoffee.com/p/WrRmau4Sqfm-20326ed9",
+   "name": "La Joya",
+   "description": "Перейдіть до каталога щоб обрати товар",
+   "image": "https://api.madheadscoffee.com/cdn/s/1/p/227044/0/large.png",
+   "category": "Головна / Головна / Категорії / Категорії / Кава / Кава / La Joya / La Joya",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 514.0,
+     "available": true
+    }
+   ]
+  },
+  {
    "url": "https://madheadscoffee.com/p/TUceUm2alKw-d65d996e",
    "name": "La Montana",
    "description": "Перейдіть до каталога щоб обрати товар",
@@ -1744,7 +1795,7 @@
    ]
   },
   {
-   "url": "https://madheadscoffee.com/p/Wc0YMaSkkIK",
+   "url": "https://madheadscoffee.com/p/CMocoEeysgY",
    "name": "Футболка сіра виварена «Cupid»",
    "description": "Перейдіть до каталога щоб обрати товар",
    "image": "https://api.madheadscoffee.com/cdn/s/1/p/488/0/large.jpg",

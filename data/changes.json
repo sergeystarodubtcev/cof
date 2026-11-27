@@ -20521,5 +20521,278 @@
     "reason": "пропал с сайта"
    }
   ]
+ },
+ {
+  "at": "2026-11-27T09:08:38+00:00",
+  "added": [
+   {
+    "id": "3efcb7791f2d",
+    "roaster": "specialtyru",
+    "name": "Нефть Перу Амазонас Монте Верде, фильтр, 250 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-neft-peru-amazonas-monte-verde-filtr-250-g/",
+    "back": false
+   },
+   {
+    "id": "8f721f43e5b8",
+    "roaster": "specialtyru",
+    "name": "Нефть Перу Амазонас Монте Верде, эспрессо, 250 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-neft-peru-amazonas-monte-verde-espresso-250-g/",
+    "back": false
+   },
+   {
+    "id": "11f4c08c3e46",
+    "roaster": "specialtyru",
+    "name": "Нефть Эфиопия Гедео Челбеса, фильтр, 250 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-neft-efiopiya-gedeo-chelbesa-filtr-250-g/",
+    "back": false
+   },
+   {
+    "id": "75272e24054f",
+    "roaster": "specialtyru",
+    "name": "Нефть Колумбия Наярит Ла Эсперанза, фильтр, 100 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-neft-kolumbiya-nayarit-la-esperanza-filtr-100-g/",
+    "back": false
+   },
+   {
+    "id": "8c5c0f620023",
+    "roaster": "specialtyru",
+    "name": "Нефть Эфиопия Гуджи Оромия, фильтр, 250 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-neft-efiopiya-gudzhi-oromiya-filtr-250-g/",
+    "back": false
+   },
+   {
+    "id": "d443b3874556",
+    "roaster": "specialtyru",
+    "name": "Нефть Мексика Наярит Сан Кристобал, фильтр, 250 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-neft-meksika-nayarit-san-kristobal-filtr-250-g/",
+    "back": false
+   },
+   {
+    "id": "669ca54d86f9",
+    "roaster": "specialtyru",
+    "name": "Нефть Эфиопия Гуджи Оромия, эспрессо, 250 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-neft-efiopiya-gudzhi-oromiya-espresso-250-g/",
+    "back": false
+   },
+   {
+    "id": "a8691bcac03b",
+    "roaster": "specialtyru",
+    "name": "Нефть Колумбия Уила Папайо, эспрессо, 250 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-neft-kolumbiya-uila-papayo-espresso-250-g/",
+    "back": false
+   },
+   {
+    "id": "48cf96db12c8",
+    "roaster": "specialtyru",
+    "name": "Нефть Руанда Уйе Гишамву, эспрессо 250 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-neft-ruanda-uye-gishamvu-espresso-250-g/",
+    "back": false
+   },
+   {
+    "id": "1e9af74c17c9",
+    "roaster": "specialtyru",
+    "name": "Нефть Мексика Наярит Сан Кристобал, эспрессо, 250 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-neft-meksika-nayarit-san-kristobal-espresso-250-g/",
+    "back": false
+   },
+   {
+    "id": "7569948e85eb",
+    "roaster": "specialtyru",
+    "name": "Нефть Эфиопия Гедео Челбеса, эспрессо, 250 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-neft-efiopiya-gedeo-chelbesa-espresso-250-g/",
+    "back": false
+   },
+   {
+    "id": "2b3378d8a729",
+    "roaster": "specialtyru",
+    "name": "Нефть Колумбия Уила Джеронимо, эспрессо, 250 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-neft-kolumbiya-uila-dzheronimo-espresso-250-g/",
+    "back": false
+   },
+   {
+    "id": "42c11f8a1a28",
+    "roaster": "bolshe",
+    "name": "Бразилия Коликоли",
+    "url": "https://bolshecoffee.ru/coffee/tproduct/721156284-453757744051-braziliya-kolikoli",
+    "back": true
+   },
+   {
+    "id": "b1dfb984ffa0",
+    "roaster": "bolshe",
+    "name": "Какао Кокосовый микс",
+    "url": "https://bolshecoffee.ru/tproduct/1-246461685803-kakao-kokosovii-miks",
+    "back": true
+   },
+   {
+    "id": "40cd172addf5",
+    "roaster": "welder",
+    "name": "Колумбия Эль Чиспа",
+    "url": "https://theweldercatherine.ru/catalog/dlya_espresso/kolumbiya_el_chispa/",
+    "back": false
+   },
+   {
+    "id": "9c75782e7300",
+    "roaster": "welder",
+    "name": "Кения Олбаната",
+    "url": "https://theweldercatherine.ru/catalog/dlya_filtra/keniya_olbanata/",
+    "back": true
+   },
+   {
+    "id": "f1a6f4f1fcb5",
+    "roaster": "welder",
+    "name": "Колумбия под молочко",
+    "url": "https://theweldercatherine.ru/catalog/pod_molochko_1/kolumbiya_pod_molochko_1/",
+    "back": false
+   },
+   {
+    "id": "bf3adf4d6c30",
+    "roaster": "welder",
+    "name": "Кения Олбаната",
+    "url": "https://theweldercatherine.ru/catalog/dlya_espresso/keniya_olbanata/",
+    "back": true
+   }
+  ],
+  "removed": [
+   {
+    "id": "719c40dc03fe",
+    "roaster": "bolshe",
+    "name": "Фильтры Hario VCF-02-100W белые",
+    "url": "https://bolshecoffee.ru/gadgets/tproduct/477792449-602970607181-filtri-hario-vcf-02-100w-belie",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "8e1b38412bc3",
+    "roaster": "fauno",
+    "name": "Colombia Lychee",
+    "url": "https://fauno.coffee/catalog/colombia-lychee",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "92960c4c3818",
+    "roaster": "fauno",
+    "name": "Ethiopia Balese Dinigu",
+    "url": "https://fauno.coffee/catalog/ethiopia-balese-dinigu",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "6fd2b4a2cd5a",
+    "roaster": "fauno",
+    "name": "Rwanda Nyamasheke",
+    "url": "https://fauno.coffee/catalog/rwanda-nyamasheke-washed",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "4cc06ce90519",
+    "roaster": "silkydrum",
+    "name": "Тайвань Роял Бин Гейша Эстейт, гейша мытая",
+    "url": "https://www.silkydrum.ru/catalog/taiwan-royal-bean-geisha-estate-washed",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "3abaea694664",
+    "roaster": "specialtyru",
+    "name": "Kof Колумбия Уила Лас Брисас Папайя, фильтр, 250 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-kof-kolumbiya-uila-las-brisas-papayya-filtr-250-gr/",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "76072e5efa31",
+    "roaster": "specialtyru",
+    "name": "Кения Киамбу Поместье Маакиу",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-keniya-kiambu-pomeste-maakiu/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "fdb78fb4fa61",
+    "roaster": "specialtyru",
+    "name": "Колумбия Ла Миель Вуш Вуш",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-kolumbiya-la-miel-vush-vush/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "c9af71361f84",
+    "roaster": "specialtyru",
+    "name": "Колумбия Уила Сантамария",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-kolumbiya-uila-santamariya/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "72c4e3039602",
+    "roaster": "specialtyru",
+    "name": "Тэйсти Кофе Колумбия Уила Анжело Соса, фильтр 250 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-teysti-kofe-kolumbiya-uila-anzhelo-sosa-filtr-250-g/",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "028f65919e88",
+    "roaster": "specialtyru",
+    "name": "Тэйсти Кофе Уганда Картик Анбалаган, фильтр, 250 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-teysti-kofe-uganda-kartik-anbalagan-filtr-250-g/",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "02b56cf21cc8",
+    "roaster": "triptych",
+    "name": "Колумбия Родриго Санчес Валенсия Гейша",
+    "url": "https://triptychcoffee.com/filter/tproduct/985526092073-kolumbiya-rodrigo-sanches-valensiya-geis",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "e95f196af595",
+    "roaster": "triptych",
+    "name": "Платок в коробке. Йемасера",
+    "url": "https://triptychcoffee.com/tproduct/891179173343-platok-v-korobke-iemasera",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "f3523e078044",
+    "roaster": "welder",
+    "name": "Галараствор Боливия Аласитас",
+    "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_boliviya_alasitas/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "e7d4d7430d8f",
+    "roaster": "welder",
+    "name": "Галараствор Боливия Архангел",
+    "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_boliviya_arkhangel/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "81d17f634899",
+    "roaster": "welder",
+    "name": "Галараствор Боливия Самайпата",
+    "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_boliviya_samaypata/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "35707406d996",
+    "roaster": "welder",
+    "name": "Галараствор Бразилия Отавио",
+    "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_braziliya_otavio/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "12d734b4298a",
+    "roaster": "welder",
+    "name": "Галараствор Бразилия Флавио Рейс",
+    "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_braziliya_flavio_reys/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "aca2d94a3595",
+    "roaster": "welder",
+    "name": "Галараствор Колумбия Эль Чиспа из бочки",
+    "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_kolumbiya_el_chispa_iz_bochki/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "5bebd7c77db6",
+    "roaster": "welder",
+    "name": "Галараствор Коста-Рика Эрмано Роблес",
+    "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_kosta_rika_ermano_robles_1/",
+    "reason": "пропал с сайта"
+   }
+  ]
  }
 ]

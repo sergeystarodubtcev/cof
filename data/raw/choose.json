@@ -2,11 +2,11 @@
  "status": {
   "id": "choose",
   "platform": "tilda",
-  "items": 32,
-  "seconds": 45.3,
+  "items": 31,
+  "seconds": 106.1,
   "ok": true,
   "error": null,
-  "at": "2026-11-26T08:25:05+00:00"
+  "at": "2026-11-27T08:41:50+00:00"
  },
  "items": [
   {
@@ -1350,164 +1350,6 @@
      "weight_g": null,
      "price": 3260.0,
      "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://www.choosecoffee.ru/main/tproduct/739043735-741872490853-kolumbiya-periskop-el-vergel",
-   "name": "Колумбия / Перископ Эль Вергель",
-   "description": "Эль Вергель (El Vergel переводится как «фруктовый сад»), владельцами которой является Элиас и Шейди Байтер, и их мать Марта.\nБайтеры тщательно изучали процессы обработки кофейных ягод, искали редкие сорта и сертифицировали свою ферму в «Federación Nacional de Cafeteros». В 2016 году они встретились с экспертом по сортам Мигелем Хименесом, который помог им высадить такие виды, как Geisha, Java, Pacamara, Red Bourbon и Laurina. Первый урожай этих сортов собрали в 2017 году.\nКоманда Periscope на ферму Эль Вергель братьев Элиаса и Шейди Байтер, расположенную в департаменте Толима на высоте примерно 1700 метров над уровнем моря. Здесь большой выбор разновидностей и отличная инфраструктура.\nКоманда Periscope сделала множество лотов с обработкой натуральным полуанаэробным способом «Твист», эксперементировала с различной длительностью ферментации в зависимости от температуры и уровня pH. После сбора и флоатинга ягоды находились 72 часа в закрученном нейлоновом полотне под солнцем. Затем кофе сушился до влажности 12-13% \nПлотность: 5\nКислотность: 4\nОбработка: полуанаэробная \"Твист\"\nРаздел: для фильтра\nСладость: 5\nQ-грейд: 88,5\nФермент: 5\nАкция: 1\nДескрипторы: клубничное варенье, голубика, маракуйя, ваниль, ликёр, тёмный шоколад\nРазновидность: катурра\nВысота: 1700\nРегион: Толима",
-   "image": "https://static.tildacdn.com/stor6534-6337-4463-b537-386634656562/9b653638773e1f308ac5cb13202f095d.png",
-   "category": "",
-   "specs": {
-    "Обработка": "полуанаэробная \"Твист\"",
-    "Дескрипторы": "клубничное варенье, голубика, маракуйя, ваниль, ликёр, тёмный шоколад",
-    "Разновидность": "катурра",
-    "Высота": "1700",
-    "Регион": "Толима"
-   },
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": null,
-     "price": 1200.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
-     "price": 1200.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1200.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1200.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1200.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1200.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1200.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3900.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
-     "price": 3900.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
-     "price": 3900.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
-     "price": 3900.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
-     "price": 3900.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
-     "price": 3900.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
-     "price": 3900.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
-     "price": 1200.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
-     "price": 1200.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1200.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1200.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1200.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1200.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 1200.0,
-     "available": true
-    },
-    {
-     "weight_g": null,
-     "price": 3900.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
-     "price": 3900.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
-     "price": 3900.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
-     "price": 3900.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
-     "price": 3900.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
-     "price": 3900.0,
-     "available": false
-    },
-    {
-     "weight_g": null,
-     "price": 3900.0,
-     "available": false
     }
    ]
   },
