@@ -2,108 +2,13 @@
  "status": {
   "id": "triptych",
   "platform": "tilda",
-  "items": 74,
-  "seconds": 148.7,
+  "items": 84,
+  "seconds": 95.5,
   "ok": true,
   "error": null,
-  "at": "2026-11-27T08:40:04+00:00"
+  "at": "2026-11-28T07:54:03+00:00"
  },
  "items": [
-  {
-   "url": "https://triptychcoffee.com/espresso/tproduct/167871795463-braziliya-gosto",
-   "name": "Бразилия Госто",
-   "description": "Сухофрукты, орехи, шоколад\nГосто собран из лотов нескольких регионов штата Минас-Жерайс, натуральная обработка. Это эспрессо, на который можно опереться каждый день.\nВ чашке сухофрукты, орехи и шоколад. Плотный сладкий эспрессо с низкой кислотностью, особенно хорош с молоком.",
-   "image": "https://static.tildacdn.com/stor3966-6633-4734-b132-356533316465/dc81daa826aaa20646abd649c5262e9e.jpg",
-   "available": true,
-   "variants": [
-    {
-     "weight_g": 200,
-     "price": 750.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2720.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://triptychcoffee.com/espresso/tproduct/299322650093-efiopiya-gudzhi",
-   "name": "Эфиопия Гуджи",
-   "description": "Орехи, тёмные ягоды, шоколад\nГуджи, юг Эфиопии. Местные разновидности хейрлум, которые растут здесь веками.\nВ эспрессо орехи, тёмные ягоды и шоколад. Сладкая ягодная Эфиопия с заметной кислотностью и лёгким телом.",
-   "image": "https://static.tildacdn.com/stor6232-6537-4634-b939-373130653163/513d74da8aca23df5bd9156675b90221.jpg",
-   "available": true,
-   "variants": [
-    {
-     "weight_g": 200,
-     "price": 730.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2675.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://triptychcoffee.com/espresso/tproduct/330990616933-efiopiya-dara",
-   "name": "Эфиопия Дара",
-   "description": "Абрикос, апельсин, чёрный чай\nДара из Сидамо, одного из классических кофейных регионов Эфиопии. Разновидности куруме и дега, натуральная обработка.\nВ эспрессо абрикос, апельсин и чёрный чай. Яркий сочный эспрессо, который хорош и сам по себе, и с молоком.",
-   "image": "https://static.tildacdn.com/stor6237-3963-4031-b431-623936636165/ae6c44b9266a1ce9805b6079234c9d0a.jpg",
-   "available": true,
-   "variants": [
-    {
-     "weight_g": 200,
-     "price": 800.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2855.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://triptychcoffee.com/espresso/tproduct/385504162303-kolumbiya-maurisio-himenes",
-   "name": "Колумбия Маурисио Хименес",
-   "description": "Красное яблоко, груша, ваниль\nМаурисио Хименес работает на финке Пачамама в Сантуарио, департамент Рисаральда. Обработку он ведёт по протоколам Хосве Валенсии.\nКастильо обработали полумытым способом. Сначала 12 часов зерно бродило в мусиляже, затем ещё 48–54 часа окислялось. Сушили до недели в солнечной сушилке и 1–2 дня в механической. Урожай 2026 года, оценка SCA 86,5.\nВ эспрессо красное яблоко, груша и ваниль. Ровная сладкая чашка, где фрукты и ваниль звучат вместе.",
-   "image": "https://static.tildacdn.com/stor3139-6532-4662-b663-616237376464/09ddeb15743056a4cea7f0c18997a06b.jpg",
-   "available": true,
-   "variants": [
-    {
-     "weight_g": 200,
-     "price": 961.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 3553.0,
-     "available": true
-    }
-   ]
-  },
-  {
-   "url": "https://triptychcoffee.com/espresso/tproduct/849283885553-nikaragua-matagalpa",
-   "name": "Никарагуа Матагальпа",
-   "description": "Вишнёвое варенье, молочный шоколад, какао\nМатагальпа, горный север Никарагуа. Лот высшего грейда SHG: кофе вырос высоко в горах, ягоды собрали вручную, а зерно откалибровали по скрину 17/18.\nКатурра, мытая обработка. Чистый, понятный кофе без экспериментов.\nВ эспрессо вишнёвое варенье, молочный шоколад и какао. Сладкий плотный эспрессо, который хорошо дружит с молоком.",
-   "image": "https://static.tildacdn.com/stor6165-6263-4464-b936-643138303466/b2128027104bd4a3e0aa80f01e413205.jpg",
-   "available": true,
-   "variants": [
-    {
-     "weight_g": 200,
-     "price": 799.0,
-     "available": true
-    },
-    {
-     "weight_g": 1000,
-     "price": 2851.0,
-     "available": true
-    }
-   ]
-  },
   {
    "url": "https://triptychcoffee.com/filter/tproduct/545514471363-keniya-kiangundo",
    "name": "Кения Киангундо",
@@ -247,6 +152,260 @@
     {
      "weight_g": 1000,
      "price": 3875.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://triptychcoffee.com/espresso/tproduct/385504162303-kolumbiya-maurisio-himenes",
+   "name": "Колумбия Маурисио Хименес",
+   "description": "Красное яблоко, груша, ваниль\nМаурисио Хименес работает на финке Пачамама в Сантуарио, департамент Рисаральда. Обработку он ведёт по протоколам Хосве Валенсии.\nКастильо обработали полумытым способом. Сначала 12 часов зерно бродило в мусиляже, затем ещё 48–54 часа окислялось. Сушили до недели в солнечной сушилке и 1–2 дня в механической. Урожай 2026 года, оценка SCA 86,5.\nВ эспрессо красное яблоко, груша и ваниль. Ровная сладкая чашка, где фрукты и ваниль звучат вместе.",
+   "image": "https://static.tildacdn.com/stor3139-6532-4662-b663-616237376464/09ddeb15743056a4cea7f0c18997a06b.jpg",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 200,
+     "price": 961.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 3553.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://triptychcoffee.com/espresso/tproduct/849283885553-nikaragua-matagalpa",
+   "name": "Никарагуа Матагальпа",
+   "description": "Вишнёвое варенье, молочный шоколад, какао\nМатагальпа, горный север Никарагуа. Лот высшего грейда SHG: кофе вырос высоко в горах, ягоды собрали вручную, а зерно откалибровали по скрину 17/18.\nКатурра, мытая обработка. Чистый, понятный кофе без экспериментов.\nВ эспрессо вишнёвое варенье, молочный шоколад и какао. Сладкий плотный эспрессо, который хорошо дружит с молоком.",
+   "image": "https://static.tildacdn.com/stor6165-6263-4464-b936-643138303466/b2128027104bd4a3e0aa80f01e413205.jpg",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 200,
+     "price": 799.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 2851.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://triptychcoffee.com/merch/tproduct/666579701393-thank-you-little-goat",
+   "name": "Thank you, little goat!",
+   "description": "Футболка коллекции MMXXVII · Art Dealers · ТРИПТИХ\nФутболка к коллекции MMXXVII. На спине коза из легенды о пастухе Калди, по дуге надпись Thank you, little goat! и подпись KALDI · ETHIOPIA · ARABICA. На груди маленькая коза.\nМолочно-белый хлопок, крой oversize со спущенным плечом. Один размер.",
+   "image": "https://static.tildacdn.com/stor3239-3162-4161-a131-363061373836/64e0c5e03eb3f4ed7b419114eb7cf78c.jpg",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2800.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://triptychcoffee.com/merch/tproduct/181966210123-longsliv-la-nascita-di-venere",
+   "name": "Лонгслив «La Nascita di Venere»",
+   "description": "Серия Went For Coffee · Сандро Боттичелли\nРаковина из «Рождения Венеры» Сандро Боттичелли, пересобранная в графику. Самая узнаваемая деталь картины, без самой Венеры: так вкус лота узнаётся по одной ноте.\nНа спине название работы, марка с фрагментом оригинала и подписи серии.",
+   "image": "https://static.tildacdn.com/stor6336-3632-4934-a136-316464373565/814b3f1a3cb6fd0578d135369670029d.jpg",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 3800.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3800.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3800.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3800.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://triptychcoffee.com/merch/tproduct/500161244143-futbolka-la-nascita-di-venere",
+   "name": "Футболка «La Nascita di Venere»",
+   "description": "Серия Went For Coffee · Сандро Боттичелли\nРаковина из «Рождения Венеры» Сандро Боттичелли, пересобранная в графику. Самая узнаваемая деталь картины, без самой Венеры: так вкус лота узнаётся по одной ноте.\nНа спине название работы, марка с фрагментом оригинала и подписи серии.",
+   "image": "https://static.tildacdn.com/stor3932-6434-4036-b161-306464356266/cff2557b83050b1aa5687b9bf6ec2bc7.jpg",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2800.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2800.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2800.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2800.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://triptychcoffee.com/merch/tproduct/931519205963-longsliv-graphics",
+   "name": "Лонгслив «Graphics»",
+   "description": "Серия Went For Coffee · Кит Харинг\nСолнце на ножках и цифры «85» по мотивам работы Кита Харинга. Линия, которую узнаёшь с другого конца улицы, переведённая в один цвет.\nНа спине графика, марка с фрагментом оригинала и подписи серии.",
+   "image": "https://static.tildacdn.com/stor3435-3938-4366-b465-663661336236/c53c65cb91e1ad436b88a6195760218c.jpg",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 3800.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3800.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3800.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3800.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://triptychcoffee.com/merch/tproduct/853711911443-futbolka-graphics",
+   "name": "Футболка «Graphics»",
+   "description": "Серия Went For Coffee · Кит Харинг\nСолнце на ножках и цифры «85» по мотивам работы Кита Харинга. Линия, которую узнаёшь с другого конца улицы, переведённая в один цвет.\nНа спине графика, марка с фрагментом оригинала и подписи серии.",
+   "image": "https://static.tildacdn.com/stor6262-3163-4231-b561-643564643432/c4f09ef2e43f5976ada4def61397e47a.jpg",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2800.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2800.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2800.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2800.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://triptychcoffee.com/merch/tproduct/662051308513-longsliv-daisies",
+   "name": "Лонгслив «Daisies»",
+   "description": "Серия Artists of Taste · Кирилл Кривенцов\nРомашки по картине Кирилла Кривенцова, сооснователя ТРИПТИХ. Та же работа живёт на коробке наших дрип-пакетов.\nНа спине букет, марка с фрагментом картины и подписи серии.",
+   "image": "https://static.tildacdn.com/stor3135-3930-4734-a132-343330333438/4fab4d16c7d2fba6abc0330e0f7bd7d1.jpg",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 3800.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3800.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3800.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 3800.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://triptychcoffee.com/merch/tproduct/208541831643-futbolka-daisies",
+   "name": "Футболка «Daisies»",
+   "description": "Серия Artists of Taste · Кирилл Кривенцов\nРомашки по картине Кирилла Кривенцова, сооснователя ТРИПТИХ. Та же работа живёт на коробке наших дрип-пакетов.\nНа спине букет, марка с фрагментом картины и подписи серии.",
+   "image": "https://static.tildacdn.com/stor6331-6231-4030-a662-653763336163/57ae76fd08cb0c4c426992bb398459d2.jpg",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2800.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2800.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2800.0,
+     "available": true
+    },
+    {
+     "weight_g": null,
+     "price": 2800.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://triptychcoffee.com/merch/tproduct/158596823653-beisbolka-la-danse",
+   "name": "Бейсболка «La Danse»",
+   "description": "Вышивка по картине Анри Матисса · Art Dealers\nХоровод из «Танца» Анри Матисса, вышитый чёрной нитью на бежевом твиле. Пять фигур, которые держатся за руки и не могут остановиться. Почти как утро с хорошим кофе.\nСзади подпись Art Dealers, тоже вышивкой. Шоколадный козырёк, металлическая пряжка, размер регулируется.",
+   "image": "https://static.tildacdn.com/stor3366-3831-4334-b739-316334653639/9b31c0086072d17c5a1642ff3bfa14f0.png",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 2200.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://triptychcoffee.com/merch/tproduct/955914766033-chashka-zhyolud",
+   "name": "Чашка ЖЁЛУДЬ",
+   "description": "Чашка ручной работы от Маши («Сигурд и Мария»)\nУтолщённое дно — не просто форма: оно забирает часть тепла напитка на себя, поэтому чашка не обжигает руки, а кофе раскрывается комфортной температурой уже с первого глотка.\nОграниченный тираж.",
+   "image": "https://static.tildacdn.com/stor3038-3465-4532-a539-316434303832/351e9b2aa74609d957314aee9c5330d1.png",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 3000.0,
      "available": true
     }
    ]
@@ -829,6 +988,25 @@
    ]
   },
   {
+   "url": "https://triptychcoffee.com/archive/tproduct/985526092073-kolumbiya-rodrigo-sanches-valensiya-geis",
+   "name": "Колумбия Родриго Санчес Валенсия Гейша",
+   "description": "Жасмин, белый чай, лайм\nГейшу посадили на ферме Монтебланко в 2015 году, и прижилась она не сразу: у сорта слабые корни, и годами он требовал внимательного ухода. Родриго Санчес Валенсия терпеливо изучал, как гейша ведёт себя на его земле, и теперь это одна из самых выразительных работ фермы.\nСобирают только полностью зрелые ягоды. После депульпации зерно 80 часов ферментируют в холоде, при 10–13 °C, затем промывают и почти месяц сушат: несколько дней на солнце и около трёх недель на крытых столах.\nВ чашке жасмин, белый чай и лайм. Тонкая прозрачная чашка с яркой кислотностью.",
+   "image": "https://static.tildacdn.com/stor3230-6632-4263-b738-663531356530/aa4a2fad272332e379708bb8c241e2c9.png",
+   "available": false,
+   "variants": [
+    {
+     "weight_g": 200,
+     "price": 1300.0,
+     "available": false
+    },
+    {
+     "weight_g": 1000,
+     "price": 4932.0,
+     "available": false
+    }
+   ]
+  },
+  {
    "url": "https://triptychcoffee.com/filter/tproduct/911948725213-batch-bryu",
    "name": "БАТЧ-БРЮ",
    "description": "Фрукты, ягоды, шоколад\nБленд из лотов разных обработок, собранный под батч-брю: фильтр-кофе большим объёмом. Его удобно заваривать в капельной кофеварке сразу на несколько чашек.\nВ чашке фрукты, ягоды и шоколад. Сбалансированный понятный кофе на каждый день.",
@@ -1095,25 +1273,6 @@
    ]
   },
   {
-   "url": "https://triptychcoffee.com/filter/tproduct/985526092073-kolumbiya-rodrigo-sanches-valensiya-geis",
-   "name": "Колумбия Родриго Санчес Валенсия Гейша",
-   "description": "Жасмин, белый чай, лайм\nГейшу посадили на ферме Монтебланко в 2015 году, и прижилась она не сразу: у сорта слабые корни, и годами он требовал внимательного ухода. Родриго Санчес Валенсия терпеливо изучал, как гейша ведёт себя на его земле, и теперь это одна из самых выразительных работ фермы.\nСобирают только полностью зрелые ягоды. После депульпации зерно 80 часов ферментируют в холоде, при 10–13 °C, затем промывают и почти месяц сушат: несколько дней на солнце и около трёх недель на крытых столах.\nВ чашке жасмин, белый чай и лайм. Тонкая прозрачная чашка с яркой кислотностью.",
-   "image": "https://static.tildacdn.com/stor3230-6632-4263-b738-663531356530/aa4a2fad272332e379708bb8c241e2c9.png",
-   "available": false,
-   "variants": [
-    {
-     "weight_g": 200,
-     "price": 1300.0,
-     "available": false
-    },
-    {
-     "weight_g": 1000,
-     "price": 4932.0,
-     "available": false
-    }
-   ]
-  },
-  {
    "url": "https://triptychcoffee.com/filter/tproduct/432957806993-kolumbiya-el-divizio",
    "name": "Колумбия Эль Дивизио",
    "description": "Грейпфрут, белый шоколад, цветы\nФерму Эль Дивизио в Уиле основали в 1996 году. Сегодня это 14 гектаров и семейное дело, известное далеко за пределами Колумбии: натуральную сидру отсюда ценят обжарщики по всему миру. Кроме неё здесь растут жёлтый бурбон, гейша и бурбон ахи.\nНестору Лассо 23 года. Он отвечает за продажи и много времени проводит в Питалито: обжаривает образцы, оценивает кофе, учится и встречается с людьми. Его брат Адриан старше всего на два года и живёт фермой. Вместе с отцом Хосе он работает на станции обработки и проверяет новые идеи ферментации, не оглядываясь на традиции.\nОблигон, новая разновидность. Название идёт от испанского ombligo, «пупок», из-за формы ягод и зёрен. Деревья похожи на катурру, а по чашке облигон не уступает бурбону. Его происхождение до сих пор спорное: кто-то говорит об эфиопских корнях, кто-то считает, что это тот же папайо.\nЛот натуральной обработки с медленной сушкой в тени. В чашке грейпфрут, белый шоколад и цветы. Сложный многослойный кофе с плотным телом.",
@@ -1128,6 +1287,63 @@
     {
      "weight_g": 1000,
      "price": 5000.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://triptychcoffee.com/espresso/tproduct/167871795463-braziliya-gosto",
+   "name": "Бразилия Госто",
+   "description": "Сухофрукты, орехи, шоколад\nГосто собран из лотов нескольких регионов штата Минас-Жерайс, натуральная обработка. Это эспрессо, на который можно опереться каждый день.\nВ чашке сухофрукты, орехи и шоколад. Плотный сладкий эспрессо с низкой кислотностью, особенно хорош с молоком.",
+   "image": "https://static.tildacdn.com/stor3966-6633-4734-b132-356533316465/dc81daa826aaa20646abd649c5262e9e.jpg",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 200,
+     "price": 750.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 2720.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://triptychcoffee.com/espresso/tproduct/299322650093-efiopiya-gudzhi",
+   "name": "Эфиопия Гуджи",
+   "description": "Орехи, тёмные ягоды, шоколад\nГуджи, юг Эфиопии. Местные разновидности хейрлум, которые растут здесь веками.\nВ эспрессо орехи, тёмные ягоды и шоколад. Сладкая ягодная Эфиопия с заметной кислотностью и лёгким телом.",
+   "image": "https://static.tildacdn.com/stor6232-6537-4634-b939-373130653163/513d74da8aca23df5bd9156675b90221.jpg",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 200,
+     "price": 730.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 2675.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://triptychcoffee.com/espresso/tproduct/330990616933-efiopiya-dara",
+   "name": "Эфиопия Дара",
+   "description": "Абрикос, апельсин, чёрный чай\nДара из Сидамо, одного из классических кофейных регионов Эфиопии. Разновидности куруме и дега, натуральная обработка.\nВ эспрессо абрикос, апельсин и чёрный чай. Яркий сочный эспрессо, который хорош и сам по себе, и с молоком.",
+   "image": "https://static.tildacdn.com/stor6237-3963-4031-b431-623936636165/ae6c44b9266a1ce9805b6079234c9d0a.jpg",
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 200,
+     "price": 800.0,
+     "available": true
+    },
+    {
+     "weight_g": 1000,
+     "price": 2855.0,
      "available": true
     }
    ]
@@ -1288,6 +1504,32 @@
     {
      "weight_g": 100,
      "price": 2050.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://triptychcoffee.com/little-goat/tproduct/891179173343-thank-you-little-goat",
+   "name": "Thank you, little goat!",
+   "description": "Коллекция MMXXVII. В коробке 200 г Эфиопии Йемасера в зёрнах, карточка с легендой о пастухе Калди и платок 55×55: надкусанные листья арабики и коза в углу. Кофе выпьют, а платок останется.\nСтанция Йемасера стоит в Оромии, примерно в 420 км от Аддис-Абебы. Кофе растёт на высоте 1900–2100 метров, в тени деревьев. Ягоды обработали натуральным способом: 10–15 дней они сохли целиком на приподнятых кроватях.\nВ чашке черника, виноград и красный чай. Ягодная сладость, мягкая кислотность и долгое чайное послевкусие.\nОтправим к праздникам, если оформить до 26 декабря.",
+   "image": "https://static.tildacdn.com/stor3830-6133-4037-b139-356366613163/b3dbfe3707a048484343ad9b3a6dfce4.jpg",
+   "category": "",
+   "specs": {
+    "Обжарка": "Характеристики лота",
+    "Страна": "Эфиопия",
+    "Регион": "Оромия",
+    "Станция": "Йемасера",
+    "Разновидность": "Местные эфиопские",
+    "Обработка": "Натуральная",
+    "Урожай": "2026",
+    "Вкус": "Черника, виноград, красный чай"
+   },
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": null,
+     "price": 1300.0,
      "available": true
     }
    ]

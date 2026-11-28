@@ -3,10 +3,10 @@
   "id": "neva",
   "platform": "bitrix+generic",
   "items": 93,
-  "seconds": 1749.8,
+  "seconds": 2012.4,
   "ok": true,
   "error": null,
-  "at": "2026-11-27T09:08:38+00:00"
+  "at": "2026-11-28T08:27:49+00:00"
  },
  "items": [
   {
@@ -2500,23 +2500,6 @@
    ]
   },
   {
-   "url": "https://nevacoffee.ru/catalog/coffee/crema/",
-   "name": "Crema 250 гр.",
-   "description": "",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/b1b/trakrpnzq910l30patoedwfzmqg73dac.webp",
-   "category": "",
-   "specs": {},
-   "gallery": [],
-   "available": true,
-   "variants": [
-    {
-     "weight_g": 250,
-     "price": 588.0,
-     "available": true
-    }
-   ]
-  },
-  {
    "url": "https://nevacoffee.ru/catalog/coffee/laos-gr-1/",
    "name": "Лаос 250 гр",
    "description": "",
@@ -2529,6 +2512,23 @@
     {
      "weight_g": 250,
      "price": 625.0,
+     "available": true
+    }
+   ]
+  },
+  {
+   "url": "https://nevacoffee.ru/catalog/coffee/crema/",
+   "name": "Crema 250 гр.",
+   "description": "",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/iblock/b1b/trakrpnzq910l30patoedwfzmqg73dac.webp",
+   "category": "",
+   "specs": {},
+   "gallery": [],
+   "available": true,
+   "variants": [
+    {
+     "weight_g": 250,
+     "price": 588.0,
      "available": true
     }
    ]
@@ -2857,19 +2857,19 @@
    ]
   },
   {
-   "url": "https://nevacoffee.ru/catalog/coffee/burundi-burasira/",
-   "name": "Бурунди Бурасира 250 гр",
+   "url": "https://nevacoffee.ru/catalog/coffee/aziatskoe-nikhao/",
+   "name": "Азиатское Нихао 200гр",
    "description": "",
-   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/resize_cache/iblock/cc4/2000_2000_140cd750bba9870f18aada2478b24840a/wuop729lces4rl1hz6gb39che14yv55p.webp",
+   "image": "https://nevacoffee.ru/upload/resize_cache/iblock/806/2000_2000_140cd750bba9870f18aada2478b24840a/3e2081loywsu0nlwzg0cuw5rx0zycs7n.webp",
    "category": "",
    "specs": {},
    "gallery": [],
-   "available": false,
+   "available": true,
    "variants": [
     {
-     "weight_g": 250,
-     "price": 675.0,
-     "available": false
+     "weight_g": 200,
+     "price": 528.0,
+     "available": true
     }
    ]
   },
@@ -2925,19 +2925,19 @@
    ]
   },
   {
-   "url": "https://nevacoffee.ru/catalog/coffee/aziatskoe-nikhao/",
-   "name": "Азиатское Нихао 200гр",
+   "url": "https://nevacoffee.ru/catalog/coffee/burundi-burasira/",
+   "name": "Бурунди Бурасира 250 гр",
    "description": "",
-   "image": "https://nevacoffee.ru/upload/resize_cache/iblock/806/2000_2000_140cd750bba9870f18aada2478b24840a/3e2081loywsu0nlwzg0cuw5rx0zycs7n.webp",
+   "image": "https://nevacoffee.ru/upload/dev2fun.imagecompress/webp/resize_cache/iblock/cc4/2000_2000_140cd750bba9870f18aada2478b24840a/wuop729lces4rl1hz6gb39che14yv55p.webp",
    "category": "",
    "specs": {},
    "gallery": [],
-   "available": true,
+   "available": false,
    "variants": [
     {
-     "weight_g": 200,
-     "price": 528.0,
-     "available": true
+     "weight_g": 250,
+     "price": 675.0,
+     "available": false
     }
    ]
   },

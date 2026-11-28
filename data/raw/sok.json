@@ -3,10 +3,10 @@
   "id": "sok",
   "platform": "bitrix+generic",
   "items": 42,
-  "seconds": 1847.2,
+  "seconds": 2150.8,
   "ok": true,
   "error": null,
-  "at": "2026-11-27T09:08:22+00:00"
+  "at": "2026-11-28T08:28:19+00:00"
  },
  "items": [
   {
@@ -290,12 +290,12 @@
    "variants": [
     {
      "weight_g": 200,
-     "price": 668.98,
+     "price": 806.0,
      "available": true
     },
     {
      "weight_g": 500,
-     "price": 1494.0,
+     "price": 1800.0,
      "available": true
     }
    ]

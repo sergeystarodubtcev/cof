@@ -20794,5 +20794,194 @@
     "reason": "пропал с сайта"
    }
   ]
+ },
+ {
+  "at": "2026-11-28T08:28:19+00:00",
+  "added": [
+   {
+    "id": "9127d828630c",
+    "roaster": "tasty",
+    "name": "Руанда Килимби Хани",
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-rwanda-kilimbi-honey-2026",
+    "back": false
+   },
+   {
+    "id": "2573fbb87015",
+    "roaster": "tasty",
+    "name": "Перу Гейша Тереса Ливаке",
+    "url": "https://shop.tastycoffee.ru/coffee/peru-geisha-teresa-livake",
+    "back": false
+   },
+   {
+    "id": "8683f0a5d620",
+    "roaster": "tasty",
+    "name": "Перу Гейша Дамиан Эспиноса",
+    "url": "https://shop.tastycoffee.ru/coffee/peru-geisha-damian-espinosa",
+    "back": false
+   },
+   {
+    "id": "bdf58524dbdc",
+    "roaster": "tasty",
+    "name": "Кения Киримири",
+    "url": "https://shop.tastycoffee.ru/coffee/kenya-kirimiri-2026",
+    "back": false
+   },
+   {
+    "id": "70a2a4389f03",
+    "roaster": "tasty",
+    "name": "Мексика Декаф",
+    "url": "https://shop.tastycoffee.ru/coffee/mexico-decaf",
+    "back": false
+   },
+   {
+    "id": "dd30db760804",
+    "roaster": "tasty",
+    "name": "Колумбия Розовая Гейша Монтеверде",
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-pink-geisha-monteverde",
+    "back": false
+   },
+   {
+    "id": "599772d4f95a",
+    "roaster": "tasty",
+    "name": "Яркий микролот для эспрессо",
+    "url": "https://shop.tastycoffee.ru/coffee/v-zernah?page=8",
+    "back": false
+   },
+   {
+    "id": "5d74f44a4bbd",
+    "roaster": "tasty",
+    "name": "Яркий микролот для эспрессо",
+    "url": "https://shop.tastycoffee.ru/coffee/dlia-turki?page=8",
+    "back": false
+   },
+   {
+    "id": "ff5208d5160e",
+    "roaster": "triptych",
+    "name": "Thank you, little goat!",
+    "url": "https://triptychcoffee.com/little-goat/tproduct/891179173343-thank-you-little-goat",
+    "back": false
+   },
+   {
+    "id": "92960c4c3818",
+    "roaster": "fauno",
+    "name": "Ethiopia Balese Dinigu",
+    "url": "https://fauno.coffee/catalog/ethiopia-balese-dinigu",
+    "back": true
+   },
+   {
+    "id": "6fd2b4a2cd5a",
+    "roaster": "fauno",
+    "name": "Rwanda Nyamasheke",
+    "url": "https://fauno.coffee/catalog/rwanda-nyamasheke-washed",
+    "back": true
+   },
+   {
+    "id": "8e1b38412bc3",
+    "roaster": "fauno",
+    "name": "Colombia Lychee",
+    "url": "https://fauno.coffee/catalog/colombia-lychee",
+    "back": true
+   },
+   {
+    "id": "755fc90c28e1",
+    "roaster": "specialtyru",
+    "name": "Bloom-N-Brew Эфиопия Гуджи, фильтр, 200 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-bloom-n-brew-efiopiya-gudzhi-filtr-200-g/",
+    "back": false
+   },
+   {
+    "id": "33ee7018f43c",
+    "roaster": "specialtyru",
+    "name": "Bloom-N-Brew Кения АА, фильтр 200 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-bloom-n-brew-keniya-aa-filtr-200-g/",
+    "back": false
+   },
+   {
+    "id": "719c40dc03fe",
+    "roaster": "bolshe",
+    "name": "Фильтры Hario VCF-02-100W белые",
+    "url": "https://bolshecoffee.ru/gadgets/tproduct/477792449-602970607181-filtri-hario-vcf-02-100w-belie",
+    "back": true
+   }
+  ],
+  "removed": [
+   {
+    "id": "67a90cc405e0",
+    "roaster": "caffeinelab",
+    "name": "Колумбия Росадо для фильтра",
+    "url": "https://caffeinelab.ru/coffee/filter/tproduct/835664773-462248467883-kolumbiya-rosado-dlya-filtra",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "88a983879a91",
+    "roaster": "fauno",
+    "name": "Verona Espresso Blend",
+    "url": "https://fauno.coffee/catalog/verona-espresso-blend",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "47dafffac43c",
+    "roaster": "kanga",
+    "name": "Микс трех вкусов 9 шт",
+    "url": "https://www.kanga.ru/catalog/banochki/miks-treh-vkusov-9sht/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "593e3bcbfd6a",
+    "roaster": "specialtyru",
+    "name": "Коджо Коста-Рика Лос-Сантос Кристиан Альварес, эспрессо, 250 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-kodzho-kosta-rika-los-santos-kristian-alvares-espresso-250-g/",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "321116cba549",
+    "roaster": "specialtyru",
+    "name": "Нева Кофе Ростерс Колумбия Уила Омблигон, фильтр, 200 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-neva-kofe-rosters-kolumbiya-uila-ombligon-filtr-200-gr/",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "7462bce3570b",
+    "roaster": "specialtyru",
+    "name": "Субмарина Гватемала Перископ Фернандо Диас, эспрессо, 200 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-submarina-gvatemala-periskop-fernando-dias-espresso-200-gr/",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "1a279311f86a",
+    "roaster": "specialtyru",
+    "name": "Тэйсти Кофе Кения Муранга Иригуини, эспрессо, 250 г",
+    "url": "https://specialty.ru/coffee/kofe-v-zyernakh-i-molotyy/kofe-teysti-kofe-keniya-muranga-iriguini-espresso-250-g/",
+    "reason": "нет в наличии"
+   },
+   {
+    "id": "2e0952d32537",
+    "roaster": "welder",
+    "name": "Галараствор Колумбия Компанья Либертад Ф6",
+    "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_kolumbiya_kompanya_libertad_f6/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "e1459f756d87",
+    "roaster": "welder",
+    "name": "Галараствор Эфиопия Ворка",
+    "url": "https://theweldercatherine.ru/catalog/galarastvor/galarastvor_efiopiya_vorka/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "9c75782e7300",
+    "roaster": "welder",
+    "name": "Кения Олбаната",
+    "url": "https://theweldercatherine.ru/catalog/dlya_filtra/keniya_olbanata/",
+    "reason": "пропал с сайта"
+   },
+   {
+    "id": "bf3adf4d6c30",
+    "roaster": "welder",
+    "name": "Кения Олбаната",
+    "url": "https://theweldercatherine.ru/catalog/dlya_espresso/keniya_olbanata/",
+    "reason": "пропал с сайта"
+   }
+  ]
  }
 ]
